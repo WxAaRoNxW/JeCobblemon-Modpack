@@ -1,0 +1,11 @@
+{
+  "moves": {
+    "selfdestruct": 2.0,
+    "explosion": 2.0,
+    "mistyexplosion": 2.0
+  },
+  "abilities": {
+    "aftermath": 1.0
+  },
+  "pokemon": {}
+}

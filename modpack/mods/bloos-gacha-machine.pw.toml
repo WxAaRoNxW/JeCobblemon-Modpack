@@ -1,0 +1,13 @@
+name = "Bloo's Gacha Machine"
+filename = "gachamachine-1.0.0.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/67dS28p4/versions/hHoSZTEa/gachamachine-1.0.0.jar'
+hash = "07a63fbc0e5f77971cf79f5d8672263630a4bf0c2c50142a05aecb09758111ddbc33c618194ca3d60e93cc99d02004aed013b6271cf94858138ed3fccb6f1bbd"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = '67dS28p4'
+version = 'hHoSZTEa'

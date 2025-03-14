@@ -1,0 +1,13 @@
+name = "Cobblemon Quests"
+filename = "cobblemon_quests-[1.21.1]-fabric-1.1.12.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/kZgRPg5R/versions/qXdpIng5/cobblemon_quests-%5B1.21.1%5D-fabric-1.1.12.jar'
+hash = "a9bb9175ebefb8a5e85256cbe7b1edf539da171bbfebf92e89d1b14c505fafdf01680a46994f2df60bc9ff9dd9be497404ba861706a22035f8b7199428770835"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'kZgRPg5R'
+version = 'qXdpIng5'

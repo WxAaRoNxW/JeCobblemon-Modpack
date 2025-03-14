@@ -1,0 +1,13 @@
+name = "Cobbled Farms"
+filename = "Cobbled_Farms_v3_(1.21.1+).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b80eeca74056ae56180586a5f000642104fc5c9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6023787
+project-id = 924311

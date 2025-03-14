@@ -1,0 +1,13 @@
+name = "AddonsLib"
+filename = "addonslib-fabric-1.21.1-1.4.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/cl5ec0Qm/versions/uSN2ysvp/addonslib-fabric-1.21.1-1.4.jar'
+hash = "669c63661e509e50a044686dc70546b722afdd9040ec00a726d52d02c33a8a45de543b776bdb83381f6e3972b2fbba013888ce33aa85cce108fdc77b8a3c1007"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'cl5ec0Qm'
+version = 'uSN2ysvp'

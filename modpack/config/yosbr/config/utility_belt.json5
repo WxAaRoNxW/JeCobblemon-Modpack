@@ -1,0 +1,6 @@
+{
+	/* - default: MIDDLE_LEFT
+	   - must be one of: TOP_LEFT, MIDDLE_LEFT, BOTTOM_LEFT, TOP_RIGHT, MIDDLE_RIGHT, BOTTOM_RIGHT
+	*/
+	hotbarPosition: "BOTTOM_LEFT",
+}

@@ -1,0 +1,13 @@
+name = "KeybindsGalore Plus"
+filename = "keybindsgalore_plus-1.3.4+1.21.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/nnHCum1F/versions/8TIz9LLX/keybindsgalore_plus-1.3.4%2B1.21.jar'
+hash = "0dd67b672f42c68e8f449669eb83ec8f3af075b918d80b11b64e55a601dcc76cb2937d61fe134f215b8537b1965d5a16486e771b72eadc7e478f39fbede5eb90"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'nnHCum1F'
+version = '8TIz9LLX'

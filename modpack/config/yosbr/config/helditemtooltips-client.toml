@@ -1,0 +1,5 @@
+	#Attributes this item provides when used or equipped, like attack damage and armor protection.
+	[components.attribute]
+		#Should this tooltip component be included when rendering held item tooltips.
+		#Default Value: false
+		include = true

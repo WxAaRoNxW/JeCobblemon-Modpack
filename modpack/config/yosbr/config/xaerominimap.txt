@@ -1,0 +1,15 @@
+#CONFIG ONLY OPTIONS
+caveMaps:2
+lockNorth:true
+zoom:1
+arrowColour:-1
+smoothDots:false
+centeredEnlarged:true
+lightOverlayType:-1
+uiScale:1
+minimapFrameColor:0
+mainDotSize:1
+keepUnlockedWhenEnlarged:true
+infoDisplayBackgroundOpacity:50
+infoDisplay:biome:true:15:-1
+module;id=xaerominimap:minimap;active=true;x=0;y=0;centered=false;fromRight=true;fromBottom=false;flippedVer=false;flippedHor=false;

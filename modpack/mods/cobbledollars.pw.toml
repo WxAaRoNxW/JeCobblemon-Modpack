@@ -1,0 +1,13 @@
+name = "CobbleDollars [Cobblemon Addon]"
+filename = "cobbledollars-fabric-2.0.0-BETA1+1.21.1.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/s7N7AsqL/versions/oLuOcHz2/cobbledollars-fabric-2.0.0-BETA1%2B1.21.1.jar'
+hash = "9b35d7015be4331b1e470837f0f14671a44902da05e94a381b30d56d58b97290cd7cb1297da1f0d4768cabe53934f525192254112063deacbaf9a6a31ce36732"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 's7N7AsqL'
+version = 'oLuOcHz2'

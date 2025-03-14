@@ -1,0 +1,13 @@
+name = "Cobblemon Knowlogy"
+filename = "cobblemon_knowlogy-fabric-1.1.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/dba1h0rW/versions/u9JjMBlO/cobblemon_knowlogy-fabric-1.1.0-1.21.1.jar'
+hash = "0e1c02f98a9cdf4021258d5e3efce2b2b6dcc80022852408733e0c6d53427d5ba5d5ca761eaae947090a0e7578dec1a1045bdc491ba56328061e2b3cd37e7761"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'dba1h0rW'
+version = 'u9JjMBlO'

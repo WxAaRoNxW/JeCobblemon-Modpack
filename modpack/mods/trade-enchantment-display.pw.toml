@@ -1,0 +1,13 @@
+name = "Trade Enchantment Display"
+filename = "TradeEnchantmentDisplay-fabric-1.0.1+1.21.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/EIyCildu/versions/zvBMkbkC/TradeEnchantmentDisplay-fabric-1.0.1%2B1.21.jar'
+hash = "7222e84ff2c24e0a0c0effc6b8ebdda17c87a80e3a9f1e04ff5dd33eaed5d31f222d45c5cab0e513ce45afe5a3dae5d66985f1084cb258d7e138a15e5ccecc7f"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'EIyCildu'
+version = 'zvBMkbkC'

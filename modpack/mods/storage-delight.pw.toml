@@ -1,0 +1,13 @@
+name = "Storage Delight"
+filename = "storagedelight-24.12.15-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/LTTvOp5L/versions/cNblVBzA/storagedelight-24.12.15-1.21-fabric.jar'
+hash = "2cb4e0bab3d089ceaed5a881d8ffc8abf4ff0091fd103b92cca0b778667e92b2b49885eadb6fcdf4654f758e883a3e52bb33f7fb0a19460bcd09e213d62d5342"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'LTTvOp5L'
+version = 'cNblVBzA'

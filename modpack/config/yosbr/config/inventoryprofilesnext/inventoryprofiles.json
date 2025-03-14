@@ -1,0 +1,22 @@
+{
+    "ModSettings": {
+        "first_run": true
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "auto_refill_game_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}

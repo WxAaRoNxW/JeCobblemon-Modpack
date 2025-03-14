@@ -1,0 +1,8 @@
+{
+	debug: {
+		disable_container_names: true
+	},
+	compatibility: {
+		shulker_box_tooltip_integration: false,
+	}
+}

@@ -1,0 +1,13 @@
+name = "Sitting+"
+filename = "sittingplus-1.0.1-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/RVtIOlYX/versions/bsbEuHAW/sittingplus-1.0.1-fabric-1.21.1.jar'
+hash = "08ef7a016e917f3531a7b401c4c34357bca0be7dc553fa1842c1114d132bbaf8897e5044335b789e26abd67312e86905bc41d2e9e0c9dfdf4a55c4ca6ba1c121"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'RVtIOlYX'
+version = 'bsbEuHAW'

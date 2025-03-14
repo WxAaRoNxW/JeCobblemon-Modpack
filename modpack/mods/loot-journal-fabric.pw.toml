@@ -1,0 +1,13 @@
+name = "Loot Journal (Fabric)"
+filename = "loot_journal-fabric-1.21.1-4.0.1.jar"
+side = "client"
+
+[download]
+hash = "e2b8414666c6a7108e2644ccb677711e0b7b80c8"
+hash-format = "sha1"
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 5811498
+project-id = 1120388

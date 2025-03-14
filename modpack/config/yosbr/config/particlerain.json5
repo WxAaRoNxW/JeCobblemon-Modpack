@@ -1,0 +1,19 @@
+{
+	"maxParticleAmount": 500,
+	"particleDensity": 50,
+	"particleStormDensity": 150,
+	"doRippleParticles": false,
+	"doGroundFogParticles": false,
+	"rain": {
+		"density": 50
+	},
+	"snow": {
+		"density": 20
+	},
+	"sand": {
+		"density": 60
+	},
+	"shrub": {
+		"density": 1
+	}
+}

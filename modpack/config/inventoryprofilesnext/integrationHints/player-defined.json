@@ -1,0 +1,67 @@
+{
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "ignore": true
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": {
+        "ignore": true
+    },
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": {
+        "ignore": true
+    },
+    "net.blay09.mods.waystones.client.gui.screen.WaystoneModifierScreen": {
+        "ignore": true
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": {
+        "ignore": true
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "ignore": true
+    },
+    "net.blay09.mods.cookingforblockheads.menu.KitchenMenu": {
+        "ignore": true
+    },
+    "wraith.fwaystones.screen.WaystoneBlockScreen": {
+        "ignore": true
+    },
+    "io.github.jamalam360.utility_belt.client.screen.UtilityBeltScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": 35
+            },
+            "SORT_COLUMNS": {
+                "bottom": 35
+            },
+            "SORT_ROWS": {
+                "bottom": 35
+            }
+        }
+    },
+    "com.glisco.disenchanter.client.DisenchanterScreen": {
+        "playerSideOnly": true
+    },
+    "fabric.com.cursee.disenchanting_table.core.DisenchantingTableScreen": {
+        "ignore": true
+    },
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 40,
+                "top": -4
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 28,
+                "top": 11
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "ignore": true
+    },
+    "com.mrcrayfish.furniture.refurbished.inventory.ElectricityGeneratorMenu": {
+        "ignore": true
+    }
+}

@@ -1,0 +1,13 @@
+name = "Capture Cap - RCT Version [Cobblemon]"
+filename = "rctcapturecap-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/VHQsuK2e/versions/j1AtXV7h/rctcapturecap-fabric-1.21.1-1.0.0.jar'
+hash = "a2d4afefef6f076ceeb73a7480ec3ebbb8dede2d1ef39c075abeb5258812fd82cf09f45dedd544f56566a26b27a1632dd75dbfb59f7ebe5b158f16189d803cdb"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'VHQsuK2e'
+version = 'j1AtXV7h'

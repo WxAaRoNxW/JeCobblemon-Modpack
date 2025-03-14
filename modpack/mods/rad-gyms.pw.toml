@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "Rad Gyms [Cobblemon]-0.1.8b-stable.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/eF8kqlHd/versions/46h5zlMh/Rad Gyms %5BCobblemon%5D-0.1.8b-stable.jar'
+hash = "8795c46e2a48457d015ba4f7cc1fa8f5e24752be01da86a78441ad81cb478f24efefc5c6beb6fb124b6e83c14f236accefd079e50713b08ebead5e2ec3e3601f"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'eF8kqlHd'
+version = '46h5zlMh'
