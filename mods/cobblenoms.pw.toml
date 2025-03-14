@@ -1,0 +1,13 @@
+name = "Cobblenoms"
+filename = "cobblenoms-1.0.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/OL73BLsC/versions/upfdYaHJ/cobblenoms-1.0.jar'
+hash = "3055db9e4e96fe47cee92a453dc69763776b4388a2f4e503af78d6205bc25c9c7e1880b4eed65e9ef484215248a8a5c526a01bdbc7113f4ea6ac727edbea3711"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'OL73BLsC'
+version = 'upfdYaHJ'

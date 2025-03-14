@@ -1,0 +1,13 @@
+name = "Chat Impressive Animation"
+filename = "ChatImpressiveAnimation-fabric-1.2.1+mc1.21.4.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/DnL1AGAI/versions/S7mrWqyp/ChatImpressiveAnimation-fabric-1.2.1%2Bmc1.21.4.jar'
+hash = "f161e55b14778d8df7e70b17b2e4e18b6cc749c4968c1c53eb787f2c308f82ef024829f9a29bb742413a1aae061052369a9a7858910b1297aaebd1048deb81ad"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'DnL1AGAI'
+version = 'S7mrWqyp'

@@ -1,0 +1,13 @@
+name = "Utility Belt"
+filename = "utility-belt-fabric-2.6.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/9ewe2JHJ/versions/jqi1xu4e/utility-belt-fabric-2.6.0%2B1.21.1.jar'
+hash = "7372672bffc89aadf43311e752f2b7bf270a17fc9cd196d15842050a7314dd1a60e39d4d623224718d5d24a41dca1ac34cb18a864fc9632a468dba3f00781e21"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = '9ewe2JHJ'
+version = 'jqi1xu4e'

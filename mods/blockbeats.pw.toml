@@ -1,0 +1,13 @@
+name = "BlockBeats"
+filename = "blockbeats-fabric-1.21.1-beta-0.2.0.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/FdE7Dv6P/versions/xZNo0G7x/blockbeats-fabric-1.21.1-beta-0.2.0.jar'
+hash = "e3130f515e958721cbc560e5403cc38fdbaa4fe18d7d7e8cf6abd9d093cbf8e8e56ac84eac7edd26177db8ca9c8bb5c013e893a77c76e37cdbfe5fea94e3041c"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'FdE7Dv6P'
+version = 'xZNo0G7x'

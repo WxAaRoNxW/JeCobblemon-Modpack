@@ -1,0 +1,17 @@
+{
+    "mods_button_style": "shrink",
+    "game_menu_button_style": "insert",
+    "count_hidden_mods": false,
+    "hide_mod_license": true,
+    "hide_badges": true,
+    "button_update_badge": false,
+    "hidden_mods": [
+        "minecraft",
+        "puzzle-models",
+        "puzzle-splashscreen",
+        "citresewn-defaults",
+        "indium",
+        "puzzle-gui",
+        "puzzle-base"
+    ]
+}

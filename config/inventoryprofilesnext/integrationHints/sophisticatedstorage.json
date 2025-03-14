@@ -1,0 +1,8 @@
+{
+    "net.p3pp3rf1y.sophisticatedstorage.client.gui.StorageScreen": {
+        "ignore": true
+    },
+    "net.p3pp3rf1y.sophisticatedstorage.common.gui.StorageContainerMenu": {
+        "ignore": true
+    }
+}

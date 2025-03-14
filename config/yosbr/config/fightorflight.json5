@@ -1,0 +1,11 @@
+{
+	// Do especially aggressive Pokemon attack unprovoked?
+	"do_pokemon_attack_unprovoked": true,
+	// Pokemon stops running away if the hp is not full.
+	"stop_running_after_hurt": false,
+	// Forms that will always be aggressive
+	"always_aggro_aspects": [
+		"alpha",
+		"alolan"
+	]
+}

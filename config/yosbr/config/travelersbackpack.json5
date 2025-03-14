@@ -1,0 +1,16 @@
+{
+	"backpackSettings": {
+		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple, minecraft:flint)
+		"toolSlotsAcceptableItems": [
+			"#jecobblemon:tools"
+		],
+		// List of items that can't be put in backpack inventory (Use registry names, for example: minecraft:apple, minecraft:flint)
+		"blacklistedItems": [
+			""
+		]
+	},
+	"client": {
+		// Enables tool cycling via keybind (Default Z) + scroll combination, while backpack is worn
+		"enableToolCycling": false,
+	}
+}

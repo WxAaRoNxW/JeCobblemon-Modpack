@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.21-2.0.7-fabric.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/Adega8YN/versions/CSS3KuSz/dummmmmmy-1.21-2.0.7-fabric.jar'
+hash = "f10a83b90de4cea20da38d7f92153512102239f548a6d5ee3bab92781a5ed531afc3567216c2134b9b38e0c2a51d47544c96e91e1ff446aa29469f7c5f9b0e82"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'Adega8YN'
+version = 'CSS3KuSz'

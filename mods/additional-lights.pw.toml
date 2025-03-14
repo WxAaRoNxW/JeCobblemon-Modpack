@@ -1,0 +1,13 @@
+name = "Additional Lights"
+filename = "additional_lights-fabric-1.21-2.1.10.jar"
+side = "both"
+
+[download]
+hash = "b0e3fc615c63eb9cd509ea4b73d4199d5c217f55"
+hash-format = "sha1"
+mode = 'metadata:curseforge'
+
+[update]
+[update.curseforge]
+file-id = 5515864
+project-id = 384991

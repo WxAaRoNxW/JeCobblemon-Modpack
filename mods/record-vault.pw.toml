@@ -1,0 +1,13 @@
+name = "Ronco Record Vault"
+filename = "record-vault-0.1.1-1-f5532ccc-1.21.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/4ov3X85M/versions/qTnnPVQW/record-vault-0.1.1-1-f5532ccc-1.21.jar'
+hash = "e42e7bab3dc56bf9bd5c281ae71eb86fb8b2a2546105b0c1ed1a65344e46168f6a80d34807eadb4554cac18e02acac2897d6c080c4a8a27ae956563ac2d15042"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = '4ov3X85M'
+version = 'qTnnPVQW'

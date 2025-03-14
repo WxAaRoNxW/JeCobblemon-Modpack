@@ -1,0 +1,13 @@
+name = "Cobblemon Shearems"
+filename = "cobblemon-shearems-1.6-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/ulX7Vdlf/versions/wWbvjayz/cobblemon-shearems-1.6-fabric-1.0.1.jar'
+hash = "d372c4842cfab29d2450a974bd40f32dc196a79f05feafdee291d90e116681b3a264e6822f89215c1c534d71bab6ed00f3a780a05da8b1b96a24d64a6051d7fe"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'ulX7Vdlf'
+version = 'wWbvjayz'
