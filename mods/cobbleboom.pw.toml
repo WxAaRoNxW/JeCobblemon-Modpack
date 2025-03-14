@@ -1,0 +1,13 @@
+name = "CobbleBoom"
+filename = "cobbleboom-fabric-1.4.jar"
+side = "server"
+
+[download]
+url = 'https://cdn.modrinth.com/data/75Ons9AY/versions/oFr92fLC/cobbleboom-fabric-1.4.jar'
+hash = "45bce22578333d716a458375b0ff31d104f6897d079ade38431deaf9879968969e724635cf2dd035e171203226095e5af967fffe90902e07c34e92df9cf5d275"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = '75Ons9AY'
+version = 'oFr92fLC'

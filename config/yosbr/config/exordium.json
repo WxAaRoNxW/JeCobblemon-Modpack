@@ -1,0 +1,22 @@
+{
+  "configVersion": 3,
+  "pollRate": 60,
+  "chatSettings": {
+    "enabled": false,
+    "maxFps": 30,
+    "forceBlend": false,
+    "forceUpdates": true
+  },
+  "hotbarSettings": {
+    "enabled": true,
+    "maxFps": 20,
+    "forceBlend": false,
+    "forceUpdates": false
+  },
+  "xaerosMinimapSettings": {
+    "enabled": true,
+    "maxFps": 12,
+    "forceBlend": true,
+    "forceUpdates": false
+  }
+}

@@ -1,0 +1,13 @@
+name = "Cobblemon Size Variations"
+filename = "CobblemonSizeVariation-1.0.1.jar"
+side = "server"
+
+[download]
+url = 'https://cdn.modrinth.com/data/bMdS1gMo/versions/kHw9azH5/CobblemonSizeVariation-1.0.1.jar'
+hash = "3bf9b698e6a6d92820fa3bd7ce8412fbea7ae553a299bc0d3ca5ca2051e798cf911ee2f72395dd92ee1482592375b36fd35a1b7d40d8bed95f4634dc02540ad8"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'bMdS1gMo'
+version = 'kHw9azH5'

@@ -1,0 +1,13 @@
+name = "Cobblemon: Ride On!"
+filename = "cobbleride-fabric-0.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/vXREhDPP/versions/Aqa6uBKW/cobbleride-fabric-0.2.2%2B1.21.1.jar'
+hash = "938f98a5bbe9c09cbb608edd8834dfb55a4b62b605aa9d97166c6778710210f6f6a629e2608fb6d2836810738cb248a16e876f8f0af2ff71d7937899c6a1bc51"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'vXREhDPP'
+version = 'Aqa6uBKW'

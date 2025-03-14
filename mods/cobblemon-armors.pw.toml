@@ -1,0 +1,13 @@
+name = "Cobblemon Armors"
+filename = "cobblemon-armors-1.4.0+1.6.1.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/WwDbGW1s/versions/A4AklQQc/cobblemon-armors-1.4.0%2B1.6.1.jar'
+hash = "4c239236dd4c368923b6f08ea42562be5fd570257170e2e89d33889d4b8b33fcb5dbae1587874b42b314de016f5ed118222a1861f6779fd150c9c62d14cf4b7f"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'WwDbGW1s'
+version = 'A4AklQQc'

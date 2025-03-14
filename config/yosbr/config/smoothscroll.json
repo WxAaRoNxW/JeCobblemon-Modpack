@@ -1,0 +1,18 @@
+{
+  "Notes": [
+    "Safe values for settings are 0 - 1 (inclusive).",
+    "0 means animation off (no smoothness) and bigger values mean slower animation speed (high smoothness).",
+    "Press F3+T in a world to update the config.",
+    "To access config ingame, use the mod modmenu."
+  ],
+  "Hotbar": {
+    "Smoothness": 0.0,
+    "Rollover": true
+  },
+  "Chat": {
+    "Smoothness": 0.25,
+    "Opening Speed": 0.25
+  },
+
+  "Format": 2.2
+}

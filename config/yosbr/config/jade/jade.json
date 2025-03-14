@@ -1,0 +1,10 @@
+{
+  "general": {
+    "itemModNameTooltip": true,
+    "fluidMode": "NONE",
+  },
+  "history": {
+    "hintOverlayToggle": false,
+    "themesHash": -328442023
+  }
+}

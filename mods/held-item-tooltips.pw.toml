@@ -1,0 +1,13 @@
+name = "Held Item Tooltips"
+filename = "HeldItemTooltips-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/3wWtgZGB/versions/c3hjI337/HeldItemTooltips-v21.1.0-1.21.1-Fabric.jar'
+hash = "3595520ec6acfb63a9adb99d8d5606d535be6fff66811a2fb900aaefc5cf890ec09968f9c964d71656941c1da5f4841edd749f2fcda6cda65b56e857caade5e1"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = '3wWtgZGB'
+version = 'c3hjI337'

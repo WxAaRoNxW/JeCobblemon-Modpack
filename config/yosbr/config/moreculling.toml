@@ -1,0 +1,9 @@
+version = 1
+dontCull = ["cobblemon:display_case"]
+useBlockStateCulling = true
+useCustomItemFrameRenderer = false
+leavesCullingMode = "CHECK"
+includeMangroveRoots = true
+powderSnowCulling = true
+endGatewayCulling = true
+entityModelCulling = false

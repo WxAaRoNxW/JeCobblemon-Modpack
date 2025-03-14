@@ -1,0 +1,17 @@
+{
+  "quality": {
+    "weather_quality": "FAST",
+    "leaves_quality": "DEFAULT",
+    "enable_vignette": false
+  },
+  "advanced": {
+    "cpu_render_ahead_limit": 5
+  },
+  "performance": {
+    "leaf_culling_quality": "NONE"
+  },
+  "notifications": {
+    "has_cleared_donation_button": false,
+    "has_seen_donation_prompt": true
+  }
+}

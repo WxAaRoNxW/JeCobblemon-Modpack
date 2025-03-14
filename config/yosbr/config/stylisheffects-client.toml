@@ -1,0 +1,14 @@
+	[renderers.inventory_renderer]
+		#Render active status effects in every menu screen, not just in the player inventory.
+		#Default Value: true
+		effects_everywhere = false
+
+	[renderers.gui_renderer]
+		#Maximum amount of status effects rendered in a single row.
+		#Default Value: 5
+		#Range: 1 ~ 255
+		max_columns = 3
+		#Offset on y-axis.
+		#Default Value: 3
+		#Range: > 0
+		offset_y = 110

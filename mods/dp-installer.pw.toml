@@ -1,0 +1,13 @@
+name = "Datapack Installer"
+filename = "DatapackInstaller-2.0.0.jar"
+side = "client"
+
+[download]
+url = 'https://cdn.modrinth.com/data/N3yT01en/versions/nXfLXKma/DatapackInstaller-2.0.0.jar'
+hash = "8ec2e01edc351b74993ce4df031776b2bdc19176f781b06436e19c091afc7f7eb0e0095e3247d9b54c914b5102508bbff5581be3710c8d3d11360d7dc0be93d1"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'N3yT01en'
+version = 'nXfLXKma'

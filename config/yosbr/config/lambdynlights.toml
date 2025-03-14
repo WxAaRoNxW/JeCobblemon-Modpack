@@ -1,0 +1,6 @@
+mode = "fastest"
+
+[light_sources]
+	block_entities = false
+	tnt = "simple"
+	creeper = "simple"

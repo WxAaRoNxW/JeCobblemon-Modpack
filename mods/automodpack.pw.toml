@@ -1,0 +1,13 @@
+name = "AutoModpack"
+filename = "automodpack-mc1.21.1-fabric-4.0.0-beta22.jar"
+side = "both"
+
+[download]
+url = 'https://cdn.modrinth.com/data/k68glP2e/versions/QACJXcNH/automodpack-mc1.21.1-fabric-4.0.0-beta22.jar'
+hash = "765b33bffa5ff66c1d6a14cb9c22449ef23a9848a943938c07b1ec3355754d1e9812462c5d18cb1339aeaeceac8b42fecb68d95f3a58d43835115cbb628abb48"
+hash-format = "sha512"
+
+[update]
+[update.modrinth]
+mod-id = 'k68glP2e'
+version = 'QACJXcNH'

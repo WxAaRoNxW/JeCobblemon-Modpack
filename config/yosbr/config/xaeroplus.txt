@@ -1,0 +1,5 @@
+[XP] Region Writes While Dim Switched:true
+[XP] Fast Mapping Rate Limit:10.0
+[XP] Cross Dim Cursor Coords:true
+[XP] Data Dir Mode:1
+[XP] Fast Mapping:true

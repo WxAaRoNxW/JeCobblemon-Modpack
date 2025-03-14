@@ -1,0 +1,18 @@
+{
+  "blockEntityWhitelist": [
+    "create:rope_pulley",
+    "botania:flame_ring",
+    "minecraft:beacon",
+    "create:hose_pulley",
+    "betterend:eternal_pedestal",
+    "botania:magic_missile",
+    "botania:falling_star"
+  ],
+  "entityWhitelist": [
+    "botania:mana_burst",
+    "drg_flares:drg_flares"
+  ],
+  "sleepDelay": 153,
+  "hitboxLimit": 90,
+  "disableF3": true
+}
