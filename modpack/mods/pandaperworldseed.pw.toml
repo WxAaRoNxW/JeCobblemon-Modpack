@@ -1,0 +1,13 @@
+name = "PandaPerWorldSeed"
+filename = "panda-per-world-seed-1.0.1_1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RYKoV05B/versions/hUjHv6gH/panda-per-world-seed-1.0.1_1.21.1.jar"
+hash-format = "sha512"
+hash = "eaff441ed0d6e54f5a4d296bed3e589ac5e2d8f3c46c588a40c31b1f5f596720f710ddb61522539c3b4c5658d1f73b0875893dfcc52efd8c8d5660eea4bab4ed"
+
+[update]
+[update.modrinth]
+mod-id = "RYKoV05B"
+version = "hUjHv6gH"

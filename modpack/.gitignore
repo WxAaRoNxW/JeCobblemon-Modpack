@@ -1,0 +1,2 @@
+# Include zip files not in root (datapacks, resourcepacks, saves, etc)
+!/*/**/*.zip

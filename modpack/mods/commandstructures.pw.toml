@@ -1,0 +1,13 @@
+name = "Command Structures"
+filename = "command_structures-4.4.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEfvvlnl/versions/kXLUSTsR/command_structures-4.4.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "bf079e9292b8e88546063c2aae09c85a6fa2b9cbe6d3739089bdbf96b331110f1a073b01600759c63df7650e3d14506464ea355e0cf2792f17627da8a77f964f"
+
+[update]
+[update.modrinth]
+mod-id = "WEfvvlnl"
+version = "kXLUSTsR"

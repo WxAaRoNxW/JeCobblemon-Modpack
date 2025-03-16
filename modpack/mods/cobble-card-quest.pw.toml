@@ -1,0 +1,13 @@
+name = "Cobble Card Quest"
+filename = "CobbleCardQuestBeta1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oMpr9edn/versions/gnmi9FqH/CobbleCardQuestBeta1.0.jar"
+hash-format = "sha512"
+hash = "e18bc7783783677b8afc99cf610434a37612370428f806e06d51c8efa45354a37f64f84e82849aeba91b20fa612a1c94664cdb3f69d9673d9caf64372b038e1f"
+
+[update]
+[update.modrinth]
+mod-id = "oMpr9edn"
+version = "gnmi9FqH"

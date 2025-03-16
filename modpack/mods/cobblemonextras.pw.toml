@@ -1,0 +1,13 @@
+name = "CobblemonExtras"
+filename = "CobblemonExtras-fabric-1.4.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TXoSDUCh/versions/oDoWm6Jm/CobblemonExtras-fabric-1.4.2.jar"
+hash-format = "sha512"
+hash = "f33e89056f5bdee2cc936ce270edece62c7d817f9bde8ee2db4a2134b40030d05646cf0bef44b8053e492c81270f669212c5a7a8282003dd2e2a9ba1135b4129"
+
+[update]
+[update.modrinth]
+mod-id = "TXoSDUCh"
+version = "oDoWm6Jm"

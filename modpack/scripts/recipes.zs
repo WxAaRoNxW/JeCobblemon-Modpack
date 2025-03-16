@@ -18,4 +18,4 @@ craftingTable.remove(<item:sophisticatedstorage:copper_chest>);
 craftingTable.remove(<item:sophisticatedstorage:iron_chest>);
 craftingTable.remove(<item:sophisticatedstorage:gold_chest>);
 craftingTable.remove(<item:sophisticatedstorage:diamond_chest>);
-craftingTable.remove(<item:sophisticatedstorage:netheritechest>);
+craftingTable.remove(<item:sophisticatedstorage:netherite_chest>);

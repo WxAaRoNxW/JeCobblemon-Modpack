@@ -2,7 +2,7 @@
 version = 0
 enderPearlTrail = true
 snowballTrailDensity = 0.2
-allayMagicDensity = 0.2
+allayMagicDensity = 0.0
 vexMagicDensity = 0.2
 sheepShearFluff = true
 improvedDragonFireballTrail = true
@@ -64,7 +64,7 @@ playerRunningRequiresSpeed = false
 mobFell = true
 mobRunning = true
 landMaceAttack = true
-preventWhenRaining = false
+preventWhenRaining = true
 
 [burning]
 smoke = "DEFAULT"
@@ -73,12 +73,12 @@ sparks = true
 sounds = true
 
 [itemRarity]
-particlesDisplayType = "ON"
+particlesDisplayType = "NOT_COMMON"
 particleColor = "NAME_COLOR"
 mixedColorName = true
 particleMaxHeight = 1.0
 particleMaxSpeed = 1.0
-particleDensity = 1.0
+particleDensity = 0.5
 
 [explosives]
 tntUpdateSmoke = true

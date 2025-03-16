@@ -1,0 +1,13 @@
+name = "Cobbled Armor Trims - Cobblemon"
+filename = "cobbled-armour-trims-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ui0aohNY/versions/aqk1KGl8/cobbled-armour-trims-1.1.jar"
+hash-format = "sha512"
+hash = "7c7ad216b36f063b8635eda56284ad1cd176b257c7b6b681e0cb2304aeddcd401984eb319d710ff22bda1bfa8dacb5a0bcd566781ebe597208b39234f6ec7f20"
+
+[update]
+[update.modrinth]
+mod-id = "Ui0aohNY"
+version = "aqk1KGl8"

@@ -1,0 +1,13 @@
+name = "BetterEnd Elytra Fix"
+filename = "betterendelytrafix-fabric-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SI5hDEuA/versions/X3fnMhD9/betterendelytrafix-fabric-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "96cbf7e253195a2f77e13c164c04affaec4406bfe20353688df89c595417bfe023f38c7f9a5a876ccade27ddf8e2f736d28f6e1e28e58754ce90fb7c3e64f2ee"
+
+[update]
+[update.modrinth]
+mod-id = "SI5hDEuA"
+version = "X3fnMhD9"
