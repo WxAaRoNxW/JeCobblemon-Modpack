@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books [MOD EDITION]"
+filename = "BEB-Fabric-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcqEicMM/versions/PpCxicfL/BEB-Fabric-1.21-3.0.0.jar"
+hash-format = "sha512"
+hash = "46a84a48dc9c89a65d074dd7a2fb3b25338d49162bdeeadb87b480f2cfbe477e6b10371321a73e259cea3150a73afeb5c8cf01e346198243213403c26669dd09"
+
+[update]
+[update.modrinth]
+mod-id = "pcqEicMM"
+version = "PpCxicfL"

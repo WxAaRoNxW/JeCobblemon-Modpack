@@ -1,0 +1,73 @@
+{
+  "name": "gen9",
+  "minSizeModifier": "0.8",
+  "maxSizeModifier": "1.2",
+  "sizes": [
+    {
+      "name": "Mini",
+      "min": "0",
+      "max": "0",
+      "color": "#ff8000"
+    },
+    {
+      "name": "Petite",
+      "min": "1",
+      "max": "24",
+      "color": "#aa00aa"
+    },
+    {
+      "name": "Little",
+      "min": "25",
+      "max": "59",
+      "color": "#0000aa"
+    },
+    {
+      "name": "Small",
+      "min": "60",
+      "max": "99",
+      "color": "#00aa00"
+    },
+    {
+      "name": "Medium",
+      "min": "100",
+      "max": "127",
+      "color": "#ffffff"
+    },
+    {
+      "name": "Perfect",
+      "min": "128",
+      "max": "128",
+      "color": "#ff8000"
+    },
+    {
+      "name": "Medium",
+      "min": "128",
+      "max": "155",
+      "color": "#ffffff"
+    },
+    {
+      "name": "Big",
+      "min": "156",
+      "max": "195",
+      "color": "#00aa00"
+    },
+    {
+      "name": "Large",
+      "min": "196",
+      "max": "230",
+      "color": "#0000aa"
+    },
+    {
+      "name": "Huge",
+      "min": "231",
+      "max": "254",
+      "color": "#aa00aa"
+    },
+    {
+      "name": "Jumbo",
+      "min": "255",
+      "max": "255",
+      "color": "#ff8000"
+    }
+  ]
+}
