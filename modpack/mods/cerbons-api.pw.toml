@@ -1,0 +1,13 @@
+name = "CERBON's API"
+filename = "CerbonsAPI-Fabric-1.21-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GkIc6rRo/versions/TGj4eUHF/CerbonsAPI-Fabric-1.21-1.2.0.jar"
+hash-format = "sha512"
+hash = "b96663753187abca8d69e5b961afe3359bbe3372725a69866b15a9fc5b536ce37653edc79fabcf726deeca25982cf253138c9a9463295a34a0e520609ef6f7f5"
+
+[update]
+[update.modrinth]
+mod-id = "GkIc6rRo"
+version = "TGj4eUHF"

@@ -1,13 +1,13 @@
 name = "AddonsLib"
-filename = "addonslib-fabric-1.21.1-1.4.jar"
+filename = "addonslib-fabric-1.21.1-1.6.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/cl5ec0Qm/versions/uSN2ysvp/addonslib-fabric-1.21.1-1.4.jar'
-hash = "669c63661e509e50a044686dc70546b722afdd9040ec00a726d52d02c33a8a45de543b776bdb83381f6e3972b2fbba013888ce33aa85cce108fdc77b8a3c1007"
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/dEogaTo2/addonslib-fabric-1.21.1-1.6.jar"
 hash-format = "sha512"
+hash = "c0211bf7d43ec384ee5bbbf26c6d1a618cad471364e6fe3690576f6eb7cbf131093a04e84289202547e449fe869840fd4304f2682cb0d3518e7a7dd65b2bd15d"
 
 [update]
 [update.modrinth]
-mod-id = 'cl5ec0Qm'
-version = 'uSN2ysvp'
+mod-id = "cl5ec0Qm"
+version = "dEogaTo2"

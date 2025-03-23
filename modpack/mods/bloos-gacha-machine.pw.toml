@@ -1,13 +1,13 @@
 name = "Bloo's Gacha Machine"
-filename = "gachamachine-1.0.0.jar"
+filename = "gachamachine-1.1.0.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/67dS28p4/versions/hHoSZTEa/gachamachine-1.0.0.jar'
-hash = "07a63fbc0e5f77971cf79f5d8672263630a4bf0c2c50142a05aecb09758111ddbc33c618194ca3d60e93cc99d02004aed013b6271cf94858138ed3fccb6f1bbd"
+url = "https://cdn.modrinth.com/data/67dS28p4/versions/AdhYL4Pu/gachamachine-1.1.0.jar"
 hash-format = "sha512"
+hash = "b184bfe1e730c8adcbaf2587732e821d0805a4fd25966b790a5363ce5f6fff53a08c9556bb80ff351f7aea0e30dd2c1011a5f103dc1e8705439c85a3dccdb7bc"
 
 [update]
 [update.modrinth]
-mod-id = '67dS28p4'
-version = 'hHoSZTEa'
+mod-id = "67dS28p4"
+version = "AdhYL4Pu"

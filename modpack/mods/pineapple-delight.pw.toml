@@ -1,13 +1,13 @@
 name = "Pineapple Delight"
-filename = "PineappleDeight-1.0.3-Fix-1.21.1-Fabric.jar"
+filename = "pineapple_delight-1.0.4-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/8wXnuOvg/versions/RqiuTl9x/PineappleDeight-1.0.3-Fix-1.21.1-Fabric.jar'
-hash = "affdd4dda693d587a36561ebfd49386f507083e2083efc27e794c753b8b03cd0efcdcc60e5718925ab95abed33c76c1e30513d3680900415ac1bcac669d6f763"
+url = "https://cdn.modrinth.com/data/8wXnuOvg/versions/iWMQoTBW/pineapple_delight-1.0.4-1.21.1-Fabric.jar"
 hash-format = "sha512"
+hash = "13590e10f376bb76fcfaaec272fa0a914a9cbdd52c43bca1dd60cbd7006078c63aeed2269dd78b8f9b55b6caa99d136a7ae0fe5d53e3b74e468b28189886aeed"
 
 [update]
 [update.modrinth]
-mod-id = '8wXnuOvg'
-version = 'RqiuTl9x'
+mod-id = "8wXnuOvg"
+version = "iWMQoTBW"

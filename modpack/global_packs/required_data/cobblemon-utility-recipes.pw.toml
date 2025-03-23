@@ -1,0 +1,13 @@
+name = "Cobblemon Utility+ Recipes"
+filename = "Cobblemon Utility+ Recipes 1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db763a993330e0379661fc1767f1dd4b59d09a9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6333259
+project-id = 1211144
