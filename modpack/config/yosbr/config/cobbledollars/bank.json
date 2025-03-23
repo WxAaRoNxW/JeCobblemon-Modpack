@@ -1,0 +1,1040 @@
+{
+  "bank": [
+    {
+      "item": "minecraft:emerald",
+      "price": 50
+    },
+    {
+      "item": "minecraft:diamond",
+      "price": 200
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "price": 1000
+    },
+    {
+      "item": "cobblemon:medicinal_leek",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:red_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:yellow_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:green_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:blue_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:pink_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:black_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:white_apricorn",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:oran_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:cheri_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chesto_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:pecha_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:rawst_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:aspear_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:persim_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:razz_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:bluk_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:nanab_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:wepear_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:pinap_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:occa_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:passho_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:wacan_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:rindo_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:yache_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chople_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:kebia_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:shuca_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:coba_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:payapa_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:tanga_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:charti_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:kasib_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:haban_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:colbur_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:babiri_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:chilan_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:roseli_berry",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:leppa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lum_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:hopo_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:figy_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:iapapa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:wiki_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:aguav_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:mago_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:sitrus_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:touga_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:cornn_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:magost_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:rabuta_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:nomel_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:spelon_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pamtre_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:watmel_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:durin_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:belue_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:enigma_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:kee_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:maranga_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pomeg_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:kelpsy_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:qualot_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:hondew_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:grepa_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:tamato_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:liechi_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:ganlon_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:petaya_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:apicot_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:salac_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:starf_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lansat_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:micle_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:custap_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:jaboca_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:rowap_berry",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:red_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:blue_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:cyan_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:pink_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:green_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:white_mint_leaf",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:lonely_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:adamant_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:naughty_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:brave_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:bold_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:impish_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:lax_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:relaxed_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:modest_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:mild_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:rash_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:quiet_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:calm_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:gentle_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:careful_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:sassy_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:timid_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:hasty_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:jolly_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:naive_mint",
+      "price": 200
+    },
+    {
+      "item": "cobblemon:serious_mint",
+      "price": 200
+    },
+    {
+      "item": "tcgcobblemon:0003_venusaur",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0006_charizard",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0009_blastoise",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0130_gyarados",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0144_articuno",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0145_zapdos",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0146_moltres",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0149_dragonite",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0150_mewtwo",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0151_mew",
+      "price": 1500
+    },
+    {
+      "item": "tcgcobblemon:0001_bulbasaur",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0004_charmander",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0007_squirtle",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0018_pidgeot",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0025_pikachu",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0026_raichu",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0031_nidoqueen",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0034_nidoking",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0036_clefable",
+      "price": 500
+    },
+    {
+      "item": "minecraft:air",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0045_vileplume",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0059_arcanine",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0062_poliwrath",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0065_alakazam",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0068_machamp",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0071_victreebel",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0076_golem",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0078_rapidash",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0091_cloyster",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0094_gengar",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0103_exeggutor",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0106_hitmonlee",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0107_hitmonchan",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0113_chansey",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0115_kangaskhan",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0122_mr_mime",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0123_scyther",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0125_electabuzz",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0126_magmar",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0127_pinsir",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0128_tauros",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0131_lapras",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0132_ditto",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0134_vaporeon",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0135_jolteon",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0136_flareon",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0139_omastar",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0141_kabutops",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0142_aerodactyl",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0143_snorlax",
+      "price": 500
+    },
+    {
+      "item": "tcgcobblemon:0002_ivysaur",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0005_charmeleon",
+      "price": 250
+    },
+    {
+      "item": "minecraft:air",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0012_butterfree",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0015_beedrill",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0017_pidgeotto",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0020_raticate",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0022_fearow",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0024_arbok",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0028_sandslash",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0030_nidorina",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0033_nidorino",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0035_clefairy",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0040_wigglytuff",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0042_golbat",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0044_gloom",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0047_parasect",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0049_venomoth",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0051_dugtrio",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0053_persian",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0055_golduck",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0057_primeape",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0061_poliwhirl",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0064_kadabra",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0067_machoke",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0070_weepinbell",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0073_tentacruel",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0075_graveler",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0080_slowbro",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0082_magneton",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0083_farfetchd",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0085_dodrio",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0087_dewgong",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0089_muk",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0093_haunter",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0095_onix",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0097_hypno",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0099_kingler",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0101_electrode",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0103_exeggutor",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0105_marowak",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0108_lickitung",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0110_weezing",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0112_rhydon",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0114_tangela",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0117_seadra",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0119_seaking",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0121_starmie",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0124_jynx",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0133_eevee",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0137_porygon",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0138_omanyte",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0140_kabuto",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0147_dratini",
+      "price": 250
+    },
+    {
+      "item": "tcgcobblemon:0010_caterpie",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0011_metapod",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0013_weedle",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0014_kakuna",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0016_pidgey",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0019_rattata",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0021_spearow",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0023_ekans",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0027_sandshrew",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0029_nidoran_f",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0032_nidoran_m",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0037_vulpix",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0039_jigglypuff",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0041_zubat",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0043_oddish",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0046_paras",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0048_venonat",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0050_diglett",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0052_meowth",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0054_psyduck",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0056_mankey",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0058_growlithe",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0060_poliwag",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0063_abra",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0066_machop",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0069_bellsprout",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0072_tentacool",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0074_geodude",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0077_ponyta",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0079_slowpoke",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0081_magnemite",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0084_doduo",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0086_seel",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0088_grimer",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0090_shellder",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0092_gastly",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0096_drowzee",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0098_krabby",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0100_voltorb",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0102_exeggcute",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0104_cubone",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0109_koffing",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0111_rhyhorn",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0116_horsea",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0118_goldeen",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0120_staryu",
+      "price": 75
+    },
+    {
+      "item": "tcgcobblemon:0129_magikarp",
+      "price": 75
+    },
+    {
+      "item": "pokeblocks:poke_coin",
+      "price": 1000
+    }
+  ]
+}

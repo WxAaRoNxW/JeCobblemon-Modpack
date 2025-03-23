@@ -1,6 +1,6 @@
 name = "CobblemonLoot"
 filename = "CobblemonLoot-1.2.1.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/q4kL243P/versions/tdSOxDaI/CobblemonLoot-1.2.1.zip"

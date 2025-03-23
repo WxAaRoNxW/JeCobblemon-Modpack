@@ -63,5 +63,11 @@
     },
     "com.mrcrayfish.furniture.refurbished.inventory.ElectricityGeneratorMenu": {
         "ignore": true
+    },
+    "fuzs.statuemenus.api.v1.client.gui.screens.ArmorStandEquipmentScreen": {
+        "ignore": true
+    },
+    "github.meloweh.wolfcompanion.screen.WolfInventoryScreen": {
+        "ignore": true
     }
 }

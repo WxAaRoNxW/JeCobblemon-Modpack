@@ -1,0 +1,13 @@
+name = "Last Resort v.1.1 [Cobblemon Shearems Addon]"
+filename = "Last Resort Cobblemon V.1.1 Datapack.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJqe8Avc/versions/ZHfsCr1t/Last%20Resort%20Cobblemon%20V.1.1%20Datapack.zip"
+hash-format = "sha512"
+hash = "a3b2572596b5c2e258d589cd0fbeb675a04fbc2f2305c848aa4e3f9e9b06167459d36f250c2cbb1161d6eec406333431857eaefab32bd2ff7e8d2ed6f8c370be"
+
+[update]
+[update.modrinth]
+mod-id = "dJqe8Avc"
+version = "ZHfsCr1t"

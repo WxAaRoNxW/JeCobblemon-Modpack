@@ -1,0 +1,13 @@
+name = "Cobblemon additions"
+filename = "BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W2pr9jyL/versions/1zRx5Hwq/BCA-Datapack-3.5_GE_C1.6.1_M1.21.1.zip"
+hash-format = "sha512"
+hash = "96eb9d60614cc2d1c62e0700f85fdda2497c978d1af8a4369214a32bab4e4847cc01ed8d3ce5dc69b2f87f3ca37cca67ecc3d8e50d72aff8c4cfcc3c924f0f5f"
+
+[update]
+[update.modrinth]
+mod-id = "W2pr9jyL"
+version = "1zRx5Hwq"

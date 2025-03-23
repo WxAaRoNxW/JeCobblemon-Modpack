@@ -1,0 +1,13 @@
+name = "Cobblemon cafe"
+filename = "CobbleCafe.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/469QXqgC/versions/emeL2545/CobbleCafe.zip"
+hash-format = "sha512"
+hash = "7eda80c8df817cc914c7da46eaaf12e7be773b028d0a099476fcbf5dd3af7d3e9048c378ebaebffd50ea19f82931b293f3ac9f4b4a74e57283395c5dadd42cf3"
+
+[update]
+[update.modrinth]
+mod-id = "469QXqgC"
+version = "emeL2545"

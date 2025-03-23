@@ -1,5 +1,6 @@
 name = "totw-modded-fwaystones-compat"
 filename = "TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+side = "server"
 
 [download]
 url = "https://github.com/HaXrDEV/TOTW-Modded-FWaystones-Compat/releases/download/v1.0.1/TOTW-Modded-FWaystones-Compat-1.0.1.zip"

@@ -1,6 +1,6 @@
 name = "Radical Trainers Structures [Cobblemon]"
 filename = "RadicalTrainersStructures v0.1.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tPCJypWZ/versions/n3keMa0g/RadicalTrainersStructures%20v0.1.zip"

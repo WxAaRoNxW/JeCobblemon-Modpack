@@ -1,0 +1,13 @@
+name = "More Radical Trainers"
+filename = "MoreRadicalTrainers1.6.1.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXl4B00S/versions/DRXgczR3/MoreRadicalTrainers1.6.1.zip"
+hash-format = "sha512"
+hash = "1c2cdaeea157458643377c7bc470fe9bb80f2d2496a97946a3fd38961d6e674cb5eacdb2777164da5c4d6e19d149d7c53112ee017b3ab5f277ea99766b7fc123"
+
+[update]
+[update.modrinth]
+mod-id = "kXl4B00S"
+version = "DRXgczR3"
