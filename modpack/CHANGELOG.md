@@ -2,6 +2,78 @@
 
 <details open>
 <summary><b>
+v0.3 Alpha - Stability, Datapacks, Performance, and WorldEdit Update
+</b></summary>
+
+- New
+	- Mods
+		- Better Wolf Companion - More reliable wolves.
+		- Draggable Lists - Drag Resource Packs and Data Packs instead of clicking on move buttons.
+		- Ender Potion - Lore friendly `/tpa`, will add a soulbound feature in the future.
+		- More Cobblemon Move Anims - Adds more animations to some unloved Pokemons.
+		- Pokemon Badges - To integrate with Radical Trainers and More Radical Trainers.
+		- Stonecutter Damage - Damages entities who steps on it.
+		- WorldEdit - With the removal of problematic mods, Diagonal mod, servers should be able to handle having WorldEdit in this modpack.
+	- Datapacks
+		- Cobble Cafe - Gives some pokemons cafe clothes.
+		- Cobble Towns: Continued - Pokemon themed structure generation.
+		- Cobblemon Additions - Pokemon themed structure generation.
+		- CobbledGacha - Gacha Machine is finally modified for Cobblemon!
+		- Cobblemon Rad Gyms Refurbished - Refurbishes the RAD Gyms dimension.
+		- Cobblemon Modded Drops - Datapack integration from other mods like Farmer's Delight.
+		- Last Resort - Utilizes the Shearems mod to shear certain pokemons for... food...
+	- Resourcepacks
+		- Beautiful Enchanted Books - Replaced with Beautiful Enchanted Books [Mod Edition]
+		- Cobble Motion - Adds idle motions to Pokemons that doesn't have one.
+		- Cobble Folk - Adds skins to villagers, addition for Cobble Towns: Continued.
+		- RCT Trainers+ - Replaces RCT Animations
+		- Cobbled Gacha - Changes the Gacha Machine thematic to Cobblemon. (server resourcepack)
+		- Last Resort - Utilizes the Shearems mod to shear certain pokemons for... food... (server resourcepack)
+
+- Update
+	- Accessories `1.1.0-beta.28 -> 1.1.0-beta.31`
+		- Update to beta 30+ fixes the error log that appears when MC boots up.
+	- owo `0.12.15 -> 0.12.15.1`
+		- Required by updated Accessories.
+	- Config
+		- Adds new configuration to some UI for Chest Tracker and InvMove
+- Changed
+	- Versioning of modpack to follow semantic versioning.
+	- 3D Skin Layer - Thinned head, cause it was comically large.
+	- CobbleDollars - Merchant now accepts Minerals, Berries, Mints, Apricorns, Cobble Cards
+	- Datapacks - Will no longer be downloaded on the client, along with serverpacks.
+	- InvMove - Disabled movement in some UI to avoid moving from your initial position when it's not intended.
+	- Structure Mods - Some structure mods are set to server side only as they were incorrectly marked as client and server.
+		- Hopo
+			- Better Mineshaft
+			- Ruined Portals
+			- Underwater Ruins
+	- XaeroMinimap/Worldmap 
+		- Included paintings in the exclude list of Xaero's render config.
+		- Changed sides from client only to both client and server, for better world/dimension identification.
+	
+- Removed
+	- Beautiful Enchanted Books [Mod Edition] - Has problems with unsupported modded books that leads to a crash, when ModernFix's Dynamic Resource is enabled.
+	- Bisect Mod - We're not sponsored, why are we giving them free plugs.
+	- Diagonal - Too expensive in ram usage with World Edit.
+		- Fences
+		- Walls
+		- Windows
+	- Effective - Due to its veil crashing the game sometimes.
+	- Macaw's Oh The Biomes We've Gone - Too expensive in ram usage with World Edit. Bad integration, log spams when the MCW mod is incomplete.
+	- Patpat - Removed for now as it conflicts with other mods, Cobblemon radial menu, Carry on, Cobbledollars Merchant, etc.
+	- Starter Structure - Only works for generating a new world, not dimension.
+	- Spawn Point - Not that great, can't set world spawn in MultiWorld.
+	- Superflat World No Slimes - Not necessary, decluttering.
+	- Waystones - Forgot to remove it, Wraith Waystones still exist.
+	- RCT Trainer Animations - Skins weren't in line with their names.
+- Fix
+	- Global Packs
+		- Re-added, somehow got removed accidentally.
+</details>
+
+<details open>
+<summary><b>
 v0.2 Alpha
 </b></summary>
 
@@ -56,11 +128,9 @@ v0.2 Alpha
 	- Config
 		- Wover - enabled "Disable Experimental Warning"
 - Update
-    - Cobblemon Size Variations
-        - 1.0.1 -> 1.6.1
+    - Cobblemon Size Variations `1.0.1 -> 1.6.1`
         - Pokemon now uses a linear distribution where the value from 0-255 is normalized into 0.8 - 1.20. 20+-% size variations.
-    - Particle Rain
-		- 3.0.2 -> 3.0.5
+    - Particle Rain `3.0.2 -> 3.0.5`
 - Changed
     - Stendhal
         - Disabled unicode chat button.
@@ -69,7 +139,8 @@ v0.2 Alpha
 	- Sound Physics Remastered
 		- Enabled hear own self with Simple Voice Chat mod.
 - Removed
-	- Even Better Enchants - Replaced with Beautiful Enchanted Books
+	- Resourcepack
+		- Even Better Enchants - Replaced with Beautiful Enchanted Books
 	<details>
 	<summary><b>
 	Removed Mods
@@ -109,7 +180,7 @@ v0.2 Alpha
 	</details>
 
 - Fix
-	Fix Craft Tweaker script typo. netheritechest -> netherite_chest
+	- Fix Craft Tweaker script typo. netheritechest -> netherite_chest
 
 </details>
 
