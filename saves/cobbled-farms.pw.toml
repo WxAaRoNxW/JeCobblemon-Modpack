@@ -1,6 +1,6 @@
 name = "Cobbled Farms"
 filename = "Cobbled_Farms_v3_(1.21.1+).zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

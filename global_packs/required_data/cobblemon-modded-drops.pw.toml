@@ -1,0 +1,13 @@
+name = "Cobblemon Modded Drops"
+filename = "CobblemonModdedDrops.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/z3enWbTR/versions/lH7cHYsq/CobblemonModdedDrops.zip"
+hash-format = "sha512"
+hash = "6e7e9bad84d021fd8c36ebe9346a59c26b3af56e550f616c29d33fa1d69b04d49e2a2d8ee92003b6533f78fb55fc1df4740ecb4a7558ddd2309e9ea64224ad5a"
+
+[update]
+[update.modrinth]
+mod-id = "z3enWbTR"
+version = "lH7cHYsq"

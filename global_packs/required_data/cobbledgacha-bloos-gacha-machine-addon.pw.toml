@@ -1,0 +1,13 @@
+name = "CobbledGacha v.1.1 [Bloo's Gacha Machine Addon]"
+filename = "CobbledGacha V.1.1 Datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hk96hAj9/versions/zNWQWkpz/CobbledGacha%20V.1.1%20Datapack.zip"
+hash-format = "sha512"
+hash = "d457a90d65341ff5d41735988580c9ddf2203ae63c3f33689f8a8efc33d1cf1f39c3c32cc692b556e1a0168fb677f86685090c539195e2b879a796a8834f0acb"
+
+[update]
+[update.modrinth]
+mod-id = "Hk96hAj9"
+version = "zNWQWkpz"

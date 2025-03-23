@@ -1,0 +1,13 @@
+name = "Cobblemon Rad Gyms Refurbish"
+filename = "Cobblemon Rad Gyms Refurbish.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JsXqmQCj/versions/cILABI80/Cobblemon%20Rad%20Gyms%20Refurbish.zip"
+hash-format = "sha512"
+hash = "a10ad678b952b675af5beb0c38faef25a53ba1147de66878d99f57aa50cac4c6d8602a85a6b2abd65347b7478c417378cceed0bf3fb5247d4be96cb2a511eb76"
+
+[update]
+[update.modrinth]
+mod-id = "JsXqmQCj"
+version = "cILABI80"
