@@ -1,13 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-fabric-12.0.6.jar"
+filename = "artifacts-fabric-12.1.0.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/P0Mu4wcQ/versions/A5axAziO/artifacts-fabric-12.0.6.jar'
-hash = "ddcc4de853a94b60c7d91c8d66cb4a48b99649a6b8f2cad98de74385e7a5c99e940dcf8c04c52f0dcd779e172c17c0d9228af358db1629279e417d73efd37c01"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/LFsBtgTN/artifacts-fabric-12.1.0.jar"
 hash-format = "sha512"
+hash = "a3941c0cd25c2644bb18d9d6ccd158db150d8b887426b26d3eab537d8d3c20100eab8a6b4743db2f08cb422fe5ee7e6b6249a28bcd3d07824002c5a78b8e858e"
 
 [update]
 [update.modrinth]
-mod-id = 'P0Mu4wcQ'
-version = 'A5axAziO'
+mod-id = "P0Mu4wcQ"
+version = "LFsBtgTN"

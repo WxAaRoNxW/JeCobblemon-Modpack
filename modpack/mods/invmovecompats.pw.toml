@@ -1,13 +1,13 @@
 name = "InvMoveCompats"
-filename = "InvMoveCompats-1.20-0.3.2-Fabric.jar"
+filename = "InvMoveCompats-0.4.0+1.21.4-Fabric.jar"
 side = "client"
 
 [download]
-url = 'https://cdn.modrinth.com/data/6IpcGP7T/versions/ezkd2wAz/InvMoveCompats-1.20-0.3.2-Fabric.jar'
-hash = "51597493b4f7070e5ca05968b6f13c6431e5b3b41297406180ab3dfe0575ed36e57d7fe1db114a94f09c08876d1303d15031f72e6651ca73b7b3d0243c2d1c82"
+url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/horUCcSM/InvMoveCompats-0.4.0%2B1.21.4-Fabric.jar"
 hash-format = "sha512"
+hash = "ab5def2ef43a95c6d9ff6a19fe6391bd616f2c8af8d3ed2af0621b9e1a42d5ebe6d79ecf267acde7e496e3341acf48df8d6b714471b8b8d53fb21cf05b71b88e"
 
 [update]
 [update.modrinth]
-mod-id = '6IpcGP7T'
-version = 'ezkd2wAz'
+mod-id = "6IpcGP7T"
+version = "horUCcSM"

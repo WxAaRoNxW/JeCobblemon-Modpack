@@ -1,13 +1,13 @@
 name = "Trail&Tales Delight"
-filename = "trailandtales_delight-1.21.1-0.1.jar"
+filename = "trailandtales_delight-fabric-1.21.1-1.0.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/Koee7vhY/versions/zHQCr6fK/trailandtales_delight-1.21.1-0.1.jar'
-hash = "0a0f8d421ad6fc428209358a4e100711fc7f3163dc08485a7b4bcc8b60e31b9a4924c71bccdb33f34c2ef0a84492c1f678d0c526e805a18a01a346793bf0e318"
+url = "https://cdn.modrinth.com/data/Koee7vhY/versions/kn2TsxVs/trailandtales_delight-fabric-1.21.1-1.0.jar"
 hash-format = "sha512"
+hash = "abe6a8590039399ddec6189fb634865b088c659550d8a8b49242582fa715f9a36b2f32b183436d86e1ebe4256171bf8e46396df78b7ae5460fcd00da13976caa"
 
 [update]
 [update.modrinth]
-mod-id = 'Koee7vhY'
-version = 'zHQCr6fK'
+mod-id = "Koee7vhY"
+version = "kn2TsxVs"
