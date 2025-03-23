@@ -1,0 +1,8 @@
+name = "cryonic-config"
+filename = "cryonicconfig-fabric-1.0.0+mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/LKryysne/cryonicconfig-fabric-1.0.0%2Bmc1.21.4.jar"
+hash-format = "sha256"
+hash = "6929fc4dbc7c5abcf8711c7eef713955291a94c8dea8d8afda4cc85f72e5ad84"

@@ -1,13 +1,13 @@
 name = "Farmer's Cutting: Oh The Biomes We've Gone"
-filename = "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.0a-fabric.jar"
+filename = "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/ickBpNUE/versions/IrjCijR1/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.0a-fabric.jar'
-hash = "0e6fb7d0e9f196474f4b3561cca938e4a6c01ec37a9d0f02cdc9e2e1ea0441e9b81d931db419a4873734ba0ab1a2f69043caa427ab5999865a3b9b9d28d755ef"
+url = "https://cdn.modrinth.com/data/ickBpNUE/versions/NrAtQ6ut/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar"
 hash-format = "sha512"
+hash = "cc534c8f53aa65b6e973db2de740f982aa426b4db71a5523e16d272f57344dc6ce7b16968fec82420697168c964173e39aeb7dff25738b7cb14a17db24776042"
 
 [update]
 [update.modrinth]
-mod-id = 'ickBpNUE'
-version = 'IrjCijR1'
+mod-id = "ickBpNUE"
+version = "NrAtQ6ut"

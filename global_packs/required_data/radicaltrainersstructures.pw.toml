@@ -1,13 +1,13 @@
 name = "Radical Trainers Structures [Cobblemon]"
-filename = "RadicalTrainersStructures v0.1.zip"
+filename = "RadicalTrainersStructures v0.2.0.zip"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/tPCJypWZ/versions/n3keMa0g/RadicalTrainersStructures%20v0.1.zip"
+url = "https://cdn.modrinth.com/data/tPCJypWZ/versions/hNsP50Jd/RadicalTrainersStructures%20v0.2.0.zip"
 hash-format = "sha512"
-hash = "5689e775e5382cf0e41ef8e1d77962a45816ba0c5c12956ef289c0e6de83e6686fe2f226412f2058a3d0a8329efe4bb76ed837353002c86b130d59b486c5777c"
+hash = "13f3d7dbfc8d9870928c80d6b125717b2daf8bf9d3443e60307c389495c50ee1685d7d5cceda1ad622dc7168c0c1d43da45185657cc786fed6ca1c21efa5ba29"
 
 [update]
 [update.modrinth]
 mod-id = "tPCJypWZ"
-version = "n3keMa0g"
+version = "hNsP50Jd"
