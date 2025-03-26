@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#jecobblemon:tools", "required": false}
+    ]
+}

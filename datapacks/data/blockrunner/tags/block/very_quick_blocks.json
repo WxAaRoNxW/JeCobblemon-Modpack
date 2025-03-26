@@ -1,9 +1,6 @@
 {
     "replace": false,
     "values": [
-        {
-            "id": "#mcwpaths:paths",
-            "required": false
-        }
+        {"id": "#mcwpaths:paths", "required": false}
     ]
 }
