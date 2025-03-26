@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#cobblemon:poke_balls"},
+        {"id": "#cobblemon:pokedex"},
+        {"id": "#cobblemon:potions"},
+        {"id": "#cobblemon:restores"},
+        {"id": "#cobblemon:ethers"},
+        {"id": "#cobblemon:revives"}
+    ]
+}
