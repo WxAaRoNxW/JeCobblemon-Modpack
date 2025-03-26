@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#cobblemon:poke_balls", "required": false},
+        {"id": "#cobblemon:pokedex", "required": false},
+        {"id": "#cobblemon:potions", "required": false},
+        {"id": "#cobblemon:restores", "required": false},
+        {"id": "#cobblemon:ethers", "required": false},
+        {"id": "#cobblemon:revives", "required": false},
+        {"id": "#cobblenav:pokenav", "required": false},
+        {"id": "#cobblenav:pokefinder", "required": false},
+        {"id": "#cobblemon_smartphone:smartphones", "required": false},
+        {"id": "cobbled_counter:counter", "required": false},
+        {"id": "#waystones:scrolls", "required": false},
+        {"id": "fwaystones:waystone_scroll", "required": false},
+        {"id": "fwaystones:abyss_watcher", "required": false},
+        {"id": "fwaystones:local_void", "required": false},
+        {"id": "fwaystones:pocket_wormhole", "required": false},
+        {"id": "fwaystones:scroll_of_infinite_knowledge", "required": false},
+        {"id": "fightorflight:pokestaff", "required": false},
+        {"id": "mega_showdown:megabracelet", "required": false},
+        {"id": "#chipped:tools", "required": false},
+        {"id": "#amendments:sets_on_fire", "required": false},
+        {"id": "#chipped:lantern", "required": false},
+        {"id": "#chipped:soul_lantern", "required": false},
+        {"id": "#chipped:special_lantern", "required": false},
+        {"id": "#chipped:special_soul_lantern", "required": false},
+        {"id": "#chipped:redstone_torch", "required": false}
+    ]
+}

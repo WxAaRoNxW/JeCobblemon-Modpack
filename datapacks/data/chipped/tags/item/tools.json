@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "chipped:watering_can",
+        "chipped:alchemy_book",
+        "chipped:saw",
+        "chipped:needles",
+        "chipped:chisel",
+        "chipped:multimeter"
+    ]
+}
