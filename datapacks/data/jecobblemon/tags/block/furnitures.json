@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#clutter:armchairs", "required": false},
+        {"id": "clutter:floor_seating", "required": false},
+        {"id": "#clutter:benches", "required": false},
+        {"id": "#clutter:short_benches", "required": false},
+        {"id": "#clutter:wooden_chairs", "required": false},
+        {"id": "#clutter:wooden_chairs", "required": false},
+        {"id": "#cobblefurnies:chairs", "required": false},
+        {"id": "#cobblefurnies:sofas", "required": false},
+        {"id": "#cobblefurnies:stools", "required": false},
+        {"id": "#furnies:sofas", "required": false},
+        {"id": "#furnies:benches", "required": false},
+        {"id": "#furnies:chairs", "required": false},
+        {"id": "#furnies:sofas", "required": false},
+        {"id": "#furnies:stools", "required": false},
+        {"id": "#handcrafted:benches", "required": false},
+        {"id": "#handcrafted:chairs", "required": false},
+        {"id": "#handcrafted:couches", "required": false},
+        {"id": "#handcrafted:cushions", "required": false},
+        {"id": "#handcrafted:dining_benches", "required": false},
+        {"id": "#cookingforblockheads:sinks", "required": false},
+        {"id": "#refurbished_furniture:sofas", "required": false},
+        {"id": "#refurbished_furniture:stools", "required": false},
+        {"id": "supplementaries:globe", "required": false}
+    ]
+}

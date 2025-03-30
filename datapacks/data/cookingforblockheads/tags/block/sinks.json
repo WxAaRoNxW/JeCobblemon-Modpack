@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cookingforblockheads:yellow_sink"},
+        {"id": "cookingforblockheads:black_sink"},
+        {"id": "cookingforblockheads:cyan_sink"},
+        {"id": "cookingforblockheads:brown_sink"},
+        {"id": "cookingforblockheads:purple_sink"},
+        {"id": "cookingforblockheads:blue_sink"},
+        {"id": "cookingforblockheads:red_sink"},
+        {"id": "cookingforblockheads:pink_sink"},
+        {"id": "cookingforblockheads:white_sink"},
+        {"id": "cookingforblockheads:magenta_sink"},
+        {"id": "cookingforblockheads:light_blue_sink"},
+        {"id": "cookingforblockheads:sink"},
+        {"id": "cookingforblockheads:gray_sink"},
+        {"id": "cookingforblockheads:lime_sink"},
+        {"id": "cookingforblockheads:light_gray_sink"},
+        {"id": "cookingforblockheads:green_sink"},
+        {"id": "cookingforblockheads:orange_sink"}
+    ]
+}

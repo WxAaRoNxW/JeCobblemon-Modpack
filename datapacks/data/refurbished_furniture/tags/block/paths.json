@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "refurbished_furniture:stone_stepping_stones"},
+        {"id": "refurbished_furniture:granite_stepping_stones"},
+        {"id": "refurbished_furniture:diorite_stepping_stones"},
+        {"id": "refurbished_furniture:andesite_stepping_stones"},
+        {"id": "refurbished_furniture:deepslate_stepping_stones"}
+    ]
+}

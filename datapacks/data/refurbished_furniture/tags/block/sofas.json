@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "refurbished_furniture:white_sofa"},
+        {"id": "refurbished_furniture:magenta_sofa"},
+        {"id": "refurbished_furniture:red_sofa"},
+        {"id": "refurbished_furniture:lime_sofa"},
+        {"id": "refurbished_furniture:brown_sofa"},
+        {"id": "refurbished_furniture:gray_sofa"},
+        {"id": "refurbished_furniture:blue_sofa"},
+        {"id": "refurbished_furniture:light_gray_sofa"},
+        {"id": "refurbished_furniture:pink_sofa"},
+        {"id": "refurbished_furniture:black_sofa"},
+        {"id": "refurbished_furniture:yellow_sofa"},
+        {"id": "refurbished_furniture:purple_sofa"},
+        {"id": "refurbished_furniture:orange_sofa"},
+        {"id": "refurbished_furniture:light_blue_sofa"},
+        {"id": "refurbished_furniture:cyan_sofa"},
+        {"id": "refurbished_furniture:green_sofa"}
+    ]
+}
