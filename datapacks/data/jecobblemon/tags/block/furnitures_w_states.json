@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "cobblefurnies:tv", "required": false},
+        {"id": "#cobblefurnies:toilets", "required": false},
+        {"id": "#clutter:chimneys", "required": false},
+        {"id": "clutter:small_target_block", "required": false},
+        {"id": "#clutter:lamps", "required": false},
+        {"id": "clutter:toilet", "required": false},
+        {"id": "#furnies:toilets", "required": false},
+        {"id": "#mcwlights:lamps", "required": false},
+        {"id": "#refurbished_furniture:ceiling_fan", "required": false},
+        {"id": "#refurbished_furniture:toilets", "required": false},
+        {"id": "refurbished_furniture:computer", "required": false},
+        {"id": "refurbished_furniture:light_lightswitch", "required": false},
+        {"id": "refurbished_furniture:dark_lightswitch", "required": false},
+        {"id": "refurbished_furniture:television", "required": false}
+
+    ]
+}

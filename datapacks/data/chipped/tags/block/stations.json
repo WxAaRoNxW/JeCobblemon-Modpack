@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "chipped:botanist_workbench", "required": false},
+        {"id": "chipped:glassblower", "required": false},
+        {"id": "chipped:carpenters_table", "required": false},
+        {"id": "chipped:loom_table", "required": false},
+        {"id": "chipped:mason_table", "required": false},
+        {"id": "chipped:alchemy_bench", "required": false},
+        {"id": "chipped:tinkering_table", "required": false}
+    ]
+}

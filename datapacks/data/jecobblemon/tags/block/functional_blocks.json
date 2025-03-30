@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#chipped:stations", "required": false},
+        {"id": "cobblefurnies:furnicrafter", "required": false},
+        {"id": "#cobblefurnies:sinks", "required": false},
+        {"id": "cobblemon:pc", "required": false},
+        {"id": "supplementaries:clock_block", "required": false},
+        {"id": "refurbished_furniture:doorbell", "required": false},
+        {"id": "refurbished_furniture:post_box", "required": false}
+    ]
+}

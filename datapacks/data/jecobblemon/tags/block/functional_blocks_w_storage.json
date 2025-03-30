@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "betterarcheology:archeology_table", "required": false},
+        {"id": "betterarcheology:evoker_trap", "required": false},
+        {"id": "clutter:brick_kiln", "required": false},
+        {"id": "cobblemon:healing_machine", "required": false}
+    ]
+}

@@ -1,6 +1,9 @@
 {
     "replace": false,
     "values": [
-        {"id": "#mcwpaths:paths", "required": false}
+        {"id": "#mcwpaths:paths", "required": false},
+        {"id": "#furnies:wood_paths", "required": false},
+        {"id": "#furnies:stone_paths", "required": false},
+        {"id": "#refurbished_furniture:paths", "required": false}
     ]
 }

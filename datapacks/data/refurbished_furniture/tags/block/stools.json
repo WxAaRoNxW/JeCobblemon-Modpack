@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "refurbished_furniture:white_stool"},
+        {"id": "refurbished_furniture:red_stool"},
+        {"id": "refurbished_furniture:purple_stool"},
+        {"id": "refurbished_furniture:blue_stool"},
+        {"id": "refurbished_furniture:lime_stool"},
+        {"id": "refurbished_furniture:light_gray_stool"},
+        {"id": "refurbished_furniture:pink_stool"},
+        {"id": "refurbished_furniture:gray_stool"},
+        {"id": "refurbished_furniture:yellow_stool"},
+        {"id": "refurbished_furniture:light_blue_stool"},
+        {"id": "refurbished_furniture:green_stool"},
+        {"id": "refurbished_furniture:magenta_stool"},
+        {"id": "refurbished_furniture:orange_stool"},
+        {"id": "refurbished_furniture:black_stool"},
+        {"id": "refurbished_furniture:brown_stool"},
+        {"id": "refurbished_furniture:cyan_stool"}
+    ]
+}
