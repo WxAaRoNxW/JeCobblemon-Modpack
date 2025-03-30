@@ -1,0 +1,10 @@
+{
+	"mentionSoundEffect": {
+		"shouldPlay": false,
+		"pitch": 1.8,
+		"volume": 0.9,
+		"id": "mention",
+		"soundEvent": "minecraft:block.note_block.chime"
+	},
+	"mentionKeywords": []
+}

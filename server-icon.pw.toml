@@ -1,0 +1,7 @@
+name = "Server Icon"
+filename = "server-icon.png"
+
+[download]
+url = "https://i.imgur.com/j4FYNKL.png"
+hash-format = "sha256"
+hash = "25c680a9144afd628132d12d2b93dfd05ea9502c16a073374bb7ad92590a47e3"

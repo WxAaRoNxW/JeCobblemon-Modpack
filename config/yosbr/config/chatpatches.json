@@ -1,0 +1,7 @@
+{
+  "timeDate": "⌚",
+  "timeFormat": "$",
+  "hoverDate": "MM/dd/yyyy - HH:mm:ss",
+  "counterCompact": true,
+  "chatNameFormat": "$:"
+}
