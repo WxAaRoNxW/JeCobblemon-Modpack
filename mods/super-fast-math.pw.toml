@@ -1,0 +1,13 @@
+name = "Super Fast Math"
+filename = "superfastmath-0.0.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIQr6J6I/versions/PYzBbUdh/superfastmath-0.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "e822d375243d5209ce08c9f9b350bc55d76620f9a70cf2a093b233b7b5459880a09ba24d224b9892bfac5b45a7095b1b77c86bde2ade19efee925c1903b30c72"
+
+[update]
+[update.modrinth]
+mod-id = "rIQr6J6I"
+version = "PYzBbUdh"
