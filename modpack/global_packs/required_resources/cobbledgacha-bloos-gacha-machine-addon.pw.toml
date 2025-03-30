@@ -1,5 +1,6 @@
 name = "CobbledGacha v.1.1 Resourcepack [Bloo's Gacha Machine Addon]"
 filename = "CobbledGacha V.1.1 Resourcepack.zip"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Hk96hAj9/versions/zNWQWkpz/CobbledGacha%20V.1.1%20Resourcepack.zip"

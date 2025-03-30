@@ -2,6 +2,169 @@
 
 <details open>
 <summary><b>
+v0.5 Alpha - Quests! and More Update
+</b></summary>
+
+- Additions
+	- Quests - JeCobblemon Quests are now added! Still a work in progress.
+	- Pack logo
+	- Window Name
+	- Server Logo
+	- Config
+		- Global Packs - Add a `required_data_and_resources` for packs who combine both datapack and resourcepack. (to avoid duplications)
+		- Open Parties and Claims - Added modded blocks in settings.
+		- Sophisticated Core - Added default config, as a workaround from first time install freezing on world creation. (Really annoying)
+	- Mods
+		- Auth Me - For account switching.
+		- Chat Animation - Replaced Chat Impressive Animation.
+		- Chunk Activity Tracker - Library mod.
+		- Chunk Debug - Find pesky chunks that are slowing down servers.
+		- Cobbreeding - Breeding feature in Cobblemon. (Forgotten to add)
+		- Does Tt Tick - Mobs won't tick in unseen chunks.
+		- Doggy Talents Next - Overhauled MC wolves.
+		- Better Dogs x Doggy Talents Next - More dog varieties. 
+		- Dumplings Delight Rewrapped - Re-added as update is fixed again.
+		- Easy Auth - Password protected account, no need for constant /login. (For servers users.)
+		- Fast Item Frames - Items frames are now blocks instead of entities for better rendering.
+		- I want it earlier! - 1.21.4+ MC features backported. (Pale Garden, and Happy Ghast in the future)
+		- Ledger - Grief logger and rollbacker.
+		- Nullscape - Replacement for BetterEnd.
+		- Palladium - Performance mod.
+		- Packet Fixer - Fixes various problems with packets and nbt.
+		- Polymer - Required by clients to see recipes of server only mods that adds items.
+		- Raise Sound Limit Simplified - Recommended by Sounds mod.
+		- Sawmill - Wood version of Stone Cutter.
+		- Seamless Loading Screen - Added back.
+		- Super Fast Math - Performance mod.
+		- ToadlLib - Library mod.
+		- Vaulted End - End ship, overhauled with trials.
+		- Vein Mining (Enchanted Book) - Highly configurable vein mining mod.
+		- Wakes - Replaced, Satin Free Wakes, because the new Wakes update removes Satin lib as dependency.
+- Updates
+	- README.md - More info added, what to download and how to install.
+	- JeCobblemon Datapack - v0.2 `->` v0.3
+		- Adds many new mod integrations. See [changelog](https://github.com/WxAaRoNxW/JeCobblemon-Modpack/blob/dev/datapacks/mod-integrations/CHANGELOG.md) for info.
+		- Uses url based download now.
+	- Chest Tracker - Moved button in some UI.
+	- InvMove - Disabled movement in some UI.
+	- Notable Updates
+		- Cobblemon Quests - New detections.
+		- Cobblemon: Mega Showdown - A lot of new stuff.
+		- More Radical Trainers - Adds more trainers.
+		
+		<details>
+		<summary><b>
+		Updates
+		</b></summary>
+
+		- <b>Async</b>: async-0.1.7+alpha.2-1.21.1.jar `->` async-0.1.7+alpha.3-1.21.1.jar
+		- <b>Enchantment Descriptions</b>: enchdesc-fabric-1.21.1-21.1.5.jar `->` enchdesc-fabric-1.21.1-21.1.7.jar
+		- <b>WATERMeDIA</b>: watermedia-2.1.22.jar `->` watermedia-2.1.23.jar
+		- <b>Cobblemon Quests</b>: cobblemon_quests-[1.21.1]-fabric-1.1.12.jar `->` cobblemon_quests-[1.21.1]-fabric-1.1.14.jar
+		- <b>Fast Better Grass</b>: Fast Better Grass.zip `->` Fast Better Grass.zip
+		- <b>Entity Culling</b>: entityculling-fabric-1.7.3-mc1.21.jar `->` entityculling-fabric-1.7.4-mc1.21.jar
+		- <b>Display Case</b>: display_case-fabric-1.21-1.0.1.jar `->` display_case-fabric-1.21.1-1.2.jar
+		- <b>Cobblemon Drop Loot Tables</b>: cobblemon-droploottables-1.6-fabric-1.3.1.jar `->` cobblemon-droploottables-1.6-fabric-1.4.0.jar
+		- <b>Dynamic FPS</b>: dynamic-fps-3.9.0+minecraft-1.21.0-fabric.jar `->` dynamic-fps-3.9.2+minecraft-1.21.0-fabric.jar
+		- <b>Oh The Biomes We've Gone</b>: Oh-The-Biomes-Weve-Gone-Fabric-2.3.9.jar `->` Oh-The-Biomes-Weve-Gone-Fabric-2.3.11.jar
+		- <b>Radical Cobblemon Trainers API</b>: rctapi-fabric-1.21.1-0.10.14-beta.jar `->` rctapi-fabric-1.21.1-0.10.15-beta.jar
+		- <b>Trail&Tales Delight</b>: trailandtales_delight-fabric-1.21.1-1.0.jar `->` trailandtales_delight-fabric 1.21.1-1.1.5.jar
+		- <b>Remove Reloading Screen</b>: rrls-5.0.8+mc1.21.1-fabric.jar `->` rrls-5.0.9+mc1.21.1-fabric.jar
+		- <b>Artifacts</b>: artifacts-fabric-12.1.0.jar `->` artifacts-fabric-12.1.1.jar
+		- <b>AlinLib</b>: AlinLib-fabric-2.1.0-beta.1+mc1.21.jar `->` AlinLib-fabric-2.1.0-beta.2+mc1.21.jar
+		- <b>Fabric API</b>: fabric-api-0.115.3+1.21.1.jar `->` fabric-api-0.115.4+1.21.1.jar
+		- <b>Cobblemon Interface: Modded</b>: Cobblemon Interface Modded v1.7.0.zip `->` Cobblemon Interface Modded v1.8.0.zip
+		- <b>More Delight (for Farmer's Delight)</b>: moredelight-25.01.13-1.21-fabric.jar `->` moredelight-25.03.27-1.21-fabric.jar
+		- <b>Stonecutter Damage</b>: stonecutter-damage-mcmeta-45-48_1.21.jar `->` stonecutter-damage-mcmeta-45-71_1.21-1.21.5.jar
+		- <b>You're in Grave Danger</b>: youre-in-grave-danger-fabric-2.4.14.jar `->` youre-in-grave-danger-fabric-2.4.15.jar
+		- <b>Balm</b>: balm-fabric-1.21.1-21.0.34.jar `->` balm-fabric-1.21.1-21.0.38.jar
+		- <b>CICADA</b>: cicada-lib-0.11.2+1.21-1.21.1.jar `->` cicada-lib-0.11.9+1.21-1.21.1.jar
+		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.90.jar `->` lootr-fabric-1.21-1.10.35.91.jar
+		- <b>CraftPresence</b>: CraftPresence-2.5.3+1.21.1-fabric.jar `->` CraftPresence-2.5.4+1.21.1-fabric.jar
+		- <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.6.5+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar
+		- <b>More Cobblemon Move Animations</b>: more-cobblemon-move-anims-1.2.jar `->` more-cobblemon-move-anims-1.3.jar
+		- <b>Ping Wheel</b>: Ping-Wheel-1.10.1-fabric-1.21.1.jar `->` Ping-Wheel-1.10.2-fabric-1.21.1.jar
+		- <b>Chat Notify</b>: chatnotify-fabric-2.4.2+1.21.jar `->` chatnotify-fabric-2.4.3+1.21.jar
+		- <b>Language Reload</b>: language-reload-1.7.2+1.21.1.jar `->` language-reload-1.7.3+1.21.1.jar
+		- <b>Not Enough Animations</b>: notenoughanimations-fabric-1.9.2-mc1.21.jar `->` notenoughanimations-fabric-1.9.3-mc1.21.jar
+		- <b>EMI</b>: emi-1.1.20+1.21.1+fabric.jar `->` emi-1.1.21+1.21.1+fabric.jar
+		- <b>Bloo's Gacha Machine</b>: gachamachine-1.1.0.jar `->` gachamachine-1.1.1.jar
+		- <b>Radical Cobblemon Trainers</b>: rctmod-fabric-1.21.1-0.14.1-beta.jar `->` rctmod-fabric-1.21.1-0.14.3-beta.jar
+		- <b>Presence Footsteps</b>: PresenceFootsteps-1.10.3+1.21.jar `->` PresenceFootsteps-1.11.0+1.21.jar
+		- <b>Camerapture</b>: Camerapture-1.9.1+mc1.21.1-fabric.jar `->` Camerapture-1.10.0+mc1.21.1-fabric.jar
+		- <b>Skin Restorer</b>: skinrestorer-2.2.1+1.21-fabric.jar `->` skinrestorer-2.3.0+1.21-fabric.jar
+		- <b>Macaw's Fences and Walls</b>: mcw-fences-1.1.2-mc1.21.1fabric.jar `->` mcw-fences-1.2.0-1.21.1fabric.jar
+		- <b>Fzzy Config</b>: fzzy_config-0.6.7+1.21.jar `->` fzzy_config-0.6.8+1.21.jar
+		- <b>Resourceful Lib</b>: resourcefullib-fabric-1.21-3.0.11.jar `->` resourcefullib-fabric-1.21-3.0.12.jar
+		- <b>Accessories</b>: accessories-fabric-1.1.0-beta.34+1.21.1.jar `->` accessories-fabric-1.1.0-beta.35+1.21.1.jar
+		- <b>Sound Physics Remastered</b>: sound-physics-remastered-fabric-1.21.1-1.4.8.jar `->` sound-physics-remastered-fabric-1.21.1-1.4.10.jar
+		- <b>Cobblemon: Mega Showdown</b>: Cobblemon_MegaShowdown-7.3.0-release-fabric.jar `->` Cobblemon_MegaShowdown-8.2.0-release-fabric.jar
+		- <b>Polytone</b>: polytone-1.21-3.3.3-fabric.jar `->` polytone-1.21-3.3.4-fabric.jar
+		- <b>Cobblemon - Show Held Items</b>: show-held-items-0.2.1.jar `->` show-held-items-0.2.2.jar
+		- <b>3D Skin Layers</b>: skinlayers3d-fabric-1.7.4-mc1.21.jar `->` skinlayers3d-fabric-1.7.5-mc1.21.jar
+		- <b>More Radical Trainers</b>: MoreRadicalTrainers1.6.1.zip `->` MoreRadicalTrainers1.7.zip
+		- <b>Talk Balloons</b>: TalkBalloons-Fabric-1.21.1-1.1.5.jar `->` TalkBalloons-Fabric-1.21.1-1.1.6.jar
+		- <b>Illager Invasion</b>: IllagerInvasion-v21.1.3-1.21.1-Fabric.jar `->` IllagerInvasion-v21.1.4-1.21.1-Fabric.jar
+		</details>
+
+- Changes
+	- Options
+		- Enchantment glint is lowered to 75% to lessen the purple overlay on top of item.
+		- FOV Effects lowered to 50% in the event of mods that permanently affects your speed.
+	- Chat Patches
+		- Time Formatting `[HH:mm:ss]` to `#`
+		- Moved Time to hover 
+		- Username formatting `<User>` to `User:`
+		- Enabled CompactChat to consolidate alternating duplicate messages.
+	- Chat Notify - Ping noise changed to low pitch arrow hit.
+	- Dimension Viewer - Removed dimension in chat.
+	- Farmer's Delight - Food effect tooltip disabled.
+	- ModernFix - Re-disabled ModernFix's Dynamic Entity Renderers for mod compatibility. (Joy of Painting)
+	- Size Variation - Mod is now installed on both sides to get the size definition on the top left of summary.
+	- Spice of Life - Formula changed to default max HP to 20, but formula persists, but this time to gain max hp, you need to eat 40 unique foods. (This is so that players won't feel weak having 3 hearts only, but not make the formula lost potential extra hearts by increasing the unique food per heart to 6.)
+	- Sounds Mod - Removed mention. (Chat Notify does this)
+	- WATUT - Circle crop removed.
+	- Datapacks - Are all on the servers' side.
+- Removals
+	- Better Wolf Companion Mod - In favor of Doggy Talents.
+	- Chat Impressive Animation - A bit wonky with Exordium.
+	- CobbleBadges - Effects are too op artifically removed by increasing points to next tier to an unreachable amount.
+	- Cobblemon Capture XP - Too op. (For now)
+	- Effective - Rendering issues with lots of mods, just removed it.
+	- Farmer's Cutting: BetterNether - Leftover from removal of Better Nether.
+	- Hulis Z-Crystals - Replaced by Cobblemon: Mega Showdown.
+	- Satin Free Wakes - Obsolete as original Wakes mod is Satin (lib) free.
+	- Stone Cutter Damage - Other real mod was better than this datapack version.
+	- Toggle Item Frames - Fast Item Frames has this.
+	- Torchmaster - In favor of Mega Torch.
+	- Zoomify - Use Spyglass.
+- Fixes
+	- World creation on the very first download of the modpack, will no longer freeze the game indefinitely. (Sophisticated Core bug)
+	- Resourcepacks
+		- Some resourcepack got disabled after the update.
+			- Better Leaves - No more thin looking leaves
+		- Ordering of resourpacks - Made some entities look broken.
+			- Villagers - Doesn't look weird anymore.
+			- CobbleDollars - Merchant no longer looks broken.
+	- Inventory - Inventories with scroll no longer glitched seeing next row prematurely/off the UI.
+	- Fog - Can now be disabled, unknowingly fixed it somewhere in the last pack updates.
+	- Signs - Removed Effective, as it has issues with ImmediatelyFast Sign Text Buffering, and rendering stuff of other mods.
+	- Cobble Cafe - Now has models.
+	- Display Case Mod - No longer corrupts your player data when destroying a case with no lid.
+	- Farmer's Delight - Fixed duplicate effect description from conflicting mod.
+	- Joy of Painting - Paintings now render by disabling ModernFix's Dynamic Entity Renderers.
+	- KeybindsGalore Plus - Modifier keys are excluded again from opening the pie menu.
+	- Packet Fixer - Fixes `Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'clientbound/minecraft:custom_payload'`. (Hopefully)
+	- TOTW Modded FWaystones Compat - Fixed by forking and modifying the datapack to become 1.21.x+ compatible.
+- Optimization
+	- Load times - Data is relative to dev's PC, (HDD WD Black, compression on)
+		- -13 seconds - Removed Torchmaster, due to an error costing 13 seconds of load time.
+		- -6 seconds - Replaced Satin Free Wakes, due to an error thinking YACL library is not added.
+		- -9 seconds - Added Raise Sound Limit Simplified, due to sounds looking for it, costing 9 seconds of load time.
+</details>
+
+<details>
+<summary><b>
 v0.4 Alpha - Debloat and Update Update
 </b></summary>
 
@@ -12,7 +175,7 @@ v0.4 Alpha - Debloat and Update Update
 		- JEI Addons
 			- Effect
 			- Professions
-			- Resources - Somewhat replacement for Better Enchantment Book's tool compatibility tooltip.
+			- Resources - Somewhat replacement for Better Enchanted Book's tool compatibility tooltip.
 			- Beacons
 		- Cryonic Config (lib)
 			- Wasn't added before, for some reason wasn't necessary by mods that require it.
@@ -38,7 +201,7 @@ v0.4 Alpha - Debloat and Update Update
 
 		- <b>Bloo's Gacha Machine</b>: gachamachine-1.0.0.jar `->` gachamachine-1.1.0.jar
 		- <b>AlinLib</b>: AlinLib-fabric-2.1.0-alpha.6+mc1.21.jar `->` AlinLib-fabric-2.1.0-beta.1+mc1.21.jar
-		- <b>Collective</b>: collective-1.21.1-7.93.jar `->` collective-1.21.1-7.94.jar
+		- <b>Collective</b>: collective-1.21.1-7.93.jar `->` collective-1.21.1-8.1.jar
 		- <b>e4mc</b>: e4mc_minecraft-fabric-5.2.1.jar `->` e4mc_minecraft-fabric-5.3.0.jar
 		- <b>NetherPortalFix</b>: netherportalfix-fabric-1.21.1-21.1.1.jar `->` netherportalfix-fabric-1.21.1-21.1.3.jar
 		- <b>Jade 🔍</b>: Jade-1.21.1-Fabric-15.9.3.jar `->` Jade-1.21.1-Fabric-15.10.0.jar
@@ -118,7 +281,7 @@ v0.4 Alpha - Debloat and Update Update
 		- <b>CraftTweaker</b>: CraftTweaker-fabric-1.21.1-21.0.21.jar `->` CraftTweaker-fabric-1.21.1-21.0.24.jar
 		- <b>TxniLib</b>: txnilib-fabric-1.0.22-1.21.1.jar `->` txnilib-fabric-1.0.23-1.21.1.jar
 		- <b>Moonlight Lib</b>: moonlight-1.21-2.17.31-fabric.jar `->` moonlight-1.21-2.17.37-fabric.jar
-		- <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.3.5+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.2+1.21.1.jar
+		- <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.3.5+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.3+1.21.1.jar
 		- <b>YUNG's Better Strongholds</b>: YungsBetterStrongholds-1.21.1-Fabric-5.1.2.jar `->` YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar
 		- <b>Chisel Reborn</b>: chisel-fabric-1.21.1-1.8.2.jar `->` chisel-fabric-2.0.0+mc1.21.1.jar
 		- <b>Balm</b>: balm-fabric-1.21.1-21.0.23.jar `->` balm-fabric-1.21.1-21.0.34.jar
@@ -217,7 +380,7 @@ v0.3 Alpha - Stability, Datapacks, Performance, and WorldEdit Update
 		- Cobblemon Modded Drops - Datapack integration from other mods like Farmer's Delight.
 		- Last Resort - Utilizes the Shearems mod to shear certain pokemons for... food...
 	- Resourcepacks
-		- Beautiful Enchanted Books - Replaced with Beautiful Enchanted Books [Mod Edition]
+		- Beautiful Enchanted Books - Replaces Beautiful Enchanted Books [Mod Edition]
 		- Cobble Motion - Adds idle motions to Pokemons that doesn't have one.
 		- Cobble Folk - Adds skins to villagers, addition for Cobble Towns: Continued.
 		- RCT Trainers+ - Replaces RCT Animations

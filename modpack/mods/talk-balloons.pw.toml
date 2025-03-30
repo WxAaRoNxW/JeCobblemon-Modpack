@@ -1,13 +1,13 @@
 name = "Talk Balloons"
-filename = "TalkBalloons-Fabric-1.21.1-1.1.5.jar"
+filename = "TalkBalloons-Fabric-1.21.1-1.1.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/l3tS9WUS/versions/uWRdva0L/TalkBalloons-Fabric-1.21.1-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/l3tS9WUS/versions/CL7j3jHc/TalkBalloons-Fabric-1.21.1-1.1.6.jar"
 hash-format = "sha512"
-hash = "3697df8679fd715df29f2c36ef50b4cf7d42c054dfbb977729ccebfa6c6881decce71f0e6a8e690699010b3e149e95187ef6422b47340bf47d90bc0f44e98b39"
+hash = "efc0fedaffb29c16c272d1ac805e20e78248f03f0de599f47e270d656e40cd60aec2afa925bff75bb2256c4124deed2f4799770d7c41171f5fd70ca284f94194"
 
 [update]
 [update.modrinth]
 mod-id = "l3tS9WUS"
-version = "uWRdva0L"
+version = "CL7j3jHc"

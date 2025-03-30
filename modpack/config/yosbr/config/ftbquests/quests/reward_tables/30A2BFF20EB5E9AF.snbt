@@ -1,0 +1,39 @@
+{
+	id: "30A2BFF20EB5E9AF"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 8
+			id: "00ABDA3F13E06D6D"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+		}
+		{
+			count: 4
+			id: "607DE99BF83DA231"
+			item: {
+				count: 1
+				id: "cobblemon:quick_ball"
+			}
+		}
+		{
+			count: 4
+			id: "3E2802F2602FE707"
+			item: {
+				count: 1
+				id: "cobblemon:dusk_ball"
+			}
+		}
+		{
+			count: 4
+			id: "71A1AB718DC2A86F"
+			item: {
+				count: 1
+				id: "cobblemon:repeat_ball"
+			}
+		}
+	]
+}

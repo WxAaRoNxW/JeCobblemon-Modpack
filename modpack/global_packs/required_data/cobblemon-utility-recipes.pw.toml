@@ -1,6 +1,6 @@
 name = "Cobblemon Utility+ Recipes"
 filename = "Cobblemon Utility+ Recipes 1.5.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

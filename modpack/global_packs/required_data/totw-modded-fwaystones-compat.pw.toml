@@ -1,8 +1,8 @@
-name = "totw-modded-fwaystones-compat"
-filename = "TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+name = "TOTW Modded FWaystones Compat"
+filename = "TOTW-Modded-FWaystones-Compat-v1.1.0.zip"
 side = "server"
 
 [download]
-url = "https://github.com/HaXrDEV/TOTW-Modded-FWaystones-Compat/releases/download/v1.0.1/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
+url = "https://github.com/WxAaRoNxW/TOTW-Modded-FWaystones-Compat/releases/download/v1.1.0/TOTW-Modded-FWaystones-Compat-v1.1.0.zip"
 hash-format = "sha256"
-hash = "15095fc13e49b24437e5f3024f43aae5d5af6e45a17072c944aabaf70d969a59"
+hash = "5b5e89187c6adab88cf34270496a1d8c7771261052b62698dff7faff36bb1535"

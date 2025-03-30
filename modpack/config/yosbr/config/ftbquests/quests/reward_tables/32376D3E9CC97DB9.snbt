@@ -1,0 +1,47 @@
+{
+	id: "32376D3E9CC97DB9"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 6
+			id: "57F4F47FD62B86AA"
+			item: {
+				count: 1
+				id: "cobblemon:park_ball"
+			}
+		}
+		{
+			count: 6
+			id: "4037A895BB53799E"
+			item: {
+				count: 1
+				id: "cobblemon:dive_ball"
+			}
+		}
+		{
+			count: 6
+			id: "60828E7300116E17"
+			item: {
+				count: 1
+				id: "cobblemon:lure_ball"
+			}
+		}
+		{
+			count: 6
+			id: "4C3B331A3B9D08A5"
+			item: {
+				count: 1
+				id: "cobblemon:moon_ball"
+			}
+		}
+		{
+			count: 6
+			id: "703ACFD1D03D79E8"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+		}
+	]
+}

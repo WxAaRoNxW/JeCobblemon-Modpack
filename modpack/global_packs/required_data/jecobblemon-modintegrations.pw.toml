@@ -1,0 +1,7 @@
+name = "JeCobblemon ModIntegrations"
+filename = "JeCobblemon-ModIntegrations-v0.3.zip"
+
+[download]
+url = "https://github.com/WxAaRoNxW/JeCobblemon-Modpack/releases/download/ModIntegrations-v0.3/JeCobblemon-ModIntegrations-v0.3.zip"
+hash-format = "sha256"
+hash = "eca86e6644823b70f0c858563d597c607c1dea3fde42f3d427f6731321d4904f"

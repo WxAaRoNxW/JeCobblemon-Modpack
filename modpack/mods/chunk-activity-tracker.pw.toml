@@ -1,0 +1,13 @@
+name = "Chunk Activity Tracker"
+filename = "chunkactivitytracker-fabric-1.0.1-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BNuR43mM/versions/6cklU8xZ/chunkactivitytracker-fabric-1.0.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "85782f456a8c84b8a0213b2cb86215fef1978c9fbb33b437c88f1113d1c3a9611579889b49c0617bd8be467f28cba0fd6ae2d747d693e1fb1cebb0e6a80ff2dc"
+
+[update]
+[update.modrinth]
+mod-id = "BNuR43mM"
+version = "6cklU8xZ"

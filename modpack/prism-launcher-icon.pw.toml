@@ -1,0 +1,7 @@
+name = "Prism Launcher Icon"
+filename = "icon.png"
+
+[download]
+url = "https://i.imgur.com/44erXUA.png"
+hash-format = "sha256"
+hash = "4eacd7b3607fd88949d0dfe57e7baa6b6e547705375c8eef6b24855896c10673"

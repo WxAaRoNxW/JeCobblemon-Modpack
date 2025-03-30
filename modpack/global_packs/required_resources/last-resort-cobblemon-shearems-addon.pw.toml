@@ -1,5 +1,6 @@
 name = "Last Resort v.1.1 [Cobblemon Shearems Addon]"
 filename = "Last Resort Cobblemon V.1.1 Resourcepack.zip"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dJqe8Avc/versions/ZHfsCr1t/Last%20Resort%20Cobblemon%20V.1.1%20Resourcepack.zip"

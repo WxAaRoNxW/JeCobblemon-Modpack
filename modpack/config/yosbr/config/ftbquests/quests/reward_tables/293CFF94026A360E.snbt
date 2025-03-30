@@ -1,0 +1,11 @@
+{
+	id: "293CFF94026A360E"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "080489A219717CDF", item: { count: 1, id: "cobblemon:master_ball" } }
+		{ id: "30B0C219BC7535A1", item: { count: 1, id: "cobblemon:ancient_origin_ball" } }
+		{ id: "7B952A91B88B1276", item: { count: 1, id: "cobblemon:ability_capsule" } }
+		{ id: "080735E7FA36CA12", item: { count: 1, id: "cobblemon:ability_patch" } }
+	]
+}

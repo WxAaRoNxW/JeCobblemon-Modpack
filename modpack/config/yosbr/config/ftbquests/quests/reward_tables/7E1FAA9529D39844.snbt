@@ -1,0 +1,41 @@
+{
+	id: "7E1FAA9529D39844"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 3
+			id: "2187892BC78AD55F"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_xs"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "0ABFAEC3C176A809"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_s"
+			}
+		}
+		{
+			count: 2
+			id: "59F7022A1695C544"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_m"
+			}
+			weight: 0.75f
+		}
+		{
+			id: "5126583F54A9F9C9"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_l"
+			}
+			weight: 0.5f
+		}
+	]
+}

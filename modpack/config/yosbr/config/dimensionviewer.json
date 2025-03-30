@@ -1,0 +1,15 @@
+{
+    "listFormat": "%i<%d>",
+    "dimensionPosition": "APPEND",
+    "defaultColor": "DARK_AQUA",
+    "overworldColor": "DARK_GREEN",
+    "netherColor": "DARK_RED",
+    "endColor": "DARK_PURPLE",
+    "perDimColor": true,
+    "dimInChatName": false,
+    "chatDimHover": true,
+    "enableAliases": true,
+    "moddedDimensions": [],
+    "dimensionAliases": [],
+    "customColors": []
+  }
