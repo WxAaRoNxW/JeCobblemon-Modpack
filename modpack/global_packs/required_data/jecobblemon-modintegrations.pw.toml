@@ -1,5 +1,6 @@
 name = "JeCobblemon ModIntegrations"
 filename = "JeCobblemon-ModIntegrations-v0.3.zip"
+side = "server"
 
 [download]
 url = "https://github.com/WxAaRoNxW/JeCobblemon-Modpack/releases/download/ModIntegrations-v0.3/JeCobblemon-ModIntegrations-v0.3.zip"
