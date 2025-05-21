@@ -1,0 +1,13 @@
+name = "Cobblemon Repel"
+filename = "CobblemonRepel-1.6-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u8TYP2M6/versions/v1eU96M0/CobblemonRepel-1.6-1.1.jar"
+hash-format = "sha512"
+hash = "0bf280f276dce28d6e3ee254c094d1cf0989a7d70f33c3d77be40180e015e926da0ae2703b3d43b667f3e1f19dbe1f8938b28b77ac5070ba34864c1bf6692f1e"
+
+[update]
+[update.modrinth]
+mod-id = "u8TYP2M6"
+version = "v1eU96M0"

@@ -49,13 +49,13 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","moonlight:mods_dynamic_assets","$polymer-resources","cobblemon:regionbiasforms","cobblemon:gyaradosjump","seasons:seasonal_lush_caves","file/Cobblemon Interface v1.4.0.zip","file/Cobblemon Interface Modded v1.7.0.zip","file/EvenBetterEnchants_v2_r1.zip","file/Icon Xaero\u0027s 1.2 HF.zip","file/E19 Cobblemon Minimap Icons.zip","file/Fast Better Grass.zip","file/Better-Leaves-9.0.zip","supplementaries_knowlogy:supplementaries","knowlogy:9999_minecraft","knowlogy:7899_tricky_trials","cobblemon_knowlogy:cobblemon","knowlogy:tutorial","cobblemon_knowlogy:cobblemonrider","better-snow-coverage:z-fighting"]
-incompatibleResourcePacks:["ambientenvironment","appleskin","automodpack","badoptimizations","balm-fabric","bcc","bebooks","betteradvancements","biolith","bookshelf","carryon","chatnotify","cherishedworlds","chunksending","cobblemon_knowlogy","cobblemon_spawn_notification","connectivity","constructionwand","controlling","cookingforblockheads","craftingtweaks","crafttweaker","display_case","elixirum","emojiful","enchdesc","fancymenu","farmingforblockheads","forgivingvoid","framework","ibo","immersiveui","jade","jadeaddons","jei","knowlogy","konkrete","mcwdoors","memorysettings","mes","mmv","mns","modernfix","mr_stonecutter_damage","mru","mss","mvs","netherportalfix","polymorph","refurbished_furniture","searchables","smoothchunk","sodiumextras","sodiumleafculling","sodiumoptionsapi","sodiumoptionsmodcompat","sophisticatedcore","sophisticatedstorage","sophisticatedstorageinmotion","spark","subtle_effects","supplementaries_knowlogy","terrablender","torchmaster","trashslot","txnilib","veil","waterframes","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","moonlight:mods_dynamic_assets","$polymer-resources","cobblemon:regionbiasforms","cobblemon:gyaradosjump","seasons:seasonal_lush_caves","file/Cobblemon Interface v1.4.0.zip","file/Cobblemon Interface Modded v1.7.0.zip","file/FreshAnimations_v1.9.2.zip","file/Icon Xaero\u0027s 1.2 HF.zip","file/Icon Fresh 1.1.zip","file/E19 Cobblemon Minimap Icons.zip","file/Fast Better Grass.zip","file/Better-Leaves-9.0.zip","supplementaries_knowlogy:supplementaries","knowlogy:9999_minecraft","knowlogy:7899_tricky_trials","cobblemon_knowlogy:cobblemon","knowlogy:tutorial","cobblemon_knowlogy:cobblemonrider","better-snow-coverage:z-fighting","minecraft:udpresencefootsteps","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/RCT Trainer Animation_0.2.1beta.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","balm-fabric","bcc","bebooks","betteradvancements","betterendelytrafix","biolith","bookshelf","carryon","chatnotify","cherishedworlds","cobblemon_knowlogy","cobblemon_spawn_notification","constructionwand","controlling","cookingforblockheads","craftingtweaks","crafttweaker","display_case","elixirum","emojiful","enchdesc","fancymenu","farmingforblockheads","forgivingvoid","framework","ibo","immersiveui","jade","jadeaddons","jei","kiwi","knowlogy","konkrete","mcwdoors","mes","mmv","mns","modernfix","mr_hit_thedummy","mr_stonecutter_damage","mru","mss","mvs","mynethersdelight","netherportalfix","polymorph","refurbished_furniture","searchables","skinrestorer","sodiumextras","sodiumleafculling","sodiumoptionsapi","sodiumoptionsmodcompat","sophisticatedcore","sophisticatedstorage","sophisticatedstorageinmotion","spark","spawn_point","subtle_effects","supplementaries_knowlogy","terrablender","torchmaster","trashslot","txnilib","veil","waterframes","watut","waystones","xaerominimap","xaeroworldmap","xercapaint","yet_another_config_lib_v3"]
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
-textBackgroundOpacity:0.5070422440767288
+textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:true
@@ -357,15 +357,15 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
-soundCategory_master:0.5011037527593818
-soundCategory_music:0.1056338028169014
+soundCategory_master:0.5
+soundCategory_music:0.10
 soundCategory_record:1.0
-soundCategory_weather:0.15492957746478872
+soundCategory_weather:0.15
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.25586854460093883
+soundCategory_ambient:0.25
 soundCategory_voice:1.0
 soundCategory_custom:1.0
 modelPart_cape:true
