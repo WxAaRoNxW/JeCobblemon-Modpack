@@ -1,0 +1,1 @@
+A datapack to add custom Gym Badge drops from Radical Cobblemon Trainers

@@ -1,0 +1,1 @@
+A resourcepack to add custom Gym Badge textures from Cobblemon Pokemon Badges
