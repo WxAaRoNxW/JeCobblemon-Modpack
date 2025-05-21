@@ -2,6 +2,57 @@
 
 <details open>
 <summary><b>
+v0.6 Alpha - Cobble Loots, Discord Integration, and Storage Network Update
+</b></summary>
+
+- Additions
+	- Cobblemon
+		- Cobbleloots: Loot Balls and More! - Re-added, natural generation exists.
+		- Cobblemon Parts Refabricated - Adds parts recipes for Poke Balls. (like Pixelmon's crafting)
+	- AsyncParticles - Particles tick/renders in different threads.
+	- Carbasa - More paintings.
+	- Discord Integration - Mod that bridges Discord and Minecraft, including cross chats.
+	- Improved Village Placement - Prevents villages spawning in mountainous terrain, looking very borked, CTOV especially.
+	- SpawnAnywhere - Replacement for SpawnPoint.
+	- Server Pack Unlocker - Let's you move around the required resource pack in case players plan to add resourcepack as the required ones moves to the bottom and won't be fixed until players restart their game.
+	- Tom's Simple Storage - Mod that consolidates storage blocks into a simplified storage viewer.
+	- Tom's Simple Storage Knowlogy - Tutorial pages for TSS.
+	- [Late Game] Tom's Simple Storage - Datapack modifying TSS's recipes.
+- Changes
+	- Recipes
+		- Cobblemon Parts Refabricated - Disabled recipe for...
+			- Cherish Ball, Base, and Lid
+			- Ancient Origin Ball, Base, and Lid
+		- Cobblemon Smartphone - Changed recipe to contain a healing machine, pc, and ender chest.
+		- Cobblemon Utility+ - All recipes removed.
+		- You're in Grave Danger
+			- Death Scroll - Item that teleports you to your grave, custom recipe using a key and enderpearl.
+	- Github based files now auto-updates. (backend)
+		- JeCobblemon Mod Integration (not included as it's a part of the modpack and packwiz has an issue where it only checks the latest release and not all.)
+		- TOTW Modded FWaystones Compat
+	- Options
+		- Changed Craft Presence keybind (wasn't fixed in last update for some reason).
+		- Resourcepack defaults.
+	- Cobblemon Smartphone - Changed healing time to 300 seconds per team heal, to avoid overly depending on Smartphones to battle. (since 60 seconds is too short, that time probably already passes when you're battling a strong pokemon and you got a wipe)
+	- JeCobblemon Mod Integration - Changed side to "server".
+	- Polymer - Changed to "Both" sides.
+	- TOTW Modded FWaystones Compat - Changed side to "server".
+- Removals
+	- Village Spawn Point - Doesn't work for multiworld overworld dimensions. Additionally, mining world and main world are merged using chunky, so it's unnecessary.
+	- SpawnPoint - Works, but spawn coordinate is not configurable. (Was supposed to be removed since v0.3)
+	- Chunk Debug - Doesn't seem to work + UI incompatibility.
+	- No Collision - Annoying message in server, probably not that bad.
+	- VinURL - Not that great socially, music isn't synced. Use BlockBeats and a YT downloader instead.
+	- Spark - Not necessary in production.
+	- Voice Chat Soundboard - Assumed players won't really use it religiously.
+	- Command Books - Unnecessary.
+- Fixes
+	- Fabric Waystones (Wraith's Waystones) - Absurd amount of waystones. Fixed by building a forked repo that fixes it, will rebase in the future if an official one is fixed.
+
+</details>
+
+<details>
+<summary><b>
 v0.5 Alpha - Quests! and More Update
 </b></summary>
 
@@ -111,6 +162,7 @@ v0.5 Alpha - Quests! and More Update
 	- Options
 		- Enchantment glint is lowered to 75% to lessen the purple overlay on top of item.
 		- FOV Effects lowered to 50% in the event of mods that permanently affects your speed.
+	- Artifacts - Everlasting Beef/Steak disabled.
 	- Chat Patches
 		- Time Formatting `[HH:mm:ss]` to `#`
 		- Moved Time to hover 
@@ -161,6 +213,8 @@ v0.5 Alpha - Quests! and More Update
 		- -13 seconds - Removed Torchmaster, due to an error costing 13 seconds of load time.
 		- -6 seconds - Replaced Satin Free Wakes, due to an error thinking YACL library is not added.
 		- -9 seconds - Added Raise Sound Limit Simplified, due to sounds looking for it, costing 9 seconds of load time.
+- Known Issues
+	- Fabric Waystones (Wraith's Waystones) - Absurd amount of waystones still spawning with lithostitch/CTOV mod.
 </details>
 
 <details>

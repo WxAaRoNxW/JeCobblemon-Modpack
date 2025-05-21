@@ -6,3 +6,10 @@ side = "server"
 url = "https://github.com/WxAaRoNxW/TOTW-Modded-FWaystones-Compat/releases/download/v1.1.0/TOTW-Modded-FWaystones-Compat-v1.1.0.zip"
 hash-format = "sha256"
 hash = "5b5e89187c6adab88cf34270496a1d8c7771261052b62698dff7faff36bb1535"
+
+[update]
+[update.github]
+branch = "main"
+regex = ".*\\.zip"
+slug = "WxAaRoNxW/TOTW-Modded-FWaystones-Compat"
+tag = "v1.1.0"

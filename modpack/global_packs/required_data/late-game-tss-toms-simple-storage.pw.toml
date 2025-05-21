@@ -1,0 +1,13 @@
+name = "Late-Game TSS [Tom's Simple Storage]"
+filename = "LategameTSS.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RKQmV5yM/versions/GH4N4gqN/LategameTSS.zip"
+hash-format = "sha512"
+hash = "0e8caf47a96dd04679560d0c04bc2ab2b2008c921b25eee45ff999079a2f646bf0a5b4846e90a256ce2399a7b04a985c4e7ec7c588e8af04ad58d8f85896cf56"
+
+[update]
+[update.modrinth]
+mod-id = "RKQmV5yM"
+version = "GH4N4gqN"
