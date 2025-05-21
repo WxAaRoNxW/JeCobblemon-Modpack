@@ -1,0 +1,4 @@
+{
+	"minHp": 20.0,
+	"formula": "6 + 2 * floor(foodsEaten / 5)"
+}

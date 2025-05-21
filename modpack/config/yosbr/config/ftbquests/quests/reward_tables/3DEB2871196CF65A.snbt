@@ -1,0 +1,25 @@
+{
+	id: "3DEB2871196CF65A"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "0CCEE5CC4C17D5DF", item: { count: 1, id: "cobblemon:black_belt" } }
+		{ id: "6F7E184849CCF45E", item: { count: 1, id: "cobblemon:black_glasses" } }
+		{ id: "05C1FD7E049738A4", item: { count: 1, id: "cobblemon:charcoal_stick" } }
+		{ id: "142EABC9A90C959F", item: { count: 1, id: "cobblemon:dragon_fang" } }
+		{ id: "0FDAAD640E17EE61", item: { count: 1, id: "cobblemon:fairy_feather" } }
+		{ id: "5B8E787E8D8E80DC", item: { count: 1, id: "cobblemon:hard_stone" } }
+		{ id: "6D3094891497511C", item: { count: 1, id: "cobblemon:magnet" } }
+		{ id: "7E37C02A74B33D0F", item: { count: 1, id: "cobblemon:metal_coat" } }
+		{ id: "626DE39111570DA0", item: { count: 1, id: "cobblemon:silver_powder" } }
+		{ id: "1B5C52295ED7C946", item: { count: 1, id: "cobblemon:miracle_seed" } }
+		{ id: "223F5C4E0B6150F9", item: { count: 1, id: "cobblemon:twisted_spoon" } }
+		{ id: "7356315055AB313E", item: { count: 1, id: "cobblemon:mystic_water" } }
+		{ id: "669A1C0775815B88", item: { count: 1, id: "cobblemon:never_melt_ice" } }
+		{ id: "12C26DA0BF20B741", item: { count: 1, id: "cobblemon:poison_barb" } }
+		{ id: "5BCD0BF7B4946903", item: { count: 1, id: "cobblemon:sharp_beak" } }
+		{ id: "145F7AC0CDFD3666", item: { count: 1, id: "cobblemon:silk_scarf" } }
+		{ id: "22C1705C8B634F0E", item: { count: 1, id: "cobblemon:soft_sand" } }
+		{ id: "18A1941AA1215632", item: { count: 1, id: "cobblemon:spell_tag" } }
+	]
+}

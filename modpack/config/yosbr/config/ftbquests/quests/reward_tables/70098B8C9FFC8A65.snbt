@@ -1,0 +1,9 @@
+{
+	id: "70098B8C9FFC8A65"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ id: "5FAB3A9AFE26D25E", item: { count: 1, id: "cobblemon:ability_capsule" } }
+		{ id: "2B83BF02F4F1E043", item: { count: 1, id: "cobblemon:ability_patch" } }
+	]
+}

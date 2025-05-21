@@ -1,13 +1,13 @@
 name = "Cobblemon - Show Held Items"
-filename = "show-held-items-0.2.1.jar"
+filename = "show-held-items-0.2.2.jar"
 side = "client"
 
 [download]
-url = 'https://cdn.modrinth.com/data/bDx3sk7a/versions/cHx3V4fb/show-held-items-0.2.1.jar'
-hash = "afa54ac1c013c42eb9b670d61faeb3784b071e64d110f5c359383590912382e3757584957315fc6a401d40e058001795d3d6c107272b2c415bf83846ef4ad235"
+url = "https://cdn.modrinth.com/data/bDx3sk7a/versions/ejYCxAg8/show-held-items-0.2.2.jar"
 hash-format = "sha512"
+hash = "f97153743c0044fa09da3dc1de575ee8a5c3b45aadff8e41f7ca1549f549ea2ab61416c602a4d167fe94b4121204e62c93dfd8736fd0f265a77a423a18aa9b84"
 
 [update]
 [update.modrinth]
-mod-id = 'bDx3sk7a'
-version = 'cHx3V4fb'
+mod-id = "bDx3sk7a"
+version = "ejYCxAg8"

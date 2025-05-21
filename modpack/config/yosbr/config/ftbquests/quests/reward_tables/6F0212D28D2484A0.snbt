@@ -1,0 +1,41 @@
+{
+	id: "6F0212D28D2484A0"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 3
+			id: "764D43567DCA9138"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 2
+			id: "09E7BB2944104AB6"
+			item: {
+				count: 1
+				id: "cobblemon:super_potion"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "3597AAB604B666C9"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "290A4440203B8463"
+			item: {
+				count: 1
+				id: "cobblemon:max_potion"
+			}
+			weight: 0.25f
+		}
+	]
+}
