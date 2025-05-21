@@ -1,0 +1,1 @@
+A datapack to integrate mods together from the [JeCobblemon Modpack](https://github.com/WxAaRoNxW/JeCobblemon-Modpack)
