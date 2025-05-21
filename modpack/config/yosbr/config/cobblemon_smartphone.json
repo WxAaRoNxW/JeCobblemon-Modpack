@@ -1,0 +1,7 @@
+{
+  "cooldowns": {
+    "healButton": 300,
+    "pcButton": 0,
+    "cloudButton": 0
+  }
+}
