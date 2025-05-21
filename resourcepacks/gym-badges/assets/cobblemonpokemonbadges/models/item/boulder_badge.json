@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cobblemonpokemonbadges:item/boulder_badge"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 52901
+      },
+      "model": "jecobblemon:badges/leaf_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52902
+      },
+      "model": "jecobblemon:badges/vision_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52903
+      },
+      "model": "jecobblemon:badges/wing_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52904
+      },
+      "model": "jecobblemon:badges/fall_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52905
+      },
+      "model": "jecobblemon:badges/battery_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52906
+      },
+      "model": "jecobblemon:badges/ring_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52907
+      },
+      "model": "jecobblemon:badges/swamp_badge"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52908
+      },
+      "model": "jecobblemon:badges/time_badge"
+    }
+  ]
+}
