@@ -1,0 +1,13 @@
+name = "CobbleCuisine Delight"
+filename = "CobbleCuisineDelight1.0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9kN1Ue1/versions/B9E1VVaV/CobbleCuisineDelight1.0.zip"
+hash-format = "sha512"
+hash = "2ef568e62fb209f3b022e4e523399cd00bd4eed3fa32a1cd163774568139929dbd3570866d476b696d3b75c13a91adb39e225bb3ec590461805d2f654f25b27c"
+
+[update]
+[update.modrinth]
+mod-id = "F9kN1Ue1"
+version = "B9E1VVaV"

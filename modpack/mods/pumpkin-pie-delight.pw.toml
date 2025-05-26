@@ -1,13 +1,13 @@
 name = "Pumpkin Pie Delight"
-filename = "pumpkin_pie_delight-1.0.1+1.21.jar"
+filename = "pumpkin_pie_delight-1.0.2+1.21.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/AhcCiL7x/versions/wjyGbltR/pumpkin_pie_delight-1.0.1%2B1.21.jar'
-hash = "04c3aa5b0b575fa65f58c6fd331b6c67f44b8c939c220b71f51b0f8dd5faddefb9ca1e733f15cabc9678c88b5b0580aadff3e2d306b492ab42159a35d9c68de9"
+url = "https://cdn.modrinth.com/data/AhcCiL7x/versions/Cvc7c7rN/pumpkin_pie_delight-1.0.2%2B1.21.jar"
 hash-format = "sha512"
+hash = "1a570b21a772c3a282df866bc2da997e8f7ef47eeb691a5f2ed60f148bfa9ea464249656c60d5ddf96f6e6cf18b08d09aba7c0aa15357e0c1ae0d95db1defa95"
 
 [update]
 [update.modrinth]
-mod-id = 'AhcCiL7x'
-version = 'wjyGbltR'
+mod-id = "AhcCiL7x"
+version = "Cvc7c7rN"

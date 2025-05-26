@@ -1,13 +1,13 @@
 name = "Myths and Legends [Cobblemon Sidemod]"
-filename = "MythsAndLegends-fabric-1.7.2.jar"
+filename = "MythsAndLegends-neoforge-1.7.2-Hotfix.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/CaOWby9K/versions/dB1jjpfx/MythsAndLegends-fabric-1.7.2.jar'
-hash = "9e7392f2759105f2b658f62a7e1e78510fe371df63e0d8c15ef124ad12aa9244c054e490e79e8d02733f7a3ef584cf4b0580bdd4a77a666da7b99e31f4a4d1fc"
+url = "https://cdn.modrinth.com/data/CaOWby9K/versions/jsHH8MxU/MythsAndLegends-neoforge-1.7.2-Hotfix.jar"
 hash-format = "sha512"
+hash = "dec966aa8c252efecec2eb748ea5906e5426ac9e7c4795ea5243879d518c3f625041454d7993e7b052e27e0189eb80d5bdb7f94672472176cafbf3d5ffc653f2"
 
 [update]
 [update.modrinth]
-mod-id = 'CaOWby9K'
-version = 'dB1jjpfx'
+mod-id = "CaOWby9K"
+version = "jsHH8MxU"

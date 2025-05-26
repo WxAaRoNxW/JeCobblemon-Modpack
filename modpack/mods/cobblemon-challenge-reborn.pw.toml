@@ -1,0 +1,13 @@
+name = "Cobblemon Challenge Reborn"
+filename = "cobblemonchallenge-fabric-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y89vmjB6/versions/cjZZ09sj/cobblemonchallenge-fabric-2.1.1.jar"
+hash-format = "sha512"
+hash = "459828334650ade369107cdcadbfee8774ceeb019babb2abf1ca814d758c931fbdd267d694892450d5e063e21995685ea2970f08a409a538fcc8ea6593bb6697"
+
+[update]
+[update.modrinth]
+mod-id = "Y89vmjB6"
+version = "cjZZ09sj"

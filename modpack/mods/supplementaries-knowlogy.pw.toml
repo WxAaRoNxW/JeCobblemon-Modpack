@@ -1,13 +1,13 @@
 name = "Supplementaries Knowlogy"
-filename = "supplementaries_knowlogy-fabric-0.3.0-1.21.1.jar"
+filename = "supplementaries_knowlogy-fabric-0.4.0-1.21.1.jar"
 side = "client"
 
 [download]
-url = 'https://cdn.modrinth.com/data/wySf9XGm/versions/R4Dclle0/supplementaries_knowlogy-fabric-0.3.0-1.21.1.jar'
-hash = "34e9126f5ba07acaf5251584d661504169a26a699cde6f7d3e88728eeaed661cbc7881aef333e8a98d4612af66a4ab2b645d219ea67c834da0431660b758a6d2"
+url = "https://cdn.modrinth.com/data/wySf9XGm/versions/dibH19E8/supplementaries_knowlogy-fabric-0.4.0-1.21.1.jar"
 hash-format = "sha512"
+hash = "15fc456e3105885a4c69f229fcec2b4cfbdce087e9a4d113e424a200f7802ccb053e31bf615ee0fadda01ff7a5e394cae526cd0f90d6602eb282a18922271d5d"
 
 [update]
 [update.modrinth]
-mod-id = 'wySf9XGm'
-version = 'R4Dclle0'
+mod-id = "wySf9XGm"
+version = "dibH19E8"

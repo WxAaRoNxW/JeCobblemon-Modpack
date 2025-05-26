@@ -1,13 +1,13 @@
 name = "Towers of the Wild Modded"
-filename = "totw_modded-fabric-1.21-1.0.5.jar"
+filename = "totw_modded-fabric-1.21-1.0.7.jar"
 side = "server"
 
 [download]
-url = 'https://cdn.modrinth.com/data/54eqfZSC/versions/bjIYTdLT/totw_modded-fabric-1.21-1.0.5.jar'
-hash = "057e9e261ae7ecc73cd238e5d427127d82d2658ea8eec52fd2a821f2b2d6b9c05b17379d67bfd82ed523a3234ed047c513343a12b38bf4c963977959e41be4ca"
+url = "https://cdn.modrinth.com/data/54eqfZSC/versions/yPGv8N19/totw_modded-fabric-1.21-1.0.7.jar"
 hash-format = "sha512"
+hash = "c33baf30cdb41ec34a67f641b4c5be01c902855fd92512de990214a6c3b76afe761efb92a7e6213d5c104cf3449788d17021fd2538812e0dc0bf935b6653ac0b"
 
 [update]
 [update.modrinth]
-mod-id = '54eqfZSC'
-version = 'bjIYTdLT'
+mod-id = "54eqfZSC"
+version = "yPGv8N19"

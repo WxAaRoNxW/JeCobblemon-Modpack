@@ -1,0 +1,13 @@
+name = "Cobblemon Capture Notification"
+filename = "cobblemon-capture-notification-1.6-fabric-1.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/viiA1zKx/versions/jILa2qJH/cobblemon-capture-notification-1.6-fabric-1.3.0.jar"
+hash-format = "sha512"
+hash = "c120de68ab730a82e1f05d7d8d04e9b6a72c9c9f3cd1e0381620dc06d1e46809f455445e7d37837c0d13b859e140907a7aaa578c529473fd9d45121d0d6986bb"
+
+[update]
+[update.modrinth]
+mod-id = "viiA1zKx"
+version = "jILa2qJH"

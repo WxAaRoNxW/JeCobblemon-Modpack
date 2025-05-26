@@ -1,13 +1,13 @@
 name = "Command Structures"
-filename = "command_structures-4.4.1+1.21.jar"
+filename = "command_structures-4.4.2+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEfvvlnl/versions/kXLUSTsR/command_structures-4.4.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/WEfvvlnl/versions/HM0HTAjb/command_structures-4.4.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "bf079e9292b8e88546063c2aae09c85a6fa2b9cbe6d3739089bdbf96b331110f1a073b01600759c63df7650e3d14506464ea355e0cf2792f17627da8a77f964f"
+hash = "4671966e97f2717ed331c4f714fded12b9ddcca889e9076e4e9507b49ec520ef25f0cd67228cf3e7c9eb9943d505f497bbd22dddc76dc1f8ed68925e4cf22c8c"
 
 [update]
 [update.modrinth]
 mod-id = "WEfvvlnl"
-version = "kXLUSTsR"
+version = "HM0HTAjb"
