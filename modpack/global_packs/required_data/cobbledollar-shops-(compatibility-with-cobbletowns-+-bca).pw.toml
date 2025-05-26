@@ -1,0 +1,13 @@
+name = "CobbleDollar Shops"
+filename = "CobbleTowns_BCA_CobbleDollar Shops.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpihtiMZ/versions/gtBP3hIC/CobbleTowns_BCA_CobbleDollar%20Shops.zip"
+hash-format = "sha512"
+hash = "b35af2a6866e6788920d9bd4b5612446566ab729e4701d49913df7ba101f6c72d32eb5b1a51bf041cf182802e6b652c0f1bdbc63e4f81bec538d05f4e4536023"
+
+[update]
+[update.modrinth]
+mod-id = "MpihtiMZ"
+version = "gtBP3hIC"

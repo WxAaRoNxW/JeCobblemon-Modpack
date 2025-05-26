@@ -1,13 +1,13 @@
 name = "More Compatibility Variants (Oh The Biomes We've Gone)"
-filename = "more-compatibility-variants-otbwg-1.0.1.jar"
+filename = "more-compatibility-variants-otbwg-1.0.3+1.21(.1).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jwSzLWcy/versions/zbOEdTKb/more-compatibility-variants-otbwg-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/jwSzLWcy/versions/Mld6ggNr/more-compatibility-variants-otbwg-1.0.3%2B1.21%28.1%29.jar"
 hash-format = "sha512"
-hash = "1049f6624cc8f64d426f6f87448269af256e1e66f6864f1a08b70e6d1644a90fbe01ed6bb9efe99884c94bd5dd29d82c1b860efdd2ad1a5c13fa0822a39f02a1"
+hash = "255fabe201a9758899cd89ce92616e3cb3d80d50e9044e1c4bc61ec0261190d56a0d36e6c3b0d2898d7a0a0c1024e745ca7e010db1a7b8b1a53f65c44828a7fc"
 
 [update]
 [update.modrinth]
 mod-id = "jwSzLWcy"
-version = "zbOEdTKb"
+version = "Mld6ggNr"

@@ -1,13 +1,13 @@
 name = "Cobblemon Utility+ Recipes"
-filename = "Cobblemon Utility+ Recipes 1.5.zip"
+filename = "Cobblemon Utility+ Recipes 1.6.zip"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "db763a993330e0379661fc1767f1dd4b59d09a9c"
+hash = "22f482dc83589c0b8d2610ca3f5c98a23d7d353e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6333259
+file-id = 6527788
 project-id = 1211144

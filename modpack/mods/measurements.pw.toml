@@ -1,13 +1,13 @@
 name = "Measurements"
-filename = "Measurements-fabric-1.21-3.0.0.jar"
+filename = "Measurements-fabric-1.21.1-3.0.1.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/wLINU2AB/versions/VpE4WZPZ/Measurements-fabric-1.21-3.0.0.jar'
-hash = "518e74ad0706c62f1f1aa6b567091daf9847f8a7d3324ddc65d306dc4e066d04931f4f833b6fda5f42bae74c942e5c3782fb4bcdf36cb4c5be52da33ed0ee137"
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/rTVC0Yj8/Measurements-fabric-1.21.1-3.0.1.jar"
 hash-format = "sha512"
+hash = "99cee92c4be15cdc60658ac1c31743e02f9fc6d92065d34a9f7942f3d144226063faeea462b1a321ad62bc54069cdece924daa491702d1038bf86ed10f159282"
 
 [update]
 [update.modrinth]
-mod-id = 'wLINU2AB'
-version = 'VpE4WZPZ'
+mod-id = "wLINU2AB"
+version = "rTVC0Yj8"

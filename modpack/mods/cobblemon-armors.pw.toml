@@ -1,13 +1,13 @@
 name = "Cobblemon Armors"
-filename = "cobblemon-armors-1.4.0+1.6.1.jar"
+filename = "cobblemon-armors-1.5.0+1.6.1.jar"
 side = "both"
 
 [download]
-url = 'https://cdn.modrinth.com/data/WwDbGW1s/versions/A4AklQQc/cobblemon-armors-1.4.0%2B1.6.1.jar'
-hash = "4c239236dd4c368923b6f08ea42562be5fd570257170e2e89d33889d4b8b33fcb5dbae1587874b42b314de016f5ed118222a1861f6779fd150c9c62d14cf4b7f"
+url = "https://cdn.modrinth.com/data/WwDbGW1s/versions/POaY9vrT/cobblemon-armors-1.5.0%2B1.6.1.jar"
 hash-format = "sha512"
+hash = "c4caec1de139ad479108ebdd0679a1a37dd6d01cc421d252ed5c2bbdec1fc9172342447ac2657c844ad0aeff4e656567af05c71cabd8f0daf3b972d84333e32c"
 
 [update]
 [update.modrinth]
-mod-id = 'WwDbGW1s'
-version = 'A4AklQQc'
+mod-id = "WwDbGW1s"
+version = "POaY9vrT"

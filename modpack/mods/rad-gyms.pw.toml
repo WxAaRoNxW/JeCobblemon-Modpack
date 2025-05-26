@@ -1,13 +1,13 @@
 name = "Rad Gyms [Cobblemon]"
-filename = "Rad Gyms [Cobblemon]-0.1.10-stable.jar"
+filename = "Rad Gyms [Cobblemon]-0.1.13-stable.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/kmsTHRS5/Rad%20Gyms%20%5BCobblemon%5D-0.1.10-stable.jar"
+url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/a4F4e1yO/Rad%20Gyms%20%5BCobblemon%5D-0.1.13-stable.jar"
 hash-format = "sha512"
-hash = "f24979b25e1ca9a63374e57d84b574f59ae66d8c359b7477d120d91bc2e4ab85f8aeda3380d9abdd422c162ac5f2006934613ae7b42e3a584631a616830ccf99"
+hash = "c1c48a5870aee7ce7f8b446ac9a1ec264a398392bec37ec75a7ff0ebfb3f47ffe520a5d72ef00af324e32bd3ec732a4346a29913bd66cf40f55afe39d9cede87"
 
 [update]
 [update.modrinth]
 mod-id = "eF8kqlHd"
-version = "kmsTHRS5"
+version = "a4F4e1yO"

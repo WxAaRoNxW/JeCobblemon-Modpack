@@ -1,0 +1,13 @@
+name = "CobbleCuisine x Last Resort"
+filename = "CobbleCuisineSheared1.0.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/evw9Q4b8/versions/PyIATlVQ/CobbleCuisineSheared1.0.zip"
+hash-format = "sha512"
+hash = "124336eaca5ca918b6fa47ab046b5c2df074c183297970d21b2c22a50af496b185678ec68a29a9c17f415dce327dfb05d7e2a074e356be7e718625aab60d0d14"
+
+[update]
+[update.modrinth]
+mod-id = "evw9Q4b8"
+version = "PyIATlVQ"

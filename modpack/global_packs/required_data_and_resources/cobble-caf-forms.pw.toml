@@ -3,11 +3,11 @@ filename = "CobbleCafe.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/469QXqgC/versions/emeL2545/CobbleCafe.zip"
+url = "https://cdn.modrinth.com/data/469QXqgC/versions/oAVGDukk/CobbleCafe.zip"
 hash-format = "sha512"
-hash = "7eda80c8df817cc914c7da46eaaf12e7be773b028d0a099476fcbf5dd3af7d3e9048c378ebaebffd50ea19f82931b293f3ac9f4b4a74e57283395c5dadd42cf3"
+hash = "ea1081fed4e5a80dccc0a7205ad5e3b285e84299bfbeedf139a307197fc80e61ac52de74771bb79cd698db2488e8a71b5b08568316d5bb338f087bd6e240540a"
 
 [update]
 [update.modrinth]
 mod-id = "469QXqgC"
-version = "emeL2545"
+version = "oAVGDukk"

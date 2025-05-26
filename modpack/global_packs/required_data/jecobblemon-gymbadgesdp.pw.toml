@@ -1,0 +1,8 @@
+name = "JeCobblemon GymBadgesDP"
+filename = "JeCobblemon-GymBadgesDP-v1.0.zip"
+side = "server"
+
+[download]
+url = "https://github.com/WxAaRoNxW/JeCobblemon-Modpack/releases/download/GymBadgesDP-v1.0/JeCobblemon-GymBadgesDP-v1.0.zip"
+hash-format = "sha256"
+hash = "5fc12ce1b7cd0b34a4beb3ca7d3ecf803465a6146d748ef09b83154c6d9f479d"
