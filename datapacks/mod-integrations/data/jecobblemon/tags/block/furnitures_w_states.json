@@ -10,11 +10,9 @@
         {"id": "#furnies:toilets", "required": false},
         {"id": "#mcwlights:lamps", "required": false},
         {"id": "#refurbished_furniture:ceiling_fan", "required": false},
-        {"id": "#refurbished_furniture:toilets", "required": false},
         {"id": "refurbished_furniture:computer", "required": false},
         {"id": "refurbished_furniture:light_lightswitch", "required": false},
         {"id": "refurbished_furniture:dark_lightswitch", "required": false},
         {"id": "refurbished_furniture:television", "required": false}
-
     ]
 }

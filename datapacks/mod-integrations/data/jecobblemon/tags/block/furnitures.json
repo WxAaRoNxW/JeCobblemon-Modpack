@@ -10,6 +10,7 @@
         {"id": "#cobblefurnies:chairs", "required": false},
         {"id": "#cobblefurnies:sofas", "required": false},
         {"id": "#cobblefurnies:stools", "required": false},
+        {"id": "cobblefurnies:poke_ball_chair", "required": false},
         {"id": "#furnies:sofas", "required": false},
         {"id": "#furnies:benches", "required": false},
         {"id": "#furnies:chairs", "required": false},
