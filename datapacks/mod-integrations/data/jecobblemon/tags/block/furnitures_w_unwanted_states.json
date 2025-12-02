@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "#refurbished_furniture:toilets", "required": false},
+        {"id": "#refurbished_furniture:sinks", "required": false},
+        {"id": "#refurbished_furniture:basins", "required": false},
+        {"id": "#refurbished_furniture:baths", "required": false}
+    ]
+}

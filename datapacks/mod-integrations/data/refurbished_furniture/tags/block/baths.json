@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "refurbished_furniture:red_bath"},
+        {"id": "refurbished_furniture:spruce_bath"},
+        {"id": "refurbished_furniture:orange_bath"},
+        {"id": "refurbished_furniture:pink_bath"},
+        {"id": "refurbished_furniture:gray_bath"},
+        {"id": "refurbished_furniture:birch_bath"},
+        {"id": "refurbished_furniture:blue_bath"},
+        {"id": "refurbished_furniture:yellow_bath"},
+        {"id": "refurbished_furniture:magenta_bath"},
+        {"id": "refurbished_furniture:mangrove_bath"},
+        {"id": "refurbished_furniture:brown_bath"},
+        {"id": "refurbished_furniture:purple_bath"},
+        {"id": "refurbished_furniture:warped_bath"},
+        {"id": "refurbished_furniture:cyan_bath"},
+        {"id": "refurbished_furniture:light_gray_bath"},
+        {"id": "refurbished_furniture:dark_oak_bath"},
+        {"id": "refurbished_furniture:green_bath"},
+        {"id": "refurbished_furniture:white_bath"},
+        {"id": "refurbished_furniture:lime_bath"},
+        {"id": "refurbished_furniture:light_blue_bath"},
+        {"id": "refurbished_furniture:crimson_bath"},
+        {"id": "refurbished_furniture:cherry_bath"},
+        {"id": "refurbished_furniture:oak_bath"},
+        {"id": "refurbished_furniture:jungle_bath"},
+        {"id": "refurbished_furniture:acacia_bath"},
+        {"id": "refurbished_furniture:black_bath"}
+    ]
+}

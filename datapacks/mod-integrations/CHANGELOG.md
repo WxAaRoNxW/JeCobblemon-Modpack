@@ -1,5 +1,18 @@
 <details open>
 <summary><b>
+v0.4
+</b></summary>
+
+- Changes
+    - Furnitures with states
+        - Refurbished Furniture - Sinks and Toilets are moved to Furnitures with unwanted states, along with Basins, and Baths
+- Removals
+    - Functional Blocks with storage
+        - Healing machine - Misunderstood of its functions, it is unlimited use when it reaches full charge.
+</details>
+
+<details>
+<summary><b>
 v0.3
 </b></summary>
 
