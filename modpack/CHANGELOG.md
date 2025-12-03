@@ -2,6 +2,33 @@
 
 <details open>
 <summary><b>
+v0.8 Alpha - Replacement Update
+</b></summary>
+
+- Additions
+	- Serene Seasons - Fabric Seasons replacement.
+		- Serene Seasons Plus
+		- Serene Seasons Calendar
+		- Better Days - Dependency
+
+- Updates
+	- JeCobblemon Mod Integrations - v0.3 -> v0.4
+	- Fabric Loader - v0.16.10 -> v0.17.2
+	
+- Removals
+	- Radical Trainers Structures - Feels too half-baked.
+	- Fabric Seasons
+		- Fabric Seasons
+		- Fabric Seasons: Extras
+		- Fabric Seasons: Delight Compat (dupe)
+		- Fabric Seasons: Delight Refabricated Compat
+		- Fabric Seasons: Terralith Compat
+	- Not Enough Crashes - Still crashes due to mods force crashing, will instead make the modpack as stable as possible.
+	
+</details>
+
+<details>
+<summary><b>
 v0.7 Alpha - Cobblemon Stuff, All the mons, Custom Badges, TPA, Lots of stuff, and Another Update Update
 </b></summary>
 

@@ -1,0 +1,13 @@
+name = "Serene Seasons Calendar"
+filename = "SereneSeasons-1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cRhZvv2M/versions/2JHm3rpp/SereneSeasons-1.21.zip"
+hash-format = "sha512"
+hash = "e19c278a29e6b4964171905baca0c5f465fc96e963956bf00d0a9ae3002a262b44c2d5e768020d979b58834122c289db73c9c2f70969a31acb2fbf1d10d6b511"
+
+[update]
+[update.modrinth]
+mod-id = "cRhZvv2M"
+version = "2JHm3rpp"
