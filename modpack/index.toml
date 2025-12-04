@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9e9bc735f547a934901992d3bb8007807c378a954e038de514c07794c538cabc"
+hash = "2d82dbe5fea9a2d005b08c730293f483368a4d32f91f993ae2ad73d3c29db75a"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -130,7 +130,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9a23efc0c6f90f926331385c49fe4aebb5eb9db0219c962f546e0449f5f49f8b"
+hash = "f3616110f98605ad110cfe0bd8e35591adc2307fd7f5a35adf98aaa062ecdad7"
 
 [[files]]
 file = "config/fancymenu/slideshows/cm_showcase/images/Animations.png"
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/jecobblemon-modintegrations.pw.toml"
-hash = "c9265500e3ad83b449ad58a386fff43627bb91b67d0a35eef53d7c31e52ce4b2"
+hash = "6394c9a8805a4b7b934f6ed1eb811c6ed842447e29eac7f05859dc135650c385"
 metafile = true
 
 [[files]]
@@ -929,11 +929,6 @@ metafile = true
 [[files]]
 file = "global_packs/required_data/more-radical-trainers.pw.toml"
 hash = "6d3c2b2e3a2608e9d4ca1fc07cebdc313087ded5eefc5c844e51bd47f492a31b"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/radicaltrainersstructures.pw.toml"
-hash = "8b721f4a7f86337cd07b1eabceed69e9dc16341d0f757af9acc3c36ad290ed59"
 metafile = true
 
 [[files]]
@@ -1142,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "7e107de35f0d7ccc511e141fceecc37caea8dbb1a17b379cc8bb911b0632e94a"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "06ff841030c323b5128a7380dd49db005642d5290f55f19f7ecd01efd4099885"
 metafile = true
 
 [[files]]
@@ -1792,26 +1792,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "556774f1a32c3967f1ec5b912b1aefb05f44070121ab91c9852d3bde3babd2e3"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "678199a861098e4ce68b04663372b9e79cf9186f5e69d49bbd1911e730fd0662"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "85f00bed9a45a67fd19354b2adaaa608b48899f4528a18dac32504a3a4c79276"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "751b5e7213feb2072ee728327dcbb58134add5c5b0441c866dc0aa9fa1255e3b"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "406d97a28a6e641ff72981e2385dbc212455f03af7e15de7044b11e1a4236e7a"
 metafile = true
 
 [[files]]
@@ -2470,11 +2450,6 @@ hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "47610ba89244e3e9a31d7fa34635974157ff3c685edcda27942f9da941414766"
-metafile = true
-
-[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "5dc9de8ea84a33c3cda41dc3905f56e07623cce6ba37a48ea1fa56a57fa7c094"
 metafile = true
@@ -2720,13 +2695,18 @@ hash = "249ba780189e3c43ad8fdf2c8e98da3fffae8e29935046d0dc959a1c7a7276ee"
 metafile = true
 
 [[files]]
-file = "mods/seasons-delight-refab-compat.pw.toml"
-hash = "41e7ee3a336974f7a13fe4b5d513c21cc9929dc32a8b18baf8d049b26633d722"
+file = "mods/seed-delight.pw.toml"
+hash = "2e29c9a34d106e8ad7cff48f260a91da34483bd5f38069a92d6c1a70ffe82264"
 metafile = true
 
 [[files]]
-file = "mods/seed-delight.pw.toml"
-hash = "2e29c9a34d106e8ad7cff48f260a91da34483bd5f38069a92d6c1a70ffe82264"
+file = "mods/serene-seasons-plus.pw.toml"
+hash = "ce031bc6d10a13820a96f76b476a071e7c64c321aa738f92e5d7d7c342b84cd5"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
 
 [[files]]
@@ -3305,6 +3285,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
 hash = "df36635e088552d6805af77552d1f5a21561bcda9b542fb2b7509ba35c7eda8b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/serene-seasons-calendar.pw.toml"
+hash = "8182b112b6df414b6f79c3b6f5bf7beb44daa583d58e98b7a9d7c5aa0d77859d"
 metafile = true
 
 [[files]]
