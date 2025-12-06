@@ -1,13 +1,13 @@
 name = "Fast Item Frames"
-filename = "FastItemFrames-v21.1.3-1.21.1-Fabric.jar"
+filename = "FastItemFrames-v21.1.6-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FsoeTIV0/versions/KVVkAcu8/FastItemFrames-v21.1.3-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/FsoeTIV0/versions/drSo3Q2h/FastItemFrames-v21.1.6-1.21.1-Fabric.jar"
 hash-format = "sha512"
-hash = "c1ba31b050b0bf10a86ade59220d9fdfa1467677c3eac2d45feaf348036a4cf222a64768a1cf0b5942bc77728e3a1664efc9b825ee623052b2764537a3dfb97e"
+hash = "c7371fe3337476c14dcd5d0686fdb6ed7b80e2d42c570117ee6fbf4e419252af355eb6f27e5217f8bf008955e771d498847f0c6058c05ab31ac98005e8ca09ea"
 
 [update]
 [update.modrinth]
 mod-id = "FsoeTIV0"
-version = "KVVkAcu8"
+version = "drSo3Q2h"

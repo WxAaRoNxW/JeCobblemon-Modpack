@@ -3,11 +3,11 @@ filename = "Multiworld-Fabric-bundle.jar"
 side = "server"
 
 [download]
-url = 'https://cdn.modrinth.com/data/fgvoNDL1/versions/bSP1SNPf/Multiworld-Fabric-bundle.jar'
-hash = "db7502fadd4ddb3122c5bce506ac408b5f5141017bed645870dded4c00841d76614cabff965359de475baedbd9df550128ce559a6d0fce94454ca4e809523247"
+url = "https://cdn.modrinth.com/data/fgvoNDL1/versions/6TdsJfUM/Multiworld-Fabric-bundle.jar"
 hash-format = "sha512"
+hash = "63b5a8d430864ae7f2d4df154b42ff2cf911c2ce7e4daf7bddab936d72a6a722005c1cbf7691b1ed5d785eb2556043bfe9fb1f1d0c1de3a45180a08c925e8116"
 
 [update]
 [update.modrinth]
-mod-id = 'fgvoNDL1'
-version = 'bSP1SNPf'
+mod-id = "fgvoNDL1"
+version = "6TdsJfUM"

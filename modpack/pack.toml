@@ -1,15 +1,15 @@
 name = "JeCobblemon"
 author = "WxAaRoNxW, JecoLambo"
-version = "0.5"
+version = "0.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "11c928249bb913106ee31dc17c58672f298c886beea68050f78afe7fec388382"
+hash = "00b1837fb1190c0b9b448bf5893a6d49a420a33075b86d5f3a3e743ab754d081"
 
 [versions]
-fabric = "0.17.2"
+fabric = "0.18.1"
 minecraft = "1.21.1"
 
 [options]

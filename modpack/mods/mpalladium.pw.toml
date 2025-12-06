@@ -1,13 +1,13 @@
 name = "Palladium"
-filename = "Palladium-1.1.7-1.21-1.21.2.jar"
+filename = "Palladium-1.21-1.21.2-1.1.7.3p.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JNRr4jji/versions/UwnV9e6A/Palladium-1.1.7-1.21-1.21.2.jar"
+url = "https://cdn.modrinth.com/data/JNRr4jji/versions/lp6kFckd/Palladium-1.21-1.21.2-1.1.7.3p.jar"
 hash-format = "sha512"
-hash = "cc575008bef59535e44564a832e28e0eb15547701e0736ac124d4176a02822096d5717ec434647228a91a2094ce8b15e02469be832558ed68cc3394ad59b8d63"
+hash = "d37dfe6e5dfa6603037647ca5712ba62adee141fdc767d8c0e341633a7477032c52ce388f4a087865b121012b6c88f9f0a4746fa01e1a6adcd602be200c5aeda"
 
 [update]
 [update.modrinth]
 mod-id = "JNRr4jji"
-version = "UwnV9e6A"
+version = "lp6kFckd"

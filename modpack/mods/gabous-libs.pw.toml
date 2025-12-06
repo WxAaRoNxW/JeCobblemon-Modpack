@@ -1,0 +1,13 @@
+name = "Gabou's Libs"
+filename = "gaboulibs-fabric-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N8aGZtvj/versions/sMH0b4fu/gaboulibs-fabric-1.4.jar"
+hash-format = "sha512"
+hash = "282527f1b1ba7b564e77acb81651f616dc9d432a02c68463e3808cd0172130d800707c81a1d525871914050ce69013a95f91ac2746f616acd8e2d2f6525c93f8"
+
+[update]
+[update.modrinth]
+mod-id = "N8aGZtvj"
+version = "sMH0b4fu"

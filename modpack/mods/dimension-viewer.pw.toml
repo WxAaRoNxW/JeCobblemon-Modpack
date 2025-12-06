@@ -1,13 +1,13 @@
 name = "Dimension Viewer"
-filename = "dimensionviewer-fabric-1.21-2.0.0.jar"
+filename = "dimensionviewer-fabric-1.21-2.1.0.jar"
 side = "server"
 
 [download]
-url = 'https://cdn.modrinth.com/data/3aeFezQk/versions/P3r0S6sb/dimensionviewer-fabric-1.21-2.0.0.jar'
-hash = "333b45de4645ed0de065321af2349bca3b701bb162045c1e863a8a9f772acb02fcae210ec9d5e8b69cfe7c162e12d6f81553474457dbd49e3295181064547ef6"
+url = "https://cdn.modrinth.com/data/3aeFezQk/versions/YhlcDdbO/dimensionviewer-fabric-1.21-2.1.0.jar"
 hash-format = "sha512"
+hash = "b60b7df609d7897c209bb71629e28947b83f964de4742b45be2db390dc64fe2f38e93431eae37734b0810507f35fe95c17de21cee4b86515a6e9a565a6c0593e"
 
 [update]
 [update.modrinth]
-mod-id = '3aeFezQk'
-version = 'P3r0S6sb'
+mod-id = "3aeFezQk"
+version = "YhlcDdbO"

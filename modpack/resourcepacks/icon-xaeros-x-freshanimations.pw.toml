@@ -1,13 +1,13 @@
 name = "Icon Xaero's X FreshAnimations"
-filename = "Icon Fresh 1.2.zip"
+filename = "Icon Fresh 1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/qs58YoNc/Icon%20Fresh%201.2.zip"
+url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/T7gO1SrK/Icon%20Fresh%201.3.zip"
 hash-format = "sha512"
-hash = "aa0cd87212144e72f595e3609db1831ae190d1b35bd0db549c13436a5ad4a679734250bee8e0fd7e6f9b8d910dee92eaed44fa8879572ca40de32f67a8c72414"
+hash = "901e11e38cc2b543e7b4fa97b0970050a509fe471baccd17a5fcbc84d2ea6c0a0e555b79875d83f0a4b5ba6bb44655a2ba895f4e9cefd822079a2c661dbf8daf"
 
 [update]
 [update.modrinth]
 mod-id = "u4iPx1Dr"
-version = "qs58YoNc"
+version = "T7gO1SrK"

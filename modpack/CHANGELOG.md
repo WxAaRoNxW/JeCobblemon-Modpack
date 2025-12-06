@@ -2,6 +2,217 @@
 
 <details open>
 <summary><b>
+v0.9 Alpha - Non-Cobblemon Update Update
+</b></summary>
+
+- Additions
+	- Moog's Structure Lib - New library for Moog's Structure mods.
+	- Gabou's Libs - New Library for Serene Seasons Plus.
+	- Trinkets - Required for Accessories Compatibility Layer
+	- Accessories Compatibility Layer - New compatibility layer for Trinkets.
+
+- Updates
+	- Fabric Loader - v0.17.2 -> v0.18.0
+	- <details>
+		<summary>
+		Updated Files
+		</summary>
+
+		- <b>3D Skin Layers</b>: skinlayers3d-fabric-1.7.5-mc1.21.jar `->` skinlayers3d-fabric-1.9.2-mc1.21.1.jar
+		- <b>Accessories</b>: accessories-fabric-1.1.0-beta.43+1.21.1.jar `->` accessories-fabric-1.1.0-beta.52+1.21.1.jar
+		- <b>AddonsLib</b>: addonslib-fabric-1.21.1-1.8.jar `->` addonslib-fabric-1.21.1-1.11.jar
+		- <b>AlinLib</b>: AlinLib-fabric-2.1.0-beta.3+mc1.21.jar `->` AlinLib-fabric-2.1.0-rc.3+mc1.21.jar
+		- <b>Almanac</b>: almanac-1.21.x-fabric-1.0.2.jar `->` Almanac-1.21.1-2-fabric-1.5.0.jar
+		- <b>AmbientSounds</b>: AmbientSounds_FABRIC_v6.1.11_mc1.21.1.jar `->` AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar
+		- <b>Amendments</b>: amendments-1.21-1.2.24-fabric.jar `->` amendments-1.21-2.0.9-fabric.jar
+		- <b>Artifacts</b>: artifacts-fabric-13.0.4.jar `->` artifacts-fabric-13.1.0.jar
+		- <b>Async</b>: async-0.1.7+alpha.3-1.21.1.jar `->` async-fabric-0.1.8+alpha.1-1.21.1.jar
+		- <b>AsyncParticles</b>: AsyncParticles-3.0.0-alpha.2+1.21.1.jar `->` AsyncParticles-3.4.0-beta.1+1.21.1.jar
+		- <b>Athena</b>: athena-fabric-1.21-4.0.1.jar `->` athena-fabric-1.21-4.0.2.jar
+		- <b>BadOptimizations</b>: BadOptimizations-2.2.2-1.21.1.jar `->` BadOptimizations-2.4.0-1.21.1.jar
+		- <b>Balm</b>: balm-fabric-1.21.1-21.0.45.jar `->` balm-fabric-1.21.1-21.0.55.jar
+		- <b>Beautiful Enchanted Books</b>: Beautiful Enchanted Books - MC 1.21.X - 6.0.0.zip `->` Beautiful Enchanted Books - MC 1.21.1 - 8.0.0.zip
+		- <b>Better Archeology</b>: betterarcheology-fabric-1.3.2.jar `->` betterarcheology-fabric-1.21.1-1.3.4.jar
+		- <b>Better Days</b>: betterdays-1.21.1-3.3.4.4-FABRIC.jar `->` betterdays-1.21.1-3.3.6.2-FABRIC.jar
+		- <b>Better Snow Coverage</b>: better-snow-coverage-0.3.0+mc1.21.0.jar `->` better-snow-coverage-0.3.2+mc1.21.0.jar
+		- <b>Bookshelf</b>: bookshelf-fabric-1.21.1-21.1.62.jar `->` bookshelf-fabric-1.21.1-21.1.78.jar
+		- <b>CICADA</b>: cicada-lib-0.13.0+1.21-1.21.1.jar `->` cicada-lib-0.14.3+1.21-1.21.1.jar
+		- <b>Camerapture</b>: Camerapture-1.10.1+mc1.21.1-fabric.jar `->` Camerapture-1.10.8+mc1.21.1-fabric.jar
+		- <b>Carbasa</b>: carbasa-1.4-multi.jar `->` carbasa-1.5-multi.jar
+		- <b>Cardinal Components API</b>: cardinal-components-api-6.1.2.jar `->` cardinal-components-api-6.1.3.jar
+		- <b>Chat Heads</b>: chat_heads-0.13.18-fabric-1.21.jar `->` chat_heads-0.14.2-fabric-1.21.jar
+		- <b>Chat Notify</b>: chatnotify-fabric-2.4.5+1.21.jar `->` chatnotify-fabric-2.6.2+1.21.1.jar
+		- <b>Chat Patches</b>: chatpatches-211.6.9-secure.jar `->` chatpatches-8.0-alpha.6+1.21.1-fabric.jar
+		- <b>ChoiceTheorem's Overhauled Village</b>: [fabric]ctov-3.5.9a.jar `->` [fabric]ctov-3.6.0b.jar
+		- <b>Cinderscapes</b>: cinderscapes-5.0.2.jar `->` cinderscapes-5.0.4.jar
+		- <b>Collective</b>: collective-1.21.1-8.3.jar `->` collective-1.21.1-8.13.jar
+		- <b>Complementary Shaders - Reimagined</b>: ComplementaryReimagined_r5.5.1.zip `->` ComplementaryReimagined_r5.6.1.zip
+		- <b>Concurrent Chunk Management Engine (Fabric)</b>: c2me-fabric-mc1.21.1-0.3.0+alpha.0.320.jar `->` c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar
+		- <b>Cooking for Blockheads</b>: cookingforblockheads-fabric-1.21.1-21.1.15.jar `->` cookingforblockheads-fabric-1.21.1-21.1.17.jar
+		- <b>Cool Rain</b>: coolrain-1.1.0-1.21.1.jar `->` coolrain-1.3.1-1.21.1.jar
+		- <b>CorgiLib</b>: Corgilib-Fabric-1.21.1-5.0.0.3.jar `->` Corgilib-Fabric-1.21.1-5.0.0.7.jar
+		- <b>CraftPresence</b>: CraftPresence-2.6.1+1.21.1-fabric.jar `->` CraftPresence-2.7.0+1.21.1-fabric.jar
+		- <b>CraftTweaker</b>: CraftTweaker-fabric-1.21.1-21.0.27.jar `->` CraftTweaker-fabric-1.21.1-21.0.35.jar
+		- <b>Crafting Tweaks</b>: craftingtweaks-fabric-1.21.1-21.1.5.jar `->` craftingtweaks-fabric-1.21.1-21.1.6.jar
+		- <b>Crate Delight</b>: cratedelight-24.11.22-1.21-fabric.jar `->` cratedelight-25.09.22-1.21-fabric.jar
+		- <b>CreativeCore</b>: CreativeCore_FABRIC_v2.13.5_mc1.21.1.jar `->` CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar
+		- <b>Cull Leaves</b>: cullleaves-fabric-4.0.1.jar `->` cullleaves-fabric-4.1.0+1.21.1.jar
+		- <b>Dimension Viewer</b>: dimensionviewer-fabric-1.21-2.0.0.jar `->` dimensionviewer-fabric-1.21-2.1.0.jar
+		- <b>Doggy Talents Next</b>: DoggyTalentsNext[Fabric]-1.21.1-1.18.45.jar `->` DoggyTalentsNext[Fabric]-1.21.1-1.18.63.jar
+		- <b>Dynamic Crosshair</b>: dynamiccrosshair-9.3+1.21.1-fabric.jar `->` dynamiccrosshair-9.10+1.21.1-fabric.jar
+		- <b>Dynamic FPS</b>: dynamic-fps-3.9.4+minecraft-1.21.0-fabric.jar `->` dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar
+		- <b>Easy Magic</b>: EasyMagic-v21.1.0-1.21.1-Fabric.jar `->` EasyMagic-v21.1.4-1.21.1-Fabric.jar
+		- <b>EasyAuth</b>: easyauth-mc1.21-3.2.1.jar `->` easyauth-mc1.21-3.3.6.jar
+		- <b>Enchantment Descriptions</b>: enchdesc-fabric-1.21.1-21.1.7.jar `->` enchdesc-fabric-1.21.1-21.1.9.jar
+		- <b>Enhanced Attack Indicator</b>: enhanced_attack_indicator-1.1.0+1.21.jar `->` enhanced_attack_indicator-1.2.0+1.21.jar
+		- <b>Entity Culling</b>: entityculling-fabric-1.7.4-mc1.21.jar `->` entityculling-fabric-1.9.3-mc1.21.1.jar
+		- <b>Exordium</b>: exordium-fabric-1.4.1-mc1.21.jar `->` exordium-fabric-1.4.2-mc1.21.jar
+		- <b>FTB Filter System</b>: ftb-filter-system-fabric-21.1.0.jar `->` ftb-filter-system-fabric-21.1.3.jar
+		- <b>FTB Library (Fabric)</b>: ftb-library-fabric-2101.1.13.jar `->` ftb-library-fabric-2101.1.28.jar
+		- <b>FTB Quests (Fabric)</b>: ftb-quests-fabric-2101.1.9.jar `->` ftb-quests-fabric-2101.1.19.jar
+		- <b>FTB Teams (Fabric)</b>: ftb-teams-fabric-2101.1.2.jar `->` ftb-teams-fabric-2101.1.7.jar
+		- <b>FTB XMod Compat</b>: ftb-xmod-compat-fabric-21.1.3.jar `->` ftb-xmod-compat-fabric-21.1.6.jar
+		- <b>Fabric API</b>: fabric-api-0.116.0+1.21.1.jar `->` fabric-api-0.116.7+1.21.1.jar
+		- <b>Fabric Language Kotlin</b>: fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar `->` fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar
+		- <b>Falling Leaves</b>: fallingleaves-1.16.4+1.21.1.jar `->` fallingleaves-1.17.1+1.21.1.jar
+		- <b>FancyMenu</b>: fancymenu_fabric_3.5.0_MC_1.21.1.jar `->` fancymenu_fabric_3.8.1_MC_1.21.1.jar
+		- <b>Farmer's Delight Refabricated</b>: FarmersDelight-1.21.1-3.0.4+refabricated.jar `->` FarmersDelight-1.21.1-3.2.2+refabricated.jar
+		- <b>Farming for Blockheads</b>: farmingforblockheads-fabric-1.21.1-21.1.8.jar `->` farmingforblockheads-fabric-1.21.1-21.1.10.jar
+		- <b>Fast Better Grass</b>: Fast Better Grass.zip `->` Fast Better Grass.zip
+		- <b>Fast Item Frames</b>: FastItemFrames-v21.1.3-1.21.1-Fabric.jar `->` FastItemFrames-v21.1.6-1.21.1-Fabric.jar
+		- <b>Fast Paintings</b>: fastpaintings-1.21-1.2.15-fabric.jar `->` fastpaintings-1.21-1.3.0-fabric.jar
+		- <b>Forge Config API Port</b>: ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar `->` ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar
+		- <b>Forgiving Void</b>: forgivingvoid-fabric-1.21.1-21.1.3.jar `->` forgivingvoid-fabric-1.21.1-21.1.5.jar
+		- <b>Framework</b>: framework-fabric-1.21.1-0.9.6.jar `->` framework-fabric-1.21.1-0.13.5.jar
+		- <b>Fresh Animations</b>: FreshAnimations_v1.9.2.zip `->` FreshAnimations_v1.10.2.zip
+		- <b>Fusion (Connected Textures)</b>: fusion-1.2.7-fabric-mc1.21.jar `->` fusion-1.2.11-fabric-mc1.21.jar
+		- <b>Fzzy Config</b>: fzzy_config-0.6.9+1.21.jar `->` fzzy_config-0.7.3+1.21.jar
+		- <b>Geckolib</b>: geckolib-fabric-1.21.1-4.7.5.1.jar `->` geckolib-fabric-1.21.1-4.7.7.jar
+		- <b>Global Packs</b>: globalpacks-fabric-1.21.1-21.0.3.jar `->` globalpacks-fabric-1.21.1-21.0.6.jar
+		- <b>Heartstone</b>: heartstone-1.21-1.3.0-fabric.jar `->` heartstone-1.21-1.3.1-fabric.jar
+		- <b>I want it earlier 1.21.4 (Pale Garden)</b>: i-want-it-earlier-2.6.4.jar `->` i-want-it-earlier-2.6.5.jar
+		- <b>Icon Xaero's X FreshAnimations</b>: Icon Fresh 1.2.zip `->` Icon Fresh 1.3.zip
+		- <b>Icon Xaero's</b>: Icon Xaero's 1.2 HF.zip `->` Icon Xaero's 1.21.zip
+		- <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.6.5+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.7+1.21.1.jar
+		- <b>Immersive UI</b>: ImmersiveUI-FABRIC-0.3.0.jar `->` ImmersiveUI-FABRIC-0.3.3+1.21.1.jar
+		- <b>Improved Village Placement</b>: improved_village_placement_1.0.0.jar `->` improved-village-placement-1.1.1.jar
+		- <b>Incendium Biomes Only</b>: ibo-2.1.2+fabric+1.21.jar `->` ibo-3.1.0-fabric-1.21.jar
+		- <b>InvMove</b>: InvMove-0.9.0+1.21.1-Fabric.jar `->` InvMove-0.9.2+1.21.1-Fabric.jar
+		- <b>InvMoveCompats</b>: InvMoveCompats-0.4.0+1.21.4-Fabric.jar `->` InvMoveCompats-0.5.0+1.21.8-Fabric.jar
+		- <b>Inventory Profiles Next</b>: InventoryProfilesNext-fabric-1.21-2.1.8.jar `->` InventoryProfilesNext-fabric-1.21.1-2.2.1.jar
+		- <b>Jade 🔍</b>: Jade-1.21.1-Fabric-15.10.1.jar `->` Jade-1.21.1-Fabric-15.10.2.jar
+		- <b>Just Enough Breeding (JEBr)</b>: justenoughbreeding-fabric-1.21-1.21.1-1.6.0.jar `->` justenoughbreeding-fabric-1.21-1.21.1-1.6.2.jar
+		- <b>Just Enough Effect Descriptions (JEED)</b>: jeed-1.21-2.2.19-fabric.jar `->` jeed-1.21-2.3.1-fabric.jar
+		- <b>Just Enough Items</b>: jei-1.21.1-fabric-19.21.1.304.jar `->` jei-1.21.1-fabric-19.25.1.332.jar
+		- <b>Knowlogy Book</b>: knowlogy-fabric-0.8.1-1.21.1.jar `->` knowlogy-fabric-0.9.1-1.21.1.jar
+		- <b>LambDynamicLights</b>: lambdynamiclights-4.1.2+1.21.1.jar `->` lambdynamiclights-4.8.6+1.21.1.jar
+		- <b>Language Reload</b>: language-reload-1.7.3+1.21.1.jar `->` language-reload-1.7.5+1.21.1.jar
+		- <b>Lithium</b>: lithium-fabric-0.15.0+mc1.21.1.jar `->` lithium-fabric-0.15.1+mc1.21.1.jar
+		- <b>Lithostitched</b>: lithostitched-fabric-1.21.1-1.4.8.jar `->` lithostitched-1.5.0-fabric-1.21.1.jar
+		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.91.jar `->` lootr-fabric-1.21-1.10.35.96.jar
+		- <b>M.R.U</b>: mru-1.0.17+1.21.1+fabric.jar `->` mru-1.0.19+LTS+1.21.1+fabric.jar
+		- <b>MES - Moog's End Structures</b>: mes-1.3.5-1.21.jar `->` MoogsEndStructures-1.21-2.0.0.jar
+		- <b>MMV - Moog's Missing Villages</b>: mmv-1.0.0-1.21.jar `->` MoogsMissingVillages-1.21-2.0.0.jar
+		- <b>MNS - Moog's Nether Structures</b>: mns-1.0.8-1.21.jar `->` MoogsNetherStructures-1.21-2.0.1.jar
+		- <b>MSS - Moog's Soaring Structures</b>: mss-1.2.8-1.21.jar `->` MoogsSoaringStructures-1.21-2.0.0.jar
+		- <b>MVS - Moog's Voyager Structures</b>: mvs-4.2.9-1.21.jar `->` MoogsVoyagerStructures-1.21-5.0.2.jar
+		- <b>Macaw's Paths and Pavings</b>: mcw-paths-1.1.0fabric-mc1.21.1.jar `->` mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar
+		- <b>Macaw's Trapdoors</b>: mcw-trapdoors-1.1.4-mc1.21.1fabric.jar `->` mcw-trapdoors-1.1.5-mc1.21.1fabric.jar
+		- <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.1e.zip `->` MakeUp-UltraFast-9.3e.zip
+		- <b>Measurements</b>: Measurements-fabric-1.21.1-3.0.1.jar `->` Measurements-fabric-1.21.1-3.0.3.jar
+		- <b>MidnightLib</b>: midnightlib-1.6.9-fabric+1.21.jar `->` midnightlib-fabric-1.9.1+1.21.1.jar
+		- <b>MmmMmmMmmMmm</b>: dummmmmmy-1.21-2.0.7-fabric.jar `->` dummmmmmy-1.21-2.0.11-fabric.jar
+		- <b>Modern Networking</b>: modernnetworking-fabric-1.2.0+1.21.1.jar `->` modernnetworking-fabric-1.2.4+1.21.1.jar
+		- <b>ModernFix</b>: modernfix-fabric-5.23.0+mc1.21.1.jar `->` modernfix-fabric-5.25.1+mc1.21.1.jar
+		- <b>Moonlight Lib</b>: moonlight-1.21-2.18.13-fabric.jar `->` moonlight-1.21-2.27.1-fabric.jar
+		- <b>More Chiseled Bookshelf Variants</b>: MoreChiseledBookshelfVariants-1.7.2+1.21.1-Fabric.jar `->` MoreChiseledBookshelfVariants-1.7.3+1.21(.1)-Fabric.jar
+		- <b>More Delight (for Farmer's Delight)</b>: moredelight-25.03.27-1.21-fabric.jar `->` moredelight-25.07.28-1.21-fabric.jar
+		- <b>Motschen's Better Leaves</b>: Better-Leaves-9.2.zip `->` Better-Leaves-9.4.zip
+		- <b>MrCrayfish's Furniture Mod: Refurbished</b>: refurbished_furniture-fabric-1.21.1-1.0.12.jar `->` refurbished_furniture-fabric-1.21.1-1.0.20.jar
+		- <b>Multiworld</b>: Multiworld-Fabric-bundle.jar `->` Multiworld-Fabric-bundle.jar
+		- <b>Music Maker Mod</b>: xercamusic-1.21.1-1.0.0.jar `->` xercamusic-1.21.1-1.0.1.jar
+		- <b>Myths and Legends [Cobblemon Sidemod]</b>: MythsAndLegends-neoforge-1.7.2-Hotfix.jar `->` MythsAndLegends-fabric-1.9.0.jar
+		- <b>Not Enough Animations</b>: notenoughanimations-fabric-1.9.3-mc1.21.jar `->` notenoughanimations-fabric-1.10.6-mc1.21.1.jar
+		- <b>Not Enough Recipe Book [NERB]</b>: Not Enough Recipe Book-FABRIC-0.4.2+1.21.jar `->` Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar
+		- <b>Nullscape</b>: Nullscape_1.21.x_v1.2.11.jar `->` Nullscape_1.21.x_v1.2.14.jar
+		- <b>OctoLib</b>: OctoLib-FABRIC-0.5.0.1.jar `->` OctoLib-FABRIC-0.6.0.4+1.21.jar
+		- <b>Oh The Biomes We've Gone</b>: Oh-The-Biomes-Weve-Gone-Fabric-2.3.13.jar `->` Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar
+		- <b>Oh The Trees You'll Grow</b>: Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.0.11.jar `->` Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.1.2.jar
+		- <b>Open Parties and Claims</b>: open-parties-and-claims-fabric-1.21.1-0.24.0.jar `->` open-parties-and-claims-fabric-1.21.1-0.25.8.jar
+		- <b>OptiGUI</b>: optigui-2.3.0-beta.6.1-modrinth+1.21.jar `->` optigui-2.3.0-beta.9+1.21.jar
+		- <b>Packet Fixer</b>: packetfixer-fabric-2.1.1-1.21-to-1.21.3.jar `->` packetfixer-3.3.1-1.20.5-1.21.X-merged.jar
+		- <b>Palladium</b>: Palladium-1.1.7-1.21-1.21.2.jar `->` Palladium-1.21-1.21.2-1.1.7.3p.jar
+		- <b>PandaPerWorldSeed</b>: panda-per-world-seed-1.0.1_1.21.1.jar `->` panda-per-world-seed-1.2.0_1.21.5.jar
+		- <b>Particle Rain</b>: particle-rain-3.0.5.jar `->` particlerain-4.0.0-beta.3+1.21.1-fabric.jar
+		- <b>Pineapple Delight</b>: pineapple_delight-1.0.4-1.21.1-Fabric.jar `->` pineapple_delight-1.1.1-1.21.1-fabric.jar
+		- <b>Ping Wheel</b>: Ping-Wheel-1.10.2-fabric-1.21.1.jar `->` Ping-Wheel-1.12.0-fabric-1.21.1.jar
+		- <b>Polymorph</b>: polymorph-fabric-1.0.10+1.21.1.jar `->` polymorph-fabric-1.1.0+1.21.1.jar
+		- <b>Polytone</b>: polytone-1.21-3.3.9-fabric.jar `->` polytone-1.21-3.5.14-fabric.jar
+		- <b>Presence Footsteps</b>: PresenceFootsteps-1.11.0+1.21.jar `->` PresenceFootsteps-1.11.1+1.21.jar
+		- <b>Prickle</b>: prickle-fabric-1.21.1-21.1.8.jar `->` prickle-fabric-1.21.1-21.1.11.jar
+		- <b>Puzzle</b>: puzzle-fabric-2.0.1+1.21.jar `->` puzzle-fabric-2.2.0+1.21.1.jar
+		- <b>Puzzles Lib</b>: PuzzlesLib-v21.1.36-1.21.1-Fabric.jar `->` PuzzlesLib-v21.1.39-1.21.1-Fabric.jar
+		- <b>Raise Sound Limit Simplified</b>: rsls-1.1.8.jar `->` rsls-1.1.10.jar
+		- <b>Repurposed Structures - Quilt/Fabric</b>: repurposed_structures-7.5.15+1.21.1-fabric.jar `->` repurposed_structures-7.5.17+1.21.1-fabric.jar
+		- <b>RightClickHarvest</b>: rightclickharvest-fabric-4.5.3+1.21.1.jar `->` rightclickharvest-fabric-4.6.0+1.21.1.jar
+		- <b>Rustic Delight</b>: rusticdelight-fabric-1.21.1-1.4.0.jar `->` rusticdelight-fabric-1.21.1-1.4.2.jar
+		- <b>Sawmill</b>: sawmill-1.21-1.5.18-fabric.jar `->` sawmill-1.21-1.7.2-fabric.jar
+		- <b>ScalableLux</b>: ScalableLux-0.1.0+fabric.26c6e72-all.jar `->` ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar
+		- <b>Serene Seasons Plus</b>: sereneseasonsplus-1.21.1-1.0.9.5.jar `->` Fabric-Version-sereneseasonsplus-1.21.1-4.1.1.jar
+		- <b>Shulker Box Tooltip</b>: shulkerboxtooltip-fabric-5.1.6+1.21.1.jar `->` shulkerboxtooltip-fabric-5.1.8+1.21.1.jar
+		- <b>Simple Voice Chat</b>: voicechat-fabric-1.21.1-2.5.30.jar `->` voicechat-fabric-1.21.1-2.6.6.jar
+		- <b>Skin Restorer</b>: skinrestorer-2.3.2+1.21-fabric.jar `->` skinrestorer-2.4.3+1.21-fabric.jar
+		- <b>Smarter Farmers (farmers replant)</b>: smarterfarmers-1.21-2.2.2-fabric.jar `->` smarterfarmers-1.21-2.2.4-fabric.jar
+		- <b>Snow Under Trees (Fabric)</b>: SnowUnderTrees-2.7.1+1.21.1.jar `->` SnowUnderTrees-2.7.4+1.21.1.jar
+		- <b>Sodium Options Mod Compat</b>: sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar `->` sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar
+		- <b>Sophisticated Core (Unofficial Fabric port)</b>: sophisticatedcore-1.21.1-1.2.9.5.147.jar `->` sophisticatedcore-1.21.1-1.2.9.20.164.jar
+		- <b>Sophisticated Storage (Unofficial Fabric port)</b>: sophisticatedstorage-1.21.1-1.3.7.1.115.jar `->` sophisticatedstorage-1.21.1-1.3.7.8.135.jar
+		- <b>Sound Physics Remastered</b>: sound-physics-remastered-fabric-1.21.1-1.4.12.jar `->` sound-physics-remastered-fabric-1.21.1-1.5.1.jar
+		- <b>Sounds</b>: sounds-2.4.11+1.21.1+fabric.jar `->` sounds-2.4.18+lts+1.21.1-fabric.jar
+		- <b>Spanish Delight Refabricated</b>: spanishdelight-1.0.3.jar `->` spanishdelight-1.21.1-1.0.7.jar
+		- <b>Spice of Life: Discovery</b>: soldisco-1.2.2.jar `->` soldisco-1.3.0.jar
+		- <b>Storage Delight</b>: storagedelight-25.03.09-1.21-fabric.jar `->` storagedelight-25.06.24-1.21-fabric.jar
+		- <b>Structure Layout Optimizer</b>: structure_layout_optimizer-fabric-1.0.10.jar `->` structure_layout_optimizer-fabric-1.0.11.jar
+		- <b>Subtle Effects</b>: SubtleEffects-fabric-1.21.1-1.9.4-hotfix.1.jar `->` SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar
+		- <b>Supplementaries</b>: supplementaries-1.21-3.1.7-fabric.jar `->` supplementaries-1.21-3.4.18-fabric.jar
+		- <b>TT20 (TPS Fixer)</b>: tt20-0.7.1+mc1.21.jar `->` tt20-0.7.2+mc1.21.jar
+		- <b>Talk Balloons</b>: talk_balloons-fabric-1.2.1+1.21.1.jar `->` talk_balloons-fabric-1.4.0+1.21.1.jar
+		- <b>ThreatenGL</b>: threatengl-fabric-1.3.3-release.2.jar `->` threatengl-fabric-2.0.4-release.10.jar
+		- <b>ToadLib</b>: ToadLib-1.3.1.1-1.21-1.21.1.jar `->` ToadLib-1.3.7-1.21-1.21.1.jar
+		- <b>Tom's Simple Storage Knowlogy</b>: tomsstorage_knowlogy-fabric-1.1.0-1.21.1.jar `->` tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar
+		- <b>Tom's Simple Storage Mod</b>: toms_storage_fabric-1.21-2.1.5.jar `->` toms_storage_fabric-1.21-2.2.3.jar
+		- <b>Tomes of Experience</b>: tomes-of-experience-0.1.2.jar `->` tomes-of-experience-0.1.3.jar
+		- <b>Towers of the Wild Modded</b>: totw_modded-fabric-1.21-1.0.7.jar `->` totw_modded-fabric-1.21-1.0.8.jar
+		- <b>Trading Post</b>: TradingPost-v21.1.0-1.21.1-Fabric.jar `->` TradingPost-v21.1.1-1.21.1-Fabric.jar
+		- <b>Traveler's Backpack</b>: travelersbackpack-fabric-1.21.1-10.1.22.jar `->` travelersbackpack-fabric-1.21.1-10.1.29.jar
+		- <b>Ube's Delight</b>: ubesdelight-fabric-1.21.1-0.4.0-3.0.0+refab.jar `->` ubesdelight-fabric-1.21.1-0.4.7-3.0.0+refab.jar
+		- <b>UniLib</b>: UniLib-1.1.0+1.21.1-fabric.jar `->` UniLib-1.2.0+1.21.1-fabric.jar
+		- <b>WATERFrAMES: Multimedia Displays</b>: waterframes-FABRIC-mc1.21.1-v2.1.12c.jar `->` waterframes-FABRIC-mc1.21.1-v2.1.22.jar
+		- <b>WATERMeDIA</b>: watermedia-2.1.24.jar `->` watermedia-2.1.37.jar
+		- <b>Xaero's Minimap</b>: Xaeros_Minimap_25.2.6_Fabric_1.21.jar `->` Xaeros_Minimap_25.2.10_Fabric_1.21.jar
+		- <b>Xaero's World Map</b>: XaerosWorldMap_1.39.9_Fabric_1.21.jar `->` XaerosWorldMap_1.39.12_Fabric_1.21.jar
+		- <b>XaeroPlus</b>: XaeroPlus-2.26.11+fabric-1.21.1-WM1.39.9-MM25.2.6.jar `->` XaeroPlus-2.29.1+fabric-1.21.1-WM1.39.12-MM25.2.10.jar
+		- <b>YUNG's API</b>: YungsApi-1.21.1-Fabric-5.1.5.jar `->` YungsApi-1.21.1-Fabric-5.1.6.jar
+		- <b>YUNG's Better Nether Fortresses</b>: YungsBetterNetherFortresses-1.21.1-Fabric-3.1.4.jar `->` YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar
+		- <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.6.6+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar
+		- <b>You're in Grave Danger</b>: youre-in-grave-danger-fabric-2.4.16.jar `->` youre-in-grave-danger-fabric-2.4.18.jar
+		- <b>[EMF] Entity Model Features</b>: entity_model_features_fabric_1.21.1-2.4.1.jar `->` entity_model_features_1.21-fabric-3.0.7.jar
+		- <b>[ETF] Entity Texture Features</b>: entity_texture_features_fabric_1.21.1-6.2.9.jar `->` entity_texture_features_1.21-fabric-7.0.6.jar
+		- <b>e4mc</b>: e4mc_minecraft-fabric-5.3.1.jar `->` e4mc_minecraft-fabric-5.4.1.jar
+		- <b>libIPN</b>: libIPN-fabric-1.21-6.5.0.jar `->` libIPN-fabric-1.21.1-6.6.1.jar
+
+		</details>
+
+- Removals
+	- Trinkets Compat Layer for Accessories - Replaced with Accessories Compatibility Layer.
+
+- Known Issues
+	- Cobblemon - Incompatible with Supplementaries >3.4.19. Fabric API Attachment issues.
+	- Cobblemon Armors - Incompatible with GeckoLib >4.8
+</details>
+
+<details>
+<summary><b>
 v0.8 Alpha - Replacement Update
 </b></summary>
 
@@ -14,7 +225,7 @@ v0.8 Alpha - Replacement Update
 - Updates
 	- JeCobblemon Mod Integrations - v0.3 -> v0.4
 	- Fabric Loader - v0.16.10 -> v0.17.2
-	
+
 - Removals
 	- Radical Trainers Structures - Feels too half-baked.
 	- Fabric Seasons
@@ -178,7 +389,7 @@ v0.7 Alpha - Cobblemon Stuff, All the mons, Custom Badges, TPA, Lots of stuff, a
 		- <b>Macaw's Lights and Lamps</b>: mcw-lights-1.1.1-mc1.21.1fabric.jar `->` mcw-lights-1.1.2-mc1.21.1fabric.jar
 		- <b>Measurements</b>: Measurements-fabric-1.21-3.0.0.jar `->` Measurements-fabric-1.21.1-3.0.1.jar
 		- <b>ModernFix</b>: modernfix-fabric-5.20.2+mc1.21.1.jar `->` modernfix-fabric-5.23.0+mc1.21.1.jar
-		- <b>MonoLib<b>: monolib-fabric-1.21.1-2.0.0.jar `->` monolib-fabric-1.21.1-2.1.0.jar
+		- <b>MonoLib</b>: monolib-fabric-1.21.1-2.0.0.jar `->` monolib-fabric-1.21.1-2.1.0.jar
 		- <b>Moonlight Lib</b>: moonlight-1.21-2.17.37-fabric.jar `->` moonlight-1.21-2.18.13-fabric.jar
 		- <b>More Chiseled Bookshelf Variants</b>: MoreChiseledBookshelfVariants-1.7.1+1.21.1-Fabric.jar `->` MoreChiseledBookshelfVariants-1.7.2+1.21.1-Fabric.jar
 		- <b>More Cobblemon Move Animations</b>: more-cobblemon-move-anims-1.3.jar `->` more-cobblemon-move-anims-1.3.af.jar
@@ -196,7 +407,7 @@ v0.7 Alpha - Cobblemon Stuff, All the mons, Custom Badges, TPA, Lots of stuff, a
 		- <b>Pokeblocks</b>: pokeblocks-1.3.1-1.21.1.jar `->` pokeblocks-1.4.0-1.21.1.jar
 		- <b>Polymorph</b>: polymorph-fabric-1.0.7+1.21.1.jar `->` polymorph-fabric-1.0.10+1.21.1.jar
 		- <b>Polytone</b>: polytone-1.21-3.3.4-fabric.jar `->` polytone-1.21-3.3.9-fabric.jar
-		- <b>Prickle<b>: prickle-fabric-1.21.1-21.1.6.jar `->` prickle-fabric-1.21.1-21.1.8.jar
+		- <b>Prickle</b>: prickle-fabric-1.21.1-21.1.6.jar `->` prickle-fabric-1.21.1-21.1.8.jar
 		- <b>Pumpkin Pie Delight</b>: pumpkin_pie_delight-1.0.1+1.21.jar `->` pumpkin_pie_delight-1.0.2+1.21.jar
 		- <b>Puzzles Lib</b>: PuzzlesLib-v21.1.33-1.21.1-Fabric.jar `->` PuzzlesLib-v21.1.36-1.21.1-Fabric.jar
 		- <b>Rad Gyms [Cobblemon]</b>: Rad Gyms [Cobblemon]-0.1.10-stable.jar `->` Rad Gyms [Cobblemon]-0.1.13-stable.jar
@@ -224,7 +435,7 @@ v0.7 Alpha - Cobblemon Stuff, All the mons, Custom Badges, TPA, Lots of stuff, a
 		- <b>Subtle Effects</b>: SubtleEffects-fabric-1.21.1-1.9.3.jar `->` SubtleEffects-fabric-1.21.1-1.9.4-hotfix.1.jar
 		- <b>Supplementaries Knowlogy</b>: supplementaries_knowlogy-fabric-0.3.0-1.21.1.jar `->` supplementaries_knowlogy-fabric-0.4.0-1.21.1.jar
 		- <b>Supplementaries</b>: supplementaries-1.21-3.0.41-beta-fabric.jar `->` supplementaries-1.21-3.1.7-fabric.jar
-		- <b>Talk Balloons<b>: TalkBalloons-Fabric-1.21.1-1.1.6.jar `->` talk_balloons-fabric-1.2.1+1.21.1.jar
+		- <b>Talk Balloons</b>: TalkBalloons-Fabric-1.21.1-1.1.6.jar `->` talk_balloons-fabric-1.2.1+1.21.1.jar
 		- <b>ThreatenGL</b>: threatengl-fabric-1.3.3-release.1.jar `->` threatengl-fabric-1.3.3-release.2.jar
 		- <b>Title Fixer</b>: titlefixer-1.0+1.21.jar `->` titlefixer-1.1+1.21.jar
 		- <b>ToadLib</b>: ToadLib-1.21-1.21.1-1.2.7.jar `->` ToadLib-1.3.1.1-1.21-1.21.1.jar
