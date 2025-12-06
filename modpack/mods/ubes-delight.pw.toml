@@ -1,13 +1,13 @@
 name = "Ube's Delight"
-filename = "ubesdelight-fabric-1.21.1-0.4.0-3.0.0+refab.jar"
+filename = "ubesdelight-fabric-1.21.1-0.4.7-3.0.0+refab.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PYjpoAys/versions/OmzeaunP/ubesdelight-fabric-1.21.1-0.4.0-3.0.0%2Brefab.jar"
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/U6IlPTAn/ubesdelight-fabric-1.21.1-0.4.7-3.0.0%2Brefab.jar"
 hash-format = "sha512"
-hash = "b2828997d84b1619861a2de5b1c4622a878a3e53cdbfc5de0452b142706463c88cfab615d4bfb8c56006519ada5039996d5f35c0c1cc53c9575c311d92c2a10c"
+hash = "a6a3e2921c262fdf2f198e5f0317590372e84da514d43cb95cbe324643efcf11beea15e6b8ba9a3f9089d6739c6ad83a103d62c280d084b37a42cefd5206ad9a"
 
 [update]
 [update.modrinth]
 mod-id = "PYjpoAys"
-version = "OmzeaunP"
+version = "U6IlPTAn"

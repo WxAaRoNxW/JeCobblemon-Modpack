@@ -1,13 +1,13 @@
 name = "Tomes of Experience"
-filename = "tomes-of-experience-0.1.2.jar"
+filename = "tomes-of-experience-0.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YMvSj4RD/versions/8joAeOcT/tomes-of-experience-0.1.2.jar"
+url = "https://cdn.modrinth.com/data/YMvSj4RD/versions/pg4FNBux/tomes-of-experience-0.1.3.jar"
 hash-format = "sha512"
-hash = "7ba627f1a07152975ad7f77d2e3607f3fa372cb6ecc4252551878f261089b031f15bc60c80257bf4b0fb7f7e54517e06bdfa28e048af53eef22ed9e370a53477"
+hash = "98629fd459c66e0eed7291a895fc3d1e42d4a6f6bc686a4e946cb7f44ef9afc2ed48b24bfd02c3a0ab8efbf4473c8043561a29e83217c40a142324b286b53387"
 
 [update]
 [update.modrinth]
 mod-id = "YMvSj4RD"
-version = "8joAeOcT"
+version = "pg4FNBux"

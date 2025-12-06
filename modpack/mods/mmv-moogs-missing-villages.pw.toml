@@ -1,13 +1,13 @@
 name = "MMV - Moog's Missing Villages"
-filename = "mmv-1.0.0-1.21.jar"
+filename = "MoogsMissingVillages-1.21-2.0.0.jar"
 side = "server"
 
 [download]
-url = 'https://cdn.modrinth.com/data/spZb29SD/versions/WkCXj1Zk/mmv-1.0.0-1.21.jar'
-hash = "cebd944bb066515156516ebb1c7ab6aff227e9838182ac3f89b80df8be690ce7dd8d46d7103796074f33297e7a2320bce2cee5f59edd151482ba3b640635bca9"
+url = "https://cdn.modrinth.com/data/spZb29SD/versions/Ovcslt8K/MoogsMissingVillages-1.21-2.0.0.jar"
 hash-format = "sha512"
+hash = "a43534e5bbcbce5482649cd912b111603c9e691a73d05691ae5c79fc80b6994d8f71d08a6e8ce31d1c774bc9134c2e98229d880e9a15bac2d85b668cb9eadfd7"
 
 [update]
 [update.modrinth]
-mod-id = 'spZb29SD'
-version = 'WkCXj1Zk'
+mod-id = "spZb29SD"
+version = "Ovcslt8K"

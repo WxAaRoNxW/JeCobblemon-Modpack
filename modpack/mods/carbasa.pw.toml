@@ -1,13 +1,13 @@
 name = "Carbasa"
-filename = "carbasa-1.4-multi.jar"
+filename = "carbasa-1.5-multi.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rhp0NLn7/versions/c7rnulHl/carbasa-1.4-multi.jar"
+url = "https://cdn.modrinth.com/data/rhp0NLn7/versions/vldc7iV7/carbasa-1.5-multi.jar"
 hash-format = "sha512"
-hash = "32b9e357312ed3c92432d9083b9efe5380aeb5539262b2c88640a4da92772b48442cac6a737cfcb57582424ff57d6bc21fbb9daa9cbcca94f03037e70b91a53f"
+hash = "d5648d010620ac2281b62b553aec7b4f78d80cef3c05aa59886d017944b61bcfda9fcbc313aa88cd347b1fe10a566596365854d29d8c886373735493d8c1f145"
 
 [update]
 [update.modrinth]
 mod-id = "rhp0NLn7"
-version = "c7rnulHl"
+version = "vldc7iV7"

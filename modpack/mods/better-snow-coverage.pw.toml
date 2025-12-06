@@ -1,13 +1,13 @@
 name = "Better Snow Coverage"
-filename = "better-snow-coverage-0.3.0+mc1.21.0.jar"
+filename = "better-snow-coverage-0.3.2+mc1.21.0.jar"
 side = "client"
 
 [download]
-url = 'https://cdn.modrinth.com/data/hnruzXAw/versions/UMBxRU06/better-snow-coverage-0.3.0%2Bmc1.21.0.jar'
-hash = "fc2feeb7c045a9ac5240472eedf61825517fcde47c85b173b56ddc7f56f43c6330afd45d0cfe3457d4a45241cbda348fae7a38748240b722f310cc7249bec707"
+url = "https://cdn.modrinth.com/data/hnruzXAw/versions/ek4daUs3/better-snow-coverage-0.3.2%2Bmc1.21.0.jar"
 hash-format = "sha512"
+hash = "e86ffc8063a203a160ec46e1fa7280fa9f616a175401ecbc2de5731809c0473795dfb5b0c4dc9ea831d97d76b32356c0ac0bbc55e041585492b65898abc12284"
 
 [update]
 [update.modrinth]
-mod-id = 'hnruzXAw'
-version = 'UMBxRU06'
+mod-id = "hnruzXAw"
+version = "ek4daUs3"

@@ -1,13 +1,13 @@
 name = "Tom's Simple Storage Knowlogy"
-filename = "tomsstorage_knowlogy-fabric-1.1.0-1.21.1.jar"
+filename = "tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WOgHMcEV/versions/xjqig9YI/tomsstorage_knowlogy-fabric-1.1.0-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/WOgHMcEV/versions/pjDQHK4F/tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar"
 hash-format = "sha512"
-hash = "0e3229fc9831748b371fae403648e85bb97bc44706a885d551551b3e641a8ce32965d63f06f577fe13fe100e8e2331af7c8221e2762ac41acb221cc4ff6e5ce1"
+hash = "5cd8aac17f6df13c1e9a9d779ebc4551893e76d80e3942e13b8d1e3b6c63a44f0b187ede41595fc6b625d44e20bfde7eb68b743d98124dbe21f3e5ac7df893b0"
 
 [update]
 [update.modrinth]
 mod-id = "WOgHMcEV"
-version = "xjqig9YI"
+version = "pjDQHK4F"
