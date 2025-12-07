@@ -1,12 +1,12 @@
 name = "JeCobblemon"
 author = "WxAaRoNxW, JecoLambo"
-version = "0.9"
+version = "0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "00b1837fb1190c0b9b448bf5893a6d49a420a33075b86d5f3a3e743ab754d081"
+hash = "92304c44af16e129821ae0ba430ac16cd8c788864b7c0e875b280969d0c38d81"
 
 [versions]
 fabric = "0.18.1"
