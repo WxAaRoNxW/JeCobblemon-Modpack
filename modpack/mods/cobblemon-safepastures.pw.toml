@@ -1,13 +1,13 @@
 name = "Cobblemon: SafePastures"
-filename = "SafePastures-1.1.0+1.21.1.jar"
+filename = "SafePastures-1.1.1+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/qpe01spE/versions/ZIowP3NQ/SafePastures-1.1.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/qpe01spE/versions/ahfbSTCi/SafePastures-1.1.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "59ebe693a1657526376983098fdaa92c0651acf0a428fe1c741f9a5c50b9cebcea8fdfcd43a41f12f5e0e3dba44894932cd705ead5f8e008026f24f14de9e5ef"
+hash = "c5bffd438c3e0267cdb07f4eacee40ba4fcb41387064c0f31172651e4e137443d53c552caf407addbb13b222c5d8ad4d0c1099593e6fdbdd1b60bf8b3fda89e0"
 
 [update]
 [update.modrinth]
 mod-id = "qpe01spE"
-version = "ZIowP3NQ"
+version = "ahfbSTCi"

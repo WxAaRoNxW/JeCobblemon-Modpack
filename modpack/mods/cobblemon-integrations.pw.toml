@@ -1,13 +1,13 @@
 name = "Cobblemon Integrations"
-filename = "cobblemonintegrations-fabric-1.21.1-1.1.2.jar"
+filename = "cobblemonintegrations-fabric-1.21.1-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/YAT9TObm/cobblemonintegrations-fabric-1.21.1-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/KbQNsnO9/cobblemonintegrations-fabric-1.21.1-1.1.4.jar"
 hash-format = "sha512"
-hash = "85f1778c62a6c4f6c5c72325e087935a5b3b9daa2237c9139b5085079540800937510775775fb423e83859b635084d0a5c0e170847bb035a3f0dff0bf34ff1fa"
+hash = "f16b7c8c1ef0f272b00858b7e1f0d77c00c90e8bbca47867cc240572014485dd6436b60b29de8e67e27af7ed669ae6879a456d224759053d5d1089a3a5a8dd13"
 
 [update]
 [update.modrinth]
 mod-id = "NPCfuUI4"
-version = "YAT9TObm"
+version = "KbQNsnO9"

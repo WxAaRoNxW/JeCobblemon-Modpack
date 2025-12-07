@@ -1,13 +1,13 @@
 name = "Cobblemon Extra Data"
-filename = "CobblemonExtraData-fabric-1.0.6+1.21.1.jar"
+filename = "CobblemonExtraData-fabric-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/97Az7HCf/versions/Lbskiiat/CobblemonExtraData-fabric-1.0.6%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/97Az7HCf/versions/Lv1s8Ze6/CobblemonExtraData-fabric-1.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "856b85ac8e3b9cb416b85db4269d81dd945c6b16d517bda722fd30641be42b9ec51cc940c863d9d14a07db13533db9e65407a0f3afc8034ba99000faa444614a"
+hash = "b9e1e14e65b571c5d123ac4e2856dbdd27580049ee4e14f32e2648fdba138ff3a6383230d32e48313075eabd96a206dcef5179a52a403cf6343eae49ac989938"
 
 [update]
 [update.modrinth]
 mod-id = "97Az7HCf"
-version = "Lbskiiat"
+version = "Lv1s8Ze6"

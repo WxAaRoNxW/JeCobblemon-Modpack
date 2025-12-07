@@ -2,6 +2,110 @@
 
 <details open>
 <summary><b>
+v0.10 Alpha - Cobblemon Update Update
+</b></summary>
+
+- Additions
+	- CobbleDollar Shops - Cobble Merchants in structures
+	- Tim Core - Library for:
+		- Cobbled Counter
+		- Cobblemon Spawn Notification
+		- Cobblemon Unchained
+
+- Changes
+	- CobbleDollar Shops
+		- Cobblemon Additions - Replaced with Cobble Merchant.
+		- CobbleTowns Continued - Replaced with Cobble Merchant.
+	- ATM x Mega Showdown - Uses modrinth version now.
+	- Cobblemon Additions - Uses mod version now.
+	- Cobblemon Cafe - Uses mod version now.
+	- Cobblemon Challenges - Uses modrinth version now.
+
+- Updates
+	- Notable Updates
+		- Cobblemon - v1.7!
+		- CobbleFurnies - Lots of new stuff.
+		- Fabric Loader - v0.17.3 -> v0.18.1
+
+	- <details>
+		<summary>
+		Updated Files
+		</summary>
+
+		- <b>Cobble Contests</b>: cobble_contests-v1.0.4-fabric.jar `->` cobble_contests_fabric-1.1.0b.jar
+		- <b>CobbleCuisine</b>: CobbleCuisine-1.2.jar `->` cobblecuisine-2.0.1-1.7-rc1.jar
+		- <b>CobbleCuisine Delight</b>: CobbleCuisineDelight1.0.zip `->` cobblecuisine-delight-1.1.jar
+		- <b>Cobbled Armor Trims - Cobblemon</b>: cobbled-armour-trims-1.1.jar `->` cobbled-armour-trims-2.1.jar
+		- <b>Cobbled Farms</b>: Cobbled_Farms_v3_(1.21.1+).zip `->` Cobbled_Farms_v4_(1.21.1).zip
+		- <b>CobbleDollars [Cobblemon Addon]</b>: CobbleDollars-fabric-2.0.0+Beta-4+1.21.1.jar `->` CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar
+		- <b>CobbleFurnies</b>: CobbleFurnies-fabric-0.5.jar `->` CobbleFurnies-fabric-1.0.jar
+		- <b>Cobbleloots: Loot Balls and More!</b>: cobbleloots-fabric-2.0.6.jar `->` cobbleloots-fabric-2.1.0.jar
+		- <b>Cobblemon additions</b>: cobblemon-additions-4.1.5.jar `->` cobblemon-additions-4.1.6.jar
+		- <b>Cobblemon Alpha Project</b>: CobblemonAlphasFabric-1.1+1.6.1.jar `->` cobblemonalphasFabric-1.3+1.7.0.jar
+		- <b>Cobblemon Armors</b>: cobblemon-armors-1.5.0+1.6.1.jar `->` cobblemon-armors-1.5.2+1.7.1.jar
+		- <b>Cobblemon Capture Notification</b>: cobblemon-capture-notification-1.6-fabric-1.3.0.jar `->` cobblemon-spawn-notification-1.7-fabric-1.3.0.jar
+		- <b>Cobblemon Challenge</b>: cobblemonchallenge-fabric-2.1.0.jar `->` cobblemonchallenge-fabric-2.4.0.jar
+		- <b>Cobblemon Counter</b>: cobblemon-counter-1.6-fabric-1.4.0.jar `->` counter-fabric-1.7.1-1.8.1.jar
+		- <b>Cobblemon Extra Data</b>: CobblemonExtraData-fabric-1.0.6+1.21.1.jar `->` CobblemonExtraData-fabric-1.1.0+1.21.1.jar
+		- <b>Cobblemon Integrations</b>: cobblemonintegrations-fabric-1.21.1-1.1.2.jar `->` cobblemonintegrations-fabric-1.21.1-1.1.4.jar
+		- <b>Cobblemon Interface: Modded</b>: Cobblemon Interface Modded v1.9.1.zip `->` Cobblemon Interface Modded v1.9.4.zip
+		- <b>Cobblemon Interface</b>: Cobblemon Interface v1.4.1.zip `->` Cobblemon Interface v1.6.0.zip
+		- <b>Cobblemon Knowlogy</b>: cobblemon_knowlogy-fabric-1.4.0-1.21.1.jar `->` cobblemon_knowlogy-fabric-1.5.0-1.21.1.jar
+		- <b>Cobblemon Pokenav</b>: cobblenav-fabric-2.2.0.jar `->` cobblenav-fabric-2.2.5.jar
+		- <b>Cobblemon Quests</b>: cobblemon_quests-[1.21.1]-fabric-1.1.14.jar `->` cobblemon_quests-[1.21.1]-fabric-1.2.0.jar
+		- <b>Cobblemon Repel</b>: CobblemonRepel-1.6-1.2.jar `->` CobblemonRepel-1.7-1.4.jar
+		- <b>Cobblemon RIze Tweaks</b>: cobblemonRIzetweaks-1.1.4.jar `->` cobblemonRIzetweaks-1.2.0.jar
+		- <b>Cobblemon Size Variations</b>: CobblemonSizeVariationFabric-1.1.0+1.6.1.jar `->` CobblemonSizeVariationFabric-1.4.0+1.7.0.jar
+		- <b>Cobblemon Smartphone</b>: cobblemon_smartphone-fabric-1.0.2.jar `->` cobblemon_smartphone-fabric-1.0.5.jar
+		- <b>Cobblemon Spawn Notification</b>: cobblemon-spawn-notification-1.6-fabric-1.3.4.jar `->` spawnnotification-fabric-1.7.1-2.1.0.jar
+		- <b>Cobblemon Trainer Battle Commands</b>: tbcs-fabric-1.21.1-0.12.0-beta.jar `->` tbcs-fabric-1.21.1-0.13.0-beta.jar
+		- <b>Cobblemon Unchained</b>: cobblemon-unchained-1.6-fabric-1.1.0.jar `->` unchained-fabric-1.7.1-1.7.1.jar
+		- <b>Cobblemon Utility+ (IVs, EVs, & More)</b>: Cobblemon-Utility+-fabric-1.6.1.jar `->` Cobblemon-Utility+-fabric-1.7.1.jar
+		- <b>Cobblemon: Mega Showdown</b>: Cobblemon_MegaShowdown-9.6.10-release-hotfix-fabric.jar `->` mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar
+		- <b>Cobblemon: Parting Gifts</b>: releaserewards-fabric-2.2.0.jar `->` releaserewards-fabric-3.0.1.jar
+		- <b>Cobblemon: SafePastures</b>: SafePastures-1.1.0+1.21.1.jar `->` SafePastures-1.1.1+1.21.1.jar
+		- <b>Cobblemon</b>: Cobblemon-fabric-1.6.1+1.21.1.jar `->` Cobblemon-fabric-1.7.1+1.21.1.jar
+		- <b>CobbleMotion v1.2</b>: Cobblemotion_v1.2.zip `->` Cobblemotion_v1.3a beta hotfix.zip
+		- <b>Cobbreeding</b>: Cobbreeding-fabric-1.9.0.jar `->` Cobbreeding-fabric-2.1.1.jar
+		- <b>E19 - Cobblemon Minimap Icons</b>: E19 Cobblemon Minimap Icons.zip `->` E19 Cobblemon Minimap Icons.zip
+		- <b>Geckolib</b>: geckolib-fabric-1.21.1-4.7.7.jar `->` geckolib-fabric-1.21.1-4.8.2.jar
+		- <b>More Radical Trainers</b>: MoreRadicalTrainers1.7.2.zip `->` more-radical-trainers-1.8.jar
+		- <b>MoreCobblemonTweaks</b>: MoreCobblemonTweaks-fabric-1.0.3.jar `->` MoreCobblemonTweaks-fabric-1.2.0.jar
+		- <b>Myths and Legends [Cobblemon Sidemod]</b>: MythsAndLegends-neoforge-1.7.2-Hotfix.jar `->` MythsAndLegends-fabric-1.9.0.jar
+		- <b>Rad Gyms [Cobblemon]</b>: Rad Gyms [Cobblemon]-0.1.13-stable.jar `->` Rad Gyms [Cobblemon]-0.3.0-stable.jar
+		- <b>Radical Cobblemon Trainer Textures Plus</b>: RCT Trainers+ [1.6] v2.0.zip `->` RCT Trainers+ [1.6] v2.1.zip
+		- <b>Radical Cobblemon Trainers API</b>: rctapi-fabric-1.21.1-0.12.1-beta.jar `->` rctapi-fabric-1.21.1-0.14.3-beta.jar
+		- <b>Radical Cobblemon Trainers</b>: rctmod-fabric-1.21.1-0.16.0-beta.jar `->` rctmod-fabric-1.21.1-0.17.4-beta.jar
+		- <b>SimpleTMs: TMs and TRs for Cobblemon</b>: SimpleTMs-fabric-2.1.2.jar `->` SimpleTMs-fabric-2.2.1.jar
+		- <b>Tim's Ultimately Comprehensive Cobblemon Edits of Destiny</b>: tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-3.zip `->` tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-4.zip
+		</details>
+		
+	- Downgrade - For compatibility.
+		- FTB Quests - 2101.1.19 -> 2101.1.18
+		- FTB Library - 2101.1.28 -> 2101.1.27
+
+- Removals ;;
+	- Cobblemon Addons - Incompatible
+		- Auto Tidy Up PC
+		- Drop Loot Tables
+		- Fight or Flight
+		- Livelier Pokemon
+		- Parts Refabricated - Unfortunate...
+		- Ride On! - and obsolete.
+		- Shearems - and obsolete.
+		- Show Held Items - and obsolete.
+		- Poke Marks - and obsolete.
+		
+	- Cobblemon Datapacks
+		- CobbleCuisine X Last Resort - Shearems Removed.
+		- CobbleTowns Continued - Used Cobblemon Addition instead.
+		- Last Resort Cobblemon Shearems Addon - Shearems Removed.
+		- MysticMons - Incompatible with ATM x MegaShowdown (duplicate mons)
+
+</details>
+
+<details>
+<summary><b>
 v0.9 Alpha - Non-Cobblemon Update Update
 </b></summary>
 
@@ -1010,7 +1114,7 @@ v0.3 Alpha - Stability, Datapacks, Performance, and WorldEdit Update
 		- Re-added, somehow got removed accidentally.
 </details>
 
-<details open>
+<details>
 <summary><b>
 v0.2 Alpha
 </b></summary>

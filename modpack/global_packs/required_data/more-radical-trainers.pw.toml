@@ -1,13 +1,13 @@
 name = "More Radical Trainers"
-filename = "MoreRadicalTrainers1.7.2.zip"
+filename = "more-radical-trainers-1.8.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/kXl4B00S/versions/v1jCzX8D/MoreRadicalTrainers1.7.2.zip"
+url = "https://cdn.modrinth.com/data/kXl4B00S/versions/m86zprpd/more-radical-trainers-1.8.jar"
 hash-format = "sha512"
-hash = "56bcacd45f96e8aaf1b7618c99aefcc1bb5d370487901ecf376ae0f725687c02409f521b740ea8f78078effe9c4efe2b3b9ce8fc1e50d830cfe46907a3fe8586"
+hash = "e671f000c1bc2f6ed0bfcc615f7b55bb5d25be90b9b03e41cc69b77c4043a27807aeafb4b74132b6eb87953843b89fef60df1d40e672afc5c3d9b6ca6e82d19b"
 
 [update]
 [update.modrinth]
 mod-id = "kXl4B00S"
-version = "v1jCzX8D"
+version = "m86zprpd"
