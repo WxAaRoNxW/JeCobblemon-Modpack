@@ -63,7 +63,10 @@ v0.11 Alpha - Optional and More Update
 - Removals
 	- Camerapture - Replaced with exposure
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
-	
+
+- Fixes
+	- Resourcepacks - Resourcepacks now enabled on default, was disabled due to resourcepack update.
+
 </details>
 
 <details>

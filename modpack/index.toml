@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "dede830933732a90e349f8bbd8c4b199b7ad3cd122aa55d5bbcd420e32f39c13"
+hash = "5617dd7cad78ca82f04c713af4db64285cf42c42bc24032307206dcce276ed2f"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -842,7 +842,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dd7d64f39cf055c5f51924e3f2bc04fbaf6afac7e85aa183f918346224a36f02"
+hash = "9040b1244c90bd64b77215b79d10f3b23a61f5fa5977060e30f22b0b5d18fc3a"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
