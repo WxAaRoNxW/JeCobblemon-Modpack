@@ -11,3 +11,8 @@ hash = "0ae066f5f6af5cc3a98eab999e1bda6e7d88e3899bfc2e50e5480ddcb594f02334fca2e6
 [update.modrinth]
 mod-id = "4q8UOK1d"
 version = "LhFxQIFD"
+
+[option]
+optional = true
+default = true
+description = "[Visuals] [Configurable] Adds subtle particles to enhance Minecraft's feel. Amethyst sparkle, sparks from fire, smoke, etc."

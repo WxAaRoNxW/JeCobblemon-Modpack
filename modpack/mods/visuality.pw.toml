@@ -11,3 +11,8 @@ hash-format = "sha512"
 [update.modrinth]
 mod-id = 'rI0hvYcd'
 version = 'dhKbgdIb'
+
+[option]
+optional = true
+default = true
+description = "[Visuals] [Configurable] Another partcile mod. Adds particles such as crystal sparkles, when hitting mobs, Villagers pop out emeralds, skeleton shows bone particles, slime splashes slime particles when landing, etc."

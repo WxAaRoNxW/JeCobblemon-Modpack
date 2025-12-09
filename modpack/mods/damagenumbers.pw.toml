@@ -11,3 +11,8 @@ hash-format = "sha512"
 [update.modrinth]
 mod-id = 'iWdXs2dQ'
 version = '2pfcLVuj'
+
+[option]
+optional = true
+default = true
+description = "[Visuals] [QoL] Damage numbers appear when hitting entities."

@@ -11,3 +11,8 @@ hash = "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d
 [update.modrinth]
 mod-id = "qANg5Jrr"
 version = "baNcxaPZ"
+
+[option]
+optional = true
+default = false
+description = "Sets LAN world publicly accessible to anyone by sending a link."

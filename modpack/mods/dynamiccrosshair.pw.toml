@@ -11,3 +11,8 @@ hash = "41c8a5878cba0084c5e855457bf11d1bcfb7393323523c89e0821325101dc8bfb3c921f2
 [update.modrinth]
 mod-id = "ZcR9weSm"
 version = "79wERqfk"
+
+[option]
+optional = true
+default = true
+description = "[Visuals] Hides or changes the crosshair dependent on context"

@@ -11,3 +11,8 @@ hash = "cccf8e69c2e3d9abcf73e9ed618edb39a3a41f89c8b35292c6cbccfec8c439bb1a9101ec
 [update.modrinth]
 mod-id = "dlNu0RQY"
 version = "WuY7eJX9"
+
+[option]
+optional = true
+default = true
+description = "[Visuals] [Configurable] When entities move around water, they leave wakes."

@@ -11,3 +11,8 @@ hash = "0e422c41649b020a63591b5935dbdf3c22a4e7c4bf0d7b173f5d8f7a33fa3884a398f983
 [update.modrinth]
 mod-id = "9wv7LuMc"
 version = "1Qx4v8mx"
+
+[option]
+optional = true
+default = false
+description = "[Visuals] [Configurable] Animated Item interactions in inventory, sparkles, wiggles, shakes, etc."

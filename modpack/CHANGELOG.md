@@ -2,6 +2,16 @@
 
 <details open>
 <summary><b>
+v0.11 Alpha - Optional and More Update
+</b></summary>
+
+- Changes
+	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
+
+</details>
+
+<details>
+<summary><b>
 v0.10 Alpha - Cobblemon Update Update
 </b></summary>
 

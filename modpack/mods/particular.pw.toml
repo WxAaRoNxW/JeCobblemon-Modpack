@@ -11,3 +11,8 @@ hash = "fc1c85f5bfd1913b9c6a43b5630a369ffed0bfac143680d28597d3561d14f9c45465d2a7
 [update.modrinth]
 mod-id = "B1CcCd9h"
 version = "3dq7wTCR"
+
+[option]
+optional = true
+default = true
+description = "[Visuals] [Configurable] Beautiful particles, waterfall cascades, splashes, fireflies, falling leaves, cave dust, underwater chest bubbles, rain ripples, etc."

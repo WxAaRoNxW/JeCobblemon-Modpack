@@ -11,3 +11,8 @@ hash = "2be64fb726088e20edfda8f07f7ad4eac06e787487ea54dc8485e753c664d8ef12f8fc0a
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "td4DfKSI"
+
+[option]
+optional = true
+default = true
+description = "[Performance] [QoL] Saves computer resources when alt tabbed or idle by limiting your fps (Highly Configurable). Warning: Hangs your system for a second or two when you use Fullscreen (not borderless)"

@@ -11,3 +11,8 @@ hash = "4adab573ec06d75c4a10f3a4d25670d62dd93debaf55419c27a772d13794eb56f93bf0ab
 [update.modrinth]
 mod-id = "l3tS9WUS"
 version = "1QFE9fvI"
+
+[option]
+optional = true
+default = true
+description = "[QoL] Chat balloons on top of nearby players."

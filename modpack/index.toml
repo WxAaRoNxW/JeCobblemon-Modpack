@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2ecd4be9bb734de044d07f028f9986ff601f615f51b0f219976564e5b4eff4d4"
+hash = "20c166fd0e3ff505cb351ba6469d48185aac204e90a135e8df431e3debb01a40"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+hash = "ecd84b3b41acc1d3fd2a3ee95a022ed389664775a16d43c793c65cfd2690f7c4"
 metafile = true
 
 [[files]]
@@ -1560,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/damagenumbers.pw.toml"
-hash = "bb2826ed06cd3fe13aedff93032fc7a8661c1888b3384750f59fcd5cdd536a39"
+hash = "729709435cf523eb8ba00b78bbfbd60baec24b363d6dd399399310f20e0c8084"
 metafile = true
 
 [[files]]
@@ -1620,17 +1620,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4effaea1cdc0ccd0de4a94ab435cc3cb22085933fca7e1dd35b9fb8953a1ce9e"
+hash = "456ee4a85ff388a5eab4cb86b37984ca97d145650426e2fee336cb4904bae1d7"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "e16d6a33648db866dedba7b9f76698025fb5ae4942bb0ea0ed5761135ed0cb99"
+hash = "0b6004477b35dd958d0ad4ab500f90baf07f838c6d63477e4bc51b18a295b370"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "207e904557993d8787bdd9a735ad2f094b06aaed0de9d59a9edb1bfba509f745"
+hash = "a0bfe47dcdc3f8d09e25ab55bb7e4e6f057a3302aa252fea733272acad4a2458"
 metafile = true
 
 [[files]]
@@ -1755,7 +1755,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
+hash = "9374cb5877c9a0e14b2da4ce029d1c425cc95fe170eba05af16de8b1a9dad496"
 metafile = true
 
 [[files]]
@@ -1985,7 +1985,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "8e54aa67b2e446ba49f4c0a877a87b9e22a72f61e30e5d9b650f97b5c0f335a4"
+hash = "5d181a0826679fba7511ff63cad61b610f5312d71125d10e327f84b3d3c75540"
 metafile = true
 
 [[files]]
@@ -2465,12 +2465,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "6e454809d22c0967ace0a59408260da91ce80757d00eaa4720f0496fcd1fddd1"
+hash = "c0fd0147486f98dfd3cfe942bc63298ad82fc9e1fc4c71023b51d8abccc13cbc"
 metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
+hash = "c22ecd79656148ab2b66f16bb2ff553355a7e1fe1ce04d1bcb9b3c3346a30926"
 metafile = true
 
 [[files]]
@@ -2840,7 +2840,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "0ee1d42c422c46cee965566d72e073611520a045d5e200b58e527fa7930e811a"
+hash = "c50a1985a6f93c8c969cf36b4e587d89ebb1ea2b2cd6b32a8eb792939c9dfede"
 metafile = true
 
 [[files]]
@@ -2875,7 +2875,7 @@ metafile = true
 
 [[files]]
 file = "mods/talk-balloons.pw.toml"
-hash = "d62bc0ac81e190a0b71e472baf994b6ed811fdd64f553a5ebc744a551997e63e"
+hash = "5e9183765525468d8771d742488bdaa07542645c553b7f1625f3bacf95087a32"
 metafile = true
 
 [[files]]
@@ -3025,7 +3025,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "9761d3858657105f2e68ff5dc053f65df01d91ebb2f34bddcaa6dd1f7d743fd0"
+hash = "644863f1e02f311e817c5889d117fc7ea11d12362729a0b217f1ef97770e0bd8"
 metafile = true
 
 [[files]]
@@ -3040,7 +3040,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
+hash = "3a1c57e1e9b45be6c1c4e3140829c5f85a72fd67fcb951979f868ca870c487e2"
 metafile = true
 
 [[files]]
