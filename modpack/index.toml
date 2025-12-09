@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "42bc95e68d4eb3d568002a66806571b4ce7d0ff6281da60fe1f961fb72d1b393"
+hash = "49020dea2e9492dd4de1f3d7775fa33e49afe7d287e9734a83c1cf36cd2c89ce"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1659,8 +1659,8 @@ hash = "56e986962af1a67c93800df4dd471a3aa858026401249a70415a8f29650c8671"
 metafile = true
 
 [[files]]
-file = "mods/effect-descriptions.pw.toml"
-hash = "8ac3633bc24ef03fd6f18bfbeb9ab5baa674aa572924233a09202e6da4bdcff1"
+file = "mods/effect-insights.pw.toml"
+hash = "12e6353b74231203b2cf729dec144f215d3f7df02c8228c81ebe2ae8908b5013"
 metafile = true
 
 [[files]]

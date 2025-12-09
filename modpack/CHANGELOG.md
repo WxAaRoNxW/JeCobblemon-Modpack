@@ -22,7 +22,7 @@ v0.11 Alpha - Optional and More Update
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
 
 - Updates
-	- Effect Description - Modrinth update page (name was changes).
+	- Effect Descriptions - Modrinth update page (name was changed).
 	- <details>
 		<summary>
 		Updated Files
