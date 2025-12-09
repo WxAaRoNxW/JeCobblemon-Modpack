@@ -16,6 +16,34 @@ v0.11 Alpha - Optional and More Update
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
 
+- Updates
+	- Effect Description - Modrinth update page (name was changes).
+	- <details>
+		<summary>
+		Updated Files
+		</summary>
+
+		- <b>AllTheMons x Mega Showdown</b>: ATM x MSD [3.0.1].zip `->` ATM x MSD [v3.1.1].zip
+		- <b>Chat Animation [Smooth Chat]</b>: chatanimation-1.0.6.jar `->` chatanimation-fabric-1.21.1-1.1.1.jar
+		- <b>Cobblemon Armors</b>: cobblemon-armors-1.5.2+1.7.1.jar `->` cobblemon-armors-1.6.0+1.7.1.jar
+		- <b>Emojiful</b>: Emojiful-Fabric-1.21-5.1.5.jar `->` Emojiful-Fabric-1.21-5.2.1.jar
+		- <b>Fast Better Grass</b>: Fast Better Grass.zip `->` Fast Better Grass.zip
+		- <b>Fast Paintings</b>: fastpaintings-1.21-1.3.0-fabric.jar `->` fastpaintings-1.21-1.3.0-fabric.jar
+		- <b>LambDynamicLights</b>: lambdynamiclights-4.8.6+1.21.1.jar `->` lambdynamiclights-4.8.7+1.21.1.jar
+		- <b>Lithostitched</b>: lithostitched-1.5.0-fabric-1.21.1.jar `->` lithostitched-1.5.2-fabric-1.21.1.jar
+		- <b>Macaw's Fences and Walls</b>: mcw-fences-1.2.0-1.21.1fabric.jar `->` mcw-mcwfences-1.2.1-mc1.21.1fabric.jar
+		- <b>Macaw's Lights and Lamps</b>: mcw-lights-1.1.2-mc1.21.1fabric.jar `->` mcw-lights-1.1.5-mc1.21.1fabric.jar
+		- <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.3e.zip `->` MakeUp-UltraFast-9.3h.zip
+		- <b>MNS - Moog's Nether Structures</b>: MoogsNetherStructures-1.21-2.0.1.jar `->` MoogsNetherStructures-1.21-2.0.31.jar
+		- <b>MVS - Moog's Voyager Structures</b>: MoogsVoyagerStructures-1.21-5.0.2.jar `->` MoogsVoyagerStructures-1.21-5.0.3.jar
+		- <b>Oh The Biomes We've Gone</b>: Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar `->` Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar
+		- <b>Rad Gyms [Cobblemon]</b>: Rad Gyms [Cobblemon]-0.3.0-stable.jar `->` Rad Gyms [Cobblemon]-0.3.1-stable.jar
+		- <b>Raise Sound Limit Simplified</b>: rsls-1.1.10.jar `->` rsls-1.1.11.jar
+		- <b>SimpleTMs: TMs and TRs for Cobblemon</b>: SimpleTMs-fabric-2.2.1.jar `->` SimpleTMs-fabric-2.3.0.jar
+		- <b>Smooth Gui</b>: smoothgui-0.1.1.jar `->` smoothgui-fabric-1.21.1-1.0.0.jar
+		- <b>Sounds</b>: sounds-2.4.18+lts+1.21.1-fabric.jar `->` sounds-2.4.21+lts+1.21.1-fabric.jar
+		- <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar
+
 - Removals
 	- Camerapture - Replaced with exposure
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.

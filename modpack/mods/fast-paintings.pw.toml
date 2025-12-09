@@ -3,11 +3,11 @@ filename = "fastpaintings-1.21-1.3.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/z3TzcquW/versions/cTREni25/fastpaintings-1.21-1.3.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/z3TzcquW/versions/gv8Py8iO/fastpaintings-1.21-1.3.0-fabric.jar"
 hash-format = "sha512"
-hash = "b59d93b6196d33234e8ba0acb7c8f51616a424780bba6fe85fa19a182bae9cd2af22acd23f5ce06e1794f7d93edb9848cca5abc656fd265082cd78eb3ebbc451"
+hash = "a70b89dd906ed0c87923a2ede4000bd1daf377835adf198ae344cc812769099df4de042568674c33b402d3f0ff2426b85137bf75e1cd89635e1e301f3bb6f15a"
 
 [update]
 [update.modrinth]
 mod-id = "z3TzcquW"
-version = "cTREni25"
+version = "gv8Py8iO"

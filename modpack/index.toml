@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7a976fbc427aa9fa82dddbcb01f7fb7d4bc1e26097c96e1ba4bad672c387891e"
+hash = "e26b75a9d7ec9b77dd55b6908ec0465bce80663113a0719551cf519d9ffc267c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data_and_resources/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "c99929400fd446bac406df4741277fdaddbcdd49e8ca29ff5c8250ec801b2121"
+hash = "edcccbc90ca7ac9a5cdbf760a8a4f996f0ec3753c5283abc6b74cd09351ac0f2"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "ecd84b3b41acc1d3fd2a3ee95a022ed389664775a16d43c793c65cfd2690f7c4"
+hash = "18dad4100d414bce77eb1faf483697a06d9305e005b4b1d581132ca73d17159c"
 metafile = true
 
 [[files]]
@@ -1305,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-armors.pw.toml"
-hash = "57afe7ce8ee304beef1bf5b9204d1ca5946641308bf575f1a89cbc9e8f622851"
+hash = "e5a56a9a8c48ce2d4da1fd29902716dbf31a3cc89a924e0a4c80afec39a07091"
 metafile = true
 
 [[files]]
@@ -1665,7 +1665,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "075333c718799e90e1b59d64507c1a61babffd65caedc58d0bdd0a130c5645fb"
+hash = "87dc510f0c2a479e7e192c5c1f9f91eaf76e84a548388b6fe4aa6c24c517860b"
 metafile = true
 
 [[files]]
@@ -1815,7 +1815,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "1d38d2ea2e824801a91767b0af2f91b0598918fd8ba0ae1eb4f8435f4a9da243"
+hash = "63e01963f2d2e5974c0f205c81700c1437fa400b8ab6a6c9ccfd921ed0e0d200"
 metafile = true
 
 [[files]]
@@ -2120,7 +2120,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "6b58adc0caa94e0ec9ab4a472081456f1e7bcad169546373d0f01d1ed2ddaff5"
+hash = "07f04b4589c6ffe170332cae7d62badefa9ea7753d9621dbdb968c937a928f6e"
 metafile = true
 
 [[files]]
@@ -2160,7 +2160,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "5cccbe33e96d27254469cd51ebe3d39fd89c93bbcb78e5c57029b9529149d70a"
+hash = "1fcfdabe052ab05353d3cb4a13ad4dc25b2b1ad974d633ab000be8e90c5fce75"
 metafile = true
 
 [[files]]
@@ -2190,12 +2190,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "93c57990c9353797107ca22b047d3ca732a977b0cfd343a0fb6a70f80649e282"
+hash = "2a351e405d3bbf633a34f4a08deb1f4aacbcff960f4e6e44fbb67fe0e07e3044"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "d5b578676faccc628040bd5cdf96a1cdf7f706a355acd577a9d0379f8a406772"
+hash = "8675eb41c4bb4fb257451f86a79ae35aae0ce5d88a061e1adcaede311c22f4aa"
 metafile = true
 
 [[files]]
@@ -2270,7 +2270,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "bee01d4388fcc23be892c81a5eff5b7bbf50e846a6d7088397a7a818ad459a0c"
+hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
 metafile = true
 
 [[files]]
@@ -2310,7 +2310,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "5c5a98c63fc8d7882eca391942741727f7c51c87fa5f48f6f91cebbd1d6e3e0f"
+hash = "344abb591cc9ec3e8a50ab00906c3f8844f0a1377a8ad492029b9fcfa3dc3379"
 metafile = true
 
 [[files]]
@@ -2435,7 +2435,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "f52dd65f1d1dad481f79a5f9aa10b674034e084e88fe0f0128b3228062154edb"
+hash = "926b164571a4445ec0b3b02bb5ac7a24e7797c2b4a20e665352ff190f6918184"
 metafile = true
 
 [[files]]
@@ -2565,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/rad-gyms.pw.toml"
-hash = "563bc6c610abcb627a7e31021bbce0e146708a9686804b61bf699adb058d1e47"
+hash = "2b43a287a63bd30831540b6c2abcb997b15461845e10fc646c38a389580e03ba"
 metafile = true
 
 [[files]]
@@ -2635,7 +2635,7 @@ metafile = true
 
 [[files]]
 file = "mods/rsls.pw.toml"
-hash = "17f1f78051aab0bb1b9855f9756ca41fe14aaefcedd8a3b772d8a9619d675794"
+hash = "b2dc1aaf0c00196ec8d727651719749f5253e3f876ae2ade638aba1b73b1ecbc"
 metafile = true
 
 [[files]]
@@ -2710,7 +2710,7 @@ metafile = true
 
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
-hash = "b7518f4aa0c5028b2849d94d0d7599979e1828ceff685b09d1e39cc2763954be"
+hash = "d66feba070eecd9ec27a3917c1ac0141d125d00eaefdb642d667a3fe689c3764"
 metafile = true
 
 [[files]]
@@ -2735,7 +2735,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "e716569602cbab699fd5f06c4d4305e94f1e67176d163ed506f34c5cb9a97a45"
+hash = "93707988a7b6129ab84dcf23bbd28ffe9ec8dcd4c176d74da7e5f6d64482f519"
 metafile = true
 
 [[files]]
@@ -2815,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "69d01714a94de630dc24248bd1a96725f7ffb96358b43950938e041f4d2cf5fe"
+hash = "8725f2094899016feb948812b11f25c22bdf8d332bb9f825559087eef72cb53f"
 metafile = true
 
 [[files]]
@@ -3119,7 +3119,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8ffa4ba1466882a5abef6c6d220824f1ce4e228771f854f19e4fceb80598723c"
+hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
 metafile = true
 
 [[files]]
@@ -3233,7 +3233,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
+hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
 metafile = true
 
 [[files]]
@@ -3287,5 +3287,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "c37f620be5f4739b191c1a5eba8b90c3acdef3162b7c9b499391c16ed23f378a"
+hash = "05dd4aac0131eeef4c1ff5601c294e615cbc38890e50dda7ecbd18c14d2748eb"
 metafile = true
