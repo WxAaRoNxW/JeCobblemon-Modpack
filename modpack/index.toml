@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "cf482437a622cd56afe0062ef4b61281ade1c8e12f0443e63291856774f3ded9"
+hash = "dede830933732a90e349f8bbd8c4b199b7ad3cd122aa55d5bbcd420e32f39c13"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3279,6 +3279,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblefolk.pw.toml"
 hash = "f369a747de0a4d3a5346b6c6970ba58efc313a70ff04f31cd8e974c9025bd333"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
+hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
 metafile = true
 
 [[files]]

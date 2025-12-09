@@ -27,6 +27,7 @@ v0.11 Alpha - Optional and More Update
 	- BiliBiliMedia - Adds BiliBili support for Water Frames.
 	- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
 	- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
+	- Cobblemon Classic Grass Pack
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
