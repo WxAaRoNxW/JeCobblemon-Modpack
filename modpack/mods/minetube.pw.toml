@@ -1,0 +1,13 @@
+name = "MineTube"
+filename = "minetube-1.4-Fabric_1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l3d1jWQZ/versions/8bFLKHLE/minetube-1.4-Fabric_1.21.1.jar"
+hash-format = "sha512"
+hash = "727ae10cad23548caedb88c495f72288d8a46dba0e7ffe3a2cf2fa7e7c8cf9f014d8b94665effdee1c4d285a3bd3da055c0c14c609abafc53e8530f5e4dd77c2"
+
+[update]
+[update.modrinth]
+mod-id = "l3d1jWQZ"
+version = "8bFLKHLE"

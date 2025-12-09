@@ -11,7 +11,17 @@ v0.11 Alpha - Optional and More Update
 		- Exposure Polaroid - Instant Camera.
 		- Exposure Catalog - Admin interface.
 		- Exposure Knowlogy - Tutorial book.
+	- Jake's Build Tools - Handy tools for builders.
+	- MineTube - Custom Zone Music (sync'd with players).
+	- Reframed - Frame blocks to create different shaped blocks that you normally can't with vanilla. Slopes, Vertical Slabs, etc.
 	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+	- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
+	- Storage Labels - Was requested a long time ago.
+	- Via Romana - Natural feel fast travel system.
+	- Easy Item List - Necessary for server side recipes/items.
+
+	- Data Anchor - Lib for Via Romana.
+	- Stack Deobfuscator - Aid for debugging.
 	- iCommon API - New lib needed by MultiWorld (for portal making).
 	- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
 	- BiliBiliMedia - Adds BiliBili support for Water Frames.

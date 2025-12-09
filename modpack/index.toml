@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "49020dea2e9492dd4de1f3d7775fa33e49afe7d287e9734a83c1cf36cd2c89ce"
+hash = "cf482437a622cd56afe0062ef4b61281ade1c8e12f0443e63291856774f3ded9"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1564,6 +1564,11 @@ hash = "729709435cf523eb8ba00b78bbfbd60baec24b363d6dd399399310f20e0c8084"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "508dcb536d732a862ea9e8046861f99e698ecc094025d2299b4b0058fea57ea7"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "4d45198d15e532897899a687a1d68636781b5987c9810640ce7e9ebc5c7b685d"
 metafile = true
@@ -1636,6 +1641,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "a941085fd4a98a112abbd657c7ec35ca68deaa855880a63e56dcb18e4d75612d"
+metafile = true
+
+[[files]]
+file = "mods/easy-item-list.pw.toml"
+hash = "7bba60ba5bd74460316d361fc66afd85541153b29061b24d31e1b103c2f1b8e3"
 metafile = true
 
 [[files]]
@@ -2069,6 +2079,11 @@ hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
+file = "mods/jakes-build-tools.pw.toml"
+hash = "b55aeca073392483d4669aa564ed0ab0ee82067b752743b62c6c77f00ecc4332"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "d99a7a1b000c25ae1f8d5b0db6721aa3b443cd919896b4fe1527e9a11ed814b4"
 metafile = true
@@ -2126,6 +2141,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "3640c6d0ac5a0441934a336d96c59615bfb6f58ed28b0ea7d7d0fa5512da07ba"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "a1905763f6120a084eb348dbd512deb8eb6fb18cb5635db094937483dbc4eea0"
 metafile = true
 
 [[files]]
@@ -2261,6 +2281,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "44b266511a87dd03b2160cf7aa117d239e1acaa3450eb1707359192b59025705"
+metafile = true
+
+[[files]]
+file = "mods/minetube.pw.toml"
+hash = "ca7367a71af3a06181ef1c82acc4eb37e3d6ae4b145608cf5feb143889dcf832"
 metafile = true
 
 [[files]]
@@ -2609,6 +2634,11 @@ hash = "8333e7e6257e25302767bac8d7179e0566459a2c257758552fe88f3db55942d2"
 metafile = true
 
 [[files]]
+file = "mods/reframed.pw.toml"
+hash = "b6021cd52db0eee9a48d1aa31552d1158bf8b454b424ea0ddda9011e324efa0b"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "7ceada6e6fdfb868c17a2d2212cb3b494150fa5717d653605464176f3e4c65de"
 metafile = true
@@ -2854,6 +2884,11 @@ hash = "66240aba12e8ae1e0c86efadae1b6a769852f62e0ab749027071fc483e4d5823"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
 metafile = true
@@ -2866,6 +2901,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "570a995d2e20eed34c5b708f09b4b02fea827054a32df7bb55257719b8cc849e"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "c7472ae71ab0b72df30939071422b0df04428e1e187a080f1e5f1df0cb1f2465"
 metafile = true
 
 [[files]]
@@ -3056,6 +3096,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "1f535c2a72ae70b42b262dd8211b5e0b10431123132b7891da4eb7bd3199c8f7"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "c2b5ca42a0edeaf683d59f7479ec503d33eaaa81289e219400db423aa088a20b"
 metafile = true
 
 [[files]]
