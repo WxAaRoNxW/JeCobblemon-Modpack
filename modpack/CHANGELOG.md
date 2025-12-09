@@ -12,6 +12,8 @@ v0.11 Alpha - Optional and More Update
 		- Exposure Catalog - Admin interface.
 		- Exposure Knowlogy - Tutorial book.
 	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+	- iCommon API - New lib needed by MultiWorld (for portal making).
+	- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
 	- BiliBiliMedia - Adds BiliBili support for Water Frames.
 	- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
 	- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.

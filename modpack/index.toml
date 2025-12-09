@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5af14d97ed08e63fa2a9daa77216e41f47e27452e204226e151f26538d990d49"
+hash = "42bc95e68d4eb3d568002a66806571b4ce7d0ff6281da60fe1f961fb72d1b393"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1999,6 +1999,11 @@ hash = "b7bcf3350db1516c297799b53f3eaa9e7f7c65db46b570fa317484b55dcbaae0"
 metafile = true
 
 [[files]]
+file = "mods/icommon.pw.toml"
+hash = "e7c051b94a74e4817d0d9a85888b71366d7c291a7cb039de9e9e337626b8f167"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "c427412914ee34f8f95b362b543fa385cea7d2305603388fbbf25ab326c93741"
 metafile = true
@@ -2511,6 +2516,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "f1746f7abc78b5a149212d295b903cfc232477b1abd9e2050e5d4af3acc530b5"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
