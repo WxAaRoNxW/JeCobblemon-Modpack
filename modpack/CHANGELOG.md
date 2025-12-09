@@ -6,12 +6,18 @@ v0.11 Alpha - Optional and More Update
 </b></summary>
 
 - Additions
+	- Exposure - Camerapture Replacement
+		- Exposure Expanded - More features.
+		- Exposure Polaroid - Instant Camera.
+		- Exposure Catalog - Admin interface.
+		- Exposure Knowlogy - Tutorial book.
 	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
 
 - Removals
+	- Camerapture - Replaced with exposure
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
 	
 </details>

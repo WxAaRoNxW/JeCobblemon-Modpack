@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "839ad5fa615073544b4e49f96dc68118de0d79c74f63654618359523863b800b"
+hash = "7a976fbc427aa9fa82dddbcb01f7fb7d4bc1e26097c96e1ba4bad672c387891e"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -214,7 +214,7 @@ hash = "72f7a2476dd93ad938a290d31de87679eff70271a354fbee4f93c76619a0aebd"
 
 [[files]]
 file = "config/invmove/unrecognized.json"
-hash = "9667578fdf2f8c6d149cdd1ce27f3ca19846f5443e433a2e92d6f0327c8393e7"
+hash = "bda08f9d6e3010031ec00fcff014b6fcffd6c071b64e290b46175eb4f0db0f8e"
 
 [[files]]
 file = "config/invmove/vanilla.json"
@@ -302,7 +302,7 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/yosbr/config/carryon-common.json"
-hash = "d3bc8bc496ce7c41ea5fd0fbd603475c20b8702df369287dc6989434dc513580"
+hash = "82eae545ef40fb213fa6218f618684980813e62db4e69aecfad0235569c57d0f"
 
 [[files]]
 file = "config/yosbr/config/chatnotify.json"
@@ -1144,11 +1144,6 @@ hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
-file = "mods/camerapture.pw.toml"
-hash = "3cc79a406a67f07707ed8676b1b5786d2112547dca4df21757ea5e54c7cfe72d"
-metafile = true
-
-[[files]]
 file = "mods/carbasa.pw.toml"
 hash = "d5adc39bb3c2e476219bc47d9e59406d98de404fdd843b5c2dfdf0ed8ba28719"
 metafile = true
@@ -1726,6 +1721,31 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "5bbdc0337ff8b33dc7a998f9f9ed802ee761fb4e099025966319a0c192cf1d4c"
+metafile = true
+
+[[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "64bcf1af6b447075869d971bf247bb05c471f7b8f8b610a541b33c3f5a210cdf"
+metafile = true
+
+[[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "82ff099657d3065a7736b4b92b0bcd53b9773c380ffee20809f2f8b66d3ef33a"
+metafile = true
+
+[[files]]
+file = "mods/exposure-knowlogy.pw.toml"
+hash = "86028ab9ea525421e40c0c0188af5e5b8361979185da80904e7fabdb4374c1cc"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "5f5d25d13e3640d0eaaea0a7a00edcb5aa74a4e12c593e8e24bab254f32916d9"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
 metafile = true
 
 [[files]]
