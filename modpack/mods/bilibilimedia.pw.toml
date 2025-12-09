@@ -1,0 +1,13 @@
+name = "BiliBiliMedia"
+filename = "bilibiliMedia-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vqvS4GPe/versions/rTQx7khC/bilibiliMedia-1.1.jar"
+hash-format = "sha512"
+hash = "edd043569a586008f437660beec4c094b1cfd21e6c0d4693f894e41cbe11248e220273309ee38fdb0fd0c0d6f1cb22d34454e63b0bfe66be961c9f7d2e656d16"
+
+[update]
+[update.modrinth]
+mod-id = "vqvS4GPe"
+version = "rTQx7khC"

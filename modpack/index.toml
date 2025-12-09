@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e26b75a9d7ec9b77dd55b6908ec0465bce80663113a0719551cf519d9ffc267c"
+hash = "5af14d97ed08e63fa2a9daa77216e41f47e27452e204226e151f26538d990d49"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1116,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c2b0847fc69c56749319d5df5ce4c87b4a528c28f94a1d2ca053fbd650755812"
+metafile = true
+
+[[files]]
+file = "mods/bilibilimedia.pw.toml"
+hash = "68be1cbf28d1357f70573be43c2096a6ace215612f6a5327a9ce57d120588b82"
 metafile = true
 
 [[files]]
@@ -3069,8 +3074,18 @@ hash = "6eacaa113ef27bddbd9c5966a65fd15a23d68bd826c1d594bfcf6c2380388e74"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "68942ad1141f4fbcf3ac89d057b1d7ef50c42aa649cdc3be4713e20b55ee5a3d"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "20c73ecae3604fb610214d8829eb90016c39ce522c0c887f913e312f553c8da2"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "e15d048097d01280dfbc89346438f2da671ef768d4a7329d556d42f01e8440fd"
 metafile = true
 
 [[files]]

@@ -12,6 +12,9 @@ v0.11 Alpha - Optional and More Update
 		- Exposure Catalog - Admin interface.
 		- Exposure Knowlogy - Tutorial book.
 	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+	- BiliBiliMedia - Adds BiliBili support for Water Frames.
+	- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
+	- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
