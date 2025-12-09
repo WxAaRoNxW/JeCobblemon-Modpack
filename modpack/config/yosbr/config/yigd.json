@@ -131,7 +131,7 @@
     "defaultAccessoriesDropRule": "PUT_IN_GRAVE",
     "enableLevelzCompat": true,
     "defaultLevelzDropRule": "PUT_IN_GRAVE",
-    "enableTravelersBackpackCompat": true,
+    "enableTravelersBackpackCompat": false,
     "defaultTravelersBackpackDropRule": "PUT_IN_GRAVE",
     "enableTrinketsCompat": true,
     "defaultTrinketsDropRule": "PUT_IN_GRAVE"

@@ -144,11 +144,6 @@ key_key.trade_cycling.cycle_trades:key.keyboard.unknown
 key_key.trashslot.toggle:key.keyboard.insert
 key_key.trashslot.toggle_lock:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
-key_key.travelersbackpack.inventory:key.keyboard.b
-key_key.travelersbackpack.sort:key.keyboard.unknown
-key_key.travelersbackpack.ability:key.keyboard.g
-key_key.travelersbackpack.cycle_tool:key.keyboard.v
-key_key.travelersbackpack.toggle_tank:key.keyboard.b
 key_key.utility_belt.swap_toggle:key.keyboard.b
 key_key.utility_belt.swap_hold:key.mouse.4
 key_key.utility_belt.open_screen:key.keyboard.b

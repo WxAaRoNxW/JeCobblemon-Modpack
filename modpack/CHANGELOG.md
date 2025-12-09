@@ -5,9 +5,15 @@
 v0.11 Alpha - Optional and More Update
 </b></summary>
 
+- Additions
+	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
 
+- Removals
+	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
+	
 </details>
 
 <details>

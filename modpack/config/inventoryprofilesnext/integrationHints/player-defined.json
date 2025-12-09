@@ -55,9 +55,6 @@
             }
         }
     },
-    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
-        "ignore": true
-    },
     "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
         "ignore": true
     },

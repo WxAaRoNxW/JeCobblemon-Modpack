@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "20c166fd0e3ff505cb351ba6469d48185aac204e90a135e8df431e3debb01a40"
+hash = "839ad5fa615073544b4e49f96dc68118de0d79c74f63654618359523863b800b"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -206,7 +206,7 @@ hash = "418a568b0791fc9dce33bb9a123dfdd95c5fd3b68d31f64691bb9de2d632c2e9"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "6f9e04ffaaa65c761f8157d0651be416b019ba828e368c7aa6f8fdf45e0e37a1"
+hash = "9ab46c90c5bf6467e9eb8e1cbac35b131884d134d0fe947cf50bb6614c2e49b8"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"
@@ -214,7 +214,7 @@ hash = "72f7a2476dd93ad938a290d31de87679eff70271a354fbee4f93c76619a0aebd"
 
 [[files]]
 file = "config/invmove/unrecognized.json"
-hash = "fa4edd25c3a7658d3f3f69e48cd06fc43aa3af20939ad29e7048be43c9a8c4e3"
+hash = "9667578fdf2f8c6d149cdd1ce27f3ca19846f5443e433a2e92d6f0327c8393e7"
 
 [[files]]
 file = "config/invmove/vanilla.json"
@@ -838,11 +838,11 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/config/yigd.json"
-hash = "ae4f701727eb12317b860a466b88f2de9a61e2d41543d87da09d932ef90b16f9"
+hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b241883cd8af59b2d03530797501928cad696c07bdf8e08355f380887ab169e7"
+hash = "dd7d64f39cf055c5f51924e3f2bc04fbaf6afac7e85aa183f918346224a36f02"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
@@ -2769,6 +2769,11 @@ hash = "92ec6088f9e1321eeaad55009e5caca2eab77e673e76b94c35cd46d11990cb39"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "3dae8bafdd462a599adbf8d41edb8ad3000ba440065fc026f059a76ec336f6f8"
 metafile = true
@@ -2971,11 +2976,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "40c60c458184ab9d15fdcc4c610607eca60a1557bbf484fad2942a803d75e0ec"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "fb543e76311a6ae078aa9e5b56c93c2a3b3fba34900809d024c61900db3acf2e"
 metafile = true
 
 [[files]]
