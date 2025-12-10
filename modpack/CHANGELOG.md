@@ -6,6 +6,9 @@ v0.11 Alpha - Replace and Remove Update
 </b></summary>
 
 - Additions
+	- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
+	- Dynamic Crosshair Compat - Addon for more modded support.
+	- Easy Item List - Necessary for server side recipes/items.
 	- Exposure - Camerapture Replacement
 		- Exposure Expanded - More features.
 		- Exposure Polaroid - Instant Camera.
@@ -18,7 +21,6 @@ v0.11 Alpha - Replace and Remove Update
 	- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
 	- Storage Labels - Was requested a long time ago.
 	- Via Romana - Natural feel fast travel system.
-	- Easy Item List - Necessary for server side recipes/items.
 
 	- Data Anchor - Lib for Via Romana.
 	- Stack Deobfuscator - Aid for debugging.

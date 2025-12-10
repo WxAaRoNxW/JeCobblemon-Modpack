@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "0c3527490ab7a161237c508b6c27eb5037fe7af43e1e22ad9a07fa5776a9c805"
+hash = "16d57c1ad0213ed928662c903a86a5c041017260388b1dba44396586cb7a9df5"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1435,6 +1435,11 @@ hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "0d95ec2a2c6c323a79dde517519dc0aa05a8d0b11765e210ed621f1abe0fdf93"
+metafile = true
+
+[[files]]
 file = "mods/commandstructures.pw.toml"
 hash = "4a8053007c56bad4735673598c61e0b65c6eea2229028ef22797ca9aae7ebe55"
 metafile = true
@@ -1606,7 +1611,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "0b6004477b35dd958d0ad4ab500f90baf07f838c6d63477e4bc51b18a295b370"
+hash = "0bc2d936f5f16c29d41391de7e72194df9574d11f81011ccea43f182d9c51b45"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "38018ffa9f90036aae28efe27816b317c1dd2cb63851237680e1c62c5c278d52"
 metafile = true
 
 [[files]]

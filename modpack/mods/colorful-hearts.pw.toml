@@ -1,0 +1,13 @@
+name = "Colorful Hearts"
+filename = "colorfulhearts-fabric-1.21.1-10.5.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQfMUdZT/versions/ZGVfx1WG/colorfulhearts-fabric-1.21.1-10.5.9.jar"
+hash-format = "sha512"
+hash = "f59587165a627457f9ebd9a2b97dabbcee1b59c4a06a3407a809852340f817e38b3b3516c4bc37b5957d6ee9aa08c432b6a9011000d67ebaa0707ef9bb45e2ca"
+
+[update]
+[update.modrinth]
+mod-id = "wQfMUdZT"
+version = "ZGVfx1WG"
