@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5617dd7cad78ca82f04c713af4db64285cf42c42bc24032307206dcce276ed2f"
+hash = "0c3527490ab7a161237c508b6c27eb5037fe7af43e1e22ad9a07fa5776a9c805"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -742,15 +742,11 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6b75c289c877e2bb69f603fc3b3a3713d28b97374228168b9a26e839d11cb320"
+hash = "553638cd0dab8279d5c77c633324f1012395c38ca3c8a338571cca59464df8b4"
 
 [[files]]
 file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
 hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
-
-[[files]]
-file = "config/yosbr/config/sodiumextras-client.toml"
-hash = "62f76d363069cd325ef19d02a1413d1982611dcf08e849b0bfbd041d062dd56f"
 
 [[files]]
 file = "config/yosbr/config/soldisco.json5"
@@ -1219,11 +1215,6 @@ hash = "9e2551ef4a1ddc2ba4591a98d115ef76755148f5286386958844450a03579222"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "fe66655a8118ff5c0ccd793df9452e3a4c8ac913d2e2bf9efd4d2bfbe802fc30"
 metafile = true
@@ -1409,11 +1400,6 @@ hash = "fc7a3205265fa134af1ba4e65bbe9cd12f0dc8861f73ec7e199dd9e2a339c654"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "c046d06cfa42731741157d029705c6d1f6ce48f8716a451f44d925b782fb29e4"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-unchained.pw.toml"
 hash = "82a9efa9ac89d8cc0c3418b661c8225b5b83c72f4c60a77a26e0104ecfcb594e"
 metafile = true
@@ -1436,11 +1422,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemonrizetweaks.pw.toml"
 hash = "9bb59e5fbbffe72058a6ef86057651e16f82076b2198239f8f5064cde1445970"
-metafile = true
-
-[[files]]
-file = "mods/cobblenoms.pw.toml"
-hash = "69d1c4f349a43d348e69a2104a6cf3e3c83d697ea7040ea03894b4e0e56b1c8f"
 metafile = true
 
 [[files]]
@@ -1556,11 +1537,6 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "0c1a1e3fcc970455a3e2dacda3bdf8bf8c73483af833558cd06327e2bf77de65"
-metafile = true
-
-[[files]]
-file = "mods/damagenumbers.pw.toml"
-hash = "729709435cf523eb8ba00b78bbfbd60baec24b363d6dd399399310f20e0c8084"
 metafile = true
 
 [[files]]
@@ -1689,11 +1665,6 @@ hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-level-cap-indicator.pw.toml"
-hash = "edbe367de721a2d22046a6ad8fe9ba7bf459a003f3fb08af98d5779560c6265d"
-metafile = true
-
-[[files]]
 file = "mods/ender-potions.pw.toml"
 hash = "b7c7c8020ec6784c85fe56860c6cd3022790e50225964ca29527105f744c8ae3"
 metafile = true
@@ -1731,11 +1702,6 @@ metafile = true
 [[files]]
 file = "mods/evenmoreinstruments.pw.toml"
 hash = "b0f2d8e68c6bb556ad147fb925a5a8c1d0db211497f97bf9df16f0bff9a30994"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "5bbdc0337ff8b33dc7a998f9f9ed802ee761fb4e099025966319a0c192cf1d4c"
 metafile = true
 
 [[files]]
@@ -1959,11 +1925,6 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
-file = "mods/heartstone.pw.toml"
-hash = "acb5e798277f560bc7adcfb072cfe3a80a20884accf06dbbf609753d9863af66"
-metafile = true
-
-[[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "e4b19eba252e6da456072dc3ffe1bf9b029a9a76fa54559c87be16f7f2a34722"
 metafile = true
@@ -1989,11 +1950,6 @@ hash = "f18924edb95ac6a690690b03ee801ebfca7e3f3c3cba464e58859c354434ba38"
 metafile = true
 
 [[files]]
-file = "mods/hungrier.pw.toml"
-hash = "31850b5f5078ed14ec607a63b2ea6f619253b4aa490ce34289418ffecd14507a"
-metafile = true
-
-[[files]]
 file = "mods/i-want-it-earlier.pw.toml"
 hash = "157788753665133d971ed82173fac08e7e6ee333a7a0ef186e21d711d46fbe82"
 metafile = true
@@ -2011,11 +1967,6 @@ metafile = true
 [[files]]
 file = "mods/icommon.pw.toml"
 hash = "e7c051b94a74e4817d0d9a85888b71366d7c291a7cb039de9e9e337626b8f167"
-metafile = true
-
-[[files]]
-file = "mods/illager-invasion.pw.toml"
-hash = "c427412914ee34f8f95b362b543fa385cea7d2305603388fbbf25ab326c93741"
 metafile = true
 
 [[files]]
@@ -2081,11 +2032,6 @@ metafile = true
 [[files]]
 file = "mods/jakes-build-tools.pw.toml"
 hash = "b55aeca073392483d4669aa564ed0ab0ee82067b752743b62c6c77f00ecc4332"
-metafile = true
-
-[[files]]
-file = "mods/jamlib.pw.toml"
-hash = "d99a7a1b000c25ae1f8d5b0db6721aa3b443cd919896b4fe1527e9a11ed814b4"
 metafile = true
 
 [[files]]
@@ -2196,11 +2142,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
-metafile = true
-
-[[files]]
-file = "mods/loot-journal-fabric.pw.toml"
-hash = "20b5a3ac7924c5abb9dbb5f6b0a6f2102eae644f883ffac1f78a3ef348d31c6f"
 metafile = true
 
 [[files]]
@@ -2734,18 +2675,8 @@ hash = "d133f1f8b092fc18a24ddb530b9513e659751179b66e536771c145ae9598631b"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "0052630af75a2d14af33e4b057f3f1f30db3b218f19b3ec27b40d374c4628c8b"
-metafile = true
-
-[[files]]
 file = "mods/shulker-charm.pw.toml"
 hash = "fc82129fe0a6a97c9669f440e4de1dd16d860e31cf28ff8477c88a9e243b222d"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0d51bf2566f8057955226b2bc0ddf7b404d581304dcf163139e1b4fb6ac2fc7e"
 metafile = true
 
 [[files]]
@@ -2799,11 +2730,6 @@ hash = "79672e39a2b1b904d2e74901791c7a068ac2cbf0c73fc4330d22e4b5688145d3"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "229c828ab219768cebd139440a01d3fd54ff86cc86cacb3118f2a2554b531f67"
-metafile = true
-
-[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "a9ff5f4a56cb1026faccf54034f37bfadb5b61e284dd3517fd2ec20b07c59eab"
 metafile = true
@@ -2821,11 +2747,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a987bcd2646a2ab741e7f609b43cb2d9c9daba765323b5a77d506b0ac7f4207"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "60be8bdb87fe9e663260303af96e0280c5b618409dc03a609fb08446ec703ad7"
 metafile = true
 
 [[files]]
@@ -3034,11 +2955,6 @@ hash = "3e1e18ad31680b51d6eb1104813f3f4a0fc557c33c0329b0de5023b413963047"
 metafile = true
 
 [[files]]
-file = "mods/trading-post.pw.toml"
-hash = "cbadc7c7ee3c00babef61035e102dca666e3f75ec94ef2bccb6702cd5811de00"
-metafile = true
-
-[[files]]
 file = "mods/trailtales-delight.pw.toml"
 hash = "135f6ef3dc8615eeb6b4d9ada04c65c8e7d456f7e4b3bb7ad32465fa6e409dba"
 metafile = true
@@ -3081,11 +2997,6 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "d20eabf3d7b1490d815f9cfe755013c2387fd5439c0ad02c783862d335c200c8"
 metafile = true
 
 [[files]]

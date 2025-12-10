@@ -2,7 +2,7 @@
 
 <details open>
 <summary><b>
-v0.11 Alpha - Optional and More Update
+v0.11 Alpha - Replace and Remove Update
 </b></summary>
 
 - Additions
@@ -62,7 +62,25 @@ v0.11 Alpha - Optional and More Update
 
 - Removals
 	- Camerapture - Replaced with exposure
+	- Exordium - Too much work to make it work with UI mods compatible.
+	- Cobblemon UI Tweaks - Old mod
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
+	- Trimming
+		- Cobblenoms - Was removed from modrinth a long time ago.
+		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
+		- Enchantment Level Cap Indicator - Unnecessary
+		- Heartstone - Nice to have, but niche since Minimap exists.
+		- Hungrier - SoL: Discovery has a new update to show which hasn't been eaten.
+		- Loot Journal - Unnecessary HUD clutter.
+		- Trading Post - Trimming mods.
+		- Show Me Your Skin - Unnecessary QoL.
+			- CICADA - Library.
+		- Sodium Leaf Culling
+		- Sodium Extras - Unnecessary.
+		- Shulker Box Tooltip - No one would use a shulker box.
+		- Utility Belt - Has big issue where first slot could potentially disappear.
+			- JamLib - Library.
+
 
 - Fixes
 	- Resourcepacks - Resourcepacks now enabled on default, was disabled due to resourcepack update.
