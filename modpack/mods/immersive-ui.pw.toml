@@ -14,5 +14,5 @@ version = "1Qx4v8mx"
 
 [option]
 optional = true
-default = false
+default = true
 description = "[Visuals] [Configurable] Animated Item interactions in inventory, sparkles, wiggles, shakes, etc."

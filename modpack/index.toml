@@ -1976,7 +1976,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "5d181a0826679fba7511ff63cad61b610f5312d71125d10e327f84b3d3c75540"
+hash = "53a6da11705af35ff5b04f45c508b8c85390d5928c29a5e2ff226d9496ed9ac3"
 metafile = true
 
 [[files]]
