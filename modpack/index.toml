@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "59ea1bd71368dda3d7727afd0418d755557260b2a0f9aabf729e5fa83f53398b"
+hash = "e51f26a97c437d831123032bd14e3ac9ef1574dafecc2679033ca0637cdf13a9"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1050,11 +1050,6 @@ metafile = true
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
@@ -2343,11 +2338,6 @@ hash = "e3b2dc615d6e4dcc82d7784969a737b8d374d803fe9652682ae9a48c87e2ae10"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "8d1aa1c7fa2db342ce219e5b61c58a74045fdfd9ccd0b32da0c0431afb0a0e5d"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -2495,11 +2485,6 @@ metafile = true
 [[files]]
 file = "mods/no-collision.pw.toml"
 hash = "3345243268869e53d49affdb02b4a1c8ccff64e6f657c553c52aa4f521111b12"
-metafile = true
-
-[[files]]
-file = "mods/no-more-popups.pw.toml"
-hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
 metafile = true
 
 [[files]]
@@ -2753,11 +2738,6 @@ hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "d7c84305da62ab8befe94851d0b9e0b9e19319496ccdbcd1c7c79a646024e287"
-metafile = true
-
-[[files]]
 file = "mods/rsls.pw.toml"
 hash = "b2dc1aaf0c00196ec8d727651719749f5253e3f876ae2ade638aba1b73b1ecbc"
 metafile = true
@@ -2815,6 +2795,11 @@ metafile = true
 [[files]]
 file = "mods/shulker-charm.pw.toml"
 hash = "fc82129fe0a6a97c9669f440e4de1dd16d860e31cf28ff8477c88a9e243b222d"
+metafile = true
+
+[[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "e4891e76bc72c6b2cc0443679b7412506e32bddcb0648539cc7781d3bfb045c7"
 metafile = true
 
 [[files]]
@@ -3060,11 +3045,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "100193fd1e11772b358fec5ac9ee19bbd65a0c78637a17e1e8784ed11012d0d6"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "ceabc7027b01066b1f9a93fdc42eeed7c31297a1437024f616eb6758483bf596"
 metafile = true
 
 [[files]]

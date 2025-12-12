@@ -56,6 +56,7 @@ v0.11 Alpha - Replace and Remove Update
 		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
 		- Redirected - Reduces memory usage by preventing duplicate enums.
 		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
+		- STFU - Performance and some tweaks.
 
 	- Data Anchor - Lib for Via Romana.
 	- Stack Deobfuscator - Aid for debugging.
@@ -110,6 +111,12 @@ v0.11 Alpha - Replace and Remove Update
 	- Exordium - Too much work to make it work with UI mods compatible.
 	- Cobblemon UI Tweaks - Old mod
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
+	- Replaced
+		- Model Gap Fix - Replaced with STFU.
+		- No More Pop-ups - Replaced with STFU.
+		- Remove Reloading Screen - Replaced with STFU.
+		- ThreadTweak - Replaced with STFU.
+		- BadOptimizations - Replaced with STFU.
 	- Trimming
 		- Cobblenoms - Was removed from modrinth a long time ago.
 		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
