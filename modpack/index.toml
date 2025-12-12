@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3ad79d803f58835d23f19b73ea6d9234380595f4dca353909f9154ec4fc1bb82"
+hash = "3ac8acabd1e15f0e2424283245a8e3574289ab5c486b0b6ce937a41c7d88906f"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1199,6 +1199,11 @@ hash = "70e3e2495b91f6e3f852ea99336ef003267bcdb87c299e7341bbbd61b5b73aac"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "5d343f1b9dd2da58dd4828fcccce26c18e5cd36bc3e52b6e1e9ce8b8eb17b966"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "36f1b5a453b5f5b3e04618dcb37a89b67211cbde1ff459c404e8949d6973cbed"
 metafile = true
@@ -1449,6 +1454,11 @@ hash = "0d95ec2a2c6c323a79dde517519dc0aa05a8d0b11765e210ed621f1abe0fdf93"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+metafile = true
+
+[[files]]
 file = "mods/commandstructures.pw.toml"
 hash = "4a8053007c56bad4735673598c61e0b65c6eea2229028ef22797ca9aae7ebe55"
 metafile = true
@@ -1456,6 +1466,11 @@ metafile = true
 [[files]]
 file = "mods/connected-doors.pw.toml"
 hash = "27aa8a624a51331e590f9ef3265003cd76313acee8e3a38faac67b5c2a2d2c5a"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "e28f40d34c30c32d4bd05cfb80215c907b59e43d7e593ead73b3a04bb959bd4a"
 metafile = true
 
 [[files]]
@@ -1496,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
+metafile = true
+
+[[files]]
+file = "mods/crab-claws.pw.toml"
+hash = "bb0d2b239d7158285e5c4c3193cad9847594e279b734b5ad40267864a7df6d7e"
 metafile = true
 
 [[files]]
@@ -1666,6 +1686,11 @@ metafile = true
 [[files]]
 file = "mods/effect-insights.pw.toml"
 hash = "12e6353b74231203b2cf729dec144f215d3f7df02c8228c81ebe2ae8908b5013"
+metafile = true
+
+[[files]]
+file = "mods/elevatormod.pw.toml"
+hash = "9bef602ef888f741dbd48091fe188697619acb29b9f57cadb9a0dc5b3fe55529"
 metafile = true
 
 [[files]]
@@ -1924,6 +1949,11 @@ hash = "59c7ac65295a2773d0cc8a26bf91e1f54dc9ea4dac522e28db4ba13c540e09d7"
 metafile = true
 
 [[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "21583bc605af593ea973167f5ac551d3c9db3d87627a89b2a7f626f3aca17003"
+metafile = true
+
+[[files]]
 file = "mods/gliding.pw.toml"
 hash = "9b4e07f02f5513115ddbbf883573bbf4e84dc8a9940ef30a31c7d7a78b7dca59"
 metafile = true
@@ -2061,6 +2091,11 @@ metafile = true
 [[files]]
 file = "mods/jakes-build-tools.pw.toml"
 hash = "b55aeca073392483d4669aa564ed0ab0ee82067b752743b62c6c77f00ecc4332"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
@@ -2416,6 +2451,16 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
+metafile = true
+
+[[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "0b725f508b6894d6166ba214f554c285dba3378f7763c58a92b01d8ea10e5cef"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
 metafile = true
 
 [[files]]
@@ -2806,6 +2851,11 @@ metafile = true
 [[files]]
 file = "mods/soldisco.pw.toml"
 hash = "92ec6088f9e1321eeaad55009e5caca2eab77e673e76b94c35cd46d11990cb39"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "081062cb61b5528765c12c29802e80b4ea656d58302a1f2ae19117ac2dc6eebf"
 metafile = true
 
 [[files]]

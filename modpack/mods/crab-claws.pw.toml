@@ -1,0 +1,13 @@
+name = "Crab Claws"
+filename = "crabclaws-1.3.0-1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UWxXQFc7/versions/xfXtjfsO/crabclaws-1.3.0-1.21.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "bacc1420d3aaa3595cec849c1d00de772b9c8b1b1631291ebe46fee21bf1ae46364d6789b6e4b50a104505e32898506ce0039bc4689a5847553347adfe76b0e6"
+
+[update]
+[update.modrinth]
+mod-id = "UWxXQFc7"
+version = "xfXtjfsO"

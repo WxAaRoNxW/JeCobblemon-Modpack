@@ -31,6 +31,17 @@ v0.11 Alpha - Replace and Remove Update
 	- Via Romana - Natural feel fast travel system.
 	- Visual Workbench - Crafting Table keep item.
 
+	- Deco and Blocks
+		- Chimes - Chimes + functional phantom repellant.
+		- Comforts - Sleeping bag.
+		- Connectible Chains - "Diagonal Fence at home".
+		- Crab Claws - Block reach.
+		- Elevator Mod - Openblocks signature elevator block.
+		- Glassential Renewed - Extra Util's Signature Ethereal Glass and more.
+		- Linked Chests - Global/Personal Hopperable Ender Chests/Pouch.
+		- Night Lights - Blocks and streams of lights.
+		- Sooty Chimneys - Better chimneys.
+	
 	- Admin Tools
 		- NBT Auto Complete - Shows NBT auto completes when working with commands.
 		- NBT Copy - Copies NBT data from /data get.
@@ -98,7 +109,6 @@ v0.11 Alpha - Replace and Remove Update
 		- Sodium Extras - Unnecessary.
 		- Shulker Box Tooltip - No one would use a shulker box.
 		- Utility Belt - Has big issue where first slot could potentially disappear.
-			- JamLib - Library.
 
 
 - Fixes
