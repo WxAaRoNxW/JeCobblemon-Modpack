@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e51f26a97c437d831123032bd14e3ac9ef1574dafecc2679033ca0637cdf13a9"
+hash = "ea74114df9a474df4c22f31898145a2b08cdc48a0b31d751b3383adc9cf15118"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -863,16 +863,6 @@ hash = "9f3530a7a015712483a11d40cb0f4288b7905029cbb5bb9f809440396f190a6b"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data/cobbledollar-shops-(compatibility-with-cobbletowns-+-bca).pw.toml"
-hash = "6006366d9e1c88186afe644c37daaaca86547695a543ca224b20973880e1820a"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/cobbledollar-shops.pw.toml"
-hash = "6006366d9e1c88186afe644c37daaaca86547695a543ca224b20973880e1820a"
-metafile = true
-
-[[files]]
 file = "global_packs/required_data/cobblemon-modded-drops.pw.toml"
 hash = "116f40fff53005aa3c3224761a5a1eaba69ea35c62428ab584f7aad9226a8bc4"
 metafile = true
@@ -1113,11 +1103,6 @@ hash = "1b946543c210ab9c3234db858977db392a690b3697af68f034a0f4de92a5a072"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "ceb181ab2b8981bd4b6557e2ad39b13f1e1155a4a6692d17aecf9d19cc241871"
-metafile = true
-
-[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "7e107de35f0d7ccc511e141fceecc37caea8dbb1a17b379cc8bb911b0632e94a"
 metafile = true
@@ -1295,11 +1280,6 @@ metafile = true
 [[files]]
 file = "mods/cobbled-armour-trims.pw.toml"
 hash = "e680c86ca49c7686991a53b63f0fc5b5e652fd9ca9346996413b5b47da6ca3ad"
-metafile = true
-
-[[files]]
-file = "mods/cobbledollars.pw.toml"
-hash = "25f8930a5814dfd54e697263a558293058e6c07603a44169b55e9fcea5ffd2e7"
 metafile = true
 
 [[files]]
@@ -2213,6 +2193,11 @@ hash = "2898959cae6f90183ad4c6e0384b4b7cc485ae0ef9474e7765a57d97a2542b05"
 metafile = true
 
 [[files]]
+file = "mods/libz.pw.toml"
+hash = "5dc350204e4d96aeda005a82b36e6e537ae24f2428da524f9dab8bfb3f49d2f2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
@@ -2503,6 +2488,15 @@ hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.json5"
+hash = "c715f058388984a7929302e963bfe82cb537170d75eb207863aa3bb26d14f8fa"
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "d84a0d878fc141b46ae42af4ffd7ce7c99fa777a810473c8e608b52b18ac92b2"
 metafile = true
@@ -2758,6 +2752,11 @@ hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "5824e6680c1aedd607c789297961b7e6624ce9b6946db8519c415e95a3c5f40f"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "365fe19fb21fd8b81f3684a5646f9eac1509a7cd459f9a78cdac2a6a86041101"
 metafile = true
@@ -2790,6 +2789,16 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "d133f1f8b092fc18a24ddb530b9513e659751179b66e536771c145ae9598631b"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-pehkui-compat.pw.toml"
+hash = "206ffa5c61a2cd944bf8ff6195533c8dfdb8c1530a031efbd6f1ce7d2224b27d"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "8a60c2e39ddcdc68ecbc171d118130836f1a409e11e9b6b356ece07b55cfc866"
 metafile = true
 
 [[files]]
@@ -2955,11 +2964,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "67c835fb326a647bf895c95a967657c8cceaf0fdc21786152b54e9c3f99e2fd7"
 metafile = true
 
 [[files]]

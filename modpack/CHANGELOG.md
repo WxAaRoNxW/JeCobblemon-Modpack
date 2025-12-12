@@ -31,6 +31,9 @@ v0.11 Alpha - Replace and Remove Update
 	- Via Romana - Natural feel fast travel system.
 	- Visual Workbench - Crafting Table keep item.
 
+	- Social
+		- Numismatic Overhaul - Replaces Cobbledollars.
+
 	- Deco and Blocks
 		- Chimes - Chimes + functional phantom repellant.
 		- Comforts - Sleeping bag.
@@ -57,6 +60,11 @@ v0.11 Alpha - Replace and Remove Update
 		- Redirected - Reduces memory usage by preventing duplicate enums.
 		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
 		- STFU - Performance and some tweaks.
+	
+	- UI/Visuals
+		- Scholar - Replaces Stendhal.
+		- Shoulder Surfing - Replaces Better Third Person.
+		- Shoulder Surfing Pehkui Compat - For Size Shifting Potion
 
 	- Data Anchor - Lib for Via Romana.
 	- Stack Deobfuscator - Aid for debugging.
