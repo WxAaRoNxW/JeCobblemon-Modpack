@@ -34,6 +34,31 @@ v0.11 Alpha - Replace and Remove Update
 	- Social
 		- Numismatic Overhaul - Replaces Cobbledollars.
 
+	- World Gen
+		- Better Villages
+			- Library Ferret
+		- Awesome Dungeons
+			- Base
+			- Ocean
+			- Nether
+			- End
+		- Dungeons and Taverns
+			- Base
+			- Swamp Hut Overhaul
+			- Ocean Monument Overhaul
+			- Nether Fortress Overhaul
+			- Jungle Temple Overhaul
+			- End Castle (included in base)
+			- NoFun DnT - Disables enchantments.
+		- Farmer's Cutting: Regions Unexplored
+		- Lukis'
+			- Ancient Cities
+			- Crazy Chambers - Trial Chambers
+			- Strongholds
+			- Woodland Mansion
+		- Regions Unexplored
+			- Terrablender
+			
 	- Deco and Blocks
 		- Chimes - Chimes + functional phantom repellant.
 		- Comforts - Sleeping bag.
@@ -127,6 +152,23 @@ v0.11 Alpha - Replace and Remove Update
 		- BadOptimizations - Replaced with STFU.
 		- Stendhal - Replaced with Scholar.
 		- Better Third Person - Replaced with Shoulder Surfing.
+		- World Gen
+			- Cinderscapes - Replaced with Regions Unexplored.
+			- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
+			- Nullscape - Replaced with Enderscape.
+			- Oh the Biomes We've Gone - Replaced with Regions Unexplored.
+				- Oh the Trees You'll Grow - lib
+				- corgilib - lib
+			- Repurposed Structures - Meh.
+				- Repurposed Structures - Farmer's Delight Compat
+			- Yung's
+				- Better Desert Temple
+				- Dungeons
+				- Jungle Temples
+				- Nether Fortresses
+				- Ocean Monuments
+				- Strongolds
+				- Bridges
 	- Blocks
 		- Farmer's Cutting: Oh The Biome's We've Gone
 		- More Compatibility Variants (Oh The Biomes We've Gone)

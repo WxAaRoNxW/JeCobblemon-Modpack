@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "aa82e2ecf2af36f217f97748e7c58ccac8b5487c8520494b328d4f647131d14c"
+hash = "811b2b74b186afd8990d6b3636860594f2be97c1050823d6fdc0d2222991fcf5"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1103,6 +1103,11 @@ hash = "1b946543c210ab9c3234db858977db392a690b3697af68f034a0f4de92a5a072"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "e36daad58bfc4d12148e207177bfe2052f4759b6b2bb6beeaeb7d645cae948c6"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "7e107de35f0d7ccc511e141fceecc37caea8dbb1a17b379cc8bb911b0632e94a"
 metafile = true
@@ -1613,6 +1618,31 @@ hash = "45854fd2cf9f0439b55b1f3c65768095f61afbcac4cf2490d53e98823f8ed6af"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "994a188c1acaae5d441895f388396b50fedaab6e0a18c1c0fe131a31c32a6132"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "e2c2c45de206f7c2c9a0c839a85eb8900cccc8a7dc3b328fb4711646f669ae7c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "a4c25ad00c2e6ad87500640edee15330dfd22a522b5f8a4066b83aa552ef3045"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "834584cac85ff31f7e76527389f7fbe3358eb1fd5ae8ed2c9146032bda8b8717"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "456ee4a85ff388a5eab4cb86b37984ca97d145650426e2fee336cb4904bae1d7"
 metafile = true
@@ -1790,6 +1820,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "1157104e93eab88b9d3c864fe5efea64497c6c4d5614aaa370a96e94a850014b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-regions-unexplored.pw.toml"
+hash = "d0488076622437e6321c92f37fd2f24e93d0e243798eb01f9510178d7f8d1a50"
 metafile = true
 
 [[files]]
@@ -2168,6 +2203,11 @@ hash = "2898959cae6f90183ad4c6e0384b4b7cc485ae0ef9474e7765a57d97a2542b05"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "25f051961343886c2cae61d1f492b4def35cf606967d159ff82aa651237783b2"
+metafile = true
+
+[[files]]
 file = "mods/libz.pw.toml"
 hash = "5dc350204e4d96aeda005a82b36e6e537ae24f2428da524f9dab8bfb3f49d2f2"
 metafile = true
@@ -2195,6 +2235,26 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
+
+[[files]]
+file = "mods/lukis-ancient-cities.pw.toml"
+hash = "ac34910b0e0549485d26cd305bdc2f65344be377d210c9b06eb7cb8c4b99918c"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "dbd3fad054462670862bcd63f418be7fc5579a529be75910a580f80169928aac"
+metafile = true
+
+[[files]]
+file = "mods/lukis-strongholds.pw.toml"
+hash = "338f32c02d925119fc87cbd69e6539c4c284d56725cae17efaea727067b7a21e"
+metafile = true
+
+[[files]]
+file = "mods/lukis-woodland-mansions.pw.toml"
+hash = "0024e497d2569c6e0b20ea51593cefb785c35edf2f2a40a1aae7f6ed96b655b3"
 metafile = true
 
 [[files]]
@@ -2438,6 +2498,11 @@ hash = "3345243268869e53d49affdb02b4a1c8ccff64e6f657c553c52aa4f521111b12"
 metafile = true
 
 [[files]]
+file = "mods/nofun-dnt.pw.toml"
+hash = "22f1ac45e20a4704c0b9b5da8f32233142844358af62f5bd351f75317f5e5277"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "d1291d7d3bc8bce4e642d3d2204ec4b833ee84cb3a987a2a39af7cfc545401f5"
 metafile = true
@@ -2649,6 +2714,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "7ceada6e6fdfb868c17a2d2212cb3b494150fa5717d653605464176f3e4c65de"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "3d953ee135d1ae7566461dc8b24f8c5afd3b4917cdeea2344c607f5f198e807a"
 metafile = true
 
 [[files]]
@@ -2979,6 +3049,11 @@ metafile = true
 [[files]]
 file = "mods/tbcs.pw.toml"
 hash = "a3e30ac7f98c3d4e575a0c3a6e2ecce4b6a078000838095301365114ded00d51"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
 
 [[files]]
