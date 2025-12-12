@@ -6,6 +6,7 @@ v0.11 Alpha - Replace and Remove Update
 </b></summary>
 
 - Additions
+	- Better Climbing - Faster climb up and down.
 	- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
 	- Dynamic Crosshair Compat - Addon for more modded support.
 	- Easy Item List - Necessary for server side recipes/items.
@@ -14,7 +15,10 @@ v0.11 Alpha - Replace and Remove Update
 		- Exposure Polaroid - Instant Camera.
 		- Exposure Catalog - Admin interface.
 		- Exposure Knowlogy - Tutorial book.
+	- Gliding - Gliders to traverse the Terralith world.
+	- Infinite Dragon Eggs - Renewable dragon eggs when respawning.
 	- Jake's Build Tools - Handy tools for builders.
+	- Minecraft Cursor - Vanilla+ cursor sprite.
 	- MineTube - Custom Zone Music (sync'd with players).
 	- PVP Toggle - Protects tames and players, lets you use /pvp to toggle self PvP.
 	- Reframed - Frame blocks to create different shaped blocks that you normally can't with vanilla. Slopes, Vertical Slabs, etc.
@@ -23,7 +27,9 @@ v0.11 Alpha - Replace and Remove Update
 	- Spyglass Astronomy Sync - Syncs constellations to other players in real time.
 	- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
 	- Storage Labels - Was requested a long time ago.
+	- Stylish Effects - Re-added as it doesn't break rendering of Simple Voice Chat.
 	- Via Romana - Natural feel fast travel system.
+	- Visual Workbench - Crafting Table keep item.
 
 	- Admin Tools
 		- NBT Auto Complete - Shows NBT auto completes when working with commands.
@@ -37,7 +43,10 @@ v0.11 Alpha - Replace and Remove Update
 	- BiliBiliMedia - Adds BiliBili support for Water Frames.
 	- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
 	- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
-	- Cobblemon Classic Grass Pack
+
+	- Resourcepack
+		- Better Quest UI
+		- Cobblemon Classic Grass Pack
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.

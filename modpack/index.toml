@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c3eca9964092400f67bfd14e3ba768c6ba5960a9fefb9404b8f2293b15dafce8"
+hash = "3ad79d803f58835d23f19b73ea6d9234380595f4dca353909f9154ec4fc1bb82"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -642,7 +642,7 @@ hash = "f89b178329ce1952446ee35c6308ce43cc4a8bd21ceb8a629c5ebb4d81b0a17d"
 
 [[files]]
 file = "config/yosbr/config/openpartiesandclaims-server.toml"
-hash = "07640cc7a8151c365453b64e3c7d14b75a8a4473572abb37a078c5c7e1c83a67"
+hash = "ea5d597b873d9f201a2b4931b31b6ec57e03ac2b4d6223ad903d0a805fc5ae61"
 
 [[files]]
 file = "config/yosbr/config/palladium_config.txt"
@@ -842,7 +842,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9040b1244c90bd64b77215b79d10f3b23a61f5fa5977060e30f22b0b5d18fc3a"
+hash = "559f06f3dc9103bbfa8ba5a6f6fe8d9ccd988c8ae6a39a6e775f58c0a8757c62"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
@@ -1071,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "f6dde00965d11938aa025000fb76ab1b695be0627e08f503857ba9ee871a172d"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "9c19d98d506afb126972e894249db28bd404540146d45db2e66a1c20aaf9fed3"
 metafile = true
 
 [[files]]
@@ -1919,6 +1924,11 @@ hash = "59c7ac65295a2773d0cc8a26bf91e1f54dc9ea4dac522e28db4ba13c540e09d7"
 metafile = true
 
 [[files]]
+file = "mods/gliding.pw.toml"
+hash = "9b4e07f02f5513115ddbbf883573bbf4e84dc8a9940ef30a31c7d7a78b7dca59"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "e0f996b9715fe6e900d85f1c2ad10c6f3f01e6125fb6180f8422507f95aa4f7f"
 metafile = true
@@ -2006,6 +2016,11 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "8fb56a324a0c61b9d937023a9f2ffd14c758b65f9547aa496e095f0569c529bc"
+metafile = true
+
+[[files]]
+file = "mods/infinite-dragon-eggs.pw.toml"
+hash = "f29da2cd01bd7b06526bc009875267f0b1e9a64320be2ad816f0792d7e54f97a"
 metafile = true
 
 [[files]]
@@ -2236,6 +2251,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "44b266511a87dd03b2160cf7aa117d239e1acaa3450eb1707359192b59025705"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "43fd5c59bb56adf13b212c2eec286dea37e14bf070b356637a842c674e860cfe"
 metafile = true
 
 [[files]]
@@ -2889,6 +2909,11 @@ hash = "d4950435d3a54439374349b5a123c53026c3f73e546db76274050a9d4e1cec98"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "42dc56be790974fb1ace0496fbadeb8f833a285e48e45cb5d6359fdd0ff70467"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "c50a1985a6f93c8c969cf36b4e587d89ebb1ea2b2cd6b32a8eb792939c9dfede"
 metafile = true
@@ -3064,6 +3089,11 @@ hash = "c2b5ca42a0edeaf683d59f7479ec503d33eaaa81289e219400db423aa088a20b"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "644863f1e02f311e817c5889d117fc7ea11d12362729a0b217f1ef97770e0bd8"
 metafile = true
@@ -3234,6 +3264,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-quest-ui.pw.toml"
+hash = "5efc19b65d13a646041a70085f791668206cd5830b66fd5b574e29ca27cd942b"
 metafile = true
 
 [[files]]
