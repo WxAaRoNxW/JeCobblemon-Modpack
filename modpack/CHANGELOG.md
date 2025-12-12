@@ -31,6 +31,17 @@ v0.11 Alpha - Replace and Remove Update
 	- Via Romana - Natural feel fast travel system.
 	- Visual Workbench - Crafting Table keep item.
 
+	- Cobblemon
+		- Cobblemon Fight or Flight Reborn - Re-added.
+		- CobbleStats - Shows current effects/stats of opponent. 
+		- Delight - Placable Apricorn tree in rich soil.
+		- Firework Capsules - Customizable pokemon summon effects.
+		- Raid Dens - Raid dimension that containing one raid boxx.
+		- Legendary Monuments - Replacement for Myths and Legends.
+		- MysticMons x Mega Showdown - Literally only adds Pheromosa.
+		- Scoremons - Adds more statistics for Cobblemon related actions.
+		- Ultra Beast - Chimera Dimension that has Ultra Beasts.
+
 	- World Gen
 		- Better Villages
 			- Library Ferret
@@ -98,10 +109,13 @@ v0.11 Alpha - Replace and Remove Update
 
 	- Resourcepack
 		- Better Quest UI
+		- CobbleFolk Skin Pack - Uses alternative and updated version by Alaris.
 		- Cobblemon Classic Grass Pack
+		- Cobblemon Pasture Enhance - Visually indicator for eggs.
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
+	- ATM x MSD - Changed to use Legendary Monuments compatible.
 	- Config
 		- Keybinds
 		- BetterF3 - Disabled unnecessary clutter.
@@ -140,8 +154,11 @@ v0.11 Alpha - Replace and Remove Update
 	- Camerapture - Replaced with exposure
 	- Exordium - Too much work to make it work with UI mods compatible.
 	- Cobblemon UI Tweaks - Old mod
+	- CobbleTowns: Continued
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
 	- Replaced
+		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
+		- CobbleFolk Skin Pack - Replaced with Alaris version.
 		- Model Gap Fix - Replaced with STFU.
 		- No More Pop-ups - Replaced with STFU.
 		- Remove Reloading Screen - Replaced with STFU.

@@ -1,0 +1,13 @@
+name = "Cobblemon Delight"
+filename = "cobbledelight-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wRm4URGc/versions/eURNJtY6/cobbledelight-0.1.jar"
+hash-format = "sha512"
+hash = "d2566d8c52f503f08994ae6f73bd7b701d57d65f20c3511345c935f36be849ad808f17f6e69409c41fbce9ef7b3288712b7aaf432a37c09fb67c77c9d2e3c41a"
+
+[update]
+[update.modrinth]
+mod-id = "wRm4URGc"
+version = "eURNJtY6"

@@ -1,8 +1,0 @@
-name = "CobbleFolk Skin Pack v1.1.0"
-filename = "CobbleFolk Skin Pack (for 1.6).zip"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/FTbFC6tW/versions/sBiH6YEO/CobbleFolk%20Skin%20Pack%20%28for%201.6%29.zip"
-hash-format = "sha256"
-hash = "e998e42aece9440e6c71230e831a7eff80362c08375cea8d74ad580e7a2453b6"
