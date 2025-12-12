@@ -47,6 +47,16 @@ v0.11 Alpha - Replace and Remove Update
 		- NBT Copy - Copies NBT data from /data get.
 		- Structurify - Enables or disables specific structures from both vanilla and modded.
 
+	- Performance
+		- Achievements Optimizer - Optimizes condition checking.
+		- Animal Pens - Compresses animals.
+		- FTB Quests Optimizers - Optimizes condition checking.
+		- Immersive Optimization - Server side tick rate booster.
+		- No More Pop-ups - Disables "New Recipes" toasts.
+		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
+		- Redirected - Reduces memory usage by preventing duplicate enums.
+		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
+
 	- Data Anchor - Lib for Via Romana.
 	- Stack Deobfuscator - Aid for debugging.
 	- iCommon API - New lib needed by MultiWorld (for portal making).

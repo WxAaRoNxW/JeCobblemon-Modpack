@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3ac8acabd1e15f0e2424283245a8e3574289ab5c486b0b6ce937a41c7d88906f"
+hash = "3cd27055499f34aec752a76e553b78460e63d85f939ebf3a1248ea9f1bd22197"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -641,6 +641,10 @@ file = "config/yosbr/config/obscuria/loot_journal-client.toml"
 hash = "f89b178329ce1952446ee35c6308ce43cc4a8bd21ceb8a629c5ebb4d81b0a17d"
 
 [[files]]
+file = "config/yosbr/config/opac_mute_claim_warnings.properties"
+hash = "4874f2ec56115e1468b2547904c5d1560b4cc3f0fcb959828c847139f1b2a9ff"
+
+[[files]]
 file = "config/yosbr/config/openpartiesandclaims-server.toml"
 hash = "ea5d597b873d9f201a2b4931b31b6ec57e03ac2b4d6223ad903d0a805fc5ae61"
 
@@ -949,6 +953,11 @@ hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "aa00a33a34c933c71e3e52e73e36305813e59cad18ad43250e110b2ef154e4e8"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "631085612686784a0845daac114fde3a7a8bebdc0c3641f36d8d3f1d9fff6263"
 metafile = true
@@ -981,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "d4838d91cd7747816ade0f2f4a46c701a53c3ef84cb278ec24e8f6fb828a85c3"
+metafile = true
+
+[[files]]
+file = "mods/animalpens.pw.toml"
+hash = "e2b5f5681674c8992e4ae90c7beba29cfe67cbfbf08d8755cbc34febfdcec999"
 metafile = true
 
 [[files]]
@@ -1909,6 +1923,11 @@ hash = "03f814fed38dfdcb47d6c13d95da87da635d7e55b4ee97e72ac209cc65673b79"
 metafile = true
 
 [[files]]
+file = "mods/ftb-quests-optimizer.pw.toml"
+hash = "19f2c6f7f3c370a10d566b560bf9c2ed5c0c68c4eba9fc4d06ef7a5cfa394755"
+metafile = true
+
+[[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
 hash = "9ff14b5b11f26dfb842e66113e89722b87e27e048c52a0b4881a3344ed7fcd93"
 metafile = true
@@ -2026,6 +2045,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "907ed71a8d572d5bc2a8f956b0b0d0fad37e1d5bdd48464041a76ef8fca79cb7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "fde30f80873f4789e0b19153202b6f61ed6f13cd79c2e99682528c77ccb7aac6"
 metafile = true
 
 [[files]]
@@ -2474,6 +2498,11 @@ hash = "3345243268869e53d49affdb02b4a1c8ccff64e6f657c553c52aa4f521111b12"
 metafile = true
 
 [[files]]
+file = "mods/no-more-popups.pw.toml"
+hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "d1291d7d3bc8bce4e642d3d2204ec4b833ee84cb3a987a2a39af7cfc545401f5"
 metafile = true
@@ -2506,6 +2535,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "39be6d2deb24772f6c0a84a5b267e2dd676c320ba6b0a73e8b143a11de73a321"
+metafile = true
+
+[[files]]
+file = "mods/opac-mute-claim-warnings.pw.toml"
+hash = "23fab615e113301cc7fdf3e979068a19c8e172f27e82e9b34125c860a340b036"
 metafile = true
 
 [[files]]
@@ -2669,6 +2703,11 @@ hash = "1e508c0b0ebe86223dc620ee2b127d223f0a3b05d8e41c84dfb7d2858366623b"
 metafile = true
 
 [[files]]
+file = "mods/redirected.pw.toml"
+hash = "11cbbaf278ce1068acd4c48465a4eddc021493898cd1af4cf3df453d9371fb60"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8333e7e6257e25302767bac8d7179e0566459a2c257758552fe88f3db55942d2"
 metafile = true
@@ -2806,6 +2845,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "17058653782f00f2ef41bf069374ad368007726722ef8bf72aaa304836627b9d"
+metafile = true
+
+[[files]]
+file = "mods/smoke-suppression.pw.toml"
+hash = "1445123a2da04eca960ff863c21c936d94bfa9a9ee3c36ecf9f860a679feda2e"
 metafile = true
 
 [[files]]

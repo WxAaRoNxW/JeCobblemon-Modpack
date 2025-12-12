@@ -1,0 +1,13 @@
+name = "Smoke Suppression"
+filename = "smoke-suppression-1.1.1+MC1.21-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nKcekY2P/versions/wcum7YYY/smoke-suppression-1.1.1%2BMC1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "768b13eeebb138272144b5514b3a3b639db41152de6f9617a6de014ba8e65e664534e7d13191ce18fa3bd5cbcfe7b66121d3664f2a97109742b2f325cf8cdfc9"
+
+[update]
+[update.modrinth]
+mod-id = "nKcekY2P"
+version = "wcum7YYY"
