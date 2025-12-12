@@ -71,7 +71,12 @@ v0.11 Alpha - Replace and Remove Update
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
-
+	- Config
+		- Keybinds
+		- BetterF3 - Disabled unnecessary clutter.
+		- Keybinds Galore Plus - Change pie wheel's color.
+		- Particle Rain - Enable Ground Fog.
+		- Ping Wheel - Enable player icon on pings.
 - Updates
 	- Effect Descriptions - Modrinth update page (name was changed).
 	- <details>

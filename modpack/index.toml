@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3cd27055499f34aec752a76e553b78460e63d85f939ebf3a1248ea9f1bd22197"
+hash = "59ea1bd71368dda3d7727afd0418d755557260b2a0f9aabf729e5fa83f53398b"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -278,7 +278,7 @@ hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "f6c1dbf9290478cf8a6988d67db6911caddd4863e817d7b6d7f5f270accdfd20"
+hash = "171f1a17989c31b0e32311d9f5898d2d3a671584199a937dcebf843925445c22"
 
 [[files]]
 file = "config/yosbr/config/betterpingdisplay.json"
@@ -310,7 +310,7 @@ hash = "e262d65e6b12a39443f12fa313584df10a316ec23dc7e04cbd27608d7fe72848"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "9762e5c32e6863ee631ca9327b86c63c4fda620c07457e5d885ebab1b6fa58bb"
+hash = "2d2db35147d79fe6a31cb7d1571fb7bcb30d818df9d663c137e5b805b131db48"
 
 [[files]]
 file = "config/yosbr/config/chesttracker.json5"
@@ -570,7 +570,7 @@ hash = "49074e2594c25afb1b3f69c7aa0708f601a86a4eee3d505b186a70d8fcdde9ef"
 
 [[files]]
 file = "config/yosbr/config/keybindsgaloreplus_config.properties"
-hash = "8177faa0dc89bfe29a42fc90f2f55d39c4bc9263c6d5bae6d1c25e3558824136"
+hash = "ba940ecb4a112f8d9279243df2b0c6e81248a9b7fff6a556e255c15b7df9c628"
 
 [[files]]
 file = "config/yosbr/config/konkrete/locals/de_de.local"
@@ -658,11 +658,11 @@ hash = "7688da256aa45808262ca17851a80e862511625009d6310e6f72e340c0f03564"
 
 [[files]]
 file = "config/yosbr/config/particlerain.json5"
-hash = "01099dc6d8493ebbb800ae5f93dc63847955e9b9e3a00a48be4c27865c767d4c"
+hash = "1bbafd694d7d0eb51617c06e529d8673c2d5becd52e64a9229b7980ce9729e9a"
 
 [[files]]
 file = "config/yosbr/config/ping-wheel.json"
-hash = "1cecaeb0a435c55bbe8c10613010b640be471a224b1003ae1d8c989b3533c8de"
+hash = "aac7d5e94d2f85cddb885bbad0df4adafcb26ac5fb122bd4752826d5abb5e9aa"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/updater.json"
@@ -846,7 +846,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "559f06f3dc9103bbfa8ba5a6f6fe8d9ccd988c8ae6a39a6e775f58c0a8757c62"
+hash = "9ef17d6c8cb7db6d7508c2941aba982ec1eded8cb18e826334d733e142827593"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
