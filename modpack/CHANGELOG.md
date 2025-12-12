@@ -125,6 +125,30 @@ v0.11 Alpha - Replace and Remove Update
 		- Remove Reloading Screen - Replaced with STFU.
 		- ThreadTweak - Replaced with STFU.
 		- BadOptimizations - Replaced with STFU.
+		- Stendhal - Replaced with Scholar.
+		- Better Third Person - Replaced with Shoulder Surfing.
+	- Blocks
+		- Farmer's Cutting: Oh The Biome's We've Gone
+		- More Compatibility Variants (Oh The Biomes We've Gone)
+	- World Gen
+		- Cinderscapes - Replaced with Regions Unexplored.
+		- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
+		- Moog's Missing Villages
+		- Nullscape - Replaced with Enderscape.
+		- Oh the Biomes We've Gone - Replaced with Regions Unexplored.
+			- Oh the Trees You'll Grow - lib
+			- corgilib - lib
+			- TerraBlender - lib
+		- Repurposed Structures - Meh.
+			- Repurposed Structures - Farmer's Delight Compat
+		- Yung's
+			- Better Desert Temple
+			- Dungeons
+			- Jungle Temples
+			- Nether Fortresses
+			- Ocean Monuments
+			- Strongolds
+			- Bridges
 	- Trimming
 		- Cobblenoms - Was removed from modrinth a long time ago.
 		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
