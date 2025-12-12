@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "4a04e9b785726825834aed60ee6d093c8a2a3c023e17ac9ed9a546a62e597b7e"
+hash = "c3eca9964092400f67bfd14e3ba768c6ba5960a9fefb9404b8f2293b15dafce8"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2379,6 +2379,16 @@ hash = "72cf5038960efabd3070921239256b20b07cbee7761c9112f87464c01c349234"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "40b17cafd02d47840cd3d916ce51a756e0c73280cfe934aab01605602033db43"
+metafile = true
+
+[[files]]
+file = "mods/nbt-copy.pw.toml"
+hash = "7a436f1e57436719f8181e010bd8cc7565472661fb49aaeb2ea7f5f0d88b052c"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "bfd571ae8e997f4d3716aa70aea7ab478c68ffc351325233429ce452854a14bc"
 metafile = true
@@ -2871,6 +2881,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "85174ab0f635d2eabf125ceb1cf56574ba4eab7bcf4337e6bb4e01d1b4b1dccd"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "d4950435d3a54439374349b5a123c53026c3f73e546db76274050a9d4e1cec98"
 metafile = true
 
 [[files]]

@@ -25,6 +25,11 @@ v0.11 Alpha - Replace and Remove Update
 	- Storage Labels - Was requested a long time ago.
 	- Via Romana - Natural feel fast travel system.
 
+	- Admin Tools
+		- NBT Auto Complete - Shows NBT auto completes when working with commands.
+		- NBT Copy - Copies NBT data from /data get.
+		- Structurify - Enables or disables specific structures from both vanilla and modded.
+
 	- Data Anchor - Lib for Via Romana.
 	- Stack Deobfuscator - Aid for debugging.
 	- iCommon API - New lib needed by MultiWorld (for portal making).
