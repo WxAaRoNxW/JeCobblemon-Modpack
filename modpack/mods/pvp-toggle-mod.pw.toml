@@ -1,0 +1,13 @@
+name = "PvP Toggle"
+filename = "pvptoggle-1.4.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4z36VBo/versions/7chK5Kak/pvptoggle-1.4.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ae440f202bdc914ca06cab71999f51177d7365b0e3b233853e16d2e6d6e9c4ff26dd196b1a996617ea34ce95a4e93bafc68edefcffd5a1022fb16484d9c1e97b"
+
+[update]
+[update.modrinth]
+mod-id = "N4z36VBo"
+version = "7chK5Kak"

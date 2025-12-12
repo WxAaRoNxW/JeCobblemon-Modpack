@@ -16,8 +16,11 @@ v0.11 Alpha - Replace and Remove Update
 		- Exposure Knowlogy - Tutorial book.
 	- Jake's Build Tools - Handy tools for builders.
 	- MineTube - Custom Zone Music (sync'd with players).
+	- PVP Toggle - Protects tames and players, lets you use /pvp to toggle self PvP.
 	- Reframed - Frame blocks to create different shaped blocks that you normally can't with vanilla. Slopes, Vertical Slabs, etc.
 	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+	- Spyglass Astronomy - Social mod for people to make constellations for others to see.
+	- Spyglass Astronomy Sync - Syncs constellations to other players in real time.
 	- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
 	- Storage Labels - Was requested a long time ago.
 	- Via Romana - Natural feel fast travel system.

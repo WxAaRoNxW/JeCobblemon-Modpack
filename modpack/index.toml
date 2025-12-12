@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "16d57c1ad0213ed928662c903a86a5c041017260388b1dba44396586cb7a9df5"
+hash = "4a04e9b785726825834aed60ee6d093c8a2a3c023e17ac9ed9a546a62e597b7e"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -671,6 +671,10 @@ hash = "1cb26a471de1f7ea80afeb77c35c9e86a7ecb9881e948b891eaea41b354046af"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
+
+[[files]]
+file = "config/yosbr/config/pvptoggle/pvptoggle-config.json"
+hash = "ceac533061035b1bb5f030e5cddaa0c0247e58bb755f7b78497ca3757df0583c"
 
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
@@ -2500,6 +2504,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/player-ladder.pw.toml"
+hash = "f8194d6f24adb054f2c42c52c44268287848a085773ec0232e366bf2ff908ea8"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "8967b99eae64c78377fc6b040297f5913efa01bc80584a30e1ccaa1c528cc4b9"
 metafile = true
@@ -2547,6 +2556,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
+metafile = true
+
+[[files]]
+file = "mods/pvp-toggle-mod.pw.toml"
+hash = "5b352d656cea408353a9012372075a286c96fd4707f13713496e937fdb3e5435"
 metafile = true
 
 [[files]]
@@ -2807,6 +2821,16 @@ metafile = true
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
 hash = "e7ece1a51d52fb0af627ba60b542ac3a9193e66eb54372527204e0f61b163f99"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy-sync.pw.toml"
+hash = "77683b03dbb0a96210958fa35173b9d48853ba70e38b78f341965312e9613886"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "b95ce16789bdf41c767f5ee53502626eff959274ddd8a8c811d92a2705f1b561"
 metafile = true
 
 [[files]]
