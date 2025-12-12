@@ -1,0 +1,13 @@
+name = "Shoulder Surfing - Pehkui Compat"
+filename = "Shoulder_Surfing_Pehkui_Compat-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zMCclQtM/versions/3trKBeuQ/Shoulder_Surfing_Pehkui_Compat-1.0.jar"
+hash-format = "sha512"
+hash = "3ad9964e0df2c8312e4c02128e43dba6dc2685ac62c8cdb3c30352e1bc9230968b052f656d912110ef193621575663e095ca24c35989e7c6f96e453847c7e9bd"
+
+[update]
+[update.modrinth]
+mod-id = "zMCclQtM"
+version = "3trKBeuQ"

@@ -122,6 +122,8 @@ v0.11 Alpha - Replace and Remove Update
 		- Remove Reloading Screen - Replaced with STFU.
 		- ThreadTweak - Replaced with STFU.
 		- BadOptimizations - Replaced with STFU.
+		- Stendhal - Replaced with Scholar.
+		- Better Third Person - Replaced with Shoulder Surfing.
 	- Trimming
 		- Cobblenoms - Was removed from modrinth a long time ago.
 		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
