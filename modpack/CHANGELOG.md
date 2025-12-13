@@ -15,6 +15,8 @@ v0.11 Alpha - Replace and Remove Update
 		- Exposure Polaroid - Instant Camera.
 		- Exposure Catalog - Admin interface.
 		- Exposure Knowlogy - Tutorial book.
+	- Extra Quests - Extra quest tasks.
+		- Extralib
 	- Gliding - Gliders to traverse the Terralith world.
 	- Infinite Dragon Eggs - Renewable dragon eggs when respawning.
 	- Jake's Build Tools - Handy tools for builders.
@@ -86,6 +88,7 @@ v0.11 Alpha - Replace and Remove Update
 		- NBT Auto Complete - Shows NBT auto completes when working with commands.
 		- NBT Copy - Copies NBT data from /data get.
 		- Structurify - Enables or disables specific structures from both vanilla and modded.
+		- Item Obliterator - Permanently removes items from existence for fine tuning mods.
 
 	- Performance
 		- Achievements Optimizer - Optimizes condition checking.
@@ -93,6 +96,7 @@ v0.11 Alpha - Replace and Remove Update
 		- Immersive Optimization - Server side tick rate booster.
 		- No More Pop-ups - Disables "New Recipes" toasts.
 		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
+		- Observable - Lag finder.
 		- Redirected - Reduces memory usage by preventing duplicate enums.
 		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
 		- STFU - Performance and some tweaks.

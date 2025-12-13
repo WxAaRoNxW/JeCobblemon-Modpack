@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fb4d98f20be3fb2a9c643f643176937dadb3486d9ea99fd4597c721bf1b8fc41"
+hash = "845d5ca2a8a754f115c113c5465b1a9d7e381b0e6a1ff669662342827e296591"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -319,6 +319,10 @@ hash = "c93e4829054f060acfd9ed0e038a94bb9e04f7620f64f7f637fa5ac7f44818b0"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
+
+[[files]]
+file = "config/yosbr/config/clutter/clutter_config.json"
+hash = "eabffe1b48c977fff13db788dc15ff0ea08fe01f3022c3981d4cab3f4d234764"
 
 [[files]]
 file = "config/yosbr/config/cobbleboom.json"
@@ -1807,6 +1811,16 @@ hash = "2b5f19e8d0dde0e603b4df323970429589147eef5d3658ce9f63d4a4d2ace93c"
 metafile = true
 
 [[files]]
+file = "mods/extralib.pw.toml"
+hash = "eb73a3aadae9986f39d5c0f7e2be4f38feaf6d7ff7d0fed52390f4c31c447f70"
+metafile = true
+
+[[files]]
+file = "mods/extraquests.pw.toml"
+hash = "e5772028d02ef6293d3d42450b9eb1eeba396c584d7f2abb0f81a3edb060181f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
@@ -2099,6 +2113,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "5a776418219103f4ceac5c7b4751fb8d634e08466195c635b630938df4aa25cd"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
 metafile = true
 
 [[files]]
@@ -2543,6 +2562,11 @@ hash = "c715f058388984a7929302e963bfe82cb537170d75eb207863aa3bb26d14f8fa"
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "44f1ed305b7a592bb399132cd9790ef0c78123d9ffd3306f2e08a7d1f1c11252"
 metafile = true
 
 [[files]]
