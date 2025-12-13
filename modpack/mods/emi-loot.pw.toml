@@ -1,0 +1,13 @@
+name = "EMI Loot"
+filename = "emi_loot-0.7.8+1.21+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/QEE2dt9g/emi_loot-0.7.8%2B1.21%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c1628bbf8567b3e53fa75ea569d6f956451936685e8d635cde9e3969f196451484a14cf537ded242254a67633140312521ea80ee9e947a7cbdf699febea387d7"
+
+[update]
+[update.modrinth]
+mod-id = "qbbO7Jns"
+version = "QEE2dt9g"
