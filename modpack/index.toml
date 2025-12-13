@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "744c0dc1cd8fa1db1983ac721349103addf02d8639d03f5be1d40c6d1decd938"
+hash = "28ef17e1f00a2250f311e47c2549373716a4077e1a7938a1f9fd6378db57430e"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2042,11 +2042,6 @@ hash = "f18924edb95ac6a690690b03ee801ebfca7e3f3c3cba464e58859c354434ba38"
 metafile = true
 
 [[files]]
-file = "mods/i-want-it-earlier.pw.toml"
-hash = "157788753665133d971ed82173fac08e7e6ee333a7a0ef186e21d711d46fbe82"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b7bcf3350db1516c297799b53f3eaa9e7f7c65db46b570fa317484b55dcbaae0"
 metafile = true
@@ -2641,6 +2636,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "0455870482c6e3d30b796881ff51deca742520176a5c3f0390e360049cd8ce22"
+metafile = true
+
+[[files]]
 file = "mods/player-ladder.pw.toml"
 hash = "f8194d6f24adb054f2c42c52c44268287848a085773ec0232e366bf2ff908ea8"
 metafile = true
@@ -3196,8 +3196,18 @@ hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "3690972a33450628b7cca2f8ec735d42973fbaebfd6f97647e1d1a290c28abe0"
+metafile = true
+
+[[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "ed5048cfa5d1155b0e7acf70ea8b23b1f2a4196acac9ccdf73e0945043f60ea6"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "1e475396fa5277f20418d9087e777acba746f0345c84e561fae26a4b02de211c"
 metafile = true
 
 [[files]]
@@ -3425,6 +3435,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
+hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
 metafile = true
 
 [[files]]

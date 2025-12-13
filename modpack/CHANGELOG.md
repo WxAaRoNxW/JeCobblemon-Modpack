@@ -69,6 +69,7 @@ v0.11 Alpha - Replace and Remove Update
 			- Woodland Mansion
 		- Regions Unexplored
 			- Terrablender
+		- Vanilla Backport - Backports 1.21.2+ MC features to 1.21.1. Replaces I want it earlier. 
 			
 	- Deco and Blocks
 		- Chimes - Chimes + functional phantom repellant.
@@ -115,6 +116,7 @@ v0.11 Alpha - Replace and Remove Update
 		- CobbleFolk Skin Pack - Uses alternative and updated version by Alaris.
 		- Cobblemon Classic Grass Pack
 		- Cobblemon Pasture Enhance - Visually indicator for eggs.
+		- Vanilla Backport x Fresh Animations
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
@@ -126,6 +128,7 @@ v0.11 Alpha - Replace and Remove Update
 		- Particle Rain - Enable Ground Fog.
 		- Ping Wheel - Enable player icon on pings.
 - Updates
+	- 
 	- Effect Descriptions - Modrinth update page (name was changed).
 	- <details>
 		<summary>
@@ -162,13 +165,14 @@ v0.11 Alpha - Replace and Remove Update
 	- Replaced
 		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
 		- CobbleFolk Skin Pack - Replaced with Alaris version.
+		- Better Third Person - Replaced with Shoulder Surfing.
+		- I want it earlier - Replaced with Vanilla Backport.
 		- Model Gap Fix - Replaced with STFU.
 		- No More Pop-ups - Replaced with STFU.
 		- Remove Reloading Screen - Replaced with STFU.
 		- ThreadTweak - Replaced with STFU.
 		- BadOptimizations - Replaced with STFU.
 		- Stendhal - Replaced with Scholar.
-		- Better Third Person - Replaced with Shoulder Surfing.
 		- World Gen
 			- Cinderscapes - Replaced with Regions Unexplored.
 			- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
