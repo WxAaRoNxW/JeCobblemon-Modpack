@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e5c146a4f45be76b48881bd86723ac466f286c345e485891a8514d33bdc2523c"
+hash = "fb4d98f20be3fb2a9c643f643176937dadb3486d9ea99fd4597c721bf1b8fc41"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1939,11 +1939,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
 hash = "03f814fed38dfdcb47d6c13d95da87da635d7e55b4ee97e72ac209cc65673b79"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "19f2c6f7f3c370a10d566b560bf9c2ed5c0c68c4eba9fc4d06ef7a5cfa394755"
 metafile = true
 
 [[files]]

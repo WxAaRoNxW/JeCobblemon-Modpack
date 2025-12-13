@@ -90,7 +90,6 @@ v0.11 Alpha - Replace and Remove Update
 	- Performance
 		- Achievements Optimizer - Optimizes condition checking.
 		- Animal Pens - Compresses animals.
-		- FTB Quests Optimizers - Optimizes condition checking.
 		- Immersive Optimization - Server side tick rate booster.
 		- No More Pop-ups - Disables "New Recipes" toasts.
 		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
