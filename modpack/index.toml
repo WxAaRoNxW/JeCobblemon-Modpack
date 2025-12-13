@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "28ef17e1f00a2250f311e47c2549373716a4077e1a7938a1f9fd6378db57430e"
+hash = "e5c146a4f45be76b48881bd86723ac466f286c345e485891a8514d33bdc2523c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2463,7 +2463,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiworld.pw.toml"
-hash = "7f542bc5fa7f64b3fcd8903b39245d5b98073215318890217d362b8654d4a1d6"
+hash = "d4e98c42f972d33c0f85ab984d98fd28fa839476af602dd37b9d59f5eecea49e"
 metafile = true
 
 [[files]]

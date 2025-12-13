@@ -128,7 +128,7 @@ v0.11 Alpha - Replace and Remove Update
 		- Particle Rain - Enable Ground Fog.
 		- Ping Wheel - Enable player icon on pings.
 - Updates
-	- 
+	- Multiworld - Downgrade 1.11 -> 1.10.
 	- Effect Descriptions - Modrinth update page (name was changed).
 	- <details>
 		<summary>
@@ -230,7 +230,7 @@ v0.11 Alpha - Replace and Remove Update
 
 - Fixes
 	- Resourcepacks - Resourcepacks now enabled on default, was disabled due to resourcepack update.
-
+	- Multiworld - Fix redstone device freeze by downgrading version.
 </details>
 
 <details>
