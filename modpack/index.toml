@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "845d5ca2a8a754f115c113c5465b1a9d7e381b0e6a1ff669662342827e296591"
+hash = "120d3ad84201987e539bca096e0b50513b407b71d07607116e944e0f01b130f1"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1166,11 +1166,6 @@ hash = "0151a583a9194e75520343c746537b66c1ef604263f5def8b1cab01290cc94e3"
 metafile = true
 
 [[files]]
-file = "mods/cerbons-api.pw.toml"
-hash = "eddd33c87b517a64d9fe4d24c5c94f8346b7b88fde97d760a591aea7a5e5c2e7"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
 metafile = true
@@ -1626,6 +1621,11 @@ hash = "a3841e53767a4c31a268fdbb7536bdaf51dd531448d6e0f74acffd645e5b5288"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "d24b4c566bc19ae176a234d17ea0cc4753d64e0ac26c0eba175aceaff0454dde"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "38a9f5d91c8ff0eed8ee54c436308bfeb29012eb6701750b34f002d9b1750651"
 metafile = true
@@ -1696,11 +1696,6 @@ hash = "a941085fd4a98a112abbd657c7ec35ca68deaa855880a63e56dcb18e4d75612d"
 metafile = true
 
 [[files]]
-file = "mods/easy-item-list.pw.toml"
-hash = "7bba60ba5bd74460316d361fc66afd85541153b29061b24d31e1b103c2f1b8e3"
-metafile = true
-
-[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
 metafile = true
@@ -1731,8 +1726,33 @@ hash = "9bef602ef888f741dbd48091fe188697619acb29b9f57cadb9a0dc5b3fe55529"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "76ab02862f59837b93cbfacfdfb722dfaf3fe5198db43ee884f61ad738a3f589"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "f6f6eb7dc0a8e0ccd1e072cc684cd843f1e79578fa2a603f31b3a8dfe6410b13"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "8809deabff98aa2c6dd2f8aaa87cb3aabd27aa1c125eb10561864f2930ada06d"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
+metafile = true
+
+[[files]]
+file = "mods/emixx.pw.toml"
+hash = "0e21e1a5c771b202ae2f378f59e3da280414f066f294a6779403b6109b43f875"
 metafile = true
 
 [[files]]
@@ -2148,26 +2168,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-beacons-reforged.pw.toml"
-hash = "9af7e480f7993aa70cd1e28f3401fb970570196246a1d5645fb0f072797eafa9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "9b4ae6c2aea7dd9ce900c2826614c46d04b98371b3642eadd18981a49246a8af"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "016ae9b564867e3dc8c989d73402284ca35dc11bffe0478cc1604d0501ccb192"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "a84809e64b2d63305c1e0c39313e4c9c7cb07257a21dd1a2eaa1188759ad9ab5"
 metafile = true
 
 [[files]]

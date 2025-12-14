@@ -10,6 +10,14 @@ v0.11 Alpha - Replace and Remove Update
 	- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
 	- Dynamic Crosshair Compat - Addon for more modded support.
 	- Easy Item List - Necessary for server side recipes/items.
+	- EMI
+		- Distraction Free Recipes - Hides recipes to heavily save rendering performance.
+		- EMI++ - Adds collapsible item stack group.
+		- EMILoot - Shows informative loot and chest drop.
+		- EMI Effect - Shows nice ui to see potion effect description and how to obtain it. 
+		- EMI Enchanting - Show enchantments and what can it apply to.
+		- EMI Ores
+		- EMI Professions - Replaces JEI Professions.
 	- Exposure - Camerapture Replacement
 		- Exposure Expanded - More features.
 		- Exposure Polaroid - Instant Camera.
@@ -164,6 +172,7 @@ v0.11 Alpha - Replace and Remove Update
 	- Exordium - Too much work to make it work with UI mods compatible.
 	- Cobblemon UI Tweaks - Old mod
 	- CobbleTowns: Continued
+	- Easy Item List - Incompatible with JEI and Vanilla Backport.
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
 	- Replaced
 		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
@@ -176,6 +185,12 @@ v0.11 Alpha - Replace and Remove Update
 		- ThreadTweak - Replaced with STFU.
 		- BadOptimizations - Replaced with STFU.
 		- Stendhal - Replaced with Scholar.
+		- Just Enough
+			- Beacons - Just removed.
+			- Effect Descriptions - Replaced with EMIEffect.
+				- CERBON's API - lib
+			- Resources - Doesn't work I think, replaced with EMI Loot and EMI Enchanting
+			- Professions - Replaced with EMI Professions.
 		- World Gen
 			- Cinderscapes - Replaced with Regions Unexplored.
 			- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
