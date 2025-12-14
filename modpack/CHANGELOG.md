@@ -52,6 +52,7 @@ v0.11 Alpha - Replace and Remove Update
 		- Infinite Dragon Eggs - Renewable dragon eggs when respawning.
 		- Jake's Build Tools - Handy tools for builders.
 		- Via Romana - Natural feel fast travel system.
+		- Pling - Plays a sound when Minecraft has finished loading.
 
 	- Social
 		- Numismatic Overhaul - Replaces Cobbledollars.

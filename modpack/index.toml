@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ef22ac54b399c76441eb94eea812fa34a6b554c42b33cfb6c569f7f41802caac"
+hash = "cd06f5c91270c807c291031247e36e73539592ea28f7641188be7ef8126fc32a"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2710,6 +2710,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "8967b99eae64c78377fc6b040297f5913efa01bc80584a30e1ccaa1c528cc4b9"
+metafile = true
+
+[[files]]
+file = "mods/pling.pw.toml"
+hash = "d9f85e04a194a23ec73e8c63a1fc1d990a94cc20b9fde7bac84a48fd18d8c804"
 metafile = true
 
 [[files]]
