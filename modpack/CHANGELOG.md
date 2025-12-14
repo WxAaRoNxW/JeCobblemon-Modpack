@@ -1,8 +1,20 @@
 # Changelog
+<details>
+<summary><b>
+v1.0.2 Beta - More Hotfix
+</b></summary>
 
-<details open>
+- Downgrade
+	- <b>Supplementaries</b>: supplementaries-1.21-3.4.18-fabric.jar `<-` supplementaries-1.21-3.5.10-fabric.jar
+
+- Fix - Attachment error once again.
+
+</details>
+
+<details>
 <summary><b>
 v1.0.1 Beta - Side Fixes
+</b></summary>
 
 - Added
 	- Vanilla Backport Mob Variants Compat - Compat for many biome mod.
@@ -15,7 +27,8 @@ v1.0.1 Beta - Side Fixes
 	
 - Fixes
 	- Startup due to wrong mod side.
-</b></summary>
+
+</details>
 
 <details open>
 <summary><b>
