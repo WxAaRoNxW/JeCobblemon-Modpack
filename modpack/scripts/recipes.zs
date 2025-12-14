@@ -3,33 +3,17 @@ import crafttweaker.api.ingredient.IIngredient;
 import crafttweaker.api.recipe.MirrorAxis;
 
 # Sophisticated Storage
-// basic tier upgrade
-craftingTable.remove(<item:sophisticatedstorage:basic_tier_upgrade>);
-
-// shulker box
-craftingTable.remove(<item:sophisticatedstorage:shulker_box>);
-craftingTable.remove(<item:sophisticatedstorage:copper_shulker_box>);
-craftingTable.remove(<item:sophisticatedstorage:iron_shulker_box>);
-craftingTable.remove(<item:sophisticatedstorage:gold_shulker_box>);
-craftingTable.remove(<item:sophisticatedstorage:diamond_shulker_box>);
-craftingTable.remove(<item:sophisticatedstorage:netherite_shulker_box>);
-
-// chest
-craftingTable.remove(<item:sophisticatedstorage:chest>);
-craftingTable.remove(<item:sophisticatedstorage:copper_chest>);
-craftingTable.remove(<item:sophisticatedstorage:iron_chest>);
-craftingTable.remove(<item:sophisticatedstorage:gold_chest>);
-craftingTable.remove(<item:sophisticatedstorage:diamond_chest>);
-craftingTable.remove(<item:sophisticatedstorage:netherite_chest>);
+// moved to config
 
 # Cobblemon Parts Refabricated
+/*
 craftingTable.remove(<item:cobblemonpartsrefabricated:cherish_ball_base>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:cherish_ball_lid>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:ancient_origin_ball_lid>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:ancient_origin_ball_base>);
 craftingTable.remove(<item:cobblemon:ancient_origin_ball>);
 craftingTable.remove(<item:cobblemon:cherish_ball>);
-
+*/
 // You're in Grave Danger
 // .withJsonComponent(<componenttype:minecraft:custom_name>, {"extra":[{"italic":false,"text":"Exhausted Key"}]})
 // .withJsonComponent(<componenttype:minecraft:lore>, ["{\"extra\":[{\"italic\":false,\"text\":\"This key's power has been expended.\"}],\"text\":\"\"}"])

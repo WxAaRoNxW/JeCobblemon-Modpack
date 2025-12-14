@@ -7,7 +7,9 @@ v1.0.2 Beta - More Hotfix
 - Downgrade
 	- <b>Supplementaries</b>: supplementaries-1.21-3.4.18-fabric.jar `<-` supplementaries-1.21-3.5.10-fabric.jar
 
-- Fix - Attachment error once again.
+- Fix 
+	- Attachment error once again.
+	- Craft Tweaker Script - Removed code referencing removed mods.
 
 </details>
 
