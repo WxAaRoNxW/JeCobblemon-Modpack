@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "a312ad7b598207cf1a75f61d43327e3106d06a81abba45e103f6dc25e3587eca"
+hash = "aa00f4d82c1991e22e2a0aa441c2255856b6da9d7b11f1efa9c70eba98ed61ee"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1880,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "eb73a3aadae9986f39d5c0f7e2be4f38feaf6d7ff7d0fed52390f4c31c447f70"
+hash = "94fcb0bf98d7335a879cf0f2694c5eb16de35bdcc58926faf82fcafe84343bd4"
 metafile = true
 
 [[files]]
@@ -2040,7 +2040,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "2e705f04feb06d4340c59aebe8430c79a48635f6cd40b5c9f9ea7e4e6500721a"
+hash = "05a276c5cc074ca1febdfc1f11d6121178c1b4bfc327b2bcf9cb16c16b2f8618"
 metafile = true
 
 [[files]]
@@ -2450,7 +2450,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "be5535957a5e363327f5026ec10f71afaa171b86a9c89d98fd4f3979e77a97eb"
+hash = "fe65387880352ef0b75714bc1b990186ea261693b1e5e9533799746d80c975ef"
 metafile = true
 
 [[files]]

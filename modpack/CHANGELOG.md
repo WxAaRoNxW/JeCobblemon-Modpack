@@ -2,6 +2,19 @@
 
 <details open>
 <summary><b>
+v1.0.1 Beta - Side Fixes
+
+- Changd
+	- Extralib - Change from server to both. Extra Quests requires it.
+	- Fusion - Change from client to both. Glassential renewed requires it.
+	- Mod Menu - Change from client to both. Structurify requires it.
+	
+- Fixes
+	- Startup due to wrong mod side.
+</b></summary>
+
+<details open>
+<summary><b>
 v1.0 Beta - Beta Update
 </b></summary>
 
@@ -296,7 +309,7 @@ v1.0 Beta - Beta Update
 				- Ocean Monuments
 				- Strongolds
 				- Bridges
--	 World Gen
+	- World Gen
 		- Cinderscapes - Replaced with Regions Unexplored.
 		- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
 		- Moog's Missing Villages
