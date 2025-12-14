@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e552b4204628c2f1c21761166c1a52de03db80056659849d7e3f802921e808bc"
+hash = "ae4cbe61b9e95b5ba609ec1a0bf4b4cbe0583d2fa437efca42b6f752b7889053"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3270,11 +3270,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "37c8746fe9057612cd4f21e1221760e8dd2f78ce6b38a237b0ac925de21541e0"
-metafile = true
-
-[[files]]
-file = "mods/visuality.pw.toml"
-hash = "644863f1e02f311e817c5889d117fc7ea11d12362729a0b217f1ef97770e0bd8"
 metafile = true
 
 [[files]]

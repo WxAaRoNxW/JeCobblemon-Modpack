@@ -243,6 +243,7 @@ v0.11 Alpha - Replace and Remove Update
 	- Sodium Shadowy Path Blocks - Probably Unnecessary.
 	- Vaulted End - Unnecessary since Enderscape and End Castle covers this.
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
+	- Visuality - Particles would eventually be too annoying.
 	- Replaced
 		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
 		- CobbleFolk Skin Pack - Replaced with Alaris version.
