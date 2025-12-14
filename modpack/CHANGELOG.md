@@ -113,7 +113,6 @@ v0.11 Alpha - Replace and Remove Update
 
 	- Other
 		- Extra Quests - Extra quest tasks.
-			- Extralib
 
 	- Resourcepack
 		- Better Quest UI
@@ -130,11 +129,13 @@ v0.11 Alpha - Replace and Remove Update
 	- Library
 		- Continuity - Readded as it is required.
 		- Data Anchor - Lib for Via Romana.
+		- Extralib - Lib for Extra Quests
 		- iCommon API - New lib needed by MultiWorld (for portal making).
 		- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
 		- BiliBiliMedia - Adds BiliBili support for Water Frames.
 		- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
 		- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
+		- Necronomicon - Lib for Item Obliterator
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.

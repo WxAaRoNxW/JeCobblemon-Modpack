@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "19c0f593857ae0a9f2305172c3417aa6c23e93ee642b9f328ded5951c0feddd8"
+hash = "2158003cbbf082e025634d46ecdf590c5209258c41b6586c46332bdc25d421ae"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2546,6 +2546,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "40b17cafd02d47840cd3d916ce51a756e0c73280cfe934aab01605602033db43"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
