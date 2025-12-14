@@ -381,6 +381,10 @@ file = "config/yosbr/config/dimensionviewer.json"
 hash = "e47c88a7a6ef8e88095d5f6d04d5bef854190276e407d744f96330734f845e52"
 
 [[files]]
+file = "config/yosbr/config/discord_chat_mod-client.toml"
+hash = "d59febed4391c101d117be3c6e0ff85965ee561b09555661e4eb023edc13d64e"
+
+[[files]]
 file = "config/yosbr/config/dismountentity.json5"
 hash = "cd79d2b2a8ecb73f72640fe0ea42b93cb85b618d58177160ba6de1b9b5a0d42e"
 
@@ -1586,11 +1590,6 @@ hash = "508dcb536d732a862ea9e8046861f99e698ecc094025d2299b4b0058fea57ea7"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "4d45198d15e532897899a687a1d68636781b5987c9810640ce7e9ebc5c7b685d"
-metafile = true
-
-[[files]]
 file = "mods/death-backup.pw.toml"
 hash = "8136c505639b50713160f2634bc7d12c44a47e167a852e9745aa716ba8e44cc4"
 metafile = true
@@ -1603,6 +1602,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-viewer.pw.toml"
 hash = "f453d6712c204e5a1550133760904521963846aeb6b6a28f2ede3d02e4ffab26"
+metafile = true
+
+[[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "ea45826c547ab84d9352aeae87828ed6ffc2f3cef33ff57b9b1f1d431cb81a88"
 metafile = true
 
 [[files]]
