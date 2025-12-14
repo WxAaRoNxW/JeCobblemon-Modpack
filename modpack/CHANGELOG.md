@@ -6,42 +6,10 @@ v0.11 Alpha - Replace and Remove Update
 </b></summary>
 
 - Additions
-	- Better Climbing - Faster climb up and down.
-	- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
-	- Continuity - Readded as it is required.
-	- Dynamic Crosshair Compat - Addon for more modded support.
-	- Easy Item List - Necessary for server side recipes/items.
-	- EMI
-		- Distraction Free Recipes - Hides recipes to heavily save rendering performance.
-		- EMI++ - Adds collapsible item stack group.
-		- EMILoot - Shows informative loot and chest drop.
-		- EMI Effect - Shows nice ui to see potion effect description and how to obtain it. 
-		- EMI Enchanting - Show enchantments and what can it apply to.
-		- EMI Ores
-		- EMI Professions - Replaces JEI Professions.
-	- Exposure - Camerapture Replacement
-		- Exposure Expanded - More features.
-		- Exposure Polaroid - Instant Camera.
-		- Exposure Catalog - Admin interface.
-		- Exposure Knowlogy - Tutorial book.
-	- Extra Quests - Extra quest tasks.
-		- Extralib
-	- Gliding - Gliders to traverse the Terralith world.
-	- Infinite Dragon Eggs - Renewable dragon eggs when respawning.
-	- Jake's Build Tools - Handy tools for builders.
-	- Minecraft Cursor - Vanilla+ cursor sprite.
-	- MineTube - Custom Zone Music (sync'd with players).
-	- PVP Toggle - Protects tames and players, lets you use /pvp to toggle self PvP.
-	- Reframed - Frame blocks to create different shaped blocks that you normally can't with vanilla. Slopes, Vertical Slabs, etc.
-	- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
-	- Spyglass Astronomy - Social mod for people to make constellations for others to see.
-	- Spyglass Astronomy Sync - Syncs constellations to other players in real time.
-	- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
-	- Storage Labels - Was requested a long time ago.
-	- Stylish Effects - Re-added as it doesn't break rendering of Simple Voice Chat.
-	- Via Romana - Natural feel fast travel system.
-	- Visual Workbench - Crafting Table keep item.
-		
+	- Adventure
+		- Gliding - Gliders to traverse the Terralith world.
+		- Sophisticated Backpacks - Works with Sophisticated Storage. Replacement for Travelers' Backpack.
+
 	- Cobblemon
 		- Cobblemon Fight or Flight Reborn - Re-added.
 		- CobbleStats - Shows current effects/stats of opponent. 
@@ -53,8 +21,67 @@ v0.11 Alpha - Replace and Remove Update
 		- Scoremons - Adds more statistics for Cobblemon related actions.
 		- Ultra Beast - Chimera Dimension that has Ultra Beasts.
 
+	- Deco and Blocks
+		- Chimes - Chimes + functional phantom repellant.
+		- Comforts - Sleeping bag.
+		- Connectible Chains - "Diagonal Fence at home".
+		- Crab Claws - Block reach.
+		- Elevator Mod - Openblocks signature elevator block.
+		- Glassential Renewed - Extra Util's Signature Ethereal Glass and more.
+		- Linked Chests - Global/Personal Hopperable Ender Chests/Pouch.
+		- Night Lights - Blocks and streams of lights.
+		- Reframed - Frame blocks to create different shaped blocks that you normally can't with vanilla. Slopes, Vertical Slabs, etc.
+		- Sooty Chimneys - Better chimneys.
+		- Storage Drawers - Better than Sophisticated Storage's Limited Barrel.
+		- Storage Labels - Was requested a long time ago.
+
+	- Performance
+		- Achievements Optimizer - Optimizes condition checking.
+		- Animal Pens - Compresses animals.
+		- Immersive Optimization - Server side tick rate booster.
+		- No More Pop-ups - Disables "New Recipes" toasts.
+		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
+		- Observable - Lag finder.
+		- Redirected - Reduces memory usage by preventing duplicate enums.
+		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
+		- STFU - Performance and some tweaks.
+
+
+	- QoL
+		- Better Climbing - Faster climb up and down.
+		- Infinite Dragon Eggs - Renewable dragon eggs when respawning.
+		- Jake's Build Tools - Handy tools for builders.
+		- Via Romana - Natural feel fast travel system.
+
 	- Social
 		- Numismatic Overhaul - Replaces Cobbledollars.
+		- Exposure - Camerapture Replacement
+		- Exposure Expanded - More features.
+		- Exposure Polaroid - Instant Camera.
+		- Exposure Catalog - Admin interface.
+		- Exposure Knowlogy - Tutorial book.
+		- MineTube - Custom Zone Music (sync'd with players).
+		- PVP Toggle - Protects tames and players, lets you use /pvp to toggle self PvP.
+		- Spyglass Astronomy - Social mod for people to make constellations for others to see.
+		- Spyglass Astronomy Sync - Syncs constellations to other players in real time.
+	
+	- UI/Visuals
+		- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
+		- Dynamic Crosshair Compat - Addon for more modded support.
+		- EMI
+			- Distraction Free Recipes - Hides recipes to heavily save rendering performance.
+			- EMI++ - Adds collapsible item stack group.
+			- EMILoot - Shows informative loot and chest drop.
+			- EMI Effect - Shows nice ui to see potion effect description and how to obtain it. 
+			- EMI Enchanting - Show enchantments and what can it apply to.
+			- EMI Ores
+			- EMI Professions - Replaces JEI Professions.
+		- Minecraft Cursor - Vanilla+ cursor sprite.
+		- Scholar - Replaces Stendhal.
+		- Shoulder Surfing - Replaces Better Third Person.
+		- Shoulder Surfing Pehkui Compat - For Size Shifting Potion
+		- Stylish Effects - Re-added as it doesn't break rendering of Simple Voice Chat.
+		- Visual Workbench - Crafting Table keep item.
 
 	- World Gen
 		- Better Villages
@@ -84,45 +111,9 @@ v0.11 Alpha - Replace and Remove Update
 		- Vanilla Backport - Backports 1.21.2+ MC features to 1.21.1. Replaces I want it earlier. 
 			- Pale Garden Spawn Spooky - Datapack compat for Cobblemon spawns.
 
-	- Deco and Blocks
-		- Chimes - Chimes + functional phantom repellant.
-		- Comforts - Sleeping bag.
-		- Connectible Chains - "Diagonal Fence at home".
-		- Crab Claws - Block reach.
-		- Elevator Mod - Openblocks signature elevator block.
-		- Glassential Renewed - Extra Util's Signature Ethereal Glass and more.
-		- Linked Chests - Global/Personal Hopperable Ender Chests/Pouch.
-		- Night Lights - Blocks and streams of lights.
-		- Sooty Chimneys - Better chimneys.
-	
-	- Admin Tools
-		- NBT Auto Complete - Shows NBT auto completes when working with commands.
-		- NBT Copy - Copies NBT data from /data get.
-		- Structurify - Enables or disables specific structures from both vanilla and modded.
-		- Item Obliterator - Permanently removes items from existence for fine tuning mods.
-
-	- Performance
-		- Achievements Optimizer - Optimizes condition checking.
-		- Animal Pens - Compresses animals.
-		- Immersive Optimization - Server side tick rate booster.
-		- No More Pop-ups - Disables "New Recipes" toasts.
-		- OPAC Mute Claim Warnings - Moves chat spam to action bar.
-		- Observable - Lag finder.
-		- Redirected - Reduces memory usage by preventing duplicate enums.
-		- Smoke Suppression - Campfire smoke disabled when hopper or rail is beneath it.
-		- STFU - Performance and some tweaks.
-	
-	- UI/Visuals
-		- Scholar - Replaces Stendhal.
-		- Shoulder Surfing - Replaces Better Third Person.
-		- Shoulder Surfing Pehkui Compat - For Size Shifting Potion
-
-	- Data Anchor - Lib for Via Romana.
-	- iCommon API - New lib needed by MultiWorld (for portal making).
-	- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
-	- BiliBiliMedia - Adds BiliBili support for Water Frames.
-	- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
-	- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
+	- Other
+		- Extra Quests - Extra quest tasks.
+			- Extralib
 
 	- Resourcepack
 		- Better Quest UI
@@ -130,6 +121,20 @@ v0.11 Alpha - Replace and Remove Update
 		- Cobblemon Classic Grass Pack
 		- Cobblemon Pasture Enhance - Visually indicator for eggs.
 		- Vanilla Backport x Fresh Animations
+
+	- Admin Tools
+		- NBT Auto Complete - Shows NBT auto completes when working with commands.
+		- Structurify - Enables or disables specific structures from both vanilla and modded.
+		- Item Obliterator - Permanently removes items from existence for fine tuning mods.
+		
+	- Library
+		- Continuity - Readded as it is required.
+		- Data Anchor - Lib for Via Romana.
+		- iCommon API - New lib needed by MultiWorld (for portal making).
+		- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
+		- BiliBiliMedia - Adds BiliBili support for Water Frames.
+		- WaterMedia: YT Plugin - Lib for WaterFrames that was separated from main.
+		- WaterVision: VideoPlayer - New Lib for WaterFrames to play videos in full screen.
 
 - Changes
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
