@@ -2,7 +2,7 @@
 
 <details open>
 <summary><b>
-v0.11 Alpha - Replace and Remove Update
+v1.0 Beta - Beta Update
 </b></summary>
 
 - Additions
