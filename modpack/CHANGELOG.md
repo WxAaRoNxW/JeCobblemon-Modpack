@@ -199,7 +199,6 @@ v0.11 Alpha - Replace and Remove Update
         - <b>Fast Paintings</b>: fastpaintings-1.21-1.3.0-fabric.jar `->` fastpaintings-1.21-1.3.0-fabric.jar
         - <b>FTB Teams (Fabric)</b>: ftb-teams-fabric-2101.1.7.jar `->` ftb-teams-fabric-2101.1.8.jar
         - <b>Fzzy Config</b>: fzzy_config-0.7.3+1.21.jar `->` fzzy_config-0.7.4+1.21.jar
-        - <b>Highlight</b>: highlight-fabric-1.21-3.0.0.jar `->` highlight-fabric-1.21.9-3.9.0.jar
         - <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.6.7+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.8+1.21.1.jar
         - <b>Inventory Profiles Next</b>: InventoryProfilesNext-fabric-1.21.1-2.2.1.jar `->` InventoryProfilesNext-fabric-1.21.1-2.2.2.jar
         - <b>LambDynamicLights</b>: lambdynamiclights-4.8.6+1.21.1.jar `->` lambdynamiclights-4.8.7+1.21.1.jar

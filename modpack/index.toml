@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d17a5703c4b377fe7d64ed2887aab97b005487775d3a541678037488b1b5e1d7"
+hash = "ef22ac54b399c76441eb94eea812fa34a6b554c42b33cfb6c569f7f41802caac"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2100,7 +2100,7 @@ metafile = true
 
 [[files]]
 file = "mods/highlight.pw.toml"
-hash = "5d64c282ab5388ac0cee7753fc07a43d6d3e71ae37a8bb44161c3bb638cc6106"
+hash = "dccea839b9e11c8552221cb9fabe57d91303a79f9c1e365c54c5aac491609c45"
 metafile = true
 
 [[files]]
