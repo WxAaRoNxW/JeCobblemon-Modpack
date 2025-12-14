@@ -4,10 +4,11 @@
 <summary><b>
 v1.0.1 Beta - Side Fixes
 
-- Changd
+- Changed
 	- Extralib - Change from server to both. Extra Quests requires it.
 	- Fusion - Change from client to both. Glassential renewed requires it.
 	- Mod Menu - Change from client to both. Structurify requires it.
+	- Revert Chat key to default.
 	
 - Fixes
 	- Startup due to wrong mod side.

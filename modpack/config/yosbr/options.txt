@@ -14,7 +14,6 @@ pauseOnLostFocus:false
 skipMultiplayerWarning:true
 joinedFirstServer:true
 debugifyTelemetry:0
-key_key.chat:key.keyboard.enter
 key_key.pickItem:key.mouse.middle
 key_key.socialInteractions:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
