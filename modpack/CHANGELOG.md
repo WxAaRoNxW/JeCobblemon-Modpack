@@ -234,33 +234,51 @@ v0.11 Alpha - Replace and Remove Update
         - <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar
 
 - Removals
-	- Camerapture - Replaced with exposure
-	- Exordium - Too much work to make it work with UI mods compatible.
 	- Cobblemon UI Tweaks - Old mod
-	- CobbleTowns: Continued
+	- CobbleTowns: Continued - Settle with just Cobblemon Additions.
 	- Easy Item List - Incompatible with JEI and Vanilla Backport.
-	- Palladium - Finicky.
+	- Exordium - Too much work to make it work with UI mods compatible.
+	- Palladium - Easily crashes with mods.
 	- Sodium Shadowy Path Blocks - Probably Unnecessary.
-	- Vaulted End - Unnecessary since Enderscape and End Castle covers this.
-	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
 	- Visuality - Particles would eventually be too annoying.
+	- Farmer's Cutting: Oh The Biome's We've Gone
+	- More Compatibility Variants (Oh The Biomes We've Gone)
+		- Cobblenoms - Was removed from modrinth a long time ago.
+		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
+		- Enchantment Level Cap Indicator - Unnecessary
+		- Heartstone - Nice to have, but niche since Minimap exists.
+		- Hungrier - SoL: Discovery has a new update to show which hasn't been eaten.
+		- Loot Journal - Unnecessary HUD clutter.
+		- Trading Post - Helpful, but niche.
+		- Show Me Your Skin - Unnecessary QoL.
+			- CICADA - Library.
+		- Sodium Leaf Culling
+		- Sodium Extras - Unnecessary.
+		- Shulker Box Tooltip - No one would use a shulker box.
+		- Utility Belt - Has big issue where first slot could potentially disappear.
 	- Replaced
-		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
+		- Camerapture - Replaced with exposure
 		- CobbleFolk Skin Pack - Replaced with Alaris version.
+		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
 		- Better Third Person - Replaced with Shoulder Surfing.
 		- I want it earlier - Replaced with Vanilla Backport.
-		- Model Gap Fix - Replaced with STFU.
-		- No More Pop-ups - Replaced with STFU.
-		- Remove Reloading Screen - Replaced with STFU.
-		- ThreadTweak - Replaced with STFU.
-		- BadOptimizations - Replaced with STFU.
-		- Stendhal - Replaced with Scholar.
 		- Just Enough
 			- Beacons - Just removed.
 			- Effect Descriptions - Replaced with EMIEffect.
 				- CERBON's API - lib
 			- Resources - Doesn't work I think, replaced with EMI Loot and EMI Enchanting
 			- Professions - Replaced with EMI Professions.
+
+		- BadOptimizations - Replaced with STFU.
+		- Model Gap Fix - Replaced with STFU.
+		- No More Pop-ups - Replaced with STFU.
+		- Remove Reloading Screen - Replaced with STFU.
+		- ThreadTweak - Replaced with STFU.
+		
+		- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
+		- Stendhal - Replaced with Scholar.
+		- Vaulted End - Unnecessary since Enderscape and End Castle covers this.
+		
 		- World Gen
 			- Cinderscapes - Replaced with Regions Unexplored.
 			- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
@@ -278,10 +296,7 @@ v0.11 Alpha - Replace and Remove Update
 				- Ocean Monuments
 				- Strongolds
 				- Bridges
-	- Blocks
-		- Farmer's Cutting: Oh The Biome's We've Gone
-		- More Compatibility Variants (Oh The Biomes We've Gone)
-	- World Gen
+-	 World Gen
 		- Cinderscapes - Replaced with Regions Unexplored.
 		- Incendium Biomes Only - Replaced with Regions Unexplored, and DnT.
 		- Moog's Missing Villages
@@ -300,20 +315,6 @@ v0.11 Alpha - Replace and Remove Update
 			- Ocean Monuments
 			- Strongolds
 			- Bridges
-	- Trimming
-		- Cobblenoms - Was removed from modrinth a long time ago.
-		- Damage Numbers - Unfitting for pack, Target Dummy has built in damage values.
-		- Enchantment Level Cap Indicator - Unnecessary
-		- Heartstone - Nice to have, but niche since Minimap exists.
-		- Hungrier - SoL: Discovery has a new update to show which hasn't been eaten.
-		- Loot Journal - Unnecessary HUD clutter.
-		- Trading Post - Trimming mods.
-		- Show Me Your Skin - Unnecessary QoL.
-			- CICADA - Library.
-		- Sodium Leaf Culling
-		- Sodium Extras - Unnecessary.
-		- Shulker Box Tooltip - No one would use a shulker box.
-		- Utility Belt - Has big issue where first slot could potentially disappear.
 
 
 - Fixes

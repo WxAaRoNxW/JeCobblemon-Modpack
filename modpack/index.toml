@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ae4cbe61b9e95b5ba609ec1a0bf4b4cbe0583d2fa437efca42b6f752b7889053"
+hash = "d17a5703c4b377fe7d64ed2887aab97b005487775d3a541678037488b1b5e1d7"
 
 [[files]]
 file = "TrashSlotSaveState.json"
