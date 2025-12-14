@@ -1,13 +1,13 @@
 name = "Serene Seasons Plus"
-filename = "Fabric-Version-sereneseasonsplus-1.21.1-4.1.1.jar"
+filename = "Fabric-Version-sereneseasonsplus-1.21.1-4.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4Al4H3t9/versions/IruTSypl/Fabric-Version-sereneseasonsplus-1.21.1-4.1.1.jar"
+url = "https://cdn.modrinth.com/data/4Al4H3t9/versions/uFGPMiUR/Fabric-Version-sereneseasonsplus-1.21.1-4.2.2.jar"
 hash-format = "sha512"
-hash = "984117019f68fddcffaa7b1a13b1ee93d3bae93bcb65019d5a13598b4bcb090c04c5266fb1eec46280708b7f5ba7ae0c01f5b64f96690068025fae7d92a659fb"
+hash = "9ccca26c5a156cb6322450810a5d4b46b35c824e58093366bbc082d260d9983c5462e8a879c6897d8b32c2124e4cb843e54c6955de974c5ed847ef5e1b76aa43"
 
 [update]
 [update.modrinth]
 mod-id = "4Al4H3t9"
-version = "IruTSypl"
+version = "uFGPMiUR"

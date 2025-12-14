@@ -178,26 +178,60 @@ v0.11 Alpha - Replace and Remove Update
 		Updated Files
 		</summary>
 
-		- <b>AllTheMons x Mega Showdown</b>: ATM x MSD [3.0.1].zip `->` ATM x MSD [v3.1.1].zip
-		- <b>Chat Animation [Smooth Chat]</b>: chatanimation-1.0.6.jar `->` chatanimation-fabric-1.21.1-1.1.1.jar
-		- <b>Cobblemon Armors</b>: cobblemon-armors-1.5.2+1.7.1.jar `->` cobblemon-armors-1.6.0+1.7.1.jar
-		- <b>Emojiful</b>: Emojiful-Fabric-1.21-5.1.5.jar `->` Emojiful-Fabric-1.21-5.2.1.jar
-		- <b>Fast Better Grass</b>: Fast Better Grass.zip `->` Fast Better Grass.zip
-		- <b>Fast Paintings</b>: fastpaintings-1.21-1.3.0-fabric.jar `->` fastpaintings-1.21-1.3.0-fabric.jar
-		- <b>LambDynamicLights</b>: lambdynamiclights-4.8.6+1.21.1.jar `->` lambdynamiclights-4.8.7+1.21.1.jar
-		- <b>Lithostitched</b>: lithostitched-1.5.0-fabric-1.21.1.jar `->` lithostitched-1.5.2-fabric-1.21.1.jar
-		- <b>Macaw's Fences and Walls</b>: mcw-fences-1.2.0-1.21.1fabric.jar `->` mcw-mcwfences-1.2.1-mc1.21.1fabric.jar
-		- <b>Macaw's Lights and Lamps</b>: mcw-lights-1.1.2-mc1.21.1fabric.jar `->` mcw-lights-1.1.5-mc1.21.1fabric.jar
-		- <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.3e.zip `->` MakeUp-UltraFast-9.3h.zip
-		- <b>MNS - Moog's Nether Structures</b>: MoogsNetherStructures-1.21-2.0.1.jar `->` MoogsNetherStructures-1.21-2.0.31.jar
-		- <b>MVS - Moog's Voyager Structures</b>: MoogsVoyagerStructures-1.21-5.0.2.jar `->` MoogsVoyagerStructures-1.21-5.0.3.jar
-		- <b>Oh The Biomes We've Gone</b>: Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar `->` Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar
-		- <b>Rad Gyms [Cobblemon]</b>: Rad Gyms [Cobblemon]-0.3.0-stable.jar `->` Rad Gyms [Cobblemon]-0.3.1-stable.jar
-		- <b>Raise Sound Limit Simplified</b>: rsls-1.1.10.jar `->` rsls-1.1.11.jar
-		- <b>SimpleTMs: TMs and TRs for Cobblemon</b>: SimpleTMs-fabric-2.2.1.jar `->` SimpleTMs-fabric-2.3.0.jar
-		- <b>Smooth Gui</b>: smoothgui-0.1.1.jar `->` smoothgui-fabric-1.21.1-1.0.0.jar
-		- <b>Sounds</b>: sounds-2.4.18+lts+1.21.1-fabric.jar `->` sounds-2.4.21+lts+1.21.1-fabric.jar
-		- <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar
+        - <b>3D Skin Layers</b>: skinlayers3d-fabric-1.9.2-mc1.21.1.jar `->` skinlayers3d-fabric-1.10.1-mc1.21.1.jar
+        - <b>AllTheMons x Mega Showdown</b>: ATM x MSD [3.0.1].zip `->` ATM x MSD [v3.1.1LM].zip
+        - <b>Bookshelf</b>: bookshelf-fabric-1.21.1-21.1.78.jar `->` bookshelf-fabric-1.21.1-21.1.79.jar
+        - <b>Chat Animation [Smooth Chat]</b>: chatanimation-1.0.6.jar `->` chatanimation-fabric-1.21.1-1.1.3.jar
+        - <b>Chat Notify</b>: chatnotify-fabric-2.6.2+1.21.1.jar `->` chatnotify-fabric-2.6.3+1.21.1.jar
+        - <b>Cobblemon Armors</b>: cobblemon-armors-1.5.2+1.7.1.jar `->` cobblemon-armors-1.6.0+1.7.1.jar
+        - <b>Cobblemon RIze Tweaks</b>: cobblemonRIzetweaks-1.2.0.jar `->` cobblemonRIzetweaks-1.2.1.jar
+        - <b>Cobblemon Spawn Notification</b>: spawnnotification-fabric-1.7.1-2.1.0.jar `->` spawnnotification-fabric-1.7.1-2.2.1.jar
+        - <b>Cobblemon Tim Core</b>: timcore-fabric-1.7.1-1.26.1.jar `->` timcore-fabric-1.7.1-1.27.0.jar
+        - <b>Cobblemon Utility+ (IVs, EVs, & More)</b>: Cobblemon-Utility+-fabric-1.7.1.jar `->` Cobblemon-Utility+-fabric-1.7.2.jar
+        - <b>CobblemonExtras</b>: CobblemonExtras-fabric-1.4.2.jar `->` CobblemonExtras-fabric-1.5.0.jar
+        - <b>Cull Leaves</b>: cullleaves-fabric-4.1.0+1.21.1.jar `->` cullleaves-fabric-4.1.1+1.21.1.jar
+        - <b>e4mc</b>: e4mc_minecraft-fabric-5.4.1.jar `->` e4mc_minecraft-fabric-5.5.1.jar
+        - <b>Easy NPC</b>: easy_npc-fabric-1.21.1-5.9.0.jar `->` easy_npc_bundle-6.1.2-fabric-1.21.1.jar
+        - <b>EasyAuth</b>: easyauth-mc1.21-3.3.6.jar `->` easyauth-mc1.21-3.4.1.jar
+        - <b>Emojiful</b>: Emojiful-Fabric-1.21-5.1.5.jar `->` Emojiful-Fabric-1.21-5.2.1.jar
+        - <b>Entity Culling</b>: entityculling-fabric-1.9.3-mc1.21.1.jar `->` entityculling-fabric-1.9.4-mc1.21.1.jar
+        - <b>Fast Better Grass</b>: Fast Better Grass.zip `->` Fast Better Grass.zip
+        - <b>Fast Paintings</b>: fastpaintings-1.21-1.3.0-fabric.jar `->` fastpaintings-1.21-1.3.0-fabric.jar
+        - <b>FTB Teams (Fabric)</b>: ftb-teams-fabric-2101.1.7.jar `->` ftb-teams-fabric-2101.1.8.jar
+        - <b>Fzzy Config</b>: fzzy_config-0.7.3+1.21.jar `->` fzzy_config-0.7.4+1.21.jar
+        - <b>Highlight</b>: highlight-fabric-1.21-3.0.0.jar `->` highlight-fabric-1.21.9-3.9.0.jar
+        - <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.6.7+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.8+1.21.1.jar
+        - <b>Inventory Profiles Next</b>: InventoryProfilesNext-fabric-1.21.1-2.2.1.jar `->` InventoryProfilesNext-fabric-1.21.1-2.2.2.jar
+        - <b>LambDynamicLights</b>: lambdynamiclights-4.8.6+1.21.1.jar `->` lambdynamiclights-4.8.7+1.21.1.jar
+        - <b>libIPN</b>: libIPN-fabric-1.21.1-6.6.1.jar `->` libIPN-fabric-1.21.1-6.6.2.jar
+        - <b>Lithostitched</b>: lithostitched-1.5.0-fabric-1.21.1.jar `->` lithostitched-1.5.2-fabric-1.21.1.jar
+        - <b>Macaw's Fences and Walls</b>: mcw-fences-1.2.0-1.21.1fabric.jar `->` mcw-mcwfences-1.2.1-mc1.21.1fabric.jar
+        - <b>Macaw's Lights and Lamps</b>: mcw-lights-1.1.2-mc1.21.1fabric.jar `->` mcw-lights-1.1.5-mc1.21.1fabric.jar
+        - <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.3e.zip `->` MakeUp-UltraFast-9.3h.zip
+        - <b>MidnightLib</b>: midnightlib-fabric-1.9.1+1.21.1.jar `->` midnightlib-fabric-1.9.2+1.21.1.jar
+        - <b>MNS - Moog's Nether Structures</b>: MoogsNetherStructures-1.21-2.0.1.jar `->` MoogsNetherStructures-1.21-2.0.31.jar
+        - <b>Modern Networking</b>: modernnetworking-fabric-1.2.4+1.21.1.jar `->` modernnetworking-fabric-1.2.5+1.21.1.jar
+        - <b>Moonlight Lib</b>: moonlight-1.21-2.27.1-fabric.jar `->` moonlight-1.21-2.28.1-fabric.jar
+        - <b>MoreCobblemonTweaks</b>: MoreCobblemonTweaks-fabric-1.2.0.jar `->` MoreCobblemonTweaks-fabric-1.2.1.jar
+        - <b>Multiworld</b>: Multiworld-Fabric-bundle.jar `->` Multiworld-Fabric-bundle.jar
+        - <b>MVS - Moog's Voyager Structures</b>: MoogsVoyagerStructures-1.21-5.0.2.jar `->` MoogsVoyagerStructures-1.21-5.0.3.jar
+        - <b>Not Enough Animations</b>: notenoughanimations-fabric-1.10.6-mc1.21.1.jar `->` notenoughanimations-fabric-1.11.1-mc1.21.1.jar
+        - <b>Oh The Biomes We've Gone</b>: Oh-The-Biomes-Weve-Gone-Fabric-2.5.1.jar `->` Oh-The-Biomes-Weve-Gone-Fabric-2.5.2.jar
+        - <b>Polytone</b>: polytone-1.21-3.5.14-fabric.jar `->` polytone-1.21-3.6.0-fabric.jar
+        - <b>Puzzle</b>: puzzle-fabric-2.2.0+1.21.1.jar `->` puzzle-fabric-2.2.1+1.21.1.jar
+        - <b>Rad Gyms [Cobblemon]</b>: Rad Gyms [Cobblemon]-0.3.0-stable.jar `->` Rad Gyms [Cobblemon]-0.3.1-stable.jar
+        - <b>Radical Cobblemon Trainers API</b>: rctapi-fabric-1.21.1-0.14.3-beta.jar `->` rctapi-fabric-1.21.1-0.14.4-beta.jar
+        - <b>Raise Sound Limit Simplified</b>: rsls-1.1.10.jar `->` rsls-1.1.13.jar
+        - <b>Serene Seasons Plus</b>: Fabric-Version-sereneseasonsplus-1.21.1-4.1.1.jar `->` Fabric-Version-sereneseasonsplus-1.21.1-4.2.2.jar
+        - <b>Simple Voice Chat</b>: voicechat-fabric-1.21.1-2.6.6.jar `->` voicechat-fabric-1.21.1-2.6.7.jar
+        - <b>SimpleTMs: TMs and TRs for Cobblemon</b>: SimpleTMs-fabric-2.2.1.jar `->` SimpleTMs-fabric-2.3.3.jar
+        - <b>Smooth Gui</b>: smoothgui-0.1.1.jar `->` smoothgui-fabric-1.21.1-1.1.0.jar
+        - <b>Sounds</b>: sounds-2.4.18+lts+1.21.1-fabric.jar `->` sounds-2.4.22+lts+1.21.1-fabric.jar
+        - <b>Storage Delight</b>: storagedelight-25.06.24-1.21-fabric.jar `->` storagedelight-25.12.09-1.21-fabric.jar
+        - <b>Supplementaries</b>: supplementaries-1.21-3.4.18-fabric.jar `->` supplementaries-1.21-3.5.10-fabric.jar
+        - <b>Vanilla Backport Compat</b>: vb-compat-1.4-1.21.1.jar `->` vb-compat-1.4-1.21.1Hotfix.jar
+        - <b>WATERMeDIA: Youtube Plugin</b>: watermedia_youtube_plugin-2.1.0.jar `->` watermedia_youtube_plugin-2.1.1.jar
+        - <b>YetAnotherConfigLib (YACL)</b>: yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar `->` yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar
 
 - Removals
 	- Camerapture - Replaced with exposure
