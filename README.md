@@ -22,3 +22,12 @@ Simply drag and drop the zip file into the instance space of the program. Change
 
 Video Tutorial (Click to play):
 ![PrismLauncher Guide](https://github.com/user-attachments/assets/29ca5bd8-28a6-401e-8bfc-e4258e150dfa)
+
+### In case you got rid of the pre-launch command
+#### Client
+`$INST_JAVA -jar packwiz-installer-bootstrap.jar --side client "https://raw.githubusercontent.com/WxAaRoNxW/JeCobblemon-Modpack/refs/heads/main/modpack/pack.toml"`
+
+#### Both
+`$INST_JAVA -jar packwiz-installer-bootstrap.jar --side client "https://raw.githubusercontent.com/WxAaRoNxW/JeCobblemon-Modpack/refs/heads/main/modpack/pack.toml"`
+
+Make sure there is no space on the left and right side.
