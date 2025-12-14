@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5c1ff9c202efe7b9a032405906073235816f3b14aa7a580cf74e1c0414391d39"
+hash = "e5f4810bfe784fbd51925cbd6d55e3b370560e8bc2493409c4666b0ccece0f70"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -861,6 +861,10 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
+file = "global_packs/required_data/Pale Garden Spawn Spooky.zip"
+hash = "b3e3c3b1a5239502140706337c617f6e18063bdc46af1682a2876fe4c29871c1"
+
+[[files]]
 file = "global_packs/required_data/cobblecuisine-delight.pw.toml"
 hash = "0d5b498ac9053a101bf256f6aad87275c8d02a26c69d054797df756ce1c798f7"
 metafile = true
@@ -878,6 +882,11 @@ metafile = true
 [[files]]
 file = "global_packs/required_data/cobblemon-rad-gyms-refurbish.pw.toml"
 hash = "167fc4a79bb0ab30af6f97914e6bba2b6c9a1ed4d4fc9ed7bf19b2d1998d7e92"
+metafile = true
+
+[[files]]
+file = "global_packs/required_data/cobblemon-regions-unexplored-compat.pw.toml"
+hash = "5f0c95ce27ffd1e5caaf1391e1a2039efdc6af579337a9903c2ec3a63e1ddc9a"
 metafile = true
 
 [[files]]
@@ -3344,7 +3353,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/CobbleFolk Skin Pack Alaris Version - With Create Villager.zip"
-hash = "e5be4b263b3acde79a5cf66f183f38fcbba044af168c3a065cb09e0c24161643"
+hash = "6303b936af48ffc45509539a48635432e69e8b82c0177ac1d570cd6a41517e6c"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r242438_MC1.21.x.zip"

@@ -1,0 +1,13 @@
+name = "Cobblemon - Regions Unexplored Compat"
+filename = "Cobblemon-RUCompat-1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/daKVYjeG/versions/2dtQpj47/Cobblemon-RUCompat-1.0.zip"
+hash-format = "sha512"
+hash = "ee46064707aae422c103f9e3dccd6734773d109a9e0866bb8f046ad8e68997423b435eee301878237957518714711e9d3d56e1d9740ad53d19e3a125ad6ac108"
+
+[update]
+[update.modrinth]
+mod-id = "daKVYjeG"
+version = "2dtQpj47"

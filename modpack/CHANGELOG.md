@@ -80,8 +80,10 @@ v0.11 Alpha - Replace and Remove Update
 			- Woodland Mansion
 		- Regions Unexplored
 			- Terrablender
+			- Cobblemon Regions Unexplored Compat
 		- Vanilla Backport - Backports 1.21.2+ MC features to 1.21.1. Replaces I want it earlier. 
-			
+			- Pale Garden Spawn Spooky - Datapack compat for Cobblemon spawns.
+
 	- Deco and Blocks
 		- Chimes - Chimes + functional phantom repellant.
 		- Comforts - Sleeping bag.
