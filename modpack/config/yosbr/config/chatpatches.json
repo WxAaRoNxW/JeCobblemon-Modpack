@@ -1,8 +1,9 @@
 {
-  "chatMaxMessages": 5000,
+  "chatMaxMessages": 1000,
   "timeDate": "⌚",
   "timeFormat": "$",
   "hoverDate": "MM/dd/yyyy - HH:mm:ss",
+  "name": false,
   "counterCompact": true,
   "chatNameFormat": "$:"
 }

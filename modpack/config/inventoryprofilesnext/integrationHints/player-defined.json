@@ -12,7 +12,17 @@
         "ignore": true
     },
     "net.p3pp3rf1y.sophisticatedstorage.client.gui.LimitedBarrelScreen": {
-        "ignore": true
+        "ignore": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 74,
+                "top": -21
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 62,
+                "top": -6
+            }
+        }
     },
     "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
         "ignore": true
@@ -23,20 +33,6 @@
     "wraith.fwaystones.screen.WaystoneBlockScreen": {
         "ignore": true
     },
-    "io.github.jamalam360.utility_belt.client.screen.UtilityBeltScreen": {
-        "playerSideOnly": true,
-        "buttonHints": {
-            "SORT": {
-                "bottom": 35
-            },
-            "SORT_COLUMNS": {
-                "bottom": 35
-            },
-            "SORT_ROWS": {
-                "bottom": 35
-            }
-        }
-    },
     "com.glisco.disenchanter.client.DisenchanterScreen": {
         "playerSideOnly": true
     },
@@ -46,12 +42,24 @@
     "net.minecraft.class_481": {
         "buttonHints": {
             "SETTINGS": {
-                "horizontalOffset": 40,
-                "top": -4
+                "horizontalOffset": 74,
+                "top": -21
             },
             "SHOW_EDITOR": {
-                "horizontalOffset": 28,
-                "top": 11
+                "horizontalOffset": 62,
+                "top": -6
+            }
+        }
+    },
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 74,
+                "top": -21
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 62,
+                "top": -6
             }
         }
     },
@@ -66,5 +74,36 @@
     },
     "github.meloweh.wolfcompanion.screen.WolfInventoryScreen": {
         "ignore": true
+    },
+    "com.jaquadro.minecraft.storagedrawers.inventory.DrawerScreen$Slot1": {
+        "ignore": true
+    },
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "playerSideOnly": true
+    },
+    "com.tom.storagemod.screen.CraftingTerminalScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 74,
+                "top": -21
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 62,
+                "top": -6
+            }
+        }
+    },
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 74,
+                "top": -21
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 62,
+                "top": -6
+            }
+        }
     }
 }

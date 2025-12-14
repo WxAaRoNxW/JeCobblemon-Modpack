@@ -196,8 +196,10 @@
       "tardis:interior_door",
       "cuffed:*",
       "cobblemon:healing_machine",
-      "sophisticatedstorage:*",
-      "clutter:*_wall_bookshelf"
+      "clutter:*_wall_bookshelf",
+      "lootr:*",
+      "storagedrawers:*",
+      "sophisticatedbackpack:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [

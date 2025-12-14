@@ -76,7 +76,7 @@ key_key.fightorflight.cmdmode.nocmd:key.keyboard.unknown
 key_key.fightorflight.cmdmode.clear:key.keyboard.unknown
 key_genshinstrument.keymaps.transpose_up_modifier:key.keyboard.right.alt
 key_genshinstrument.keymaps.transpose_down_modifier:key.keyboard.left.alt
-key_keybind.invmove.toggleMove:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.keypad.7
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -127,7 +127,7 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.keypad.0
 key_key.sittingplus.sit:key.keyboard.x
-key_soldisco.key.food_history:key.keyboard.grave.accent
+key_soldisco.key.food_history:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.h
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.h

@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "120d3ad84201987e539bca096e0b50513b407b71d07607116e944e0f01b130f1"
+hash = "79f141563fca21c17c5cbccf6b6796c3e301281004bed552caef2988ff20d1d2"
 
 [[files]]
 file = "TrashSlotSaveState.json"
 hash = "2b42ed5ebd32f020d54e134f9ba3602aece19cb26e611cd30a15ceb82a5bb939"
-
-[[files]]
-file = "chesttracker/user_button_positions.dat"
-hash = "3440414242dbb84d8a0c67064ada82826e8d1291539756d76bbf8c9f5d4e4dd0"
 
 [[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
@@ -206,7 +202,7 @@ hash = "418a568b0791fc9dce33bb9a123dfdd95c5fd3b68d31f64691bb9de2d632c2e9"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "9ab46c90c5bf6467e9eb8e1cbac35b131884d134d0fe947cf50bb6614c2e49b8"
+hash = "a1e92c532fa30daf1ffb72aaf0c92a034f5abf131fd418f71a7a73b8bb6afcbe"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"
@@ -302,7 +298,7 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/yosbr/config/carryon-common.json"
-hash = "82eae545ef40fb213fa6218f618684980813e62db4e69aecfad0235569c57d0f"
+hash = "f316be87ffeb3befc70cc1925ca072937c82b6531eb3b170131702f4cafddfdb"
 
 [[files]]
 file = "config/yosbr/config/chatnotify.json"
@@ -310,11 +306,11 @@ hash = "e262d65e6b12a39443f12fa313584df10a316ec23dc7e04cbd27608d7fe72848"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "2d2db35147d79fe6a31cb7d1571fb7bcb30d818df9d663c137e5b805b131db48"
+hash = "d1d2caab0f12d28d315e6604a00e7167c82e789e0f04e9db0aad82b431429581"
 
 [[files]]
 file = "config/yosbr/config/chesttracker.json5"
-hash = "c93e4829054f060acfd9ed0e038a94bb9e04f7620f64f7f637fa5ac7f44818b0"
+hash = "5b79f86631e39f13e9930aea2bb33682cd7fba1bfa8ccb4bffbad3ede6aff4b9"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -358,7 +354,7 @@ hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
-hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+hash = "97e9b117a4c4e58a4a67189fc8e7b6f83408d7735db8ad5b5dd5c6b4d9b13910"
 
 [[files]]
 file = "config/yosbr/config/craftingtweaks-common.toml"
@@ -770,11 +766,15 @@ hash = "9ab7cb21546a43061d15642d48e486d06e3e63cbb4881392e539a9ff9cd9f87c"
 
 [[files]]
 file = "config/yosbr/config/sophisticatedcore-common.toml"
-hash = "80d726231ace85e621780b83d7e51c214159979940152ff3bc0d0e0842a900c9"
+hash = "ca6b18fe72ae371ba9ec30a05df8eb997c461a3884601b5f29febb58efae6262"
 
 [[files]]
 file = "config/yosbr/config/sounds/chat.json"
 hash = "e3e517248e61a104b80ddd025278aece542fcb229f8c830bac5625c0d3a7120c"
+
+[[files]]
+file = "config/yosbr/config/sounds/ui.json"
+hash = "50ccfd44bb3cfc5fdbc447c12c51ed522f96992d2eeb7b66be5d0f72daa8dcf6"
 
 [[files]]
 file = "config/yosbr/config/spawn_notification.json"
@@ -783,6 +783,10 @@ hash = "98fbb75e8435c71a4a9153b04a386a22b0f424bbd5bac08b874f0f8f26c5d73a"
 [[files]]
 file = "config/yosbr/config/stendhal/stendhal.properties"
 hash = "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a"
+
+[[files]]
+file = "config/yosbr/config/stfu.json5"
+hash = "7edc130b638704c87bfdfad1a437e0b71fd8c94f50ff6eecb20e750aa9885651"
 
 [[files]]
 file = "config/yosbr/config/subtle_effects/entities.toml"
@@ -854,7 +858,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "0f3ad4dfec276e70b1e481f90e412780250fd208ef640d38ac588602895abfd5"
+hash = "65641ac31b452e30d54bc92d7290db576f9874b3e4954cea2b108856508a178b"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"

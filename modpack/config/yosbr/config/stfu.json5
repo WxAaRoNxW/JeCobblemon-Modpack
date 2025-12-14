@@ -1,0 +1,7 @@
+{
+	maxChatHistory: 1000,
+	recipeToasts: true,
+	compactChat: "NEVER",
+	disableLoadingTerrain: true,
+	disableWorldAdvice: true,
+}

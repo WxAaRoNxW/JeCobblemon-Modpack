@@ -8,6 +8,7 @@ v0.11 Alpha - Replace and Remove Update
 - Additions
 	- Better Climbing - Faster climb up and down.
 	- Colorful Hearts - Colors heart layers, was excluded before but Cobblemon Interface Modded was added and supports it.
+	- Continuity - Readded as it is required.
 	- Dynamic Crosshair Compat - Addon for more modded support.
 	- Easy Item List - Necessary for server side recipes/items.
 	- EMI
@@ -133,11 +134,33 @@ v0.11 Alpha - Replace and Remove Update
 	- Partially added optional mods for players to choose which to add, specifically visual mods that may or may not impact FPS.
 	- ATM x MSD - Changed to use Legendary Monuments compatible.
 	- Config
-		- Keybinds
 		- BetterF3 - Disabled unnecessary clutter.
+		- Keybinds
+			- Ping Wheel - Enable player icon on pings.
+			- Remove keybind for SoL: Discovery, Food History.
+		- Set toggle InvMove to Keypad 7.
+		- CarryOn - Disabled Carrying certain blocks.
+			- lootr.
+			- storage drawers.
+			- sophisticated backpacks.
+		- Chat Patches
+			- Changed max chat history to 1000 (100 to 16k is overkill, and would increase ram)
+			- Disabled custom playername format - This fixes issues with other mods like ChatNotify and Discord & Chat Images.
+		- Chest Tracker - Disable UI Button to avoid any UI button overlap with other mods. Use keybind instead.
+			- Removed User Button Position data.
+		- Continuity - Disable emissive textures which fixes RCT Trainer Card Arrow.
 		- Keybinds Galore Plus - Change pie wheel's color.
 		- Particle Rain - Enable Ground Fog.
-		- Ping Wheel - Enable player icon on pings.
+		- Sophisticated Storage - Disabled recipes of basic to x upgrade, and chest and shulker.
+		- Sounds
+			- Disable inventory typing sounds to stop the loud overlapping sound when opening inventory.
+			- Enable ignore empty inventory slots to prevent drop sounds from executing on an empty hand. 
+		- STFU - Edit default config to work with pack.
+			- Disabled recipe toast - Replaces No More Pop-ups.
+			- Disable Compact Chat - Chat Patches handle this.
+			- Disable Loading Terrain - Speeds up a bit in exchange for flicker/lag spike initially.
+			- Disable World Advice - Experimental pop up.
+
 - Updates
 	- Multiworld - Downgrade 1.11 -> 1.10.
 	- Effect Descriptions - Modrinth update page (name was changed).
@@ -249,6 +272,7 @@ v0.11 Alpha - Replace and Remove Update
 - Fixes
 	- Resourcepacks - Resourcepacks now enabled on default, was disabled due to resourcepack update.
 	- Multiworld - Fix redstone device freeze by downgrading version.
+	- Trainer Card Arrow - Trainer Card now renders the arrow to the associate/trainer.
 </details>
 
 <details>

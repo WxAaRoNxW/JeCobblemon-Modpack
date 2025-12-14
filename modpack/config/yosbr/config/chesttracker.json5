@@ -1,4 +1,9 @@
 {
+	gui: {
+		inventory_button: {
+			enabled: false
+		}
+	},
 	debug: {
 		disable_container_names: true
 	},

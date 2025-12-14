@@ -1,0 +1,6 @@
+{
+	"inventoryTypingSoundEffect": {
+		"shouldPlay": false
+	},
+	"ignoreEmptyInventorySlots": true
+}
