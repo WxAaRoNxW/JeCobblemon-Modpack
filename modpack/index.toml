@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3a2c4602fda625b8cec4144f57a5cf07f077425d8752509cb422ca986c7f78ff"
+hash = "dabf5ad4b36912df27010d0448122534f8cf9d98f5e5776418b5a7c51ddda737"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3245,11 +3245,6 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "19faff688fb5bdd5e0151876da94b1ceb98aedaf411574f494497cef06f7fed9"
-metafile = true
-
-[[files]]
-file = "mods/universal-sawmill.pw.toml"
-hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
 metafile = true
 
 [[files]]

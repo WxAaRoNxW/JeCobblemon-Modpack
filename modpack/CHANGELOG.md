@@ -1,13 +1,23 @@
 # Changelog
 <details>
 <summary><b>
+v1.1.0 Beta - Config and Optimize
+</b></summary>
+
+- Removed
+	- Sawmill - Long load times.
+
+</details>
+
+<details>
+<summary><b>
 v1.0.2 Beta - More Hotfix
 </b></summary>
 
-- Downgrade
+- Downgraded
 	- <b>Supplementaries</b>: supplementaries-1.21-3.4.18-fabric.jar `<-` supplementaries-1.21-3.5.10-fabric.jar
 
-- Fix 
+- Fixed
 	- Attachment error once again.
 	- Craft Tweaker Script - Removed code referencing removed mods.
 
