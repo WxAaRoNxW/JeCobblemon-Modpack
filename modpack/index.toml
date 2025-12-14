@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "79f141563fca21c17c5cbccf6b6796c3e301281004bed552caef2988ff20d1d2"
+hash = "5c1ff9c202efe7b9a032405906073235816f3b14aa7a580cf74e1c0414391d39"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -757,10 +757,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "553638cd0dab8279d5c77c633324f1012395c38ca3c8a338571cca59464df8b4"
 
 [[files]]
-file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
-hash = "25baba4e198fbefd6656a38dcf0cdc3e7ccef211221b4f5218d22a778d1853fa"
-
-[[files]]
 file = "config/yosbr/config/soldisco.json5"
 hash = "9ab7cb21546a43061d15642d48e486d06e3e63cbb4881392e539a9ff9cd9f87c"
 
@@ -902,11 +898,6 @@ metafile = true
 [[files]]
 file = "global_packs/required_data/jecobblemon-modintegrations.pw.toml"
 hash = "6394c9a8805a4b7b934f6ed1eb811c6ed842447e29eac7f05859dc135650c385"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/late-game-tss-toms-simple-storage.pw.toml"
-hash = "f882097768a63ebd96d2fbfdcb08af56a38489183bd32f2697cd77af1d445ecb"
 metafile = true
 
 [[files]]
@@ -1590,7 +1581,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "508dcb536d732a862ea9e8046861f99e698ecc094025d2299b4b0058fea57ea7"
+hash = "b17289d8770f179e5f00ab67c5278e32fb7ee9c61552866b4e60ccbed70a926a"
 metafile = true
 
 [[files]]
@@ -2469,11 +2460,6 @@ hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "2371e8b0dc97af775263981ae0d5bb9c22ea59ae9c26fbc85431952aa7c1c71b"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
@@ -2511,11 +2497,6 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "40b17cafd02d47840cd3d916ce51a756e0c73280cfe934aab01605602033db43"
-metafile = true
-
-[[files]]
-file = "mods/nbt-copy.pw.toml"
-hash = "7a436f1e57436719f8181e010bd8cc7565472661fb49aaeb2ea7f5f0d88b052c"
 metafile = true
 
 [[files]]
@@ -2948,11 +2929,6 @@ hash = "d622be16aaa231293a6378d8535b7fc69d628b465e18edd756c97df38dbe0025"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "80aad47804d6e56951b271cfb9f9aa0d46af0ccacedab82019c2635669c475e9"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a987bcd2646a2ab741e7f609b43cb2d9c9daba765323b5a77d506b0ac7f4207"
 metafile = true
@@ -3025,11 +3001,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "66240aba12e8ae1e0c86efadae1b6a769852f62e0ab749027071fc483e4d5823"
-metafile = true
-
-[[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
@@ -3225,11 +3196,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "3690972a33450628b7cca2f8ec735d42973fbaebfd6f97647e1d1a290c28abe0"
-metafile = true
-
-[[files]]
-file = "mods/vaulted-end.pw.toml"
-hash = "ed5048cfa5d1155b0e7acf70ea8b23b1f2a4196acac9ccdf73e0945043f60ea6"
 metafile = true
 
 [[files]]

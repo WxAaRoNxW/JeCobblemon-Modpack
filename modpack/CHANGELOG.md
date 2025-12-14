@@ -116,7 +116,6 @@ v0.11 Alpha - Replace and Remove Update
 		- Shoulder Surfing Pehkui Compat - For Size Shifting Potion
 
 	- Data Anchor - Lib for Via Romana.
-	- Stack Deobfuscator - Aid for debugging.
 	- iCommon API - New lib needed by MultiWorld (for portal making).
 	- Text PlaceHolder Text API - Lib never included but needed by Mod Menu.
 	- BiliBiliMedia - Adds BiliBili support for Water Frames.
@@ -163,6 +162,7 @@ v0.11 Alpha - Replace and Remove Update
 
 - Updates
 	- Multiworld - Downgrade 1.11 -> 1.10.
+	- Data Anchor - Downgrade 1.21.1-2.0.0.14 -> 1.21.1-2.0.0.13.
 	- Effect Descriptions - Modrinth update page (name was changed).
 	- <details>
 		<summary>
@@ -196,6 +196,9 @@ v0.11 Alpha - Replace and Remove Update
 	- Cobblemon UI Tweaks - Old mod
 	- CobbleTowns: Continued
 	- Easy Item List - Incompatible with JEI and Vanilla Backport.
+	- Palladium - Finicky.
+	- Sodium Shadowy Path Blocks - Probably Unnecessary.
+	- Vaulted End - Unnecessary since Enderscape and End Castle covers this.
 	- Traveler's Backpacks - Replaced with Sophisticated Backpacks.
 	- Replaced
 		- Cobblemon: Myths and Legends - Replaced with Legendary Monuments.
