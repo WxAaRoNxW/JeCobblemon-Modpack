@@ -4,6 +4,9 @@
 v1.1.0 Beta - Config and Optimize
 </b></summary>
 
+- Added
+	- Sodium Extras - Re-added for fog.
+	
 - Removed
 	- Sawmill - Long load times.
 
