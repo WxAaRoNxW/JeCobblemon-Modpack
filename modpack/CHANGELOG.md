@@ -4,6 +4,9 @@
 <summary><b>
 v1.0.1 Beta - Side Fixes
 
+- Added
+	- Vanilla Backport Mob Variants Compat - Compat for many biome mod.
+
 - Changed
 	- Extralib - Change from server to both. Extra Quests requires it.
 	- Fusion - Change from client to both. Glassential renewed requires it.

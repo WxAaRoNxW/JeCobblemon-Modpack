@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e8cb3a66262806dc2980c4252f8d9f13e523fe5d01a8dab88e40ac66fa420c92"
+hash = "8c478cde617f5fa79ab6550b7b2b28c80fab3d67749e2f7657819f55460a9934"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3260,6 +3260,11 @@ metafile = true
 [[files]]
 file = "mods/vb-compat.pw.toml"
 hash = "0a1b621263ec9136833f789584b5d12f548945fdc02e979eb05470977641bae4"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
