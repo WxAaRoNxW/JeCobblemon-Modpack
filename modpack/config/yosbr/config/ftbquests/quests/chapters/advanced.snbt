@@ -1,0 +1,1509 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "advanced"
+	group: "772865AADCA07DAF"
+	icon: {
+		components: {
+			"minecraft:custom_data": {
+				Texture: "cobblemon:textures/poke_balls/great_ball.png"
+			}
+			"minecraft:custom_name": "{\"translate\":\"item.cobbleloots.loot_ball.custom_texture\",\"with\":[\"cobblemon:textures/poke_balls/great_ball\"]}"
+			"minecraft:lore": ["{\"translate\":\"item.cobbleloots.loot_ball.custom_texture.lore\"}"]
+		}
+		id: "cobbleloots:loot_ball"
+	}
+	id: "5BABAD42302A9E30"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["758E204F85C6AA96"]
+			hide_dependency_lines: false
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			id: "1334BB7B281C3CA3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25201A87310FB0FD"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2232062843461BBA"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "3AABD3F3B201DE0B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6B993F0C332EC86C"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5C9F5B309785A1D4"
+					table_id: 7531948836469936499L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: "evolve"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5ACDF5144F840CED"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:zweilous"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			hide_until_deps_complete: true
+			id: "42797847B3F01179"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5D91ADAC97CBA426"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05C6A233D21BF6C3"
+					table_id: 8073137243134134885L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7EC4CA77B02D24E4"
+					table_id: 7531948836469936499L
+					type: "choice"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "4909BF4C7B8B44A1"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:lopunny"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "035DF86BD67E08FD"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:gardevoir"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5AABE44B22FE02A1"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:meloetta"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "656CC4CC866F541D"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:roserade"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "47B135FF6781A5E5"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:salazzle"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "obtain"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "45503B8B5550ED48"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:hatterene"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"25107EE503CF9452"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:fire_stone"
+			}
+			id: "36E1FA476A48622D"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "75AB201D80F969A8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:flareon,cobblemon:arcanine,cobblemon:ninetales,cobblemon:simisear,cobblemon:scovillain"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"30197B607D9CB579"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_details_until_startable: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:thunder_stone"
+			}
+			id: "673FA4E99E99FF1F"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F72399BD7EFF82F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:raichu,cobblemon:magnezone,cobblemon:jolteon,cobblemon:probopass,cobblemon:eelektross,cobblemon:vikavolt,cobblemon:bellibolt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"294DFA59F9CA8E40"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:water_stone"
+			}
+			id: "773C81DBFE6965C5"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2AB50C2192011749"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:poliwrath,cobblemon:cloyster,cobblemon:starmie,cobblemon:vaporeon,cobblemon:ludicolo,cobblemon:simipour"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"184523FED63238E4"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:leaf_stone"
+			}
+			id: "277FF823B030A962"
+			shape: "circle"
+			tasks: [
+				{
+					action: "evolve_into"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5BE08711A35F0E0A"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					optional_task: true
+					poke_ball_used: ""
+					pokemon: "cobblemon:vileplume,cobblemon:victreebel,cobblemon:exeggutor,cobblemon:leafeon,cobblemon:shiftry,cobblemon:simisage"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "evolve_into"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: "hisuian"
+					gender: ""
+					id: "62C9FDE93AF18D62"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					optional_task: true
+					poke_ball_used: ""
+					pokemon: "cobblemon:electrode"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"74DEA45B32CDF03E"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:moon_stone"
+			}
+			id: "76E77AFC16EA7113"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "356D5FE65F7E5FA3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:nidoqueen,cobblemon:clefable,cobblemon:wigglytuff,cobblemon:delcatty,cobblemon:musharna"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6CBF48889DE6159F"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:sun_stone"
+			}
+			id: "0E1CD90D80E318A9"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5FFC5721CAB75B86"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:bellossom,cobblemon:sunflora,cobblemon:whimsicott,cobblemon:lilligant,cobblemon:heliolisk"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"3745990942574A3D"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:dawn_stone"
+			}
+			id: "61469BAB455AC061"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "461F86D40F29F484"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:gallade,cobblemon:froslass"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"33F695F9EFD0041B"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:dusk_stone"
+			}
+			id: "56460B4ED940BEFC"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "11F7CC38FC8828A4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:honchkrow,cobblemon:mismagius,cobblemon:chandelure,cobblemon:aegislash"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"1974605AB72F3500"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:shiny_stone"
+			}
+			id: "7D3FA20EAF3251E8"
+			shape: "circle"
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7E412744208FB147"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:togekiss,cobblemon:roserade,cobblemon:cinccino,cobblemon:florges"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"7D641EE8442CF944"
+				"1334BB7B281C3CA3"
+			]
+			dependency_requirement: "one_started"
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ice_stone"
+			}
+			id: "2F55ADBD8455B136"
+			rewards: [{
+				id: "08458871052B8144"
+				item: {
+					count: 1
+					id: "clutter:cardboard_box"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					action: "evolve_into"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: "alolan,galarian"
+					gender: ""
+					id: "4D45DE0660FE0DA2"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					optional_task: true
+					poke_ball_used: ""
+					pokemon: "cobblemon:ninetales,cobblemon:sandslash,cobblemon:darmanitan"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "evolve_into"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "718120B8BFC92912"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					optional_task: true
+					poke_ball_used: ""
+					pokemon: "cobblemon:glaceon,cobblemon:crabominable,cobblemon:cetitan"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "1F76D224C08025C3"
+			rewards: [
+				{
+					id: "01021CA8BAF885E7"
+					item: {
+						count: 1
+						id: "cobblemon:exp_share"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3D0B40F3BB50AA30"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
+				}
+				{
+					id: "3F1D9D763954F75F"
+					item: {
+						count: 1
+						id: "cobblemon:lucky_egg"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "10A4641D4573E318"
+					table_id: 7531948836469936499L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				advancement: "cobblemon:max_level_baby"
+				criterion: ""
+				icon: {
+					id: "cobblemon:exp_share"
+				}
+				id: "07C8F7FDE68ACD02"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "605587739ACEDDCD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "136833CE74AC6CC6"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				action: "evolve"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "62BE2BA0654F6B3B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:gimmighoul"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "2817987071729E15"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "789CFB479185D89E"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "080931A4DADE0326"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				action: "defeat"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "272AE4E28BE68E12"
+				max_level: 100
+				min_level: 100
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "5CF603F97F494D54"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DEE428A24470240"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6D5C0CB25BDADD82"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: "cobblemon:master_ball"
+				pokemon: "cobblemon:articuno,cobblemon:zapdos,cobblemon:moltres,cobblemon:mewtwo,cobblemon:mew,cobblemon:raikou,cobblemon:entei,cobblemon:suicune,cobblemon:lugia,cobblemon:hooh,cobblemon:regice,cobblemon:regirock,cobblemon:registeel,cobblemon:latias,cobblemon:latios,cobblemon:kyogre,cobblemon:groudon,cobblemon:rayquaza,cobblemon:uxie,cobblemon:mesprit,cobblemon:azelf,cobblemon:dialga,cobblemon:palkia,cobblemon:heatran,cobblemon:regigigas,cobblemon:giratina,cobblemon:cresselia,cobblemon:cobalion,cobblemon:terrakion,cobblemon:virizion,cobblemon:tornadus,cobblemon:thundurus,cobblemon:landorus,cobblemon:reshiram,cobblemon:zekrom,cobblemon:kyurem,cobblemon:xerneas,cobblemon:yveltal,cobblemon:typenull,cobblemon:silvally,cobblemon:tapubulu,cobblemon:tapufini,cobblemon:tapukoko,cobblemon:tapulele,cobblemon:cosmoem,cobblemon:cosmog,cobblemon:solgaleo,cobblemon:lunala,cobblemon:necrozma,cobblemon:zacian,cobblemon:zamazenta,cobblemon:eternatus,cobblemon:kubfu,cobblemon:urshifu,cobblemon:regieleki,cobblemon:regidrago,cobblemon:glastrier,cobblemon:spectrier,cobblemon:calyrex,cobblemon:enamorus,cobblemon:wochien,cobblemon:chienpao,cobblemon:tinglu,cobblemon:chiyu,cobblemon:koraidon,cobblemon:miraidon,cobblemon:okidogi,cobblemon:munkidori,cobblemon:fezandipiti,cobblemon:ogerpon,cobblemon:terapagos,cobblemon:celebi,cobblemon:jirachi,cobblemon:deoxys,cobblemon:manaphy,cobblemon:phione,cobblemon:darkrai,cobblemon:shaymin,cobblemon:arceus,cobblemon:victini,cobblemon:keldeo,cobblemon:meloetta,cobblemon:genesect,cobblemon:diancie,cobblemon:hoopa,cobblemon:volcanion,cobblemon:magearna,cobblemon:marshadow,cobblemon:zeraora,cobblemon:melmetal,cobblemon:meltan,cobblemon:zarude,cobblemon:pecharunt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "633326B235B19EA0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13260D7B060F133B"
+				table_id: 3504574506397460911L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				action: "throw_ball"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5FFBF1B1A788B3B0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:arceus"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "4AEAF5C910F83EE3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "075DC20652AF71E2"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				icon: {
+					id: "mega_showdown:keystone_ore"
+				}
+				id: "1275E0BB5A774C05"
+				observe_type: 0
+				timer: 0L
+				to_observe: "mega_showdown:keystone_ore"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4AEAF5C910F83EE3"]
+			id: "7DABC2D6581945E1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C6484735184F2EA"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2B210218C8FDE327"
+				item: { count: 1, id: "mega_showdown:keystone" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7DABC2D6581945E1"]
+			id: "19D9F4451425DA36"
+			rewards: [
+				{
+					advancement: "mega_showdown:mega_showdown/mega/get_any_mega_bracelet"
+					auto: "enabled"
+					criterion: ""
+					id: "04B00902422EAF52"
+					type: "advancement"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EB6EDEFD4CAA58A"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [
+				{
+					id: "3F33743EB811EA5F"
+					item: { count: 1, id: "mega_showdown:mega_bracelet" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "173A4E6FDDFB6A74"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_red" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4D8A8E53034B94C3"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_yellow" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4FABFD1328ACB172"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_pink" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3D659244EE929597"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_green" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "454F04629A1254DA"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_blue" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "32F3970875B8CB36"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_black" }
+					only_from_crafting: true
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["27AB4ADB158D64C9"]
+			id: "4945BDF8419776D1"
+			rewards: [
+				{
+					advancement: "mega_showdown:mega_showdown/mega/craft_mega_bracelets"
+					auto: "enabled"
+					criterion: ""
+					id: "252DC4B74A2DD2B5"
+					type: "advancement"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48F143313228632A"
+					table_id: 8120619152775813769L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "48089F98526CCDA9"
+					item: { count: 1, id: "mega_showdown:may_bracelet" }
+					type: "item"
+				}
+				{
+					id: "33524A4334B9B9DB"
+					item: { count: 1, id: "mega_showdown:mega_ring" }
+					type: "item"
+				}
+				{
+					id: "630149C7E56B7DD8"
+					item: { count: 1, id: "mega_showdown:lysandre_ring" }
+					type: "item"
+				}
+				{
+					id: "320DF1B5C4FB4E1C"
+					item: { count: 1, id: "mega_showdown:brendan_mega_cuff" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "38B27A2D7FC15660"
+					item: { count: 1, id: "mega_showdown:maxie_glasses" }
+					type: "item"
+				}
+				{
+					id: "3829D11E8AC7DA0D"
+					item: { count: 1, id: "mega_showdown:archie_anchor" }
+					type: "item"
+				}
+				{
+					id: "1377B809BFF46695"
+					item: { count: 1, id: "mega_showdown:lisia_mega_tiara" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["19D9F4451425DA36"]
+			id: "27AB4ADB158D64C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6047827EB0111FE3"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/mega_evolve"
+				criterion: ""
+				id: "6BB0EC034DA1A136"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: [
+				"19D9F4451425DA36"
+				"4945BDF8419776D1"
+			]
+			hide_until_deps_complete: true
+			id: "2681AC62F709ED63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25223762A42EBF63"
+				table_id: 8120619152775813769L
+				type: "choice"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/craft_mega_accessories"
+				criterion: ""
+				id: "21FAC4DC49D82643"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			icon: {
+				id: "mega_showdown:mega_stone_crystal"
+			}
+			id: "0356847321854A56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7506707AE5B48882"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12ABE1E1790D3970"
+				observe_type: 0
+				timer: 0L
+				to_observe: "mega_showdown:mega_stone_crystal"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0356847321854A56"]
+			id: "2C103DC178A3FD3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11354A5ED6174186"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4E515F12AD390B1F"
+				item: { count: 1, id: "mega_showdown:mega_stone" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2C103DC178A3FD3D"]
+			id: "0CE71A1E3011C39A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "144CA99FF6E9E521"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/get_any_mega_stone"
+				criterion: ""
+				id: "42FD4882294E4E8E"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0CE71A1E3011C39A"]
+			id: "164A4B6501F8A1E4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67AE5804BA19D3CE"
+				table_id: 8120619152775813769L
+				type: "choice"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/craft_mega_stones"
+				criterion: ""
+				id: "22FDCCD5A0EC4E84"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "3F0F8A1A8411D13E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "35E2E60F8BDA2418"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_blank_move"
+				criterion: ""
+				id: "2CBD73B37E15004F"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3F0F8A1A8411D13E"]
+			id: "7442DEAAFF259011"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "044C5538A1E8242C"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_z_move"
+				criterion: ""
+				id: "02E77032488470AE"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7442DEAAFF259011"]
+			id: "4659009FCB175625"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05778990F43D18B7"
+				table_id: 6097192578210952858L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/z_moves"
+				criterion: ""
+				id: "52211536A4B399AE"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4659009FCB175625"]
+			id: "37B6DF7EF8D2D7CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15070A82E0B3C217"
+				table_id: 6097192578210952858L
+				type: "choice"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_all_z_move"
+				criterion: ""
+				id: "3C4085FB752D2417"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "74CDDD5DCCCE6784"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37DAD7373C01B42B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_sparkling_stone"
+				criterion: ""
+				id: "163A3A55D1584524"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["74CDDD5DCCCE6784"]
+			id: "40ED9A448A1E2179"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "634AD4137DB081D5"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_z_ring"
+				criterion: ""
+				id: "0FA5A99585513F8E"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "5A8AB71272048423"
+			tasks: [{
+				id: "4E149DBC85307226"
+				item: { count: 1, id: "mega_showdown:wishing_star" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5A8AB71272048423"]
+			id: "495CA7EE36CB088B"
+			shape: "gear"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/dynamax/get_dynamax_band"
+				criterion: ""
+				id: "106A965BC1528CF9"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["495CA7EE36CB088B"]
+			id: "4CAB588BE1FDBAB4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48363989ADA0AADC"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/dynamax/gigantamax"
+				criterion: ""
+				id: "18A35BAF15C89ADE"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["495CA7EE36CB088B"]
+			id: "75B91F84D94A670C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70219CD75399DF9F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/dynamax/dynamax"
+				criterion: ""
+				id: "0B095F2281BE4030"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			id: "14E961FD9DAAE1D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16E599F306B9493D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/get_tera_orb"
+				criterion: ""
+				id: "623611C1947D9154"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7DABC2D6581945E1"
+				"5A8AB71272048423"
+				"74CDDD5DCCCE6784"
+				"14E961FD9DAAE1D0"
+			]
+			hide_dependency_lines: true
+			id: "4B9CAB673B437026"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "061B0D7A2A9389B6"
+					table_id: 6097192578210952858L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FB22649D0726144"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "5B85942E5E77EDD5"
+				item: { count: 1, id: "mega_showdown:omni_ring" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["14E961FD9DAAE1D0"]
+			id: "662B122EC64B2E1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B89887CD8639EAD"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/change_tera"
+				criterion: ""
+				id: "770AA520D38FC273"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["662B122EC64B2E1D"]
+			id: "56BD63D5A1694ACD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "366EBDB1443D1E8D"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/change_tera_stellar"
+				criterion: ""
+				id: "51BEE9214B63B45C"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2681AC62F709ED63"
+				"40ED9A448A1E2179"
+				"37B6DF7EF8D2D7CF"
+				"164A4B6501F8A1E4"
+				"56BD63D5A1694ACD"
+				"495CA7EE36CB088B"
+				"4B9CAB673B437026"
+			]
+			id: "109333447A6C6AC0"
+			rewards: [
+				{
+					id: "006C277D671D0E98"
+					item: {
+						count: 1
+						id: "minecraft:netherite_block"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EDA97378348329A"
+					table_id: 8120619152775813769L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5CFF2E1B22A65B35"
+					table_id: 2971530865318442510L
+					type: "random"
+				}
+				{
+					count: 16
+					id: "346780DCF039186F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					consume_items: true
+					id: "1D46439B3D32A181"
+					item: { count: 1, id: "mega_showdown:brendan_mega_cuff" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "232E766EB5B42251"
+					item: { count: 1, id: "mega_showdown:ultranecrozium_z" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1864010CFC059085"
+					item: { count: 1, id: "mega_showdown:keystone_block" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1334BB7B281C3CA3"]
+			icon: {
+				components: {
+					"cobblemon:pokemon_item": {
+						aspects: [ ]
+						species: "cobblemon:articuno"
+						tint: [
+							1.0f
+							1.0f
+							1.0f
+							1.0f
+						]
+					}
+				}
+				id: "cobblemon:pokemon_model"
+			}
+			id: "06114071492BBC2A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5410C651C44A393F"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "267C857F41A0FD41"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: "cobblemon:master_ball"
+				pokemon: "cobblemon:articuno,cobblemon:zapdos,cobblemon:moltres,cobblemon:mewtwo,cobblemon:mew,cobblemon:raikou,cobblemon:entei,cobblemon:suicune,cobblemon:lugia,cobblemon:hooh,cobblemon:regice,cobblemon:regirock,cobblemon:registeel,cobblemon:latias,cobblemon:latios,cobblemon:kyogre,cobblemon:groudon,cobblemon:rayquaza,cobblemon:uxie,cobblemon:mesprit,cobblemon:azelf,cobblemon:dialga,cobblemon:palkia,cobblemon:heatran,cobblemon:regigigas,cobblemon:giratina,cobblemon:cresselia,cobblemon:cobalion,cobblemon:terrakion,cobblemon:virizion,cobblemon:tornadus,cobblemon:thundurus,cobblemon:landorus,cobblemon:reshiram,cobblemon:zekrom,cobblemon:kyurem,cobblemon:xerneas,cobblemon:yveltal,cobblemon:typenull,cobblemon:silvally,cobblemon:tapubulu,cobblemon:tapufini,cobblemon:tapukoko,cobblemon:tapulele,cobblemon:cosmoem,cobblemon:cosmog,cobblemon:solgaleo,cobblemon:lunala,cobblemon:necrozma,cobblemon:zacian,cobblemon:zamazenta,cobblemon:eternatus,cobblemon:kubfu,cobblemon:urshifu,cobblemon:regieleki,cobblemon:regidrago,cobblemon:glastrier,cobblemon:spectrier,cobblemon:calyrex,cobblemon:enamorus,cobblemon:wochien,cobblemon:chienpao,cobblemon:tinglu,cobblemon:chiyu,cobblemon:koraidon,cobblemon:miraidon,cobblemon:okidogi,cobblemon:munkidori,cobblemon:fezandipiti,cobblemon:ogerpon,cobblemon:terapagos,cobblemon:celebi,cobblemon:jirachi,cobblemon:deoxys,cobblemon:manaphy,cobblemon:phione,cobblemon:darkrai,cobblemon:shaymin,cobblemon:arceus,cobblemon:victini,cobblemon:keldeo,cobblemon:meloetta,cobblemon:genesect,cobblemon:diancie,cobblemon:hoopa,cobblemon:volcanion,cobblemon:magearna,cobblemon:marshadow,cobblemon:zeraora,cobblemon:melmetal,cobblemon:meltan,cobblemon:zarude,cobblemon:pecharunt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+	]
+}

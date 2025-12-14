@@ -1,0 +1,25 @@
+{
+	id: "549D94587769769A"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{ id: "4E0C73C73148EACC", item: { count: 1, id: "mega_showdown:normalium_z" } }
+		{ id: "220E31D86193A764", item: { count: 1, id: "mega_showdown:buginium_z" } }
+		{ id: "0347E8A3A9127252", item: { count: 1, id: "mega_showdown:darkinium_z" } }
+		{ id: "05D45F431176A7DE", item: { count: 1, id: "mega_showdown:dragonium_z" } }
+		{ id: "586F55088AB1F4F4", item: { count: 1, id: "mega_showdown:electrium_z" } }
+		{ id: "4D0F9992E86CE824", item: { count: 1, id: "mega_showdown:fairium_z" } }
+		{ id: "33990E90D533D1BC", item: { count: 1, id: "mega_showdown:fightinium_z" } }
+		{ id: "2CD38BB04F601A0D", item: { count: 1, id: "mega_showdown:firium_z" } }
+		{ id: "392E157F92EB6DFD", item: { count: 1, id: "mega_showdown:flyinium_z" } }
+		{ id: "490496B3517C6096", item: { count: 1, id: "mega_showdown:ghostium_z" } }
+		{ id: "45448F1D35703758", item: { count: 1, id: "mega_showdown:grassium_z" } }
+		{ id: "4FD86053DE4B8864", item: { count: 1, id: "mega_showdown:groundium_z" } }
+		{ id: "29C5570984C29123", item: { count: 1, id: "mega_showdown:icium_z" } }
+		{ id: "01040BAB08D8536D", item: { count: 1, id: "mega_showdown:poisonium_z" } }
+		{ id: "0B82FC3B18355A3B", item: { count: 1, id: "mega_showdown:psychium_z" } }
+		{ id: "517E2F50B25F61BB", item: { count: 1, id: "mega_showdown:rockium_z" } }
+		{ id: "5E0497EB70AC2262", item: { count: 1, id: "mega_showdown:steelium_z" } }
+		{ id: "5DA69886C004BE5F", item: { count: 1, id: "mega_showdown:waterium_z" } }
+	]
+}

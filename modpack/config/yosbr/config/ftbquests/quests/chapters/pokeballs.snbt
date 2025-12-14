@@ -1,0 +1,1203 @@
+{
+	autofocus_id: "3DB957EAF613E1F5"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pokeballs"
+	group: "665D057379676F25"
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "0CB8B7CEED723362"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "56135BF13EF8D98D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1174E46DB7625CB5"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "160DA47F956BEB79"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "00F9E515AF082A67"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "01E4F32591295A05"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F1C842E1B26D43E"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A39FDE1DB6B4EC2"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "4D3AA58DF551DE29"
+				item: { count: 1, id: "cobblemon:citrine_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "78863EE68CA87C87"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B6C8BA6EAFAF173"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A266D9DC9E9BDF8"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "0F5A342E2B101753"
+				item: { count: 1, id: "cobblemon:roseate_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "543B6E7927AE9BEC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5517524E0A737F66"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "39A640C457D85F81"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "49AAD1B45737D0AA"
+				item: { count: 1, id: "cobblemon:azure_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			disable_recipe_mod: false
+			id: "60BBFE009E591BDA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2CC7FCA82F321B0F"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0B9B78359E0BF5C5"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7BC77958DD15AFC3"
+				item: { count: 1, id: "cobblemon:verdant_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "68C5EF269E72107D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4AEC6A0AEF6E28FD"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "228CFF08D5FADC1A"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "33AA1FE88FCFB3DB"
+				item: { count: 1, id: "cobblemon:slate_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3C90EF16677214B1"]
+			id: "20FAFD083D1A38A5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "35AE97FECC414957"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A04CCAB98371F06"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7363C16325BAE190"
+				item: { count: 1, id: "cobblemon:premier_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"56135BF13EF8D98D"
+				"01E4F32591295A05"
+				"543B6E7927AE9BEC"
+				"20FAFD083D1A38A5"
+				"78863EE68CA87C87"
+				"68C5EF269E72107D"
+				"60BBFE009E591BDA"
+			]
+			hide_dependency_lines: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: true
+			id: "55819E013B7598B1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "35EA2FFFD54DBB96"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CB1C2CFD18B5A8D"
+					table_id: 1201804678714630829L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "cobblemon:craft_base_balls"
+				criterion: ""
+				id: "16A1A061939E510C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"611A575E91661BA0"
+				"62283AE87C1E604C"
+				"193BCCBFBD9097AA"
+				"5F2328042977180D"
+				"5E979D9B89216B7A"
+				"5C60EB722A1B0FD9"
+				"46CE777A0E64A45A"
+			]
+			hide_dependency_lines: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			id: "3DB957EAF613E1F5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "689CBBABBB2D9C56"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14304C92C51A11BF"
+					table_id: 3504574506397460911L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "cobblemon:craft_apricorn_balls"
+				criterion: ""
+				id: "1B17548A8BD31E79"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1C043D61B9CC303E"]
+			hide_dependency_lines: false
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			id: "3C90EF16677214B1"
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "4DBF06ACCC06CB87"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "6300947F2639C6CA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FD9D6A0CE1E5FBB"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "287174AEA89563E4"
+				item: { count: 1, id: "cobblemon:great_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "2E2D3C186E92A14F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1675F93A890878F7"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7D6BDE8DB4DDC633"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "4027F2A7F04CF70D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "488666676DF7F0E3"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "544CCAC7B87E8133"
+				item: { count: 1, id: "cobblemon:safari_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "392919ED4839F81C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "068CB1E112B2AC1C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "051E8A37FCF2E02C"
+				item: { count: 1, id: "cobblemon:timer_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "5227194B9D08B26E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42C297859CBC9666"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "3A9EA797D754D45D"
+				item: { count: 1, id: "cobblemon:net_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "33284F0FC966486D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "227510E9F7087E0A"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "39CA1F6A69AC8C1E"
+				item: { count: 1, id: "cobblemon:nest_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "77E46BCA974A4EB3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "046AD69AA1FA8515"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "2C983CDB4760516F"
+				item: { count: 1, id: "cobblemon:sport_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "316139B6C03FD49D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2AEE7000096507B2"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7CB11A9B11DCE2C2"
+				item: { count: 1, id: "cobblemon:dive_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "45F062F07213594B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66E7B0024FE15E32"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "1F8CE8B6D31DDC9B"
+				item: { count: 1, id: "cobblemon:repeat_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "50F771B7EEB6B670"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "629228524C1260E5"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "4CB3057F24EC27A7"
+				item: { count: 1, id: "cobblemon:luxury_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			dependency_requirement: "all_started"
+			id: "58E72AED4C53C143"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "016A44F6D5A023B4"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "50C10F2C0F66A564"
+				item: { count: 1, id: "cobblemon:quick_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "2473132146FDD70E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25610BAF94F362AB"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "70C23474140D5DCC"
+				item: { count: 1, id: "cobblemon:park_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "41ACBAC0B27309A9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "106AC35DD47B86B5"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "04C1001C254775FB"
+				item: { count: 1, id: "cobblemon:heal_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "3B1246229914C7B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C7BD19ED820B37A"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "454FA36960764C2D"
+				item: { count: 1, id: "cobblemon:dusk_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "257EA7E1B146112C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D890591335BE358"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "2B97A3454E8AD84D"
+				item: { count: 1, id: "cobblemon:cherish_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["19BD437D82D2DE8C"]
+			id: "21782131BD89DE2B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AFD1B3A4332BE4E"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "199BF37F0A1081D3"
+				item: { count: 1, id: "cobblemon:dream_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "5C60EB722A1B0FD9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A8D71DE5AA8BCFE"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "19B2A2C79F30F2C1"
+				item: { count: 1, id: "cobblemon:level_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "193BCCBFBD9097AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "375773BF4738F6D3"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "27329E86DAE28E59"
+				item: { count: 1, id: "cobblemon:lure_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "5E979D9B89216B7A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "647BD1BE74332FF8"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "083186558AF3F870"
+				item: { count: 1, id: "cobblemon:love_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "46CE777A0E64A45A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D6D4932FE231FA4"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "0B95E74CC65DE8E7"
+				item: { count: 1, id: "cobblemon:moon_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "62283AE87C1E604C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0550BFA7B5E8AB3C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7BA0A90BC1BD0A2D"
+				item: { count: 1, id: "cobblemon:heavy_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "611A575E91661BA0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "763634293AEFBCC3"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7F8DFFCA66C56B90"
+				item: { count: 1, id: "cobblemon:fast_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "5F2328042977180D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3A3F8ADF53F9B153"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "3630732BBF61714D"
+				item: { count: 1, id: "cobblemon:friend_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["55819E013B7598B1"]
+			id: "19BD437D82D2DE8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31779147F2A9A5C9"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				id: "760FAC05B42D180B"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "63B085BA67A240A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E59C3C45967D109"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "11FEB82173032EEA"
+				item: { count: 1, id: "cobblemon:ancient_ultra_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "2071AFCE6EA1E941"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7ED7BC829C10AC76"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "2D3D2BD94B5C75D4"
+				item: { count: 1, id: "cobblemon:ancient_poke_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "22B158DE0206D7BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41D26C40310CE5A9"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "60074E0DE855E7C1"
+				item: { count: 1, id: "cobblemon:ancient_verdant_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "4F9740187D2D686E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07589944E450D84F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "53FCE5BC701A347B"
+				item: { count: 1, id: "cobblemon:ancient_azure_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "30031B38CE183994"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72F670EDDF06FE3C"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "4B4CC308AD036C1B"
+				item: { count: 1, id: "cobblemon:ancient_feather_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "3BFB7E6F1EF83EDE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "536EE929D9C58503"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "4A25783469E6B139"
+				item: { count: 1, id: "cobblemon:ancient_wing_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "5D3D869D2930AD53"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E78C010BD28BBB2"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "5C5674039F03E1B0"
+				item: { count: 1, id: "cobblemon:ancient_citrine_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "6354E5C57AFCDB68"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "63078B7734F4998A"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "7F5B33BDF1F84005"
+				item: { count: 1, id: "cobblemon:ancient_ivory_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "7E5755EA1B5D5349"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "532063B19FCE4A1B"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "2669A03E45C510BC"
+				item: { count: 1, id: "cobblemon:ancient_jet_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "622A3CE53E5B8B43"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14B26D9CA685AECF"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "1ACAFFEB85070553"
+				item: { count: 1, id: "cobblemon:ancient_great_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "4AE3D56D2E602989"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "22A283C6F40E5F4F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "54C9AC3692CDEA70"
+				item: { count: 1, id: "cobblemon:ancient_roseate_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "6AAE24B9653D26B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3710771A2A2FFA63"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "4D3E98299D41FBDA"
+				item: { count: 1, id: "cobblemon:ancient_heavy_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "582E74A6FE35031B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "331977AC306E74E3"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "5AB3F29AF29934E1"
+				item: { count: 1, id: "cobblemon:ancient_leaden_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "71F1C3A40F6EF557"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73080157AAD1D2E5"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "09934C9C4EBB40C5"
+				item: { count: 1, id: "cobblemon:ancient_gigaton_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"4F9740187D2D686E"
+				"5D3D869D2930AD53"
+				"30031B38CE183994"
+				"71F1C3A40F6EF557"
+				"622A3CE53E5B8B43"
+				"6AAE24B9653D26B5"
+				"6354E5C57AFCDB68"
+				"7E5755EA1B5D5349"
+				"582E74A6FE35031B"
+				"2071AFCE6EA1E941"
+				"4AE3D56D2E602989"
+				"63B085BA67A240A6"
+				"3BFB7E6F1EF83EDE"
+				"68139626D189D2B0"
+				"22B158DE0206D7BF"
+			]
+			hide_dependency_lines: false
+			id: "38A0DB84F4CAABCE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7EA7FCEC158363AC"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+				{
+					id: "602B7A7A40401B35"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_origin_ball"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60630103CA6AFE8B"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "cobblemon:craft_ancient_balls"
+				criterion: ""
+				id: "4141501362612BBA"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3DB957EAF613E1F5"]
+			id: "68139626D189D2B0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07DBC68D30245073"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 8L
+				id: "65EB12A5A8410F73"
+				item: { count: 1, id: "cobblemon:ancient_slate_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			dependencies: ["3C932B363E2D47AD"]
+			hide_dependency_lines: false
+			id: "78B6F34191E5928C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E0A8D70D468E4DF"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A2E890307506992"
+					table_id: 8073137243134134885L
+					type: "choice"
+				}
+				{
+					id: "64F86791942E2A34"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+				{
+					id: "5264A04B67045F7D"
+					item: {
+						count: 1
+						id: "cobblemon:ancient_origin_ball"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "cobblemon:craft_all_balls"
+				criterion: ""
+				id: "64E9B79460D72C60"
+				type: "advancement"
+			}]
+			x: 17.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["38A0DB84F4CAABCE"]
+			id: "3C932B363E2D47AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42DCAA78896D93A0"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "gear"
+			tasks: [{
+				count: 16L
+				id: "7414F025DFBB4527"
+				item: { count: 1, id: "cobblemon:beast_ball" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 15.0d
+			y: -1.0d
+		}
+	]
+}

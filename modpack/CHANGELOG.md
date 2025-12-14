@@ -163,6 +163,7 @@ v0.11 Alpha - Replace and Remove Update
 			- Disable World Advice - Experimental pop up.
 
 - Updates
+	- JeCobblemon Quests - Updated quests.
 	- Multiworld - Downgrade 1.11 -> 1.10.
 	- Data Anchor - Downgrade 1.21.1-2.0.0.14 -> 1.21.1-2.0.0.13.
 	- Effect Descriptions - Modrinth update page (name was changed).

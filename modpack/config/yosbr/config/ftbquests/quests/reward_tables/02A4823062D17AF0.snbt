@@ -1,0 +1,9 @@
+{
+	id: "02A4823062D17AF0"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{ id: "406915DCD70793BE", item: { count: 1, id: "cobblemon:master_ball" } }
+		{ id: "72E40E796A51E010", item: { count: 1, id: "cobblemon:ancient_origin_ball" } }
+	]
+}

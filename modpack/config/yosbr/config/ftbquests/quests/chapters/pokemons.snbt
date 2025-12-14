@@ -1,0 +1,1621 @@
+{
+	autofocus_id: "5804A55A7EA16C08"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pokemons"
+	group: "665D057379676F25"
+	icon: {
+		id: "cobblemon:pokedex_red"
+	}
+	id: "18BD15CEF731F4E0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"184523FED63238E4"
+				"7D641EE8442CF944"
+				"25107EE503CF9452"
+				"294DFA59F9CA8E40"
+				"30197B607D9CB579"
+				"70E98993B01C0E3F"
+			]
+			hide_dependent_lines: true
+			id: "5804A55A7EA16C08"
+			invisible: true
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "005606E5E7DAB070"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"25107EE503CF9452"
+			]
+			dependency_requirement: "one_completed"
+			id: "5676A536E1DFE87B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DEE3ED60DF4A7A7"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D6D436D04F61548"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:flareon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"7D641EE8442CF944"
+			]
+			dependency_requirement: "one_completed"
+			id: "118F768B0EF79991"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "768190F2A62234B2"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F31D88B9EF5A4E8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:glaceon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"184523FED63238E4"
+			]
+			dependency_requirement: "one_completed"
+			id: "4E0A1831D54EEFC1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5572D9C2E0B35A"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6A3B18ACB25AA8BC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:leafeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5804A55A7EA16C08"]
+			dependency_requirement: "one_completed"
+			id: "38D480C5C58CA8F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D63E3138FDE7895"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "012EC75CE1E86566"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:umbreon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"30197B607D9CB579"
+			]
+			dependency_requirement: "one_completed"
+			id: "2E26C6B7676EE93A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31EA0B3666579500"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "75A89AED883CAEA1"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:jolteon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"294DFA59F9CA8E40"
+			]
+			dependency_requirement: "one_completed"
+			id: "39C18F483CC67939"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4014CBE94C8845B8"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "49D054ECB88EB41A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:vaporeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5804A55A7EA16C08"]
+			dependency_requirement: "one_completed"
+			id: "359F2959A6C0CDBE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38FE71FD534375B9"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "248EF826B05808EA"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:espeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5804A55A7EA16C08"]
+			dependency_requirement: "one_completed"
+			id: "73BB2F05C00449DD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00FF6162134D6EE0"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7FCCB0FC2CE90FFC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:sylveon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"359F2959A6C0CDBE"
+				"5676A536E1DFE87B"
+				"118F768B0EF79991"
+				"2E26C6B7676EE93A"
+				"4E0A1831D54EEFC1"
+				"73BB2F05C00449DD"
+				"38D480C5C58CA8F3"
+				"39C18F483CC67939"
+			]
+			id: "6C958215F5C10425"
+			invisible: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B0AA22EE42B9BD0"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "cobblemon:evolve_veevees"
+				criterion: ""
+				id: "171E953799BAA183"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "69009840A510F9F8"
+			shape: "hexagon"
+			tasks: [{
+				id: "6150B38E1F7A2EB0"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "36B5187A7DFDCE8A"
+			shape: "hexagon"
+			tasks: [{
+				id: "48282063A562CBAC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "024BA200EEA454C3"
+			shape: "hexagon"
+			tasks: [{
+				id: "685110EB68FF4A5A"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "6425C0301AE5C38D"
+			shape: "hexagon"
+			tasks: [{
+				id: "1251FF1D7881CD34"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "41B3D58655931D87"
+			shape: "hexagon"
+			tasks: [{
+				id: "4915B4B55FC9BACF"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "5474B94F8BCAA9CA"
+			shape: "hexagon"
+			tasks: [{
+				id: "30B193694FBA39CE"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "4C9F5516586A05DC"
+			shape: "hexagon"
+			tasks: [{
+				id: "16B2F5D013D33BD7"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "17F41FBFD7CA4FCD"
+			shape: "hexagon"
+			tasks: [{
+				id: "78AB93F05F5F844D"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "288EE6C4E964A040"
+			shape: "hexagon"
+			tasks: [{
+				id: "393170F2084900BF"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "360C516316150471"
+			shape: "hexagon"
+			tasks: [{
+				id: "51701F07AE6F8E1D"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "0FBACB3AA04D3BDF"
+			shape: "hexagon"
+			tasks: [{
+				id: "4DE34DC0FF76043C"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["19F3554A256C2C3F"]
+			id: "706BB198ACE8D45B"
+			shape: "hexagon"
+			tasks: [{
+				id: "09A4E5544DB063C5"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "3538594736D37D66"
+			shape: "hexagon"
+			tasks: [{
+				id: "03768A63E430F716"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "581B5CBBDEA6F77B"
+			shape: "hexagon"
+			tasks: [{
+				id: "0CAACEC7D6DBD1B5"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "1A949468D1563E19"
+			shape: "hexagon"
+			tasks: [{
+				id: "5CBB612AE898B05B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "2DD9345C63E69170"
+			shape: "hexagon"
+			tasks: [{
+				id: "59463BC7EE14B30F"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "423528520B58BE70"
+			shape: "hexagon"
+			tasks: [{
+				id: "6973D43BAB8E8429"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "714467221FBED0A3"
+			shape: "hexagon"
+			tasks: [{
+				id: "6646A04BF01A7E10"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "3233D8557F2F70C3"
+			shape: "hexagon"
+			tasks: [{
+				id: "2EC8F05093E66C19"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "7652F479C54DB777"
+			shape: "hexagon"
+			tasks: [{
+				id: "13615B78E10D31BC"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "23CEEABB19D1ADEE"
+			shape: "hexagon"
+			tasks: [{
+				id: "7C0C3B0DCF8D225B"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "1C107C1A7885C263"
+			shape: "hexagon"
+			tasks: [{
+				id: "196AC213833D4E01"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2454C6A65424491F"]
+			id: "03F661F764582E77"
+			shape: "hexagon"
+			tasks: [{
+				id: "1A1E5237633C901B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["5804A55A7EA16C08"]
+			id: "2454C6A65424491F"
+			tasks: [{
+				id: "6C5E3AF1CE054F12"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"41B3D58655931D87"
+				"423528520B58BE70"
+				"7652F479C54DB777"
+				"3538594736D37D66"
+				"69009840A510F9F8"
+				"2DD9345C63E69170"
+				"4C9F5516586A05DC"
+				"0FBACB3AA04D3BDF"
+				"36B5187A7DFDCE8A"
+				"288EE6C4E964A040"
+				"581B5CBBDEA6F77B"
+				"360C516316150471"
+				"5474B94F8BCAA9CA"
+				"6425C0301AE5C38D"
+				"024BA200EEA454C3"
+				"714467221FBED0A3"
+				"3233D8557F2F70C3"
+				"17F41FBFD7CA4FCD"
+				"1C107C1A7885C263"
+			]
+			id: "19F3554A256C2C3F"
+			rewards: [
+				{
+					count: 6
+					id: "5102E1626F7FEF62"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "205B130081E6B2E7"
+					table_id: 3504574506397460911L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "cobblemon:catch_all_vivillon"
+				criterion: ""
+				id: "4D6F5EAB57D10F02"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["706BB198ACE8D45B"]
+			id: "737274C911B37165"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E79D8E273C3530B"
+					table_id: 7531948836469936499L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1DF6292891E3FB23"
+					table_id: 2971530865318442510L
+					type: "random"
+				}
+				{
+					count: 12
+					id: "38901A9C795F96A2"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "cobblemon:catch_all_vivillon_but_actually"
+				criterion: ""
+				id: "5EF900D8DB53E851"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"5804A55A7EA16C08"
+				"22BDC3FFACBBC0A3"
+			]
+			id: "18BDBCE71BB85BA1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4204B6327FFD319A"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4A563852D7B06D44"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "3828EAED794C3E90"
+			tasks: [{
+				id: "009A836A22934835"
+				item: { count: 1, id: "mythsandlegends:adamant_orb" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "5EC671AA6806AA54"
+			tasks: [{
+				id: "199C9565B02F3140"
+				item: { count: 1, id: "mythsandlegends:aurora_ticket" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "613C000C0EFA3616"
+			tasks: [{
+				id: "5275AE459CA35721"
+				item: { count: 1, id: "mythsandlegends:azure_flute" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "47DAEBA59247C6C1"
+			tasks: [{
+				id: "135CF2818C3673BE"
+				item: { count: 1, id: "mythsandlegends:blue_orb" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "6E98B3BA21137118"
+			tasks: [{
+				id: "15A3E88B7EB46F84"
+				item: { count: 1, id: "mythsandlegends:bonus_disk" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "25C82DFDE1D539A4"
+			tasks: [{
+				id: "27B75ADE81070142"
+				item: { count: 1, id: "mythsandlegends:clear_bell" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1D72906B8C2F0111"
+			tasks: [{
+				id: "72ED0FDA2760A08D"
+				item: { count: 1, id: "mythsandlegends:dna_splicer" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "26ADC709F276EE3E"
+			tasks: [{
+				id: "4D43133505526175"
+				item: { count: 1, id: "mythsandlegends:eon_ticket" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4BBB012C08BBF979"
+			tasks: [{
+				id: "16FEECF673185207"
+				item: { count: 1, id: "mythsandlegends:griseous_orb" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "2FDE30B282C1C3DD"
+			tasks: [{
+				id: "4D3B9B20202F7469"
+				item: { count: 1, id: "mythsandlegends:gs_ball" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "6CE8ECFADC62A3C1"
+			tasks: [{
+				id: "42E880654DAE6F87"
+				item: { count: 1, id: "mythsandlegends:jade_orb" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1A6437172BD6D89D"
+			tasks: [{
+				id: "52BAF967908E7D78"
+				item: { count: 1, id: "mythsandlegends:liberty_pass" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "594835B526F1EE0E"
+			tasks: [{
+				id: "0A4E00A26ECBAAE8"
+				item: { count: 1, id: "mythsandlegends:lustrous_orb" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "25710442EFDA6453"
+			tasks: [{
+				id: "5C4496C95A47F9B0"
+				item: { count: 1, id: "mythsandlegends:member_card" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "56107FB49A3C599E"
+			tasks: [{
+				id: "7254A5CB1ECECE4F"
+				item: { count: 1, id: "mythsandlegends:oaks_letter" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "29814417F7FEA283"
+			tasks: [{
+				id: "673454DAA04C02F4"
+				item: { count: 1, id: "mythsandlegends:old_sea_map" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "180249B8AE7D6531"
+			tasks: [{
+				id: "5259FC24E887074D"
+				item: { count: 1, id: "mythsandlegends:red_orb" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4D618D05D38D4207"
+			tasks: [{
+				id: "313B9646B25D483D"
+				item: { count: 1, id: "mythsandlegends:rusted_shield" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0E57BA31B04F5819"
+			tasks: [{
+				id: "01D0295A3360036E"
+				item: { count: 1, id: "mythsandlegends:rusted_sword" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "64771A17FB2836AC"
+			tasks: [{
+				id: "7321B86F4DEAADA9"
+				item: { count: 1, id: "mythsandlegends:tidal_bell" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "56E040CDECF8902F"
+			tasks: [{
+				id: "4CEF595B1831629B"
+				item: { count: 1, id: "mythsandlegends:dr_fujis_diary" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0F16C2DCEDF6EBC9"
+			tasks: [{
+				id: "0D132372099A5B40"
+				item: { count: 1, id: "mythsandlegends:rainbow_wing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "22D201F4E02B475B"
+			tasks: [{
+				id: "40789BA1DE8DDFE1"
+				item: { count: 1, id: "mythsandlegends:silver_wing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4F40BC9EFF69EDB4"
+			tasks: [{
+				id: "786875C94C31C14C"
+				item: { count: 1, id: "mythsandlegends:violet_book" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "2EF2CDB4BF1776EF"
+			tasks: [{
+				id: "33C3F88E0B19AF52"
+				item: { count: 1, id: "mythsandlegends:scarlet_book" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1A53C9B576CBBD7E"
+			tasks: [{
+				id: "4AB063E7E227425D"
+				item: { count: 1, id: "mythsandlegends:cocoon_of_destruction" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1FE09DCD6343A830"
+			tasks: [{
+				id: "27A68F645C612F13"
+				item: { count: 1, id: "mythsandlegends:sapling_of_life" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4B6AA09590AA238A"
+			tasks: [{
+				id: "37281604C7CD6AC2"
+				item: { count: 1, id: "mythsandlegends:mystery_box" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "69EB46B75EB6FD5D"
+			tasks: [{
+				id: "74EA9C1C2575DDE4"
+				item: { count: 1, id: "mythsandlegends:reveal_glass" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "041C5D07ACE56795"
+			tasks: [{
+				id: "3193DA25163DE50A"
+				item: { count: 1, id: "mythsandlegends:dark_stone" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "501ADE1B0328555E"
+			tasks: [{
+				id: "245D96682096E0CB"
+				item: { count: 1, id: "mythsandlegends:light_stone" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "334332676CBE41F9"
+			tasks: [{
+				id: "175EFEF9CB4B011C"
+				item: { count: 1, id: "mythsandlegends:teal_mask" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "69F49B64209C0790"
+			tasks: [{
+				id: "5586978A51CE54FB"
+				item: { count: 1, id: "mythsandlegends:sun_flute" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "233C3DE23C95CCBA"
+			tasks: [{
+				id: "7EEC909B01A61C04"
+				item: { count: 1, id: "mythsandlegends:moon_flute" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "779433BF9E5901BC"
+			tasks: [{
+				id: "7FC239A3DAC2821D"
+				item: { count: 1, id: "mythsandlegends:lunar_feather" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -19.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "17C46AE9F9B43368"
+			tasks: [{
+				id: "2C72C1CCE3A59321"
+				item: { count: 1, id: "mythsandlegends:magma_stone" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "48B326DCCDF55EC2"
+			tasks: [{
+				id: "69BDF96E8FA868B4"
+				item: { count: 1, id: "mythsandlegends:diancies_crown" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "74251DFC52612E8F"
+			tasks: [{
+				id: "27DC667909F436DA"
+				item: { count: 1, id: "mythsandlegends:fini_totem" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0A5459C2B3F39036"
+			tasks: [{
+				id: "09F98A7007C6B039"
+				item: { count: 1, id: "mythsandlegends:genesect_drive" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "5EAC2B3852AD457A"
+			tasks: [{
+				id: "25A9A59B64307225"
+				item: { count: 1, id: "mythsandlegends:grassland_blade" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "269BC663389AD2A6"
+			tasks: [{
+				id: "65134943E00034C8"
+				item: { count: 1, id: "mythsandlegends:hoopa_ring" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "51A51A94889323D8"
+			tasks: [{
+				id: "7B31FBD6FFC97EC7"
+				item: { count: 1, id: "mythsandlegends:ironwill_sword" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4B88EC6F4E9BF7CA"
+			tasks: [{
+				id: "6C1783E88279AD15"
+				item: { count: 1, id: "mythsandlegends:koko_totem" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "47B93355538286EB"
+			tasks: [{
+				id: "3473CBF10332EBDC"
+				item: { count: 1, id: "mythsandlegends:lele_totem" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "6B3F4D44568F49E5"
+			tasks: [{
+				id: "659990771FBE777A"
+				item: { count: 1, id: "mythsandlegends:lillies_bag" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "35324CF15A91E38F"
+			tasks: [{
+				id: "31157F5500927455"
+				item: { count: 1, id: "mythsandlegends:meloetta_headset" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "16B6EE4AD90670D5"
+			tasks: [{
+				id: "1CAF730061A14253"
+				item: { count: 1, id: "mythsandlegends:necro_prism" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -19.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "5CFDB0DA60BED25E"
+			tasks: [{
+				id: "38C5C96FE91DDA8B"
+				item: { count: 1, id: "mythsandlegends:prison_bottle" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "571A795823B2C30B"
+			tasks: [{
+				id: "1A8512358DD405CF"
+				item: { count: 1, id: "mythsandlegends:steam_valve" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "2D5AB8D63209C0FD"
+			tasks: [{
+				id: "22F3F62B823F2AAC"
+				item: { count: 1, id: "mythsandlegends:type_null_mask" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "5731A25E62DC2994"
+			tasks: [{
+				id: "4DF36AE3A3AFD3EF"
+				item: { count: 1, id: "mythsandlegends:antique_pokeball" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0BA9D1A02458A8BB"
+			tasks: [{
+				id: "1BE226885A9516A4"
+				item: { count: 1, id: "mythsandlegends:eternatus_core" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "173ED3CB35220A9D"
+			tasks: [{
+				id: "79ED3B70AC6CFB88"
+				item: { count: 1, id: "mythsandlegends:kubfus_band" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "56512D1EA021756D"
+			tasks: [{
+				id: "5BF95189F66A9331"
+				item: { count: 1, id: "mythsandlegends:marshadow_hood" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0C30A30397AA0D1D"
+			tasks: [{
+				id: "21389962DF89A0FF"
+				item: { count: 1, id: "mythsandlegends:plasma_tablet" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "7E55AEE9D1850931"
+			tasks: [{
+				id: "4BD8AAEC3325773E"
+				item: { count: 1, id: "mythsandlegends:prismatic_shell" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "3C1124CDF37DFF09"
+			tasks: [{
+				id: "2AEA92D7954FEB28"
+				item: { count: 1, id: "mythsandlegends:reins_of_unity" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -19.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "43F8426AF9DBC965"
+			tasks: [{
+				id: "2BAA7564D6021CED"
+				item: { count: 1, id: "mythsandlegends:scaly_tablet" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "701BC320B289CFD0"
+			tasks: [{
+				id: "4B3B260B837364C1"
+				item: { count: 1, id: "mythsandlegends:scroll_of_water" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "65BF0993550DAA80"
+			tasks: [{
+				id: "5702B36AC55D5409"
+				item: { count: 1, id: "mythsandlegends:soul_heart" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "426D0098B36BE16C"
+			tasks: [{
+				id: "7310A8D7E4690DF3"
+				item: { count: 1, id: "mythsandlegends:zarudes_cape" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1EB70241D8ADE0FE"
+			tasks: [{
+				id: "5F812A1B21797252"
+				item: { count: 1, id: "mythsandlegends:zeraoras_thunderclaw" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "254CAB1C00860607"
+			tasks: [{
+				id: "3BC0A02F44201DD7"
+				item: { count: 1, id: "mythsandlegends:ancient_tablet" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "2158E24D9C6C0B0D"
+			tasks: [{
+				id: "1144E2489952E618"
+				item: { count: 1, id: "mythsandlegends:mythical_pecha_berry" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "43D985AAB2C54FC3"
+			tasks: [{
+				id: "364407A11B8173EC"
+				item: { count: 1, id: "mythsandlegends:scroll_of_darkness" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "09D770E136E2DDDC"
+			tasks: [{
+				id: "7DF9F233C6603F6D"
+				item: { count: 1, id: "mythsandlegends:azelf_fang" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "2C73FBCC4992F261"
+			tasks: [{
+				id: "6EDD08D8EADBB9A3"
+				item: { count: 1, id: "mythsandlegends:mesprit_plume" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "4E83884B31839A8D"
+			tasks: [{
+				id: "41B546D1B9EE4849"
+				item: { count: 1, id: "mythsandlegends:stone_tablet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "66D0C16C77F9F130"
+			tasks: [{
+				id: "57EC2321222233D6"
+				item: { count: 1, id: "mythsandlegends:uxie_claw" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0B48FA052C146724"
+			tasks: [{
+				id: "17318455EC85E7A4"
+				item: { count: 1, id: "mythsandlegends:ice_tablet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "667221F3CF738DEB"
+			tasks: [{
+				id: "578D3D24235BBBB5"
+				item: { count: 1, id: "mythsandlegends:steel_tablet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "14025388C2EFBD0D"
+			tasks: [{
+				id: "16A9CDFB68BD13D9"
+				item: { count: 1, id: "mythsandlegends:bulu_totem" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "66BDB18743AA013A"
+			tasks: [{
+				id: "737EB6F6BB5C64CD"
+				item: { count: 1, id: "mythsandlegends:cavern_shield" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "3461B40E08BA5C6A"
+			tasks: [{
+				id: "72E8A7594850AA37"
+				item: { count: 1, id: "mythsandlegends:iceroot_carrot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -21.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1A674C242FCAAD80"
+			tasks: [{
+				id: "30717D3BA610E751"
+				item: { count: 1, id: "mythsandlegends:shaderoot_carrot" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "3231E58FCF6AC90A"
+			tasks: [{
+				id: "22D45B4B856FC97A"
+				item: { count: 1, id: "mythsandlegends:binding_mochi" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "7EFE9D723FDF9B6F"
+			tasks: [{
+				id: "6A7690C5D5685E47"
+				item: { count: 1, id: "mythsandlegends:cornerstone_mask" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "5496592DF31D20AD"
+			tasks: [{
+				id: "1769C9CC79092240"
+				item: { count: 1, id: "mythsandlegends:hearthflame_mask" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -16.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "0276B1347A419DCB"
+			tasks: [{
+				id: "189F3EE1FA1A1073"
+				item: { count: 1, id: "mythsandlegends:wellspring_mask" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "605E172DEF748AF7"
+			tasks: [{
+				id: "221EE1431E9B4085"
+				item: { count: 1, id: "mythsandlegends:sacred_sword" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["18BDBCE71BB85BA1"]
+			id: "1D79B8AA65A016A9"
+			tasks: [{
+				id: "497FCB895344C815"
+				item: { count: 1, id: "mythsandlegends:zygarde_cube" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -13.0d
+		}
+		{
+			id: "22BDC3FFACBBC0A3"
+			invisible: true
+			tasks: [{
+				id: "2D2079F9DA14658F"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -10.5d
+		}
+	]
+}

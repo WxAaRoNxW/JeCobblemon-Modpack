@@ -1,0 +1,5151 @@
+{
+	autofocus_id: "246134CD88D00A89"
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "trainer_series"
+	group: "772865AADCA07DAF"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "rctmod:trainer_card"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "06DC8715DA9FF802"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependent_lines: true
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "246134CD88D00A89"
+			invisible: true
+			size: 1.5d
+			tasks: [{
+				id: "4FC1DA716DBB3CCC"
+				item: { components: { "ftbquests:missing_item": "rctmod:trainer_card" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49E0C78C2B3DBDBC"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "559E3CA963698B40"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "754F9F99020C082D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_brock"
+				criterion: ""
+				id: "13A835D0443A86F9"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["559E3CA963698B40"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "13E803029A8A58FC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E13A0F8DAE65746"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_1"
+				criterion: ""
+				id: "60B84168E7FD6A42"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 3.25d
+		}
+		{
+			dependencies: ["13E803029A8A58FC"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "33872DE7DDE5D8A2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0CAE14CFB907A470"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_1"
+				criterion: ""
+				id: "2193FCBF061C2651"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 3.25d
+		}
+		{
+			dependencies: ["33872DE7DDE5D8A2"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:cascade_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "685CC83F895001BF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44D252FB2426D82B"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_misty"
+				criterion: ""
+				id: "69A7633C13BA5C7C"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 4.5d
+		}
+		{
+			dependencies: ["685CC83F895001BF"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mega_showdown:brendan_mega_cuff"
+			}
+			id: "58D63EB809BC3FD6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C15EF24F8C43CFD"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_1"
+				criterion: ""
+				id: "243949BA11DFC20D"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["58D63EB809BC3FD6"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:thunder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "63FBB58781A9614B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60D3DADC5CD1F60D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_lt_surge"
+				criterion: ""
+				id: "3D95487F892E6F54"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["63FBB58781A9614B"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:rainbow_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "10FB9AC2B08D7B41"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C30D36DB7ADFB38"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_erika"
+				criterion: ""
+				id: "2E4A63CACB25196E"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 6.0d
+		}
+		{
+			dependencies: ["10FB9AC2B08D7B41"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1E41516F28952A0F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B82CB0B839928E6"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_1"
+				criterion: ""
+				id: "2C2B4CE90234D401"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1E41516F28952A0F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7C9111285E47D6F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "393DF466A63E81A8"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_giovanni"
+				criterion: ""
+				id: "2EC50E68FFCA06D1"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1E41516F28952A0F"]
+			hide_lock_icon: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "1A68EE5EF3FA21FC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27DA10A69D91153D"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_2"
+				criterion: ""
+				id: "74AE7BACA4551890"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 7.25d
+		}
+		{
+			dependencies: ["1A68EE5EF3FA21FC"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "0954961A85309919"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "490EDD9EF0960BC5"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_and_ariana"
+				criterion: ""
+				id: "581E0FBF2CF0F093"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 7.25d
+		}
+		{
+			dependencies: ["0954961A85309919"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3CB8BBD965268CA9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38CA9C253498E93B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_2"
+				criterion: ""
+				id: "5036E0C36DE4088B"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3CB8BBD965268CA9"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:marsh_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "017D908354F3C1A2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "756F95B10B1106EC"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_sabrina"
+				criterion: ""
+				id: "728C6084666962AF"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 8.75d
+		}
+		{
+			dependencies: ["017D908354F3C1A2"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "078C4C15BAE77401"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "652646B7E478D659"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_2"
+				criterion: ""
+				id: "63E47C8C682B76F7"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 9.25d
+		}
+		{
+			dependencies: ["017D908354F3C1A2"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3EFFC95D41344395"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3409D87B6470FEA4"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_1"
+				criterion: ""
+				id: "4946171452E08263"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 8.25d
+		}
+		{
+			dependencies: ["017D908354F3C1A2"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mega_showdown:brendan_mega_cuff"
+			}
+			id: "4812D5C64963BAF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75E48987B5CF7EC3"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_2"
+				criterion: ""
+				id: "3C3FC1AA3D1250BC"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 8.75d
+		}
+		{
+			dependencies: ["4812D5C64963BAF5"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:soul_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "70DF5238C98C80D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A8C681DA31B2A82"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_koga"
+				criterion: ""
+				id: "64518B41C132C25C"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 10.0d
+		}
+		{
+			dependencies: ["70DF5238C98C80D7"]
+			icon: {
+				id: "mega_showdown:may_bracelet"
+			}
+			id: "350F9A41FA571056"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "436AEF10C1D6AB27"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_may"
+				criterion: ""
+				id: "03407689866226B9"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 10.0d
+		}
+		{
+			dependencies: ["350F9A41FA571056"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:volcano_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "0F73ECC9CF0747A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "570872EA5ACDBD96"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_blaine"
+				criterion: ""
+				id: "0759C927AFEB8055"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 10.75d
+		}
+		{
+			dependencies: ["0F73ECC9CF0747A5"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "6CB9990F0E48226D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52386D5D786CEE6B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_3"
+				criterion: ""
+				id: "3D55D6E6F758008C"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 10.75d
+		}
+		{
+			dependencies: ["0F73ECC9CF0747A5"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "64EE92103AA7B497"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B8AE8825433AF45"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_3"
+				criterion: ""
+				id: "7DBA6E0EA3246867"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 11.5d
+		}
+		{
+			dependencies: ["64EE92103AA7B497"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3787F3C4713E8860"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "264F713850FEE3A1"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_2"
+				criterion: ""
+				id: "04902D86DFD5BBFF"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 11.5d
+		}
+		{
+			dependencies: ["3787F3C4713E8860"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1B9EA86D36030EAA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FFAD508B99A9FFC"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_giovanni_3"
+				criterion: ""
+				id: "1EBCE42FF64984F8"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 12.75d
+		}
+		{
+			dependencies: ["1B9EA86D36030EAA"]
+			hide_until_deps_complete: true
+			id: "6D551E159B623447"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EFB0EF406871C27"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_team_rocket"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "6748F6FC7B1C0F04"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: 12.75d
+		}
+		{
+			dependencies: ["1B9EA86D36030EAA"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:rising_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "6385658BD9E5146A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21CDB50E7D7564B8"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_clair"
+				criterion: ""
+				id: "4A1F9915241E5920"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 12.75d
+		}
+		{
+			dependencies: ["6385658BD9E5146A"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "16C7F0CDF52219B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5F6E8EF4F93AB9A4"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_terry_4"
+				criterion: ""
+				id: "5E1BF09AC8E0B95E"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["16C7F0CDF52219B8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mega_showdown:brendan_mega_cuff"
+			}
+			id: "720C4FA17D0634AF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "41328C40578BCC24"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_brendan_3"
+				criterion: ""
+				id: "0C431DA13F01F11F"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 14.25d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7E7447B4D1E6A5AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D0F219A11D63C45"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_ariana_3"
+				criterion: ""
+				id: "50E4E9A5806F2872"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 13.25d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "4F2466681F085C75"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B3B9FD03E15E8EF"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_agatha"
+				criterion: ""
+				id: "4F99FD3EA7D64A95"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: 15.5d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "450B92FCB5BD8237"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B8B161412FFA59B"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bruno"
+				criterion: ""
+				id: "2829F8B57A0C869D"
+				type: "advancement"
+			}]
+			x: -3.25d
+			y: 15.5d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "49E1A6335EB45B32"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23AD638C08D1C25A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lance"
+				criterion: ""
+				id: "421C72303269FBDA"
+				type: "advancement"
+			}]
+			x: -2.25d
+			y: 15.5d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "66CB1FEABFE7D489"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C007815B202D507"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lorelei"
+				criterion: ""
+				id: "0ADF28042FBA514A"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 15.5d
+		}
+		{
+			dependencies: ["720C4FA17D0634AF"]
+			hide_until_deps_complete: true
+			id: "50EDB06FBE9635ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "758F69046FD8E5CC"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rocket_admin_archer_4"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:missing_item": "cobblemonarmors:team_rocket_chestplate"
+					}
+					id: "ftbquests:missing_item"
+				}
+				id: "16DC9C3809A79496"
+				type: "advancement"
+			}]
+			x: -1.25d
+			y: 14.25d
+		}
+		{
+			dependencies: [
+				"4F2466681F085C75"
+				"450B92FCB5BD8237"
+				"49E1A6335EB45B32"
+				"66CB1FEABFE7D489"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "294982D25074580C"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_kanto"
+				criterion: ""
+				id: "465BFD0C21B75E33"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 16.5d
+		}
+		{
+			dependencies: ["294982D25074580C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "425EB63B3E5A2FA3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13274321814F9D66"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_terry"
+				criterion: ""
+				id: "7F8A8A2D73B93D86"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 17.5d
+		}
+		{
+			dependencies: ["425EB63B3E5A2FA3"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "6D039673FA2BD324"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52ED3739D7225409"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_red"
+				criterion: ""
+				id: "198EEA41DA7C7D99"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 18.5d
+		}
+		{
+			dependencies: ["6D039673FA2BD324"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "6C7EC37D96E1294A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4920F1C3FDBA5DA1"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12A2B7F0AC8F4AAD"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_rival"
+				criterion: ""
+				id: "0D2E81AF979BC61C"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: 19.5d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "49E0C78C2B3DBDBC"
+			tasks: [{
+				id: "4D5CB6A1D404069B"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["2152633B418854CA"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "435436964FB2781D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "780269FCF9FB8F5C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_wayne_1"
+				criterion: ""
+				id: "476286C58DEF3A95"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -1.75d
+		}
+		{
+			dependencies: ["435436964FB2781D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "393705052C235A35"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4583C3730C8D0D2E"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_mirskle"
+				criterion: ""
+				id: "3DEBBB48FECAECD1"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["393705052C235A35"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "5BBDDE58D340578D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E74BA122918F298"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_grunt"
+				criterion: ""
+				id: "6F3E5408295B11AD"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5BBDDE58D340578D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "1D0A5199DA152812"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "211388CA65BD7DED"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_vega"
+				criterion: ""
+				id: "57BE4471A0702FA8"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -4.25d
+		}
+		{
+			dependencies: ["1D0A5199DA152812"]
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "4139AE380ED67949"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "232B3ED0F9F9525C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_1"
+				criterion: ""
+				id: "6E5F0A166AF56578"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["1D0A5199DA152812"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "3B79AA110BE7E1CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6864FE81CDC1E8CE"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_1"
+				criterion: ""
+				id: "0128CB2E34B0B162"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -4.25d
+		}
+		{
+			dependencies: ["3B79AA110BE7E1CE"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "5CA2E08B9ED49521"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29DED4529C1AAE21"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_zeph_1"
+				criterion: ""
+				id: "450F5010F08D8E00"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5CA2E08B9ED49521"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "22DFCF807A9670A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CD82F12EEAA2FFB"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_wayne_2"
+				criterion: ""
+				id: "542CFD2225B5AF44"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -5.75d
+		}
+		{
+			dependencies: ["22DFCF807A9670A3"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "5FE4C425C77FD67A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "489844D942171AAC"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_alice"
+				criterion: ""
+				id: "6457C3F37B0D6FBC"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -5.75d
+		}
+		{
+			dependencies: ["5FE4C425C77FD67A"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "76ABB02BCDA1548A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F48F9156FD3DF58"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_mel"
+				criterion: ""
+				id: "52D3C4F8764461E9"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -7.0d
+		}
+		{
+			dependencies: ["76ABB02BCDA1548A"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "30D4935D286F846A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00ABA616055E4E43"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_grunt"
+				criterion: ""
+				id: "793814D4879242E7"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -7.0d
+		}
+		{
+			dependencies: ["30D4935D286F846A"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "6DFC1802793F7902"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60719B5547AD2CBE"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sucessor_maxima"
+				criterion: ""
+				id: "4B0498D268F7E958"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -7.75d
+		}
+		{
+			dependencies: ["6DFC1802793F7902"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "574D0012B2E92AED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42C5E20E09C8CA11"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_ivory_2"
+				criterion: ""
+				id: "0A66F81CA075B000"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -7.75d
+		}
+		{
+			dependencies: ["6DFC1802793F7902"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "4AFB981ECDD19290"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65FB7C22E9E19621"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_2"
+				criterion: ""
+				id: "533203F50300D248"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -8.5d
+		}
+		{
+			dependencies: ["4AFB981ECDD19290"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "7B2333B93F30B56A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C6FFE54921A044E"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_wayne_3"
+				criterion: ""
+				id: "5C7DD0A5810FA04A"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -8.5d
+		}
+		{
+			dependencies: ["7B2333B93F30B56A"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "14993FE015BA8265"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6ACF1D42EA1C0C1F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_galavan"
+				criterion: ""
+				id: "09315DAD768A48B4"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -9.75d
+		}
+		{
+			dependencies: ["14993FE015BA8265"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "423304F7B3D2AF8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F11E2D5668655A6"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_light_of_ruin_vega"
+				criterion: ""
+				id: "3DC6E5215129764D"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -9.75d
+		}
+		{
+			dependencies: ["423304F7B3D2AF8D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "6D4704FB39DCA5D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59073111A553C67B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_boss_zeph_2"
+				criterion: ""
+				id: "73755FAE56900A72"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["19BE774E7EB8513F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "12E063A9617D8ADE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B0E5B03C3AA59AE"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_team_shadow"
+				criterion: ""
+				id: "4C81796E8FAD8DAD"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -11.25d
+		}
+		{
+			dependencies: ["6D4704FB39DCA5D0"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "19BE774E7EB8513F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F0566B468074B64"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_1"
+				criterion: ""
+				id: "4B77378E3D1832EA"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -11.25d
+		}
+		{
+			dependencies: ["19BE774E7EB8513F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "378F5C4D3F714646"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A855F32A5349C90"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_big_mo"
+				criterion: ""
+				id: "295D7932E353D914"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -11.25d
+		}
+		{
+			dependencies: ["378F5C4D3F714646"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "07DF4D538850E944"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37246A1983A9682F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_tessy"
+				criterion: ""
+				id: "39BDDBBAF285C7C2"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -12.5d
+		}
+		{
+			dependencies: ["07DF4D538850E944"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "71DC570CA96DD1F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "121F7230326269B0"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_rival_wayne_4"
+				criterion: ""
+				id: "3A3600FDB9DF0296"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -12.5d
+		}
+		{
+			dependencies: ["71DC570CA96DD1F0"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "424F4BBBCE09E301"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F2C4769E2B86E7F"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_light_of_ruin_admin_ivory_3"
+				criterion: ""
+				id: "136216E32C76F485"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -13.25d
+		}
+		{
+			dependencies: ["424F4BBBCE09E301"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "30101316EE2EF839"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3316C186F1FA2093"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_2"
+				criterion: ""
+				id: "06BF662E4B36CA66"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -14.0d
+		}
+		{
+			dependencies: ["30101316EE2EF839"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "7084B8D3581482BC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D0C97275ED66D3A"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_shadow_admin_marlon_3"
+				criterion: ""
+				id: "6FFE5CF1053D4F02"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -14.0d
+		}
+		{
+			dependencies: ["7084B8D3581482BC"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:boulder_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			icon_scale: 1.25d
+			id: "72D84541C4E5DE60"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2384FEB87343B22A"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_leader_benjamin"
+				criterion: ""
+				id: "70290859EF108DC7"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -15.5d
+		}
+		{
+			dependencies: ["72D84541C4E5DE60"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "33C5FB0C71128FD4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7893DE406FAEE18A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_penny"
+				criterion: ""
+				id: "4CBB7D82B365CCC9"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -16.5d
+		}
+		{
+			dependencies: ["72D84541C4E5DE60"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "7244819BC9FE58C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29CCC24B8322CF70"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_arabella"
+				criterion: ""
+				id: "09C4966F1C96627C"
+				type: "advancement"
+			}]
+			x: -3.75d
+			y: -16.5d
+		}
+		{
+			dependencies: ["72D84541C4E5DE60"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "78EB301A7051563A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2482B95044464BEE"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_elias"
+				criterion: ""
+				id: "4DFB2B97751AAE67"
+				type: "advancement"
+			}]
+			x: -4.75d
+			y: -16.5d
+		}
+		{
+			dependencies: ["72D84541C4E5DE60"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "588DF262361271AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "494D458A822D6433"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_moleman"
+				criterion: ""
+				id: "14550C962ECC8258"
+				type: "advancement"
+			}]
+			x: -5.75d
+			y: -16.5d
+		}
+		{
+			dependencies: [
+				"7244819BC9FE58C8"
+				"78EB301A7051563A"
+				"588DF262361271AB"
+				"33C5FB0C71128FD4"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "5A65A16BF5FCAFA9"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_borrius"
+				criterion: ""
+				id: "2EE557969DAD6367"
+				type: "advancement"
+			}]
+			x: -4.25d
+			y: -17.5d
+		}
+		{
+			dependencies: ["5A65A16BF5FCAFA9"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:ultra_ball"
+			}
+			id: "1979649F996E6A6D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D0E4773A9001232"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_jax"
+				criterion: ""
+				id: "4B5EA481BF81A14F"
+				type: "advancement"
+			}]
+			x: -2.75d
+			y: -17.5d
+		}
+		{
+			dependencies: ["1979649F996E6A6D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "31A3F44B6D50684F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B27AF49EBE4E90A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_light_of_ruin_aklove_3"
+				criterion: ""
+				id: "510E0F2720E9122F"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -18.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7C13A0B84EA054EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D7C645A44B3FFFD"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_jax"
+				criterion: ""
+				id: "73160A7B49BBD8E1"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -19.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "35FD6D99E09D4952"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2517671148D0EF9F"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_marlon"
+				criterion: ""
+				id: "3759572062D135A8"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -19.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "77D83F28B575867B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "129A96B97AFA4768"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_milo"
+				criterion: ""
+				id: "757ED83264EDD4F0"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -19.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1CB3862D60F4778C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B4DF7AD2CE863F5"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_rival_wayne"
+				criterion: ""
+				id: "136E83E675C8B396"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -19.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "0D1F867058F4086E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1061A8EA70516378"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_solenk"
+				criterion: ""
+				id: "577D45BA2AF426B3"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -19.25d
+		}
+		{
+			dependencies: ["31A3F44B6D50684F"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "2F291A45D0B082D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53E4CE8DAF297EF2"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_zeph"
+				criterion: ""
+				id: "01424B1E39A55F6E"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -19.25d
+		}
+		{
+			dependencies: [
+				"7C13A0B84EA054EF"
+				"35FD6D99E09D4952"
+				"77D83F28B575867B"
+				"0D1F867058F4086E"
+				"1CB3862D60F4778C"
+				"2F291A45D0B082D3"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "handcrafted:stackable_book"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "594B7903A8EF425E"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_title_defense_borrius"
+				criterion: ""
+				id: "7B04D18342427450"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -20.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "mythsandlegends:marshadow_hood"
+			}
+			id: "6F6AA9F7CEC75627"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DBFF5048386A133"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_light_of_ruin"
+				criterion: ""
+				id: "42B73B7CC6FB2117"
+				type: "advancement"
+			}]
+			x: -1.75d
+			y: -20.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "3D56346CE8A8FE15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A13B98B1B023979"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_mirskle"
+				criterion: ""
+				id: "3359B57788BB0094"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "240D2E16D0514BC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2312EC762EABAFAE"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_vega"
+				criterion: ""
+				id: "6C14605F481050EC"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "4D2AE7E396796898"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75141A82D5BD7803"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_alice"
+				criterion: ""
+				id: "019CE311B470D528"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "2BFCE281C4DB1211"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "041527EC954073BE"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_mel"
+				criterion: ""
+				id: "58AB9419FAEEB580"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "4F44D3936FB35D63"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EA26605633C4462"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_big_mo"
+				criterion: ""
+				id: "3CF9B3FF2FD88C9F"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "60C61BA4313992FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7344905551DE9630"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_tessy"
+				criterion: ""
+				id: "2DE9D0252F164CC2"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -21.25d
+		}
+		{
+			dependencies: ["594B7903A8EF425E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "00EB7310167E4A6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FBD97662F52CE43"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_benjamin"
+				criterion: ""
+				id: "064EF29B051000B1"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -21.25d
+		}
+		{
+			dependencies: [
+				"4D2AE7E396796898"
+				"00EB7310167E4A6F"
+				"4F44D3936FB35D63"
+				"2BFCE281C4DB1211"
+				"3D56346CE8A8FE15"
+				"60C61BA4313992FA"
+				"240D2E16D0514BC8"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ground_gem"
+			}
+			id: "25ECB40BC8DCB469"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_battleground_borrius"
+				criterion: ""
+				id: "25FF48F581499F0C"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -22.25d
+		}
+		{
+			dependencies: ["25ECB40BC8DCB469"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "55276FF8F42BCFE6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4167351EE46774F3"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4CFB5600299790D9"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_champion"
+				criterion: ""
+				id: "3B434305E5530798"
+				type: "advancement"
+			}]
+			x: -1.75d
+			y: -22.25d
+		}
+		{
+			dependencies: ["25ECB40BC8DCB469"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "31D63976F2CD1399"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_battleground"
+				criterion: ""
+				id: "2645EFA6BC419C32"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -23.5d
+		}
+		{
+			dependencies: ["31D63976F2CD1399"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "5EB1BC629F320869"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "58A239F204014346"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "309E94667F5CFF58"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E97675788495BE8"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_trainer_blue"
+				criterion: ""
+				id: "691587A781BEC3DC"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -24.75d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			id: "2152633B418854CA"
+			tasks: [{
+				id: "02303D1212C25CE2"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -0.75d
+		}
+		{
+			dependencies: ["35F53CC57C803EA9"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:coal_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "6E65E92D9896723B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49384BF976D69114"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
+				criterion: ""
+				id: "4A476B03A89C2819"
+				type: "advancement"
+			}]
+			x: -5.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["32797C3ED6677601"]
+			hide_until_deps_complete: true
+			id: "5FFE96DC2620B294"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0865574F9D2B8E34"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_roark"
+				criterion: ""
+				id: "2317CA64A74E615D"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6041D0505E1A5F90"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:forest_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1C9AB0C6F309BA01"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A6D22054FA8518F"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_1"
+				criterion: ""
+				id: "0210E130D75147BA"
+				type: "advancement"
+			}]
+			x: -7.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5FFE96DC2620B294"]
+			hide_until_deps_complete: true
+			id: "6A0C49FE6688DE87"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C298690F5E5850D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_gardenia"
+				criterion: ""
+				id: "5CD4EEA3A1AE6618"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["29A79C45FE5A2A48"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:cobble_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "6FDBFE53854FDDF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67E6BF5AF0AD2DC0"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_maylene_1"
+				criterion: ""
+				id: "2DCEAE7403012FCA"
+				type: "advancement"
+			}]
+			x: -8.5d
+			y: 0.25d
+		}
+		{
+			dependencies: ["6A0C49FE6688DE87"]
+			hide_until_deps_complete: true
+			id: "745EABDDA7986E99"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15BB78731AFE6D0C"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_maylene"
+				criterion: ""
+				id: "14594A25EA59AF84"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["6FDBFE53854FDDF9"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:fen_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "14B6532C100948F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "096FB943B4DC3B75"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_wake_1"
+				criterion: ""
+				id: "374BC28BC10DBDC4"
+				type: "advancement"
+			}]
+			x: -9.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["745EABDDA7986E99"]
+			hide_until_deps_complete: true
+			id: "60D46D4DBCB2C8CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A037F63AFB90F27"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_crasherwake"
+				criterion: ""
+				id: "0C941DB7772AB3C6"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["1B11725C23C23E69"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:relic_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "6AE41097BA38B001"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67E5F652B92FDE36"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_fantina_1"
+				criterion: ""
+				id: "49DD9A5B39BA4092"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["60D46D4DBCB2C8CF"]
+			hide_until_deps_complete: true
+			id: "03E009483BE15019"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D4A202C84157F47"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_fantina"
+				criterion: ""
+				id: "445E60C6645C9E07"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["33CEFBFF24CDD78B"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:mine_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3D39454805E22E61"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CD347B719E24F54"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_byron_1"
+				criterion: ""
+				id: "30B0B551B850714D"
+				type: "advancement"
+			}]
+			x: -11.25d
+			y: 0.25d
+		}
+		{
+			dependencies: ["03E009483BE15019"]
+			hide_until_deps_complete: true
+			id: "7DA54787C55F62BD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "093300ED01CD5DC1"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_byron"
+				criterion: ""
+				id: "66B178C5B3BFBFE3"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["766F1649D40D6D81"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:icicle_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "228C0B849D9B2EE4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70CB2450A7F4B9AA"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_candice_1"
+				criterion: ""
+				id: "0979D373110000B7"
+				type: "advancement"
+			}]
+			x: -13.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA54787C55F62BD"]
+			hide_until_deps_complete: true
+			id: "6CEE08A49F475941"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2BF37697DF1139C2"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_candice"
+				criterion: ""
+				id: "0E685CDD7D717147"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["0D26D63D4FA9B134"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:beacon_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "09D60D17BA237627"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "233DDA18E80C61BB"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_volkner_1"
+				criterion: ""
+				id: "2D94BC5482389B98"
+				type: "advancement"
+			}]
+			x: -16.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6CEE08A49F475941"]
+			hide_until_deps_complete: true
+			id: "1140BD960C6EDC4A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65CF6D981BEF81D4"
+				table_id: 8073137243134134885L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_sinnohleader_volkner"
+				criterion: ""
+				id: "280E8261EA160B7A"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "32797C3ED6677601"
+			tasks: [{
+				id: "3E354E2FE5080789"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["6E65E92D9896723B"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:custom_name": "\"Mars\""
+				}
+				id: "minecraft:red_concrete"
+			}
+			id: "042FE9BA7FD86D97"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "694F93F5EF69F6B4"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_1"
+				criterion: ""
+				id: "4839B07966885EE4"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["042FE9BA7FD86D97"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:custom_name": "\"Jupiter\""
+				}
+				id: "minecraft:purple_concrete"
+			}
+			id: "6041D0505E1A5F90"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50520DC3B4484744"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_jupiter_1"
+				criterion: ""
+				id: "437AB0B35AF3C4CC"
+				type: "advancement"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1C9AB0C6F309BA01"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "29A79C45FE5A2A48"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B1C71A36ED36A61"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_1"
+				criterion: ""
+				id: "315BF0DF1AEEFC9F"
+				type: "advancement"
+			}]
+			x: -7.75d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6E65E92D9896723B"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:coal_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "20B7A0DD30C293F8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3664213958649376"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_roark_2"
+				criterion: ""
+				id: "5CEB039713D3E24F"
+				type: "advancement"
+			}]
+			x: -5.75d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1C9AB0C6F309BA01"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:forest_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "7518690224ADC7FC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "673FC6218A68F6DF"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_2"
+				criterion: ""
+				id: "1C42366452330DF1"
+				type: "advancement"
+			}]
+			x: -7.75d
+			y: -2.25d
+		}
+		{
+			dependencies: ["6FDBFE53854FDDF9"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:cobble_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "3F796336FBAD44E8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58A71E22718DD1A6"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_maylene_2"
+				criterion: ""
+				id: "1E5C9E3485E9A409"
+				type: "advancement"
+			}]
+			x: -8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["14B6532C100948F1"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "1B11725C23C23E69"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E6FF5C55CCA056A"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_2"
+				criterion: ""
+				id: "50829B9C129E4855"
+				type: "advancement"
+			}]
+			x: -9.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["14B6532C100948F1"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:fen_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "1C91851A218DCAC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "653A8039512F9ABB"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_wake_2"
+				criterion: ""
+				id: "6C53E18BD521A6A9"
+				type: "advancement"
+			}]
+			x: -9.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["6AE41097BA38B001"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:relic_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "103CF4BA10FF1E56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0072AC31AC7C1FD4"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_fantina_2"
+				criterion: ""
+				id: "0DDB980656A07A6A"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6AE41097BA38B001"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "33CEFBFF24CDD78B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FBD10B66E25B31E"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_3"
+				criterion: ""
+				id: "787B5108BAE8B215"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3D39454805E22E61"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:mine_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "10EEF472F074B98C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "335FF874EFC76800"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_byron_2"
+				criterion: ""
+				id: "5D5D610020E8F982"
+				type: "advancement"
+			}]
+			x: -11.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["3D39454805E22E61"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:custom_name": "\"Saturn\""
+				}
+				id: "minecraft:blue_concrete"
+			}
+			id: "66E44AAF7DABDB67"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CB1EB446BEFBAEE"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_saturn_1"
+				criterion: ""
+				id: "79679A948F43C82B"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["66E44AAF7DABDB67"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:custom_name": "\"Mars\""
+				}
+				id: "minecraft:red_concrete"
+			}
+			id: "766F1649D40D6D81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B8F2CDE122B18C2"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_2"
+				criterion: ""
+				id: "23926AF9611911E3"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["228C0B849D9B2EE4"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "minecraft:light_blue_concrete"
+			}
+			id: "13F154F67A6FEB27"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D7FF58B1B7A0BD9"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_1"
+				criterion: ""
+				id: "2D2E42966A67864C"
+				type: "advancement"
+			}]
+			x: -13.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["228C0B849D9B2EE4"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:icicle_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "4118BC9A4DF1EAE0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B7B53F9F409231C"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_candice_2"
+				criterion: ""
+				id: "36934A461DF439BA"
+				type: "advancement"
+			}]
+			x: -13.25d
+			y: 2.5d
+		}
+		{
+			dependencies: ["13F154F67A6FEB27"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:custom_name": "\"Saturn\""
+				}
+				id: "minecraft:blue_concrete"
+			}
+			id: "73A3BAD0E7646F23"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11523ECEF4BB7013"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_saturn_2"
+				criterion: ""
+				id: "750AFDC10ED68831"
+				type: "advancement"
+			}]
+			x: -14.0d
+			y: 0.25d
+		}
+		{
+			dependencies: ["73A3BAD0E7646F23"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "minecraft:light_blue_concrete"
+			}
+			id: "690334EC02AA675E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77C88E76489E120F"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_commander_mars_jupiter"
+				criterion: ""
+				id: "4B7D656690AEEBF1"
+				type: "advancement"
+			}]
+			x: -14.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["690334EC02AA675E"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "minecraft:light_blue_concrete"
+			}
+			id: "0D26D63D4FA9B134"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "339F2BE6B451AA8C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_2"
+				criterion: ""
+				id: "09B02610C9AE46BD"
+				type: "advancement"
+			}]
+			x: -14.75d
+			y: 1.0d
+		}
+		{
+			dependencies: ["09D60D17BA237627"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:punching_glove"
+			}
+			id: "37FDDBD7A122A167"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23B0D3D3AB72D9F5"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_4"
+				criterion: ""
+				id: "760D7177E7D3FC55"
+				type: "advancement"
+			}]
+			x: -16.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["09D60D17BA237627"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:missing_item": "cobblemonpokemonbadges:beacon_badge"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "20DF0D5BDB70882B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "480416F66F9F58E0"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_gym_leader_volkner_2"
+				criterion: ""
+				id: "21FEEA8CF5FF5CF1"
+				type: "advancement"
+			}]
+			x: -16.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37FDDBD7A122A167"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "6E22B5E7CC351A6F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AEC5030859592A5"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_1"
+				criterion: ""
+				id: "7F624D03693A07CB"
+				type: "advancement"
+			}]
+			x: -16.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["6E22B5E7CC351A6F"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "6C20692D9EEAD90C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3521FBBC0093BF7A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_1"
+				criterion: ""
+				id: "475A18E1AEAB74D4"
+				type: "advancement"
+			}]
+			x: -17.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6C20692D9EEAD90C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "4E2D5250FE90BF1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6771DF131011496D"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_1"
+				criterion: ""
+				id: "1FA2D6DB41DE666C"
+				type: "advancement"
+			}]
+			x: -17.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4E2D5250FE90BF1E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "38CE9627DB3D5940"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7119BD70C7C0B735"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_1"
+				criterion: ""
+				id: "6660E64952FE4319"
+				type: "advancement"
+			}]
+			x: -18.75d
+			y: 1.0d
+		}
+		{
+			dependencies: ["38CE9627DB3D5940"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2296FE4C28584489"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E94C523EA4E3975"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_1"
+				criterion: ""
+				id: "6B1FBA41597CA067"
+				type: "advancement"
+			}]
+			x: -18.75d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2296FE4C28584489"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "2E65A14E594448ED"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "546DEE26920E4F4F"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C456EC440CE7050"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_2"
+				criterion: ""
+				id: "38EE627EA6CB9763"
+				type: "advancement"
+			}]
+			x: -19.5d
+			y: 0.25d
+		}
+		{
+			dependencies: ["2E65A14E594448ED"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "625A93F07DDD87AE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "357D5B874EFBA06C"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1889B4FB65179922"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_2"
+				criterion: ""
+				id: "2A5BC8EE8C989B2D"
+				type: "advancement"
+			}]
+			x: -20.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["625A93F07DDD87AE"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "1E7C0A56ABAEADCB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "55F83591128606C2"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "14DD5E98836951D0"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_2"
+				criterion: ""
+				id: "66B512C4BD405136"
+				type: "advancement"
+			}]
+			x: -20.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1E7C0A56ABAEADCB"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "42D348FC65E8ED31"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "388A874985DC9DCF"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "337EB2A0657A08D6"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_2"
+				criterion: ""
+				id: "5C78B7ACA2D66382"
+				type: "advancement"
+			}]
+			x: -21.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["42D348FC65E8ED31"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:ultra_ball"
+			}
+			id: "0B93EF2202E77BC6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "611C12E23512476E"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52C99CECA9791C24"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_2"
+				criterion: ""
+				id: "154BC1B67AFE1671"
+				type: "advancement"
+			}]
+			x: -21.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0B93EF2202E77BC6"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "48CCDD5F82897EB8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3788D677D99B71E8"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0530D0005AFC12A8"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_aaron_3"
+				criterion: ""
+				id: "25BF5DBC3D956577"
+				type: "advancement"
+			}]
+			x: -22.25d
+			y: 0.25d
+		}
+		{
+			dependencies: ["48CCDD5F82897EB8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "7DBDD3942D62791A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "35906606E7E6628C"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "775BF5F14B7C1318"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_bertha_3"
+				criterion: ""
+				id: "3BA24056AE7E5995"
+				type: "advancement"
+			}]
+			x: -23.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7DBDD3942D62791A"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "7D1AD1EB0E4BC49C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "390183ABA79CC351"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "16BA546F56B477F6"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_flint_3"
+				criterion: ""
+				id: "0823C52CED66FE86"
+				type: "advancement"
+			}]
+			x: -23.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7D1AD1EB0E4BC49C"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "5E8476FA234E684F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "02109AEF89106175"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BCFE8D48FA7BA5B"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_elite_four_lucian_3"
+				criterion: ""
+				id: "121486682D32BE40"
+				type: "advancement"
+			}]
+			x: -24.25d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5E8476FA234E684F"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "365DD4BBE3DEB2AC"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_elite_four"
+				criterion: ""
+				id: "381E3BCEE1F65D50"
+				type: "advancement"
+			}]
+			x: -24.25d
+			y: -0.5d
+		}
+		{
+			dependencies: ["365DD4BBE3DEB2AC"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "7B382EDE86687A40"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2839FF62DF1874EA"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "222D389F5E6CD30E"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_champion_cynthia_3"
+				criterion: ""
+				id: "4569C879B4116B81"
+				type: "advancement"
+			}]
+			x: -25.0d
+			y: 0.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "35F53CC57C803EA9"
+			tasks: [{
+				id: "1D149E7F2933AB4A"
+				type: "checkmark"
+			}]
+			x: -4.75d
+			y: 0.25d
+		}
+		{
+			dependencies: ["0D26D63D4FA9B134"]
+			icon: {
+				id: "minecraft:yellow_concrete"
+			}
+			id: "3A38303F90D08916"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E18F13497BD709B"
+					table_id: 9088170130685532228L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48650A894A390A53"
+					table_id: 7044250095849232181L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_team_galactic"
+				criterion: ""
+				id: "77C11C448A570FE3"
+				type: "advancement"
+			}]
+			x: -14.75d
+			y: 2.5d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "6A4F52431EAD47C8"
+			tasks: [{
+				id: "174E1087AA797701"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "1D416867F71F88C2"
+			tasks: [{
+				id: "18DDE0C24BDD2904"
+				type: "checkmark"
+			}]
+			x: 8.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "4FA73CE0709AE596"
+			tasks: [{
+				id: "787AFDE710C7518D"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["6A4F52431EAD47C8"]
+			hide_until_deps_complete: true
+			id: "60892C62F217AC8A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DF4CBCC686E62F2"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_roxanne"
+				criterion: ""
+				id: "05C74B81588E7EFB"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["60892C62F217AC8A"]
+			hide_until_deps_complete: true
+			id: "239EEDA524625BD3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C8F8D9FD8810FFC"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_brawly"
+				criterion: ""
+				id: "3B200DA8F72F172A"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["239EEDA524625BD3"]
+			hide_until_deps_complete: true
+			id: "1DBD1E543A3A2A04"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A4FE02CAD686C9D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_wattson"
+				criterion: ""
+				id: "7E8EC9244AFF7129"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["1DBD1E543A3A2A04"]
+			hide_until_deps_complete: true
+			id: "1C39C77BBCE8F5A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4459DA49D680C8F8"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_flannery"
+				criterion: ""
+				id: "7ADA54B2FA09E34A"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["1C39C77BBCE8F5A5"]
+			hide_until_deps_complete: true
+			id: "4B2DBE6649EE2742"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "798734EF3C98FD25"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_norman"
+				criterion: ""
+				id: "38BCFB3E72D45A85"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["4B2DBE6649EE2742"]
+			hide_until_deps_complete: true
+			id: "41A0D34B27286423"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11AF4AC9C5163F85"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_winona"
+				criterion: ""
+				id: "4D2242CDEA3BCE0B"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["41A0D34B27286423"]
+			hide_until_deps_complete: true
+			id: "2897D402123E69E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "428838F60EE8CA37"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_liza"
+				criterion: ""
+				id: "239B939A2EEDFE9B"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["2897D402123E69E3"]
+			hide_until_deps_complete: true
+			id: "660F55E898AB1749"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B5138DCFD95E1B2"
+				table_id: 8073137243134134885L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennleader_wallace"
+				criterion: ""
+				id: "19A5DEEDFF339C80"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["4FA73CE0709AE596"]
+			hide_until_deps_complete: true
+			id: "1E69ACC05EC11E40"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51B547B3A266D2B4"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_cilan"
+				criterion: ""
+				id: "1E1C71682C330894"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["1E69ACC05EC11E40"]
+			hide_until_deps_complete: true
+			id: "0E65255C44D84989"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0477365077E3ED47"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_lenora"
+				criterion: ""
+				id: "54B5DA94CF588A98"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["0E65255C44D84989"]
+			hide_until_deps_complete: true
+			id: "2B07E6D8B12D04E9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17EB3DEB1F35EFD7"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_burgh"
+				criterion: ""
+				id: "280DDBD500A6EE90"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["2B07E6D8B12D04E9"]
+			hide_until_deps_complete: true
+			id: "6A020DBBC5E328F2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7BF8E53732B600FC"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_elesa"
+				criterion: ""
+				id: "454723187D757F92"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["6A020DBBC5E328F2"]
+			hide_until_deps_complete: true
+			id: "23322D8CDA78DD02"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C2E8663DC907D83"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_clay"
+				criterion: ""
+				id: "1C7928158B4C61E4"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["23322D8CDA78DD02"]
+			hide_until_deps_complete: true
+			id: "7D7399199EE4D19E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4957CFEF1FC517FD"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_skyla"
+				criterion: ""
+				id: "7D17F2C366DA54C8"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["7D7399199EE4D19E"]
+			hide_until_deps_complete: true
+			id: "32816F9373B425F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5C40E03B1549065A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_brycen"
+				criterion: ""
+				id: "6EA9904AE1D61A01"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["32816F9373B425F7"]
+			hide_until_deps_complete: true
+			id: "3744A3C8B5FB8753"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "69EA7344C88256AB"
+				table_id: 8073137243134134885L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaleader_drayden"
+				criterion: ""
+				id: "28CFCBFE66AD7DAE"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["1D416867F71F88C2"]
+			hide_until_deps_complete: true
+			id: "205B53D9961CE2A6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1F951617947EF04D"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_viola"
+				criterion: ""
+				id: "04E53ACCF1285B17"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["205B53D9961CE2A6"]
+			hide_until_deps_complete: true
+			id: "50F31EAC4378248E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67EE71422C3DDA4A"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_grant"
+				criterion: ""
+				id: "37E64C164A58E787"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["50F31EAC4378248E"]
+			hide_until_deps_complete: true
+			id: "58BFFF3512022C7E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6DB226F0716405A1"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_korrina"
+				criterion: ""
+				id: "43B95B91F8AD0792"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["58BFFF3512022C7E"]
+			hide_until_deps_complete: true
+			id: "32E01E0D5125290B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "407AC5129E43F66A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_ramos"
+				criterion: ""
+				id: "54A64A9289722E11"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["32E01E0D5125290B"]
+			hide_until_deps_complete: true
+			id: "7D00EA27D14D743B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23B22295CB4366DC"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_clemont"
+				criterion: ""
+				id: "5D2766CDA3A5B83B"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["7D00EA27D14D743B"]
+			hide_until_deps_complete: true
+			id: "52D16AF429055917"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D798A7196FD20C0"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_valerie"
+				criterion: ""
+				id: "7DDCAA7DDE6EDFA0"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["52D16AF429055917"]
+			hide_until_deps_complete: true
+			id: "3E29DA13110E36EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "36743D75593933E2"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_olympia"
+				criterion: ""
+				id: "59220AF8D46C457E"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["3E29DA13110E36EF"]
+			hide_until_deps_complete: true
+			id: "5802229AE03C8291"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1607B76C4EC1BEF6"
+				table_id: 8073137243134134885L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kalosleader_wulfric"
+				criterion: ""
+				id: "4A4150C10958AB1B"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["660F55E898AB1749"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "3F0C5F9C45E93C9B"
+			tasks: [{
+				id: "6296F7B70FDF94F2"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["3744A3C8B5FB8753"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "4A829E643AC37321"
+			tasks: [{
+				id: "4715DFA5B20E75E4"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["5802229AE03C8291"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0FDF591ECB2A2801"
+			tasks: [{
+				id: "07AD97180C036FCA"
+				type: "checkmark"
+			}]
+			x: 9.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "22691DF7C8B8F2D5"
+			tasks: [{
+				id: "63F6F26625A8C6E3"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			hide_until_deps_complete: true
+			id: "03B0E0ADA0CC008A"
+			tasks: [{
+				id: "617BD59025BB8B74"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["3744A3C8B5FB8753"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "3747C87D0228C026"
+			tasks: [{
+				id: "4E0A627C690676D3"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["246134CD88D00A89"]
+			id: "78321986F007F417"
+			tasks: [{
+				id: "0946B0EF329F3031"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -1.25d
+		}
+		{
+			dependencies: ["2AC7E2F4A0534F64"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "7D485A4492FD50E0"
+			tasks: [{
+				id: "29F1482B65CA8FAE"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: -1.25d
+		}
+		{
+			dependencies: [
+				"4A829E643AC37321"
+				"06E4AE96F032B599"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0718DC1BF356EF9A"
+			tasks: [{
+				id: "18E8F3453FAF2C19"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -1.25d
+		}
+		{
+			dependencies: [
+				"64E0287838C7DA52"
+				"3744A3C8B5FB8753"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "6C856DCBE0DE7F14"
+			tasks: [{
+				id: "17D3FF86DE3D26A5"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 1.25d
+		}
+		{
+			dependencies: ["03B0E0ADA0CC008A"]
+			hide_until_deps_complete: true
+			id: "468A236D82CDF194"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F22C0A6A220D89B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_male_ignio"
+				criterion: ""
+				id: "7A8A42B847BE10AA"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["468A236D82CDF194"]
+			hide_until_deps_complete: true
+			id: "2FC29D844EA0B470"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43001D41DADA3A94"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_female_sandy"
+				criterion: ""
+				id: "3525CF68494C1E44"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["2FC29D844EA0B470"]
+			hide_until_deps_complete: true
+			id: "1D01CCFE6931CD39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D4063BB566978A6"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_male_lithio"
+				criterion: ""
+				id: "0FE1885DC0A0FE33"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["1D01CCFE6931CD39"]
+			hide_until_deps_complete: true
+			id: "060271E627F62512"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_grunt_female_micah"
+				criterion: ""
+				id: "06636B5CE5A406F4"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["060271E627F62512"]
+			hide_until_deps_complete: true
+			id: "710F9A06ACEF81B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4652845DD6076BEE"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_blaise"
+				criterion: ""
+				id: "2337C00DF396F491"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -6.25d
+		}
+		{
+			dependencies: ["710F9A06ACEF81B3"]
+			hide_until_deps_complete: true
+			id: "40E589A84BF5F87B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "329B2F03F72D51F4"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_courtney"
+				criterion: ""
+				id: "787FEAFD2263DFEB"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -7.25d
+		}
+		{
+			dependencies: ["40E589A84BF5F87B"]
+			hide_until_deps_complete: true
+			id: "305FBB093E96A57E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53D24ECF1ED9C62B"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_admin_tabitha"
+				criterion: ""
+				id: "4BBEBDA6E0229E02"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -8.25d
+		}
+		{
+			dependencies: ["305FBB093E96A57E"]
+			hide_until_deps_complete: true
+			id: "7987184B9A2B47AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A3CF678FB5B5EB3"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_magma_leader_maxie"
+				criterion: ""
+				id: "30E0F40BE053A0FC"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -9.25d
+		}
+		{
+			dependencies: ["22691DF7C8B8F2D5"]
+			hide_until_deps_complete: true
+			id: "0F4C6D0FFF27EEB3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24031A52A641C50C"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_male_ray"
+				criterion: ""
+				id: "26278AA6A84FE507"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["0F4C6D0FFF27EEB3"]
+			hide_until_deps_complete: true
+			id: "7882C5AB3BB8F0E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04C20DFE953F3C8B"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_female_octo"
+				criterion: ""
+				id: "46CAA2915F13F3E6"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["7882C5AB3BB8F0E3"]
+			hide_until_deps_complete: true
+			id: "3CA67F3186670A85"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "17BCAB4010001635"
+				table_id: 9088170130685532228L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_male_manta"
+				criterion: ""
+				id: "13158CB02217714F"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["3CA67F3186670A85"]
+			hide_until_deps_complete: true
+			id: "1758C9A365AC9E67"
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_grunt_female_inky"
+				criterion: ""
+				id: "6C06A177F45F6FFD"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["1758C9A365AC9E67"]
+			hide_until_deps_complete: true
+			id: "1B06F7EBD2401B3C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "132AC25F37C2FCA0"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_amber"
+				criterion: ""
+				id: "193CA7163C9535FF"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -6.25d
+		}
+		{
+			dependencies: ["1B06F7EBD2401B3C"]
+			hide_until_deps_complete: true
+			id: "4E8E9851BC1CBD88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "190D835D1B8D170E"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_matt"
+				criterion: ""
+				id: "018F1020775AFAF8"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -7.25d
+		}
+		{
+			dependencies: ["4E8E9851BC1CBD88"]
+			hide_until_deps_complete: true
+			id: "1881B49C4B42A0A4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0F858D4BC4C025A9"
+				table_id: 7044250095849232181L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_admin_shelly"
+				criterion: ""
+				id: "31ECC2A75313BB71"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -8.25d
+		}
+		{
+			dependencies: ["1881B49C4B42A0A4"]
+			hide_until_deps_complete: true
+			id: "0F8827BBBAA5041B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64284BA66F2FFD01"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_aqua_leader_archie"
+				criterion: ""
+				id: "4AEE5154C72D1749"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: -9.25d
+		}
+		{
+			dependencies: ["3F0C5F9C45E93C9B"]
+			hide_until_deps_complete: true
+			id: "104430A2CA30862B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "51AA8F0CC84B70C5"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennelitefour_sidney"
+				criterion: ""
+				id: "223ED9E34A3CC37F"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["104430A2CA30862B"]
+			hide_until_deps_complete: true
+			id: "11E083A33050388B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7AD3F7D11434C75E"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennelitefour_phoebe"
+				criterion: ""
+				id: "4FDA464911AA4958"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["11E083A33050388B"]
+			hide_until_deps_complete: true
+			id: "4F7BA247FBDEE8D2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1FB1806E7735816C"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennelitefour_glacia"
+				criterion: ""
+				id: "176C767F2C183726"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["4F7BA247FBDEE8D2"]
+			hide_until_deps_complete: true
+			id: "78D354EFB0CADB88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2961A429FEA9DC0D"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennelitefour_drake"
+				criterion: ""
+				id: "339D89C59534A16F"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["78D354EFB0CADB88"]
+			hide_until_deps_complete: true
+			id: "7598CFF81AEC1D94"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "659575942027455C"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59EF429E12935207"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_hoennchampion_steven"
+				criterion: ""
+				id: "0BFF30BFAFDE62AE"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["0FDF591ECB2A2801"]
+			hide_until_deps_complete: true
+			id: "407894E25BE1064E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "13622ABAA5237718"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloselitefour_malva"
+				criterion: ""
+				id: "7EF8C2A559E85CC1"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["407894E25BE1064E"]
+			hide_until_deps_complete: true
+			id: "492AF8B488484289"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42770C4ED93F3E45"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloselitefour_siebold"
+				criterion: ""
+				id: "6B07A3BD174CD876"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["492AF8B488484289"]
+			hide_until_deps_complete: true
+			id: "4701C05C18BEB52D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CA35C763B45D83B"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloselitefour_wikstrom"
+				criterion: ""
+				id: "7CE08FED73E5F444"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["4701C05C18BEB52D"]
+			hide_until_deps_complete: true
+			id: "4EAD6FAE2C328972"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C6E23B5BD771492"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloselitefour_drasna"
+				criterion: ""
+				id: "0E2450C23356BCFB"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["4EAD6FAE2C328972"]
+			hide_until_deps_complete: true
+			id: "44474B6B22FD5A8F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51AF95E67CEA7910"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4412C0AF55000DB0"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_kaloschampion_diantha"
+				criterion: ""
+				id: "6825BB745084274A"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["3747C87D0228C026"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:premier_ball"
+			}
+			id: "06E4AE96F032B599"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "49EE17BC5A6CF6AE"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "28D26E46ACB3835D"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_teamplasma"
+				criterion: ""
+				id: "34E75E02EA176DC9"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["7D485A4492FD50E0"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:slate_ball"
+			}
+			id: "66D0D5DA45F23F4A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "420DB1F89C19F716"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17AF3D2F30A83205"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_neoteamplasma"
+				criterion: ""
+				id: "7EE28BF322F5CF0A"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["0718DC1BF356EF9A"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:ancient_slate_ball"
+			}
+			id: "2AC7E2F4A0534F64"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "765D1B12EE5982EE"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C4FCD537F70E172"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_sevensages"
+				criterion: ""
+				id: "2FC7905B1568D03D"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["78321986F007F417"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:citrine_ball"
+			}
+			id: "426E097FF946812B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F3D7CE301327478"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_yellow"
+				criterion: ""
+				id: "77CC8E0C6C8F1B72"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["4A829E643AC37321"]
+			hide_until_deps_complete: true
+			id: "0889D2E85E92A4B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "714EF5ED9FD4466C"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaelitefour_shauntal"
+				criterion: ""
+				id: "2083184B3A65D2BA"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["0889D2E85E92A4B8"]
+			hide_until_deps_complete: true
+			id: "6E6CAE04E02B35DC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FB8ED3803260E3A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaelitefour_marshal"
+				criterion: ""
+				id: "3F305C950889BCA6"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["6E6CAE04E02B35DC"]
+			hide_until_deps_complete: true
+			id: "591400A5ECEC4FFD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76A04AB29F1614FE"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaelitefour_grimsley"
+				criterion: ""
+				id: "606137AD079129AF"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["591400A5ECEC4FFD"]
+			hide_until_deps_complete: true
+			id: "4C5A165824160A64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56AFD62E826F2277"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovaelitefour_caitlin"
+				criterion: ""
+				id: "4BDBC12F9E9A8715"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 5.25d
+		}
+		{
+			dependencies: ["4C5A165824160A64"]
+			hide_until_deps_complete: true
+			id: "64E0287838C7DA52"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DE4BEC67DB3BADC"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B4C066F24BE2869"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_unovachampion_alder"
+				criterion: ""
+				id: "77151E0C7E62DB2C"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 6.25d
+		}
+		{
+			dependencies: ["426E097FF946812B"]
+			hide_until_deps_complete: true
+			id: "50AFC9009E949083"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E60FF4A4D9CE959"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_ruby"
+				criterion: ""
+				id: "6C2151B173F60A66"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["50AFC9009E949083"]
+			hide_until_deps_complete: true
+			id: "1634DB0F3204D89A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1DC700074ED49422"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_sapphire"
+				criterion: ""
+				id: "1A56ED0390C6F77F"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["1634DB0F3204D89A"]
+			hide_until_deps_complete: true
+			id: "5C5D0B0BEAA0AD8C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3CBB4DEE9D74DFD7"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_emerald"
+				criterion: ""
+				id: "06C5E66EA3D80294"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["5C5D0B0BEAA0AD8C"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:poke_ball"
+			}
+			id: "2F4F4598A7CAA60C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "62571FC0FF4C60B6"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_red"
+				criterion: ""
+				id: "3982E98D4B0D2D7C"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: -6.25d
+		}
+		{
+			dependencies: [
+				"2F4F4598A7CAA60C"
+				"54485BB286498B66"
+				"349211F0043F0E01"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "2AECD10AF8F619C0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37FFC4103E239B9B"
+					table_id: 8073137243134134885L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43E7C4E107C030B4"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "409A048EE888C7D3"
+					table_id: 471480668519941251L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_all_mangatrainers"
+				criterion: ""
+				id: "184044DF773BD9D4"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -7.25d
+		}
+		{
+			dependencies: ["426E097FF946812B"]
+			hide_until_deps_complete: true
+			id: "7A6A134C514A7A76"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B0F4EBB0C932039"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_diamond"
+				criterion: ""
+				id: "474CA3E6FC9D215B"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["7A6A134C514A7A76"]
+			hide_until_deps_complete: true
+			id: "535BB8F50E5CD7B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56FAF61F87EEF884"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_pearl"
+				criterion: ""
+				id: "17025B932BA39FC7"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["535BB8F50E5CD7B5"]
+			hide_until_deps_complete: true
+			id: "3E6E3C04CE4CE74C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "003AFE607E3178C1"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_platinum"
+				criterion: ""
+				id: "445F7EB3590553F0"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["3E6E3C04CE4CE74C"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:azure_ball"
+			}
+			id: "54485BB286498B66"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E9F747997985486"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_blue"
+				criterion: ""
+				id: "4D49271FC6FBA803"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -6.25d
+		}
+		{
+			dependencies: ["426E097FF946812B"]
+			hide_until_deps_complete: true
+			id: "4D09E2B0CCB52388"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "694DCFA4750B720A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_crystal"
+				criterion: ""
+				id: "0031EE29D2693C4D"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -3.25d
+		}
+		{
+			dependencies: ["4D09E2B0CCB52388"]
+			hide_until_deps_complete: true
+			id: "6487E25E5F2DC045"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E59BB67B850440A"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_gold"
+				criterion: ""
+				id: "562150C496483DFF"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -4.25d
+		}
+		{
+			dependencies: ["6487E25E5F2DC045"]
+			hide_until_deps_complete: true
+			id: "7CF737201EB5D997"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D8E8335BC8AE390"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_silver"
+				criterion: ""
+				id: "5BD3687033F5AE03"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["7CF737201EB5D997"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"minecraft:enchantment_glint_override": 1b
+				}
+				id: "cobblemon:verdant_ball"
+			}
+			id: "349211F0043F0E01"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1397F8A7EF86DA4E"
+				table_id: 471480668519941251L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "rctmod:trainers/defeat_pokespe_green"
+				criterion: ""
+				id: "1D8165E9CD4F07E6"
+				type: "advancement"
+			}]
+			x: 8.5d
+			y: -6.25d
+		}
+	]
+}

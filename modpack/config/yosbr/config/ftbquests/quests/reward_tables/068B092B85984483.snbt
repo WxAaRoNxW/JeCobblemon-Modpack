@@ -10,7 +10,7 @@
 				count: 1
 				id: "cobblemon:exp_candy_xl"
 			}
-			weight: 9.0f
+			weight: 3.0f
 		}
 		{ id: "758BEB966B41449E", item: { count: 1, id: "cobblemon:rare_candy" } }
 	]

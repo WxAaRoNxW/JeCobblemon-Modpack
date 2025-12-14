@@ -1,0 +1,90 @@
+{
+	id: "6886DB8F90351173"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ id: "23A460EB42606F4E", item: { count: 1, id: "cobblemon:ability_shield" } }
+		{ id: "15E0C95A2D9FBB45", item: { count: 1, id: "cobblemon:absorb_bulb" } }
+		{ id: "727653A4E69196D9", item: { count: 1, id: "cobblemon:air_balloon" } }
+		{ id: "7FDA208771E8EBD6", item: { count: 1, id: "cobblemon:assault_vest" } }
+		{ id: "42AEB4E800F85ECC", item: { count: 1, id: "cobblemon:big_root" } }
+		{ id: "53BAB6717B9BAA80", item: { count: 1, id: "cobblemon:binding_band" } }
+		{ id: "464FDDDFC142EFF4", item: { count: 1, id: "cobblemon:black_sludge" } }
+		{ id: "5151D7A6238B3850", item: { count: 1, id: "cobblemon:blunder_policy" } }
+		{ id: "06B0BB32A764F653", item: { count: 1, id: "cobblemon:bright_powder" } }
+		{ id: "1837A6A3642CA25C", item: { count: 1, id: "cobblemon:cell_battery" } }
+		{ id: "3BFF2F273E45D45D", item: { count: 1, id: "cobblemon:choice_band" } }
+		{ id: "02034ECB9FA18F4C", item: { count: 1, id: "cobblemon:choice_scarf" } }
+		{ id: "395D765D05C91779", item: { count: 1, id: "cobblemon:choice_specs" } }
+		{
+			id: "03141BD1FDA2CC07"
+			item: {
+				count: 1
+				id: "cobblemon:cleanse_tag"
+			}
+			weight: 1.5f
+		}
+		{ id: "328C8B71E8ECC82E", item: { count: 1, id: "cobblemon:covert_cloak" } }
+		{ id: "20D23A378259C663", item: { count: 1, id: "cobblemon:damp_rock" } }
+		{ id: "73D83E8631ED517E", item: { count: 1, id: "cobblemon:deep_sea_scale" } }
+		{ id: "4674583DC421133D", item: { count: 1, id: "cobblemon:deep_sea_tooth" } }
+		{ id: "3B1F805E22DC3DBD", item: { count: 1, id: "cobblemon:destiny_knot" } }
+		{ id: "011CA404E7EBE9DA", item: { count: 1, id: "cobblemon:eject_button" } }
+		{ id: "70B3C4F66392A7D3", item: { count: 1, id: "cobblemon:eject_pack" } }
+		{ id: "690D849A6E3A5464", item: { count: 1, id: "cobblemon:everstone" } }
+		{ id: "21D5E4AF631B5CD1", item: { count: 1, id: "cobblemon:eviolite" } }
+		{ id: "52254BA680B1E620", item: { count: 1, id: "cobblemon:flame_orb" } }
+		{ id: "48B771FD34F476A2", item: { count: 1, id: "cobblemon:float_stone" } }
+		{ id: "55BBBD67800E1BD5", item: { count: 1, id: "cobblemon:focus_band" } }
+		{ id: "0D1D5D84F5A65098", item: { count: 1, id: "cobblemon:focus_sash" } }
+		{ id: "029A756FD9FAE153", item: { count: 1, id: "cobblemon:heat_rock" } }
+		{ id: "2FD99039F7205D8C", item: { count: 1, id: "cobblemon:iron_ball" } }
+		{ id: "728919662D8C4C6D", item: { count: 1, id: "cobblemon:kings_rock" } }
+		{ id: "409175CA7D6EAE43", item: { count: 1, id: "cobblemon:leftovers" } }
+		{ id: "32A8D5EF8A9FBB46", item: { count: 1, id: "cobblemon:life_orb" } }
+		{ id: "7138C59D25695A21", item: { count: 1, id: "cobblemon:light_ball" } }
+		{ id: "6E786684FF18C230", item: { count: 1, id: "cobblemon:light_clay" } }
+		{ id: "5EB3E325EF7CA89A", item: { count: 1, id: "cobblemon:loaded_dice" } }
+		{ id: "123CE60E7B227649", item: { count: 1, id: "cobblemon:medicinal_leek" } }
+		{ id: "45479AD8AA460F67", item: { count: 1, id: "cobblemon:mental_herb" } }
+		{ id: "3142B21ECABFAD2E", item: { count: 1, id: "cobblemon:metal_powder" } }
+		{ id: "4DEC7519DFF35FDC", item: { count: 1, id: "cobblemon:metronome" } }
+		{ id: "243C46AE612CBDDE", item: { count: 1, id: "cobblemon:mirror_herb" } }
+		{ id: "18748FE4DD4C8055", item: { count: 1, id: "cobblemon:muscle_band" } }
+		{ id: "37C3C04A2B4B53B1", item: { count: 1, id: "cobblemon:power_herb" } }
+		{ id: "0044F459C5216D68", item: { count: 1, id: "cobblemon:protective_pads" } }
+		{ id: "279ED69D3053F411", item: { count: 1, id: "cobblemon:punching_glove" } }
+		{ id: "7DEFBF83F20565A7", item: { count: 1, id: "cobblemon:quick_claw" } }
+		{ id: "27A3133F2F9D9B64", item: { count: 1, id: "cobblemon:quick_powder" } }
+		{ id: "741456CB31759B2E", item: { count: 1, id: "cobblemon:razor_claw" } }
+		{ id: "496C6CF2B212DEF2", item: { count: 1, id: "cobblemon:razor_fang" } }
+		{ id: "30DC676285EA702D", item: { count: 1, id: "cobblemon:red_card" } }
+		{ id: "7B6A69D5FCE50A8B", item: { count: 1, id: "cobblemon:ring_target" } }
+		{ id: "1A3A9385490C0619", item: { count: 1, id: "cobblemon:rocky_helmet" } }
+		{ id: "329F2A6440F9DF44", item: { count: 1, id: "cobblemon:room_service" } }
+		{ id: "0928190ADDAA0298", item: { count: 1, id: "cobblemon:safety_goggles" } }
+		{ id: "59F72BCB9331B4B0", item: { count: 1, id: "cobblemon:scope_lens" } }
+		{ id: "04EA4BFECDD1ACDD", item: { count: 1, id: "cobblemon:shed_shell" } }
+		{ id: "6E54F6A029C236EE", item: { count: 1, id: "cobblemon:shell_bell" } }
+		{
+			id: "532BD4333E090191"
+			item: {
+				count: 1
+				id: "cobblemon:smoke_ball"
+			}
+			weight: 1.5f
+		}
+		{ id: "64A371D3BDB44DD8", item: { count: 1, id: "cobblemon:smooth_rock" } }
+		{ id: "519450DF145BD3C5", item: { count: 1, id: "cobblemon:soothe_bell" } }
+		{ id: "570FF0B4E77692E1", item: { count: 1, id: "cobblemon:sticky_barb" } }
+		{ id: "26927750B0323C69", item: { count: 1, id: "cobblemon:terrain_extender" } }
+		{ id: "0FF3462DDBCB87F5", item: { count: 1, id: "cobblemon:throat_spray" } }
+		{ id: "5566733758DCC895", item: { count: 1, id: "cobblemon:toxic_orb" } }
+		{ id: "554F46D760BCE409", item: { count: 1, id: "cobblemon:utility_umbrella" } }
+		{ id: "62AC56404ECF9EC1", item: { count: 1, id: "cobblemon:weakness_policy" } }
+		{ id: "044CAB38F8DE5479", item: { count: 1, id: "cobblemon:white_herb" } }
+		{ id: "4ADDC7DAE1A64A35", item: { count: 1, id: "cobblemon:wide_lens" } }
+		{ id: "41E93DA762C824CB", item: { count: 1, id: "cobblemon:wise_glasses" } }
+		{ id: "28B44FD2FD39200D", item: { count: 1, id: "cobblemon:zoom_lens" } }
+	]
+}

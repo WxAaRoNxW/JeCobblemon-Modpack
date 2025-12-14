@@ -1,0 +1,425 @@
+{
+	autofocus_id: "3CBA53AFE5BB2BF1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exchange"
+	group: "772865AADCA07DAF"
+	icon: {
+		id: "farmingforblockheads:market"
+	}
+	id: "62613C5C11C9220F"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["758E204F85C6AA96"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "3CBA53AFE5BB2BF1"
+			size: 2.0d
+			tasks: [{
+				id: "663C01C3D25F3EDC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"6CD1CD51F7212B87"
+				"5AF2A58A989CD3E6"
+				"3EEA50E2FBB41635"
+				"751EC2CA5F67E87E"
+				"027872DFD104A8DC"
+				"2A1EA1FD182AC710"
+				"672D5461C6D1691F"
+				"11BD15C7AD3C800D"
+				"69C8781D27279806"
+				"292BE35215E0D8CA"
+				"0292669ABB92D449"
+				"5FFA13B7DDBF2A8E"
+				"62C8A5C8C2019D14"
+				"576D91643679DF94"
+				"0358AEC63E56FF20"
+				"19584C3142A729A7"
+				"3CBA53AFE5BB2BF1"
+			]
+			hide_until_deps_complete: true
+			icon_scale: 0.75d
+			id: "45061A13EA1D6B90"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "552BFAF16ABE9E98"
+				table_id: 8209949523087884796L
+				type: "choice"
+			}]
+			shape: "heart"
+			tasks: [
+				{
+					consume_items: true
+					id: "570FC525A2976A0E"
+					item: { count: 1, id: "cobblemon:helix_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "703EEC8834558591"
+					item: { count: 1, id: "cobblemon:dome_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "2B7F805131DF3D9E"
+					item: { count: 1, id: "cobblemon:old_amber_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "20E9E7B35233E9E1"
+					item: { count: 1, id: "cobblemon:root_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "248EFBFD2A1F8EBD"
+					item: { count: 1, id: "cobblemon:claw_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "617C66BE319D7A78"
+					item: { count: 1, id: "cobblemon:skull_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "08E65EF9975BFCA9"
+					item: { count: 1, id: "cobblemon:armor_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5D338BA10B163C8F"
+					item: { count: 1, id: "cobblemon:cover_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7666C705D1A7848A"
+					item: { count: 1, id: "cobblemon:plume_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "3B996E0CCD9EB206"
+					item: { count: 1, id: "cobblemon:jaw_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "1C4BCACC03140DB7"
+					item: { count: 1, id: "cobblemon:sail_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "03F5B89BD60FDD3B"
+					item: { count: 1, id: "cobblemon:fossilized_bird" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5340E7637B6FB414"
+					item: { count: 1, id: "cobblemon:fossilized_fish" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "6E7997937359E1E9"
+					item: { count: 1, id: "cobblemon:fossilized_drake" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "4920CBB796FF315E"
+					item: { count: 1, id: "cobblemon:fossilized_dino" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3CBA53AFE5BB2BF1"]
+			icon_scale: 0.75d
+			id: "4AC48D91CBF0824D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "456496E4D17B8B28"
+				table_id: 190420228584340208L
+				type: "choice"
+			}]
+			shape: "heart"
+			tasks: [
+				{
+					consume_items: true
+					id: "0BA87360A9500C9B"
+					item: { count: 1, id: "cobblemon:master_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5499E6AF978EAB02"
+					item: { count: 1, id: "cobblemon:ancient_origin_ball" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3CBA53AFE5BB2BF1"]
+			hide_until_deps_complete: true
+			icon_scale: 0.75d
+			id: "5D0E8439F1E717F5"
+			rewards: [
+				{
+					id: "19AB7265C4F7BA48"
+					item: {
+						count: 1
+						id: "tcgcobblemon:pack_red"
+					}
+					type: "item"
+				}
+				{
+					id: "0965CC5DCE985E7A"
+					item: {
+						count: 1
+						id: "tcgcobblemon:pack_blue"
+					}
+					type: "item"
+				}
+				{
+					id: "20DD0636604E1660"
+					item: {
+						count: 1
+						id: "tcgcobblemon:pack_green"
+					}
+					type: "item"
+				}
+				{
+					id: "1C71C2F1A7FE5903"
+					item: {
+						count: 1
+						id: "tcgcobblemon:pack_yellow"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			tasks: [{
+				id: "3FCF009902F1D5EB"
+				item: { count: 1, id: "ftblibrary:icon_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"55819E013B7598B1"
+				"3CBA53AFE5BB2BF1"
+			]
+			hide_until_deps_complete: true
+			icon_scale: 0.75d
+			id: "67A4045BA6079659"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B2FB77FB6D4C2F3"
+				table_id: 1201804678714630829L
+				type: "choice"
+			}]
+			shape: "heart"
+			tasks: [
+				{
+					consume_items: true
+					count: 3L
+					id: "7FB521729DD0BD0C"
+					item: { count: 1, id: "cobblemon:poke_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "6D1FDCBA6FBCFA2C"
+					item: { count: 1, id: "cobblemon:citrine_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "1B5B850760E47581"
+					item: { count: 1, id: "cobblemon:verdant_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "4B5576FEA3233BC5"
+					item: { count: 1, id: "cobblemon:azure_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "6EA44B8A7A18324E"
+					item: { count: 1, id: "cobblemon:roseate_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "5F549E4D2C2FC042"
+					item: { count: 1, id: "cobblemon:slate_ball" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "339250DD6A0876C4"
+					item: { count: 1, id: "cobblemon:premier_ball" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3CBA53AFE5BB2BF1"]
+			id: "6D12E5C26AA8D210"
+			rewards: [
+				{
+					id: "6AD559113CBEB3AD"
+					item: {
+						count: 1
+						id: "pokeblocks:airuhsea_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "23BBD9D26F3C4003"
+					item: {
+						count: 1
+						id: "pokeblocks:damorgo_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "169A47FC2E2826FC"
+					item: {
+						count: 1
+						id: "pokeblocks:doncheadle_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "765B9EB8D0717074"
+					item: {
+						count: 1
+						id: "pokeblocks:a09robert_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "1356173FB72BBE9C"
+					item: {
+						count: 1
+						id: "pokeblocks:red_communism_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "740AC6102D6102D4"
+					item: {
+						count: 1
+						id: "pokeblocks:tropsic0_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "5E5B508729E638E7"
+					item: {
+						count: 1
+						id: "pokeblocks:mik_03_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "2F31D472BF320739"
+					item: {
+						count: 1
+						id: "pokeblocks:pohello_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "30E389167FE50192"
+					item: {
+						count: 1
+						id: "pokeblocks:cheezygrate_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "365A9D1F9D9485EC"
+					item: {
+						count: 1
+						id: "pokeblocks:exhs_figurine"
+					}
+					type: "item"
+				}
+				{
+					id: "5D0B5A157CA129E6"
+					item: {
+						count: 1
+						id: "pokeblocks:__morph_figurine"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			tasks: [{
+				id: "1DC62A3C89A8C0A8"
+				item: { count: 1, id: "ftblibrary:icon_item" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+	]
+}

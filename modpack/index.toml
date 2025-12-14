@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e5f4810bfe784fbd51925cbd6d55e3b370560e8bc2493409c4666b0ccece0f70"
+hash = "ac01ffa5b2509eb87abefd705dcfb85259e8fb0655dd48d60585e96411b164fc"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -462,31 +462,55 @@ hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/chapter_groups.snbt"
-hash = "8dcf348de58e9807dbbaef358d24509378a043d324df1fd65d7ee99facf269b8"
+hash = "dacb2b62b95d86e194c82f9a4fedb8085d69b2d7c55ba7f86e2edabbe69108a2"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/chapters/advanced.snbt"
+hash = "0fc42e69df84ed83bf96dad74834678fb4d83022ece481b9ae4d5274a452d3fc"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/chapters/basics.snbt"
-hash = "302e7d41aa8fb56acf2cae272eff9aa5be878f28ab6f123153ef86bd9caeb82e"
+hash = "58a4ca13bd1e05c2e92475ab2a29c192b767430169bbc02aa1e67f2bdf53ce90"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/chapters/cobblemon.snbt"
-hash = "83648ff1296e27836ff3f7eeef6196a40c678616934ca01df97fa191c39757ad"
+hash = "df610e3f97748be943d0fe5705ffca1efccd901182a6cfb91a749b8abcc1759e"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/chapters/easter_eggs.snbt"
-hash = "26c7b5660ed202f47ae121422060fb28792025adab4fb8d2c3d8d029815d481e"
+hash = "2420e3028cd8caf1f14281f6cebdf1a4af08532a68269e4f619ba6fa7ae3cd8b"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/chapters/exchange.snbt"
+hash = "fa06b50f2b909304344872ad7712a21831b3577f87cf62a4105ad70478b5eadf"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/chapters/pokeballs.snbt"
+hash = "d0532dd3a23f03934b1655b1604ebd08d958e4df7c9ad3465e73d02746c3c55f"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/chapters/pokemons.snbt"
+hash = "498b27d2910f67bb83245e452bc9c5c5991971a8a85dddbe42c834769ef4735b"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/chapters/trainer_series.snbt"
+hash = "00137b5b4ed7003d58e67964c07804a302eb0ab57c38242032da3cbf3c91a35b"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/data.snbt"
-hash = "69a14c76e92a6ce2040ed333bfbff414c5bdeb26ded062416155ed7ad2eae8fd"
+hash = "b59c3fb5af6d3d0009e71c4b87b10fa51508f7c0eef5e277b97d32e0f25e4d8c"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/lang/en_us.snbt"
-hash = "2359d8b233e5300d7417e60d15e265038279aa3b7c0e4049da67b40c141cd790"
+hash = "982501aa36a156c6b71eaf0dbd6d518ce06419f0ffa59f02722010d030b05c3e"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/reward_tables/02A4823062D17AF0.snbt"
+hash = "dbab38b7ce66ce00951d39389687fe19bb591eace112f9aed6418012db5c2404"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/068B092B85984483.snbt"
-hash = "d15f35bd0d649fc5f2a90b1044c7fa6c133a1f1c158501ca0f4248b11a6703f5"
+hash = "83867c4f63a67be7d18d2583c0de7fed3e3d58200d9acc96f39a64a54c0adef3"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/10ADAAFCE43022AD.snbt"
@@ -494,7 +518,7 @@ hash = "bd3d2af9a22795798e05b1e927222b6d1d9b9e39a852955f02e87fa5b2bc456d"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/1A35C731BD993166.snbt"
-hash = "f9bf71a46c6a617604de1c3160e84d3fdaea623311c316c3526e86082875067a"
+hash = "9120234300260a10e973295a42c771e0ecd683585662d8f73499af60612a43a0"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/293CFF94026A360E.snbt"
@@ -517,8 +541,16 @@ file = "config/yosbr/config/ftbquests/quests/reward_tables/4AD8D12618A13AE8.snbt
 hash = "2644eb264ad1101b8b1b9b8d269fd7689667c899cb0dd4555024fdff663157e4"
 
 [[files]]
+file = "config/yosbr/config/ftbquests/quests/reward_tables/549D94587769769A.snbt"
+hash = "47fb89966f3317cef642f00a7e47d44240e0b4c0687ee47fd29929eded6001e4"
+
+[[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/61C23423E01AD735.snbt"
 hash = "404672f53d07822ad7c6f6dfd3c39665fd28af66657eb69c093221c078bdd825"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/reward_tables/6886DB8F90351173.snbt"
+hash = "15093aaf772e8e4b8abfb30fa37ed7aeefac45ccf86b690ce15b33e65761c46e"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/6F0212D28D2484A0.snbt"
@@ -527,6 +559,14 @@ hash = "b313655601051b8dff1c4c524ecbb46a4bfa08453a502288e2b61f7ffcd953ce"
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/70098B8C9FFC8A65.snbt"
 hash = "bb95a0074fc7e465a59eca95152da45ab15184182f325a7c4ad0cb64c0cb2dc1"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/reward_tables/70B23C18356F9A89.snbt"
+hash = "d8f257fd67f8dc51a35dfbbe05f0dc3c58bd1de8a42bd7073f1f5425f493dfb4"
+
+[[files]]
+file = "config/yosbr/config/ftbquests/quests/reward_tables/71EF9997D38A81FC.snbt"
+hash = "d73381327d1280ce4976c9f23a37ecbdd8dcbd45daaa662704d36d0e393ddd28"
 
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/7E1FAA9529D39844.snbt"
