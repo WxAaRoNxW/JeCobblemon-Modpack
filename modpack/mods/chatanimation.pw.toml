@@ -14,5 +14,5 @@ version = "mezhyzfP"
 
 [option]
 optional = true
-description = "[Visuals] Chat box and chat messages appears smoothly instead of popping in or out"
 default = true
+description = "[Visuals] Chat box and chat messages appears smoothly instead of popping in or out"

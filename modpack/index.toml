@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "144d307cd9dbe34caeb15ebbc1d1a43fe2fc769da8aa5f7f9981927bea832f64"
+hash = "c98b70642b045ead8c269119a0007beb03c817220081ee028097b38248337804"
 metafile = true
 
 [[files]]
@@ -2669,7 +2669,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "c0fd0147486f98dfd3cfe942bc63298ad82fc9e1fc4c71023b51d8abccc13cbc"
+hash = "b273587c07af16d98c4ce15e2668b9afcddafa592fab7cb518414933887a135f"
 metafile = true
 
 [[files]]

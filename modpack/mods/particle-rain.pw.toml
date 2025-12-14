@@ -14,5 +14,5 @@ version = "dnj8eTAw"
 
 [option]
 optional = true
-default = false
+default = true
 description = "[Visuals] [Configurable] Beautiful rain particles instead of 2D animated sprites. Warning: Performance heavy, Will impact your FPS."
