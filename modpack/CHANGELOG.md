@@ -18,6 +18,9 @@ v1.2.0 Beta - Remove Sitting Plus
 		- Moved more keybinds
 			- Battle Extras Log - Moved to \ (with box link)
 			- Emote Craft - Moved to X (formerly sitting plus)
+			
+- Removed
+	- Sitting Plus - Issues with sitting animation in this pack.
 	
 </details>
 

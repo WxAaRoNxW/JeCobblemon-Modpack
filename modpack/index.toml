@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "677e4d8550893e6ab4717ba67a1fccf5e402dc630297c040179d4fc5bf3a402a"
+hash = "5ca4360cd62d9d47acd173368eae0a8004e96c0460fa4478fcf9cb1a5509c20d"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2949,11 +2949,6 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
-metafile = true
-
-[[files]]
-file = "mods/sitting+.pw.toml"
-hash = "abe42bb03a552d4cd4ffb3e57a3494a599fdaf580744fb0ef12fcdb2cc813798"
 metafile = true
 
 [[files]]
