@@ -1,4 +1,14 @@
 # Changelog
+<details>
+<summary><b>
+v1.1.1 Beta - Remove Sodium Extras
+</b></summary>
+
+- Removed
+	- Sodium Extras - Again, this time new mods causes crash with it.
+	
+</details>
+
 <details open>
 <summary><b>
 v1.1.0 Beta - Config and Optimize

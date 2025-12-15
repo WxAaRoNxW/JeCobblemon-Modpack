@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8919b39ff477732c09e7b9020aa51e8fea2ab5d95568f4cf8ae01d3aaa44ea88"
+hash = "891098d2854982a6a27c4135cfd57fd9e063ac533fdda30d64b96a158431b60f"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2998,11 +2998,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "79672e39a2b1b904d2e74901791c7a068ac2cbf0c73fc4330d22e4b5688145d3"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "247d0c160732895f6bc4a3cf0f0ccf74f55fc9ea67800e87495b8d817093fbbe"
 metafile = true
 
 [[files]]
