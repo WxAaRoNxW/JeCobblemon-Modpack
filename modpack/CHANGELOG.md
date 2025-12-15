@@ -51,6 +51,7 @@ v1.1.0 Beta - Config and Optimize
 	- Spyglass - Not placeable in belt.
 	- Multiworld - Issues with redstones and ticks.
 	- Fresh Animations - Partially Fixed texture issue.
+	- T-Posed cobblemons - Disabled CobbleMotion for now.
 
 </details>
 
