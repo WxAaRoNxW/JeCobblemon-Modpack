@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "891098d2854982a6a27c4135cfd57fd9e063ac533fdda30d64b96a158431b60f"
+hash = "677e4d8550893e6ab4717ba67a1fccf5e402dc630297c040179d4fc5bf3a402a"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -757,6 +757,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 
 [[files]]
+file = "config/yosbr/config/shouldersurfing-client.toml"
+hash = "1002ba861fb77d5f7b602ffa86f48d5881bf69468cb0a75aba6e9f003abb18fc"
+
+[[files]]
 file = "config/yosbr/config/showmeyourskin-server.json"
 hash = "dd7b57375d24bdb15083a8cf66226fc0480159d31fb672cec4d8dcd6f27f1a5b"
 
@@ -806,7 +810,7 @@ hash = "9b5ee63cbd89e3bd726f2da756a586faa8a120f3e11d4ab49c476583eef61593"
 
 [[files]]
 file = "config/yosbr/config/sophisticatedbackpacks-server.toml"
-hash = "8f58e42f3c3fbf6ba9b307eace9dd1df0215a24b5a5abf7d210f7514434c51b2"
+hash = "dd26578c821a1d0692223027fe8529e226a26391f73f3499206ecb517e78c866"
 
 [[files]]
 file = "config/yosbr/config/sophisticatedcore-common.toml"
@@ -825,12 +829,8 @@ file = "config/yosbr/config/spawn_notification.json"
 hash = "58e385fa894c74df210c5af48afc9c32beedecf1cc42c9cf450c44289274cf2f"
 
 [[files]]
-file = "config/yosbr/config/stendhal/stendhal.properties"
-hash = "9475d8c3f0bc7d3f5c3083ff02d9e651b94fa19a2343b408642896b128b19f7a"
-
-[[files]]
 file = "config/yosbr/config/stfu.json5"
-hash = "7edc130b638704c87bfdfad1a437e0b71fd8c94f50ff6eecb20e750aa9885651"
+hash = "1561fcc825a1037e27264c31bd721d36d2971a06d1a218628ab767c22037568d"
 
 [[files]]
 file = "config/yosbr/config/subtle_effects/entities.toml"
@@ -873,10 +873,6 @@ file = "config/yosbr/config/wakes.json"
 hash = "d50a004c752165cfbe5f1f542ea64eaeaf4c8341bf7a6bf4c36941b607fa0930"
 
 [[files]]
-file = "config/yosbr/config/wover/client.json"
-hash = "d153718add9331525489a877be8db36920940cacd5aebc5082041554dcb38f14"
-
-[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "6780e13e3f008b7897d0a98649f6ce5bf9aa855fc9e0a5b07e647eefdd96d362"
 
@@ -906,7 +902,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6ed58c2b3fd7d93fc96d0b983171cbb179e679185d62a43efe26b07ca4237197"
+hash = "f76a5fb8303bb450c8bf1bbf7fc955775be6fc028cf4f41e6ba10530ad71eb55"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"

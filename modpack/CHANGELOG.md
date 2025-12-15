@@ -1,6 +1,28 @@
 # Changelog
 <details>
 <summary><b>
+v1.2.0 Beta - Remove Sitting Plus
+</b></summary>
+
+- Changed
+	- Config
+		- Clean up unused config
+			- Stendhal
+			- Wover (better X)
+		- Shoulder Surfing
+			- Disabled vanilla back Third Person
+			- Default perspecting on load
+		- Sophisticated Backpacks - More nerfs, limit to 2, increase slowness level, toggleable upgrades no longer work when not worn.
+		- STFU - Reenabled Load Terrain.
+	- Option
+		- Moved more keybinds
+			- Battle Extras Log - Moved to \ (with box link)
+			- Emote Craft - Moved to X (formerly sitting plus)
+	
+</details>
+
+<details>
+<summary><b>
 v1.1.1 Beta - Remove Sodium Extras
 </b></summary>
 
