@@ -2019,16 +2019,6 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
-file = "mods/forget-me-wand.pw.toml"
-hash = "a47ca03679ebc282917cb417e3547a8a4d8f2bebeaa21a0d1bbabdfb79077a87"
-metafile = true
-
-[[files]]
-file = "mods/forgiving-void.pw.toml"
-hash = "edd888c58c2cefb32caee523f61a2a60784bc83f33017ab36a8b5708bd01b684"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "c61df29db3d8f1ddb434daae6dc8943e26a1e0ee548f3266355cd6490b6e9f3d"
 metafile = true
