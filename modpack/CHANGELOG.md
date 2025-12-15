@@ -10,6 +10,7 @@ v1.1.0 Beta - Config and Optimize
 		- Box Link - Portable PC.
 		- Parts Refabricated - Added back.
 		- Research Tasks - Sink your time in this mod, over 6k+ tasks.
+	- Emotecraft - You can add your own animated emotes or download somewhere.
 	- Sodium Extras - Re-added for fog.
 
 - Changed

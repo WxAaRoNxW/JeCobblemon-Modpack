@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "09c849632562414d0f8326cee3bff0b50c4eb1ad525037e2fd822237136169f5"
+hash = "8b05d2f1d7e48ba37135b8c149f785e4b627353185ab738e64932c69a01ec73c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1826,6 +1826,11 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "87dc510f0c2a479e7e192c5c1f9f91eaf76e84a548388b6fe4aa6c24c517860b"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "135837201d4c30811971e630e957867397b995e6803ff75754d510bf1b4fe8fc"
 metafile = true
 
 [[files]]
