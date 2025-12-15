@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "8b05d2f1d7e48ba37135b8c149f785e4b627353185ab738e64932c69a01ec73c"
+hash = "72c6c1c85d5983dd51677724c2248569a466f25d3856774779dcce6852bfe5fb"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2545,7 +2545,7 @@ metafile = true
 
 [[files]]
 file = "mods/multiworld.pw.toml"
-hash = "faae2274a5edeae8ed054f2f5a323bae0a94dddb22eaec6db26292067de1279f"
+hash = "d4e98c42f972d33c0f85ab984d98fd28fa839476af602dd37b9d59f5eecea49e"
 metafile = true
 
 [[files]]
@@ -3089,7 +3089,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "66240aba12e8ae1e0c86efadae1b6a769852f62e0ab749027071fc483e4d5823"
+hash = "03408fcc2ea2561232737852d96cc5f4d618b1c9d19bdc8824ba8011f0a0aa87"
 metafile = true
 
 [[files]]
@@ -3154,7 +3154,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a0eb4458c2bd923add2ea132822a8634b763b892ddd08dd1d1087fc691797f06"
+hash = "2b5b3507d26679e579d7abf8950f4e8d345f6050f3f923264c3336e9567d3c32"
 metafile = true
 
 [[files]]
@@ -3486,7 +3486,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]

@@ -16,8 +16,24 @@ v1.1.0 Beta - Config and Optimize
 - Changed
 	- Recipe
 		- Smartphone - Recipe changed to use Electirizer and Box Link.
+	- Multiworld - Downgraded again, and pinned
+	- Spyglass Improvement - change side from server to both, to enable Accessory slot
+
+- Updated
+	- Downgrade
+		- <b>Multiworld</b>: 1.10 `<-` 1.11.
+		- <b>Fresh Animations</b>: 10.0.1 `<-` 10.0.2
+	- Supplementaries - Pinned mod version.
+
 - Removed
 	- Sawmill - Long load times.
+	- Forget Me Wand - Too much loot gained, modpack contains lots of trials.
+	- Forgiving Void - Abusable with infinite altitude and elytra.
+
+- Fixed
+	- Spyglass - Not placeable in belt.
+	- Multiworld - Issues with redstones and ticks.
+	- Fresh Animations - Partially Fixed texture issue.
 
 </details>
 
