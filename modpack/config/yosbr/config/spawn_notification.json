@@ -1,4 +1,12 @@
 {
-  "broadcastCoords": false,
-  "broadcastBiome": true
+  "broadcastBiome": true,
+  "disabledSituations": [
+    "spawn_notification:ultra_rare/spawned",
+    "spawn_notification:ultra_rare/snacked",
+    "spawn_notification:shiny/spawned",
+    "spawn_notification:shiny/snacked"
+  ],
+  "disabledSegments": [
+    "spawn_notification:coordinates"
+  ]
 }

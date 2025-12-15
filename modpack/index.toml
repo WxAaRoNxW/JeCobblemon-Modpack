@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "72c6c1c85d5983dd51677724c2248569a466f25d3856774779dcce6852bfe5fb"
+hash = "6dc88081ab9ca1b7f4e5141fa8cdc21aa1f3ad7f7c2144160ae7b7e6955a6527"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -397,10 +397,6 @@ file = "config/yosbr/config/dynamiccrosshair.json5"
 hash = "add5ed0bc9c7f6acbbef0041e48423f0538c88de9abb92961bb82191cc5f3f89"
 
 [[files]]
-file = "config/yosbr/config/emi.css"
-hash = "22b04716f7fe64a47059eb6f760f17474eb041846267f89803372642225539f6"
-
-[[files]]
 file = "config/yosbr/config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
@@ -594,7 +590,7 @@ hash = "da1dd76f2eb692188549221684f8067e4a78a56df15e0499c078985caeaafbd3"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b92da29c79f35e2f8141ccba226cbcd7f6d5b653322e20cc8250d1bdf5ca0202"
+hash = "4ba04c9d08b78d92075fd990591c251aa2aa2821fb9dc6f5e0bf8014c3634d6e"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -679,6 +675,10 @@ hash = "93dfaa5297b910e06d366607937016cbfeb91cf54a8b633acf183502c4ba2342"
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
+
+[[files]]
+file = "config/yosbr/config/numismatic-overhaul.json5"
+hash = "c715f058388984a7929302e963bfe82cb537170d75eb207863aa3bb26d14f8fa"
 
 [[files]]
 file = "config/yosbr/config/obscuria/loot_journal-client.toml"
@@ -801,6 +801,14 @@ file = "config/yosbr/config/soldisco.json5"
 hash = "9ab7cb21546a43061d15642d48e486d06e3e63cbb4881392e539a9ff9cd9f87c"
 
 [[files]]
+file = "config/yosbr/config/sophisticatedbackpacks-common.toml"
+hash = "9b5ee63cbd89e3bd726f2da756a586faa8a120f3e11d4ab49c476583eef61593"
+
+[[files]]
+file = "config/yosbr/config/sophisticatedbackpacks-server.toml"
+hash = "8f58e42f3c3fbf6ba9b307eace9dd1df0215a24b5a5abf7d210f7514434c51b2"
+
+[[files]]
 file = "config/yosbr/config/sophisticatedcore-common.toml"
 hash = "ca6b18fe72ae371ba9ec30a05df8eb997c461a3884601b5f29febb58efae6262"
 
@@ -810,11 +818,11 @@ hash = "e3e517248e61a104b80ddd025278aece542fcb229f8c830bac5625c0d3a7120c"
 
 [[files]]
 file = "config/yosbr/config/sounds/ui.json"
-hash = "50ccfd44bb3cfc5fdbc447c12c51ed522f96992d2eeb7b66be5d0f72daa8dcf6"
+hash = "7bc22bc2f3d13f3843c92b2e45aaa729af77172b10958df1d19b04da5ecb29f5"
 
 [[files]]
 file = "config/yosbr/config/spawn_notification.json"
-hash = "98fbb75e8435c71a4a9153b04a386a22b0f424bbd5bac08b874f0f8f26c5d73a"
+hash = "58e385fa894c74df210c5af48afc9c32beedecf1cc42c9cf450c44289274cf2f"
 
 [[files]]
 file = "config/yosbr/config/stendhal/stendhal.properties"
@@ -827,6 +835,10 @@ hash = "7edc130b638704c87bfdfad1a437e0b71fd8c94f50ff6eecb20e750aa9885651"
 [[files]]
 file = "config/yosbr/config/subtle_effects/entities.toml"
 hash = "0ae063197470b988938f72e9e025a40980cb36676e905c84442ce1af802d5460"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/items.toml"
+hash = "dfbca902f75cbccfb392d0297b3222408ee55d0232ccc3d7081f0dc43f802d03"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -894,7 +906,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cefece0f15b2b6a7f4e7cc58d8e5768013aa80ec56cfaf7444d44d27024f70bb"
+hash = "be17237b3b15d8ade89e1024343bec5d7a2c3678369eebf3d7097a6eb2b86d58"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
@@ -2612,10 +2624,6 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
 metafile = true
-
-[[files]]
-file = "mods/numismatic-overhaul.json5"
-hash = "c715f058388984a7929302e963bfe82cb537170d75eb207863aa3bb26d14f8fa"
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"

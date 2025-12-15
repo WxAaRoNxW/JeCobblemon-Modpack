@@ -39,6 +39,8 @@ key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
 key_key.cobblemon_smartphone.open:key.keyboard.grave.accent
 key_Pokémon Info:key.keyboard.grave.accent
+key_key.cobblemonraiddens.accept:key.keyboard.comma
+key_key.cobblemonraiddens.deny:key.keyboard.comma
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -125,6 +127,21 @@ key_key.pingwheel.open_settings:key.keyboard.keypad.0
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_seamless_loading_screen.keybind.config:key.keyboard.keypad.0
+key_key.shouldersurfing.adjust_camera_left:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_right:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_in:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_out:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_up:key.keyboard.unknown
+key_key.shouldersurfing.adjust_camera_down:key.keyboard.unknown
+key_key.shouldersurfing.swap_shoulder:key.keyboard.o
+key_key.shouldersurfing.toggle_first_person:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
+key_key.shouldersurfing.free_look:key.keyboard.left.alt
+key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
+key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
+key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
 key_key.sittingplus.sit:key.keyboard.x
 key_soldisco.key.food_history:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b

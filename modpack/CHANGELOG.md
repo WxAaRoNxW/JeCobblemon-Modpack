@@ -16,12 +16,29 @@ v1.1.0 Beta - Config and Optimize
 - Changed
 	- Recipe
 		- Smartphone - Recipe changed to use Electirizer and Box Link.
-	- Multiworld - Downgraded again, and pinned
-	- Spyglass Improvement - change side from server to both, to enable Accessory slot
+	- Multiworld - Downgraded again, and pinned.
+	- Spyglass Improvement - change side from server to both, to enable Accessory slot.
+	
+	- Config
+		- Options - Unbound/Rebind keybinds to avoid conflict.
+			- Cobblemon Raids - Fixes Cobblemon Summary conflict.
+			- Shoulder Surfing - Fixes Cobblemon selection.
+		- EMI - revert favorite keybind to 'A'.
+		- Subtle Effects - Common rarity particles, disabled.
+		- Numismatic Overhaul - Meant as a social / player economy mod.
+			- Villager Trading coins disabled.
+			- Pillager drop coin disabled.
+	- Nerf
+		- Spawn Notification
+			- Limit notification to Legendary, Mythic, Paradox, and Ultra Beast only.
+			- Coords removed.
+		- Sophisticated Backpack
+			- Limit backpack in inventory to 3, any more grants 3 levels of slowness for each extra backpack.
+			- Backpack - Loot chest disabled, possible to get diamond backpacks from it. It's too common in loot chests.
 
 - Updated
 	- Downgrade
-		- <b>Multiworld</b>: 1.10 `<-` 1.11.
+		- <b>Multiworld</b>: 1.10 `<-` 1.11
 		- <b>Fresh Animations</b>: 10.0.1 `<-` 10.0.2
 	- Supplementaries - Pinned mod version.
 

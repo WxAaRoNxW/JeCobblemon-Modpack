@@ -8,14 +8,20 @@
         }
     },
     "AutoRefillSettings": {
-        "auto_refill_enable_horbar_indicator_icons": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_enable_per_slot_config": {
             "value": false
         }
     },
     "Hotkeys": {
-        "auto_refill_game_toggle_for_slot": {
+        "sort_inventory": {
             "main": {
-                "keys": ""
+                "keys": "BUTTON_3"
             }
         }
     }
