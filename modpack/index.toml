@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b8903b3babc545ae0c5e3ade0dc16a328a086565ef8d8d45a39b79cea64ff45f"
+hash = "164232db9edcb744d481d01479d2ec86d91a588cd60d511bef62429629f00dfd"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1354,6 +1354,16 @@ hash = "dbcd6c1d82ef54574a85b8aa7a74d91cfbeca90830706346d2e1ee5bf2b9c86f"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-battle-extras.pw.toml"
+hash = "1f176f698543285d379d9973424cda346d7e11d3e231804afeed481b38067252"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-box-link.pw.toml"
+hash = "bd797d76ada01e718630cab12be8559c0f920a9c03fd3a8281df4a604f50f68e"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-notification.pw.toml"
 hash = "3df9019d441162eb22b98a142d34497d347a5f5c1e20bc3c17901c8cb842dc77"
 metafile = true
@@ -1409,6 +1419,11 @@ hash = "affdebfc7768f349bd283abd5a5ba5e031e9aac0a2866b6c0584cd953cb1c325"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-parts-refabricated.pw.toml"
+hash = "f58bf84d7628b5bf0ae4c20e09897202b3d6ea06ec75c959558eb1dbd472343f"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokemon-badges.pw.toml"
 hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
 metafile = true
@@ -1431,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-repel.pw.toml"
 hash = "e24423d7ff807f880b36acb374e00e28908182bf15fa916b6a319b9ce804f81f"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-research-tasks.pw.toml"
+hash = "05314f524cede45e48300f0dceea318fcea08ba476ee815f40c2585d7140e7fd"
 metafile = true
 
 [[files]]

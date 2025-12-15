@@ -1,0 +1,13 @@
+name = "Cobblemon Battle Extras"
+filename = "cobblemon-battle-extras-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/5mGOWjtd/cobblemon-battle-extras-1.2.6.jar"
+hash-format = "sha512"
+hash = "c60cdb3726f6be85571bb79b41babe4bdc01534202d1652a75882be841581a2a205d1defda2c9d299f744e04fb73ecf8faeb5a90d9ddfaf759dca1e92fc78d39"
+
+[update]
+[update.modrinth]
+mod-id = "2iY8VFqL"
+version = "5mGOWjtd"

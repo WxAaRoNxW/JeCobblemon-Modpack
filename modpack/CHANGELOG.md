@@ -5,8 +5,13 @@ v1.1.0 Beta - Config and Optimize
 </b></summary>
 
 - Added
+	- Cobblemon
+		- Battle Extras - Very helpful stat info for players who aren't familiar with pokemon.
+		- Box Link - Portable PC.
+		- Parts Refabricated - Added back.
+		- Research Tasks - Sink your time in this mod, over 6k+ tasks.
 	- Sodium Extras - Re-added for fog.
-	
+
 - Removed
 	- Sawmill - Long load times.
 
