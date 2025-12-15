@@ -12,6 +12,9 @@ v1.1.0 Beta - Config and Optimize
 		- Research Tasks - Sink your time in this mod, over 6k+ tasks.
 	- Sodium Extras - Re-added for fog.
 
+- Changed
+	- Recipe
+		- Smartphone - Recipe changed to use Electirizer and Box Link.
 - Removed
 	- Sawmill - Long load times.
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "164232db9edcb744d481d01479d2ec86d91a588cd60d511bef62429629f00dfd"
+hash = "09c849632562414d0f8326cee3bff0b50c4eb1ad525037e2fd822237136169f5"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3521,7 +3521,7 @@ metafile = true
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "876ecd50dff98f86db4c8a724bb15bc1fa3cc76ce0afff9bd0a9c8a287c0df28"
+hash = "949c12467607a7c8b051b1deb2b03a7e95e78c0c04cd88345faae5f37fcb20ab"
 
 [[files]]
 file = "server-icon.pw.toml"

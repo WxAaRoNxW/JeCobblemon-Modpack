@@ -6,14 +6,13 @@ import crafttweaker.api.recipe.MirrorAxis;
 // moved to config
 
 # Cobblemon Parts Refabricated
-/*
 craftingTable.remove(<item:cobblemonpartsrefabricated:cherish_ball_base>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:cherish_ball_lid>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:ancient_origin_ball_lid>);
 craftingTable.remove(<item:cobblemonpartsrefabricated:ancient_origin_ball_base>);
 craftingTable.remove(<item:cobblemon:ancient_origin_ball>);
 craftingTable.remove(<item:cobblemon:cherish_ball>);
-*/
+
 // You're in Grave Danger
 // .withJsonComponent(<componenttype:minecraft:custom_name>, {"extra":[{"italic":false,"text":"Exhausted Key"}]})
 // .withJsonComponent(<componenttype:minecraft:lore>, ["{\"extra\":[{\"italic\":false,\"text\":\"This key's power has been expended.\"}],\"text\":\"\"}"])
@@ -70,9 +69,11 @@ var smartPhoneApricorns = {     //                                  0           
 
 for key, value in smartPhoneApricorns {
     craftingTable.remove(value[0]); // Remove the original recipe of smartphones
+    /*
     craftingTable.addShapedMirrored(key, MirrorAxis.HORIZONTAL, value[0], [
-        [value[1],                          <item:minecraft:diamond>,   <item:minecraft:quartz>],
-        [value[2],                          <item:minecraft:redstone>,  <item:minecraft:amethyst_shard>],
-        [<item:cobblemon:healing_machine>,  <item:cobblemon:pc>,        <item:minecraft:ender_chest>]
+        [value[1],                          <item:minecraft:diamond>,       <item:minecraft:quartz>],
+        [value[2],                          <item:cobblemon:electirizer>,   <item:minecraft:amethyst_shard>],
+        [<item:cobblemon:healing_machine>,  <item:cobblemonboxlink:box_link>,            <item:minecraft:ender_chest>]
     ]);
+    */
 }
