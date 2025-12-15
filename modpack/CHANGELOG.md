@@ -1,5 +1,5 @@
 # Changelog
-<details>
+<details open>
 <summary><b>
 v1.1.0 Beta - Config and Optimize
 </b></summary>
@@ -18,7 +18,7 @@ v1.1.0 Beta - Config and Optimize
 		- Smartphone - Recipe changed to use Electirizer and Box Link.
 	- Multiworld - Downgraded again, and pinned.
 	- Spyglass Improvement - change side from server to both, to enable Accessory slot.
-	
+	- World Edit - Set to optional. Will cause guaranteed crashes after awhile.
 	- Config
 		- Options - Unbound/Rebind keybinds to avoid conflict.
 			- Cobblemon Raids - Fixes Cobblemon Summary conflict.
@@ -87,7 +87,7 @@ v1.0.1 Beta - Side Fixes
 
 </details>
 
-<details open>
+<details>
 <summary><b>
 v1.0 Beta - Beta Update
 </b></summary>

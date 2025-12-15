@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "6dc88081ab9ca1b7f4e5141fa8cdc21aa1f3ad7f7c2144160ae7b7e6955a6527"
+hash = "33abfb8ed37b2690e4c0578611565f0ad085af41e1b7c25df4d337b890c64605"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3352,7 +3352,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+hash = "f6d139597ff0ea3ac5edd5a6dcee3737bbe4ed86f1ebbe69fa8a0f3ede0a2ba1"
 metafile = true
 
 [[files]]
