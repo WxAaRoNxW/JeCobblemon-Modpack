@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5ca4360cd62d9d47acd173368eae0a8004e96c0460fa4478fcf9cb1a5509c20d"
+hash = "7f76d89655f9d81683f2b56813235cabf9fc588516bd2deffbd5b365b30d6af6"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1309,11 +1309,6 @@ metafile = true
 [[files]]
 file = "mods/cobble-card-quest.pw.toml"
 hash = "be3ff7e5573976cfc9aa6c33af7f5f66793056d926083a1874fa0ba871c7d879"
-metafile = true
-
-[[files]]
-file = "mods/cobble-contests.pw.toml"
-hash = "37684723bc8709787bd91f282d389e6e1fd2ed794f492d178293f987586889eb"
 metafile = true
 
 [[files]]

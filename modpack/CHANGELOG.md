@@ -1,4 +1,18 @@
 # Changelog
+
+<details open>
+<summary><b>
+v1.3.0 Beta - Fixes
+</b></summary>
+
+- Removed
+	- Cobble Contest - Causes texture issues.
+
+- Fix
+	- Cobblemon Effect Texture - Caused by Cobble Contest.
+
+</details>
+
 <details>
 <summary><b>
 v1.2.0 Beta - Remove Sitting Plus
@@ -34,7 +48,7 @@ v1.1.1 Beta - Remove Sodium Extras
 	
 </details>
 
-<details open>
+<details>
 <summary><b>
 v1.1.0 Beta - Config and Optimize
 </b></summary>
