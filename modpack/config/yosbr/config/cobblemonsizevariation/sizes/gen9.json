@@ -30,18 +30,18 @@
     {
       "name": "Medium",
       "min": "100",
-      "max": "127",
+      "max": "126",
       "color": "#ffffff"
     },
     {
       "name": "Perfect",
-      "min": "128",
+      "min": "127",
       "max": "128",
       "color": "#ff8000"
     },
     {
       "name": "Medium",
-      "min": "128",
+      "min": "129",
       "max": "155",
       "color": "#ffffff"
     },

@@ -7,14 +7,30 @@ v1.3.0 Beta - Fixes
 
 - Added
 	- RightClickHarvest Supplementaries Compat - Lets you harvest flax with Hoe's right click
-	- Simple Copper Pipes - New way to use those coppers. Amazing alternative to hoppers.
+	- Simple Copper Pipes - New way to use those excess coppers. Amazing alternative to hoppers.
 		- FrozenLib - Dependency.
+
+- Changed
+	- Config
+		- Enforce configs for
+			- Chat Heads - Moved head to Before_Line as temporary measure till they fix the head being in the middle of names.
+			- Chat Patches - Revert manual config of chat log to 1000.
+			- Discord & Chat Images - Set max chat history to 1100, to fix chat bug.
+			- STFU - Set max chat history to 1100, to fix chat bug.
+		- Cobblemon Size Variation - "Medium" size roll lower limit increased by 1 to not overlap with "Perfect".
+		- Open Parties and Claims
+			- Allow PokeBalls to interact with blocks and entities in claimed chunks.
+			- Allow PokeDex in claimed chunks.
 
 - Removed
 	- Cobble Contest - Causes texture issues.
 
 - Fix
 	- Cobblemon Effect Texture - Caused by Cobble Contest.
+	- Cobblemon Size Variation - Fix minor issue with Perfect and Medium overlapping on a specific roll.
+	- Chat - Not letting you type when you've played for a long while.
+	- Pokeballs - Obliterated when thrown on entities/blocks in claimed chunk. Also fixed desync/soft lock when catching in claimed chunk.
+	- PokeDex - Spouting prevention in claimed chunk even though it's usable.
 
 </details>
 
