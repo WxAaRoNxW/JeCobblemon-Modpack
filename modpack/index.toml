@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7f76d89655f9d81683f2b56813235cabf9fc588516bd2deffbd5b365b30d6af6"
+hash = "11f4bfd30fe0ef9bc578fff8c7777fdcd56583dfa95589e6234c768d6261d358"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2027,6 +2027,11 @@ hash = "c61df29db3d8f1ddb434daae6dc8943e26a1e0ee548f3266355cd6490b6e9f3d"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
+metafile = true
+
+[[files]]
 file = "mods/ftb-filter-system.pw.toml"
 hash = "61bd329ce58996ad82f6ba87acb9508589e44a2916789b5ef3fd71d0714f8625"
 metafile = true
@@ -2792,6 +2797,11 @@ hash = "2b43a287a63bd30831540b6c2abcb997b15461845e10fc646c38a389580e03ba"
 metafile = true
 
 [[files]]
+file = "mods/rch-supplementaries-compat.pw.toml"
+hash = "40521b9c3fe6826d21bbe8d774813ba5521b36a68cafeea9f92f376d5d8fe7f9"
+metafile = true
+
+[[files]]
 file = "mods/rct-capturecap.pw.toml"
 hash = "511d47341952119bb2862638d2e2dde52f68ec4aee6cb5a25ba9e531770143fe"
 metafile = true
@@ -2934,6 +2944,11 @@ metafile = true
 [[files]]
 file = "mods/shuttfup.pw.toml"
 hash = "e4891e76bc72c6b2cc0443679b7412506e32bddcb0648539cc7781d3bfb045c7"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
 metafile = true
 
 [[files]]

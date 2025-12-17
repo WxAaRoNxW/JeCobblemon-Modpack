@@ -5,6 +5,11 @@
 v1.3.0 Beta - Fixes
 </b></summary>
 
+- Added
+	- RightClickHarvest Supplementaries Compat - Lets you harvest flax with Hoe's right click
+	- Simple Copper Pipes - New way to use those coppers. Amazing alternative to hoppers.
+		- FrozenLib - Dependency.
+
 - Removed
 	- Cobble Contest - Causes texture issues.
 
