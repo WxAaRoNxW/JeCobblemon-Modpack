@@ -44,6 +44,11 @@ var ing_key_to_exhaust = <item:yigd:grave_key>.transformCustom("add_exhaust", (r
                             );
     return exhausted_key;
 }));
+
+// IV Candy
+<recipetype:cobblemon:cooking_pot>.remove(<tag:item:cobblemon:iv_candies>);
+
+// Return Scroll
 craftingTable.addShapeless("death_scroll", <item:yigd:death_scroll>, [ing_key_to_exhaust, <item:minecraft:ender_pearl>]);
 
 

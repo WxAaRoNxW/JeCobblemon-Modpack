@@ -9,6 +9,7 @@ v1.4.0 Beta - Fixes
 	- Carry On
 		- Blacklist spawners.
 		- Disable Player Pickup. (to fix Player Ladder's ride)
+	- Cobblemon - Disabled IV Candy recipes.
 
 </details>
 
