@@ -2,6 +2,18 @@
 
 <details open>
 <summary><b>
+v1.4.0 Beta - Fixes
+</b></summary>
+
+- Changes
+	- Carry On
+		- Blacklist spawners.
+		- Disable Player Pickup. (to fix Player Ladder's ride)
+
+</details>
+
+<details>
+<summary><b>
 v1.3.0 Beta - Fixes
 </b></summary>
 

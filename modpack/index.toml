@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fdae9be304216bfe5abaa14641debbf3aa137ec8ff7560bf1db06de0b7364d69"
+hash = "534eb508c9264ffce47e240dc64ebca0ecb6f602c0d4d40cedee5d161fb5d26e"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -310,7 +310,7 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/yosbr/config/carryon-common.json"
-hash = "f316be87ffeb3befc70cc1925ca072937c82b6531eb3b170131702f4cafddfdb"
+hash = "9e3e853b8dbe3ee7fba9b3c4f96c28f82f54d29803613f3befb687ed9a1ee24e"
 
 [[files]]
 file = "config/yosbr/config/chat_heads.json5"

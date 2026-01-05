@@ -52,7 +52,7 @@
       "minecraft:oak_trapdoor[half]"
     ],
     "//pickupPlayers": "Whether Players can be picked up. Creative players can't be picked up in Survival Mode",
-    "pickupPlayers": true,
+    "pickupPlayers": false,
     "//pickupUnbreakableBlocks": "Whether players in Survival Mode can pick up unbreakable blocks. Creative players always can.",
     "pickupUnbreakableBlocks": false
   },
@@ -199,7 +199,13 @@
       "clutter:*_wall_bookshelf",
       "lootr:*",
       "storagedrawers:*",
-      "sophisticatedbackpack:*"
+      "sophisticatedbackpack:*",
+
+      "minecraft:monster_spawner",
+      "minecraft:trial_spawner",
+      "legendarymonuments:pokemon_trial_spawner",
+      "cobblemonalphas:alpha_spawner"
+
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
