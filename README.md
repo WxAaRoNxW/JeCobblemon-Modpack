@@ -28,6 +28,6 @@ Video Tutorial (Click to play):
 `$INST_JAVA -jar packwiz-installer-bootstrap.jar --side client "https://raw.githubusercontent.com/WxAaRoNxW/JeCobblemon-Modpack/refs/heads/main/modpack/pack.toml"`
 
 #### Both
-`$INST_JAVA -jar packwiz-installer-bootstrap.jar --side client "https://raw.githubusercontent.com/WxAaRoNxW/JeCobblemon-Modpack/refs/heads/main/modpack/pack.toml"`
+`$INST_JAVA -jar packwiz-installer-bootstrap.jar --side both "https://raw.githubusercontent.com/WxAaRoNxW/JeCobblemon-Modpack/refs/heads/main/modpack/pack.toml"`
 
 Make sure there is no space on the left and right side.
