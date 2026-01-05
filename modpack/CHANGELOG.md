@@ -12,7 +12,12 @@ v1.4.0 Beta - Fixes
 	- Cobblemon - Disabled IV Candy recipes.
 	- Cobblemon Utility+ - Disabled recipes.
 	- Ender Potions - Increase Telporation Potion range to 5000 radius.
-	
+
+	- Cobblemon Battle Extras - Disable Pokemon count as it overlaps with CobbleStats. (CobbleStats has no config options)
+
+- Fix
+	- Disable Pokemon count from Battle Extras to fix overlapping mods.
+
 </details>
 
 <details>

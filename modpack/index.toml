@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1554338fd676ae320292a2df72315cf2478ef2dadb3063652dbabb05709f6e8c"
+hash = "0b2c677d64151e4199f440720ca1303a52516e4e35cf604f0618c07f4f872d99"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -15,6 +15,10 @@ hash = "cd3ef1c10fc61d73616666493b22019dee31ae44186a9b7c7f34c5b8c0ba37db"
 [[files]]
 file = "config/chat_heads.json5"
 hash = "ab19f038c1df7cdf990aa7871b7a8b229bf345ad9ccdb796f74b4e4903c1d0d3"
+
+[[files]]
+file = "config/cobblemon-battle-extras.json"
+hash = "52e6616747bbaa3584904d302d66c3ee6b55546184d8278d3c371a6503811f36"
 
 [[files]]
 file = "config/discord_chat_mod-client.toml"
@@ -343,6 +347,10 @@ hash = "3685540c71d89f8c8d6248f4d6b2e37d7380d31f942e76df8cffd2c1cc60ae66"
 [[files]]
 file = "config/yosbr/config/cobbledollars/bank.json"
 hash = "90b40de7d748813862536916f82164466c3ed8c5f33a255e88650450fcf2fa84"
+
+[[files]]
+file = "config/yosbr/config/cobblemon-battle-extras.json"
+hash = "52e6616747bbaa3584904d302d66c3ee6b55546184d8278d3c371a6503811f36"
 
 [[files]]
 file = "config/yosbr/config/cobblemon/main.json"
