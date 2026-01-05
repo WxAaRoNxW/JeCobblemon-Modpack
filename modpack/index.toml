@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e29e75e39e1d9e4413ebb8f0d362e7730abc873ab073528e3e96cba842d45b1f"
+hash = "788e5028b607c280b630fd5ddffc76d27504b1673d814f537074035034722923"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2375,7 +2375,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "f07781498edbc8b3767ebdce1c64ca9326216a7763282a7d6386242e2d38b6a1"
+hash = "ee21ec94336d5c8b6f10400de4a6d289c71134755c302ea2e98692bbaa3088bf"
 metafile = true
 
 [[files]]

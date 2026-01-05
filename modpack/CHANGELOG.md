@@ -8,6 +8,18 @@ v1.4.0 Beta - Fixes
 - Added
 	- Enderscape - The End world gen overhaul and new items.
 	
+- Updated
+	- Lootr - Pots are now per-player!
+
+	- <details>
+		<summary>
+		Updated Files
+		</summary>
+		
+		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.96.jar `->` lootr-fabric-1.21.1-1.11.36.110.jar
+
+		</details>
+
 - Changes
 	- Carry On
 		- Blacklist spawners.
