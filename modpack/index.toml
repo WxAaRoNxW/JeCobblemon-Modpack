@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3748321e20b6cae93291ac26826d2ef835f3020d204c00c0e0589512578e12ea"
+hash = "1554338fd676ae320292a2df72315cf2478ef2dadb3063652dbabb05709f6e8c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -415,6 +415,10 @@ hash = "add5ed0bc9c7f6acbbef0041e48423f0538c88de9abb92961bb82191cc5f3f89"
 [[files]]
 file = "config/yosbr/config/enchdesc.json"
 hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
+
+[[files]]
+file = "config/yosbr/config/ender_potions.json5"
+hash = "119bae63f69c9877efe2f4c1e7f2251814b5993259ce1b78ecd7f294566a9607"
 
 [[files]]
 file = "config/yosbr/config/enhanced_attack_indicator.json"

@@ -11,7 +11,8 @@ v1.4.0 Beta - Fixes
 		- Disable Player Pickup. (to fix Player Ladder's ride)
 	- Cobblemon - Disabled IV Candy recipes.
 	- Cobblemon Utility+ - Disabled recipes.
-
+	- Ender Potions - Increase Telporation Potion range to 5000 radius.
+	
 </details>
 
 <details>

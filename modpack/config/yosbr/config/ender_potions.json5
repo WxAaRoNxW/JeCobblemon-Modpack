@@ -1,0 +1,6 @@
+{
+	"enablePotionOfWormhole": true,
+	"enablePotionOfTeleportation": true,
+	"teleportRadius": 5000,
+	"teleportMaxHeight": 384
+}
