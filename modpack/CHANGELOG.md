@@ -5,6 +5,9 @@
 v1.4.0 Beta - Fixes
 </b></summary>
 
+- Added
+	- Enderscape - The End world gen overhaul and new items.
+	
 - Changes
 	- Carry On
 		- Blacklist spawners.

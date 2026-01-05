@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "0b2c677d64151e4199f440720ca1303a52516e4e35cf604f0618c07f4f872d99"
+hash = "e29e75e39e1d9e4413ebb8f0d362e7730abc873ab073528e3e96cba842d45b1f"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -427,6 +427,10 @@ hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 [[files]]
 file = "config/yosbr/config/ender_potions.json5"
 hash = "119bae63f69c9877efe2f4c1e7f2251814b5993259ce1b78ecd7f294566a9607"
+
+[[files]]
+file = "config/yosbr/config/enderscape.json5"
+hash = "7a50c978dbc7001742d2080eb683e91620e877958c40741e5769b2d547115900"
 
 [[files]]
 file = "config/yosbr/config/enhanced_attack_indicator.json"
@@ -1872,6 +1876,11 @@ metafile = true
 [[files]]
 file = "mods/ender-potions.pw.toml"
 hash = "b7c7c8020ec6784c85fe56860c6cd3022790e50225964ca29527105f744c8ae3"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "75e68a6ec682498f6dd224d6b93e3ac8ab57fd4db8f7ae89efbf13c46de8c742"
 metafile = true
 
 [[files]]
