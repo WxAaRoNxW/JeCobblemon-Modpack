@@ -32,6 +32,7 @@ v1.4.0 Beta - The End
 
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
+	- Cobblemon Modded Drops - Small additions and unmoderated for Pasture Loot mod.
 
 - Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.

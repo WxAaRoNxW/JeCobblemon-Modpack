@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e4351d481c3e5f0091f1486dfb180c6c732e3fc429c69359f6b62cb3f59cdcd0"
+hash = "e337fe4eba482c2f7b6b0fc38dd147a510f33269383849d9f8d0fd6a5a864acc"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -947,11 +947,6 @@ hash = "b3e3c3b1a5239502140706337c617f6e18063bdc46af1682a2876fe4c29871c1"
 [[files]]
 file = "global_packs/required_data/cobbledgacha-bloos-gacha-machine-addon.pw.toml"
 hash = "9f3530a7a015712483a11d40cb0f4288b7905029cbb5bb9f809440396f190a6b"
-metafile = true
-
-[[files]]
-file = "global_packs/required_data/cobblemon-modded-drops.pw.toml"
-hash = "116f40fff53005aa3c3224761a5a1eaba69ea35c62428ab584f7aad9226a8bc4"
 metafile = true
 
 [[files]]
