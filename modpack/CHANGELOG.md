@@ -2,7 +2,7 @@
 
 <details open>
 <summary><b>
-v1.4.0 Beta - Fixes
+v1.4.0 Beta - The End
 </b></summary>
 
 - Added
@@ -20,7 +20,7 @@ v1.4.0 Beta - Fixes
 
 		</details>
 
-- Changes
+- Changed
 	- Carry On
 		- Blacklist spawners.
 		- Disable Player Pickup. (to fix Player Ladder's ride)
@@ -30,7 +30,10 @@ v1.4.0 Beta - Fixes
 
 	- Cobblemon Battle Extras - Disable Pokemon count as it overlaps with CobbleStats. (CobbleStats has no config options)
 
-- Fix
+- Removed
+	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
+
+- Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.
 
 </details>

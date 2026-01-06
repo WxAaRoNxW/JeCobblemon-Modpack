@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "788e5028b607c280b630fd5ddffc76d27504b1673d814f537074035034722923"
+hash = "e4351d481c3e5f0091f1486dfb180c6c732e3fc429c69359f6b62cb3f59cdcd0"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -943,11 +943,6 @@ hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 [[files]]
 file = "global_packs/required_data/Pale Garden Spawn Spooky.zip"
 hash = "b3e3c3b1a5239502140706337c617f6e18063bdc46af1682a2876fe4c29871c1"
-
-[[files]]
-file = "global_packs/required_data/cobblecuisine-delight.pw.toml"
-hash = "0d5b498ac9053a101bf256f6aad87275c8d02a26c69d054797df756ce1c798f7"
-metafile = true
 
 [[files]]
 file = "global_packs/required_data/cobbledgacha-bloos-gacha-machine-addon.pw.toml"
