@@ -34,10 +34,11 @@ v1.4.0 Beta - The End
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
 	- Cobblemon Modded Drops - Small additions and unmoderated for Pasture Loot mod.
+	- Seamless Loading Screen - Crash with MrCrayFish's Furniture: Refurbished's generators.
 
 - Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.
-
+	- Rendered Generators cause crash: Config Entry not Linked - Seamless Loading Screen has issues with MrCrayFish's Furniture: Refurbished.
 </details>
 
 <details>

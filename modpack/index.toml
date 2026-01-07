@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "21886d886a5dccbdfaa8f5f0bd468eb38108025dd3f1f708e565e27b812456d6"
+hash = "0ec32bfdfe362eb5632897c3fd33000332cb770d62fc9cee5ae92faaaa0c9c22"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2920,11 +2920,6 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "5824e6680c1aedd607c789297961b7e6624ce9b6946db8519c415e95a3c5f40f"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "365fe19fb21fd8b81f3684a5646f9eac1509a7cd459f9a78cdac2a6a86041101"
 metafile = true
 
 [[files]]
