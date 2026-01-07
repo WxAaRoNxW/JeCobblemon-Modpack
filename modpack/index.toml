@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e337fe4eba482c2f7b6b0fc38dd147a510f33269383849d9f8d0fd6a5a864acc"
+hash = "21886d886a5dccbdfaa8f5f0bd468eb38108025dd3f1f708e565e27b812456d6"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -891,6 +891,10 @@ hash = "ab8c588b816c967626b9a8222e0619aa41b7fce3ecdc2b415d7fb184de1ebfc4"
 [[files]]
 file = "config/yosbr/config/utility_belt.json5"
 hash = "f3a129186f8a3fc88569fda40fca1e11f7d8e87e80eb2152b6578a4e8b202f51"
+
+[[files]]
+file = "config/yosbr/config/via_romana.json"
+hash = "2406d81ab839ed3dbc41b302d14fae9ba1310dc170cb5fd2e8c193fa51564260"
 
 [[files]]
 file = "config/yosbr/config/visuality.json"

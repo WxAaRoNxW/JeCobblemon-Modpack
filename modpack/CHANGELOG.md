@@ -29,6 +29,7 @@ v1.4.0 Beta - The End
 	- Ender Potions - Increase Telporation Potion range to 5000 radius.
 
 	- Cobblemon Battle Extras - Disable Pokemon count as it overlaps with CobbleStats. (CobbleStats has no config options)
+	- Via Romana - Enabled "Direct Warp" where 2 signs are the only ones linked.
 
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
