@@ -1,0 +1,13 @@
+name = "Cobblemon EMI"
+filename = "cobbleemi-fabric-1.0.3-for-cobblemon-1.7.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GA4DHzBS/versions/vUWSQ7V8/cobbleemi-fabric-1.0.3-for-cobblemon-1.7.1.jar"
+hash-format = "sha512"
+hash = "a8d5f4d428bf410ce7a73513f58ea8b59fa2cf07428fdeb100474fb641ebd2275e650c72f0ecc263cbddb502dd7e41db907dbf25d69a7a679f617873e8b52ec0"
+
+[update]
+[update.modrinth]
+mod-id = "GA4DHzBS"
+version = "vUWSQ7V8"

@@ -2,10 +2,15 @@
 
 <details open>
 <summary><b>
-v1.4.0 Beta - The End
+v1.4.0 Beta - The End and Cobblemon Update
 </b></summary>
 
 - Added
+	- Cobblemon Add-ons
+		- Cobble Contests - Re-Added.
+		- Cobblemarks+ - New marks and some obtainable.
+		- Cobblemon EMI - Detailed info for each cobblemon's wherabouts.
+		- Cobblemon Pokerus - Pokerus Mark that EV boosts Pokemons inflicted.
 	- Enderscape - The End world gen overhaul and new items.
 	
 - Updated

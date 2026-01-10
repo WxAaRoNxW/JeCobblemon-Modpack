@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "0ec32bfdfe362eb5632897c3fd33000332cb770d62fc9cee5ae92faaaa0c9c22"
+hash = "64d7b30bb451b4d3b1dd17ea1a3fe1e9597736e62133a3177aa1eac5958a3753"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1338,6 +1338,11 @@ hash = "be3ff7e5573976cfc9aa6c33af7f5f66793056d926083a1874fa0ba871c7d879"
 metafile = true
 
 [[files]]
+file = "mods/cobble-contests.pw.toml"
+hash = "81281fd4ddcd455c99a25228ea1e8e68e17bd4adc1a0b6ed11fb47936864eda2"
+metafile = true
+
+[[files]]
 file = "mods/cobbleboom.pw.toml"
 hash = "ac03076d2df676de9ccaa5f02c90a88f371475c22904d11f7c73c7d9c0365a52"
 metafile = true
@@ -1360,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/cobbleloots.pw.toml"
 hash = "489dfed279df684ed0677b5c28a5d0b3122e4324a9a9b85981861e5596a91026"
+metafile = true
+
+[[files]]
+file = "mods/cobblemarks+.pw.toml"
+hash = "f09da8fc594cd1d2a0e3aeebf1d84546a62e84f34a92f6c31b2afb68fb8734bf"
 metafile = true
 
 [[files]]
@@ -1418,6 +1428,11 @@ hash = "af35f4a6055648b3222f627ee383f7322d99efeca9afd0143021da0bfabb7edd"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-emi.pw.toml"
+hash = "25ca1a64d7f30c1bc36810f50867b606042b896466ed7b6ee4bc99101baec3fb"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-extra-data.pw.toml"
 hash = "d6e585e1b5d72a0da90875cc44fdb7d26145c6ec5e2f051277c516744f62f9e0"
 metafile = true
@@ -1460,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "eb51c053d004eafca2bca4cb91f9fedcee372fdf78c89fbbc6914c0fd103fc99"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-pokerus.pw.toml"
+hash = "08fce97cc179665d44a2ba78528d392a3e3711a6ebe8d0f133e7be86d405cb93"
 metafile = true
 
 [[files]]
