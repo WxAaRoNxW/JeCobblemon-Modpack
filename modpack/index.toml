@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f51dc9d4e350ca87f02414074d854b982f869d20d37931c7b7ffdbf5c45c553f"
+hash = "9039fdb9270b113b3dcd991fd82cdb95eb72832daaafdd0ed067c66bfb42761d"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2900,6 +2900,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "3d953ee135d1ae7566461dc8b24f8c5afd3b4917cdeea2344c607f5f198e807a"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
