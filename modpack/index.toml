@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "64d7b30bb451b4d3b1dd17ea1a3fe1e9597736e62133a3177aa1eac5958a3753"
+hash = "fb4eaf01384bd6cea370d9c48dd3668028667a4d69a553676952a05d2c6d4d5c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1483,8 +1483,8 @@ hash = "08fce97cc179665d44a2ba78528d392a3e3711a6ebe8d0f133e7be86d405cb93"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-quests.pw.toml"
-hash = "64a38bd9a629d478a71a7b4c264c9ef1fa48c2f2d098ac15fd8b2981e2bbad86"
+file = "mods/cobblemon-quest-reloaded.pw.toml"
+hash = "7291a7099dfdf414983e0af6383e30ff67e04071c92b9a019ddfdc30f0ec4a92"
 metafile = true
 
 [[files]]

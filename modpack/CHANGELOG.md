@@ -26,6 +26,8 @@ v1.4.0 Beta - The End and Cobblemon Update
 		</details>
 
 - Changed
+	- Cobblemon Quests - Replaced with Cobblemon Quests: Reloaded. More updates and features.
+
 	- Carry On
 		- Blacklist spawners.
 		- Disable Player Pickup. (to fix Player Ladder's ride)
@@ -44,6 +46,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 - Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.
 	- Rendered Generators cause crash: Config Entry not Linked - Seamless Loading Screen has issues with MrCrayFish's Furniture: Refurbished.
+	
 </details>
 
 <details>
