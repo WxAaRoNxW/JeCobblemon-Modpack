@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "fb4eaf01384bd6cea370d9c48dd3668028667a4d69a553676952a05d2c6d4d5c"
+hash = "f51dc9d4e350ca87f02414074d854b982f869d20d37931c7b7ffdbf5c45c553f"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1818,8 +1818,13 @@ hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "73a661fdc75c6f802baf693815752d86cf4772997d66aa8a806058a4847fd4ce"
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "154731a63c95ff1226c482e1f1473e651fd86285f045150dbfa15f01a9ae8d41"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "15a9d73fb8a0e2b4198f5d202c81f7edd4c8306a19bc72d59b3057b28eebf887"
 metafile = true
 
 [[files]]

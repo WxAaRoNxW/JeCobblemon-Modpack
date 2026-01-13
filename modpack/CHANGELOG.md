@@ -12,7 +12,9 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- Cobblemon EMI - Detailed info for each cobblemon's wherabouts.
 		- Cobblemon Pokerus - Pokerus Mark that EV boosts Pokemons inflicted.
 	- Enderscape - The End world gen overhaul and new items.
-	
+	- Easy NPC Core - Replaces Easy NPC Bundle.
+	- Easy NPC Config - Replacs Easy NPC Bundle.
+
 - Updated
 	- Lootr - Pots are now per-player!
 
@@ -22,12 +24,11 @@ v1.4.0 Beta - The End and Cobblemon Update
 		</summary>
 		
 		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.96.jar `->` lootr-fabric-1.21.1-1.11.36.110.jar
+		- <b>Easy NPC</b>: easy_npc_bundle-6.1.2-fabric-1.21.1.jar `->` easy_npc_bundle-fabric-1.21.1-6.6.2.jar
 
 		</details>
 
 - Changed
-	- Cobblemon Quests - Replaced with Cobblemon Quests: Reloaded. More updates and features.
-
 	- Carry On
 		- Blacklist spawners.
 		- Disable Player Pickup. (to fix Player Ladder's ride)
@@ -42,6 +43,9 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
 	- Cobblemon Modded Drops - Small additions and unmoderated for Pasture Loot mod.
 	- Seamless Loading Screen - Crash with MrCrayFish's Furniture: Refurbished's generators.
+	- Replaced
+		- Cobblemon Quests - Replaced with Cobblemon Quests Reloaded.
+		- Easy NPC Bundle - Replaced with Easy NPC Core and Config UI.
 
 - Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.
