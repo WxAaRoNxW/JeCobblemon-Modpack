@@ -17,6 +17,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Resource Pack Override - For forcing players to enable packs.
 
 - Updated
+	- Fabric Loader - v1.18.4
 	- Lootr - Pots are now per-player!
 
 	- <details>
