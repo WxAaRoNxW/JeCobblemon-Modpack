@@ -1,0 +1,73 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "file/SereneSeasons-1.21.zip",
+    "cobbreeding:pasturefix",
+    "minecraft:udpresencefootsteps",
+    "$polymer-resources",
+    "better-snow-coverage:z-fighting",
+    "file/Cobblemon Classic Grass Pack.zip",
+    "file/Better-Leaves.zip",
+    "file/Fast Better Grass.zip",
+    "file/Beautiful Enchanted Books - MC 1.21.1.zip",
+    "cobblemon_knowlogy:pokepedia",
+    "knowlogy:tutorial",
+    "knowlogy:1.0.0_minecraft",
+    "knowlogy:1.21.0_tricky_trials",
+    "knowlogy:1.21.2_bundles_of_bravery",
+    "supplementaries_knowlogy:supplementaries",
+    "cobblemon_knowlogy:cobblemon",
+    "cobblemon_knowlogy:cobblemonpokenav",
+    "cobblemon_knowlogy:cobblemonsmartphone",
+    "tomsstorage_knowlogy:toms_storage",
+    "exposure_knowlogy:exposure_polaroid",
+    "exposure_knowlogy:exposure",
+    "scholar:chiseled_bookshelf_colored_books",
+    "scholar:chiseled_bookshelf_colored_books_lolmcbv_compat",
+    "scholar:colored_books",
+    "file/RCT Trainers+.zip",
+    "cobblemon:regionbiasforms",
+    "cobblemon:gyaradosjump",
+    "cobblemon:uniqueshinyforms",
+    "mega_showdown:gyaradosjumpingmega",
+    "file/Cobblemon Pasture Enhanced.zip",
+    "file/Cobblemon Interface.zip",
+    "file/Cobblemon Interface Modded.zip",
+    "file/-1.21.2 Fresh Moves (With Animated Eyes).zip",
+    "file/FreshAnimations.zip",
+    "file/VanillaBackport_x_FreshAnimations.zip",
+    "file/Icon Xaero\u0027s 1.21.zip",
+    "file/Icon Fresh.zip",
+    "file/E19 Cobblemon Minimap Icons.zip",
+    "file/FTB-Vanilla-Like.zip",
+    "file/CobbleFolk Skin Pack Alaris Version - With Create Villager.zip",
+    "file/WxAaRoNxW's Vanilla Tweaks 1.21.x.zip",
+    "file/Cobblemotion.zip",
+    "moonlight:merged_pack",
+    "mega_showdown:regionbiasmsd",
+    "minecraft-cursor:cursors_extended",
+    "ATM x MSD.zip",
+    "JeCobblemon-GymBadgesRP-v1.0.zip",
+    "easymagic:default_block_models",
+    "easyanvils:default_block_models",
+    "CobbledGacha Resourcepack.zip",
+    "MysticMons x Mega Showdown.zip",
+    "visualworkbench:default_block_models"
+  ],
+  "pack_overrides": {
+    "server": {
+      "force_compatible": true,
+      "fixed_position": false
+    },
+    "1": [
+      "fabric"
+    ],
+    "$$1": {
+      "hidden": true
+    }
+  }
+}

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9039fdb9270b113b3dcd991fd82cdb95eb72832daaafdd0ed067c66bfb42761d"
+hash = "59fccd17918580d67bac1b7fc454742b7b6cfa247c13169b9fea4906efeed844"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -757,6 +757,10 @@ file = "config/yosbr/config/pvptoggle/pvptoggle-config.json"
 hash = "ceac533061035b1bb5f030e5cddaa0c0247e58bb755f7b78497ca3757df0583c"
 
 [[files]]
+file = "config/yosbr/config/resourcepackoverrides.json"
+hash = "d7ecded7a98d9c847926f302434b880adcedb55547ca57939528512e00b85c38"
+
+[[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
 hash = "6f9ae41e172dcaf1bc7c3a29245274bbe0c779c029c6cb1702c3c6a5f4a77726"
 
@@ -938,7 +942,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f76a5fb8303bb450c8bf1bbf7fc955775be6fc028cf4f41e6ba10530ad71eb55"
+hash = "a7d6e4bd6dbe7e7d48cb977529a852ce0254adff6668e728b5334903e36dae32"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
@@ -989,22 +993,22 @@ hash = "937496c8ec368221b1650918eafd2bfc524496d13a16b467722f501623e36b91"
 metafile = true
 
 [[files]]
-file = "global_packs/required_data_and_resources/MysticMons x Mega Showdown (for Cobblemon 1.7+).zip"
+file = "global_packs/required_data_and_resources/MysticMons x Mega Showdown.zip"
 hash = "20851aed1bee8a2320125060e1db81285bb770111fcc6f7779671b229ad2453e"
 
 [[files]]
 file = "global_packs/required_data_and_resources/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "2e8e7637f3ea8bb10b5fac5fb77f51034297a4d60debe3af0ea78021355bf847"
+hash = "14f8c5bc206437898d8847bd1f2435a7f62c7dada395e0e397d26b40da87aba0"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/cobbledgacha-bloos-gacha-machine-addon.pw.toml"
-hash = "04dc7eb81441494ed8ad1a0a0baf697d4f09e5b1d5211f36c2a6b43aef0ce00f"
+hash = "bbf277f44846e59568b1908b3b46b89ce035c6f299c64620f3cdc5bdce10c069"
 metafile = true
 
 [[files]]
 file = "global_packs/required_resources/jecobblemon-gymbadgesrp.pw.toml"
-hash = "790227e45e7fe2991868a2338dd0cb70398a10379b02928feb1238f41c5388da"
+hash = "c3864d8f6a3d32ce3fae564b503aff2868627848ac03448249b2423254e6748a"
 metafile = true
 
 [[files]]
@@ -3481,47 +3485,47 @@ file = "resourcepacks/CobbleFolk Skin Pack Alaris Version - With Create Villager
 hash = "6303b936af48ffc45509539a48635432e69e8b82c0177ac1d570cd6a41517e6c"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r242438_MC1.21.x.zip"
+file = "resourcepacks/WxAaRoNxW's Vanilla Tweaks 1.21.x.zip"
 hash = "4e091ab26f8ac89baec70bf58c510a55c6e803f796b413290f0c959b347b3de0"
 
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
-hash = "ffc82f81008d5a7ea9d3e8d841b3ecdbec19dd2d16a5137cd69342b7ac06748c"
+hash = "3e39133d40b23b1916621202d15a5edf0b0cf82e9952ebbe19f270ae7f15e5f4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
+hash = "0eda7458cde88f5fb695c8a47114452e1a9e16c76e2315275634ed528f262964"
 metafile = true
 
 [[files]]
 file = "resourcepacks/better-quest-ui.pw.toml"
-hash = "5efc19b65d13a646041a70085f791668206cd5830b66fd5b574e29ca27cd942b"
+hash = "283ba3a8997bb5e64109d9349573697089f13246126d211bd7808bb479c01a9e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
-hash = "754accb4ac44c21fa37c0216c6210b8e13e6c98248b3808d44be01c097c196c7"
+hash = "48e74894ee9b66d7e186566334a4dc944c4035ee89ae65f38e74522750e8242b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "f812bf391fc0a1577007d566a1c87c4aa65286f56880b05552f186d28ebced52"
+hash = "2471217376764cd3b5ceea24d1b4fba610a565d75082989b7ab32b51d2869d76"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
-hash = "252ea5b173528625a9e30c39598d80c1a18021f6695c822fece342c88db86ea2"
+hash = "4f3ac998696a1afc244b2089492578a469ed507334ef36d57cd669c9dc6faf23"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-pasture-enhanced.pw.toml"
-hash = "130e5401c3a8800682543a32622dd4025ff62e09cff3275f6c899c3c616d6933"
+hash = "5c7ff340738ab4bae521de301ca5064c596082159789fa2790951e94765372f2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemotion.pw.toml"
-hash = "cab344ed8d93fc8a6050bce1992dd951cd4ab7b72aa73538e925d1cc90cc2cef"
+hash = "ee28038d0a9cb982e861232c6cdddd80fc5e886f356a21a1043688f07dc115b5"
 metafile = true
 
 [[files]]
@@ -3536,12 +3540,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "478b69be7101cc1206261fd5ead8129531a8bd55dfc52e0aa47ca77ef5bb5504"
 metafile = true
 
 [[files]]
 file = "resourcepacks/icon-xaeros-x-freshanimations.pw.toml"
-hash = "cc235af96f1ff7d4a02c4fbed7a01822a0cdc2a306d14a6e93d0983e391358b2"
+hash = "b04e03948f3b7995615cdd2a54b2eca743ba6d96e3e0743dace82d72dd30226b"
 metafile = true
 
 [[files]]
@@ -3551,7 +3555,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "a958030f95997d32191ffd80d656314b86747c46adfb16a3a128389d6a3ff6c9"
+hash = "a3de8e6e975b075aff20417677188952634436f980e794474ff88a2fb2a7ac56"
 metafile = true
 
 [[files]]
@@ -3561,12 +3565,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
+hash = "16d0c774a82503a6f180f9e6ac02f305231086de5a212407a58ecd9b42833979"
 metafile = true
 
 [[files]]
 file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
-hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
+hash = "57a0d741b581a1ed78965ee00491759b38960443a63762fc695a9268a99990d6"
 metafile = true
 
 [[files]]
