@@ -1,13 +1,13 @@
 name = "ExtraQuests [FTB Quests]"
-filename = "ExtraQuests-1.5.15-1.21.1-Fabric.jar"
+filename = "ExtraQuests-1.6.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rMvP0ujv/versions/IXcMnqSR/ExtraQuests-1.5.15-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/rMvP0ujv/versions/UysqY9VS/ExtraQuests-1.6.1-1.21.1-Fabric.jar"
 hash-format = "sha512"
-hash = "c1dfdd184f83b64f1f5ca4c2b26253ccabdd826aaf0587f01de215a84db2ceef6f407dfe1436d3dd44caacb3de017da3523a73a5c6d7d15d881520ad62240461"
+hash = "3127cd4e691786b2ce5444747ac5fdf5c458a3647aa3db4670abb0ed8513ea818050af80d410e719340df0b8eb7c36e267f619ac458ffc245b39c93b44cc5ec1"
 
 [update]
 [update.modrinth]
 mod-id = "rMvP0ujv"
-version = "IXcMnqSR"
+version = "UysqY9VS"

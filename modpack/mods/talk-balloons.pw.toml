@@ -1,18 +1,18 @@
 name = "Talk Balloons"
-filename = "talk_balloons-fabric-1.4.0+1.21.1.jar"
+filename = "talk_balloons-fabric-1.4.1+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/l3tS9WUS/versions/1QFE9fvI/talk_balloons-fabric-1.4.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/l3tS9WUS/versions/TEKKQkyY/talk_balloons-fabric-1.4.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "4adab573ec06d75c4a10f3a4d25670d62dd93debaf55419c27a772d13794eb56f93bf0ab889f8a7e1e30b4ea6bb9376b9b000d4c4fcb96318ef071f9547cb3d6"
+hash = "f9ddac3c036c764084b6d646d70fe8d5687d6c2740541bac6d0865526825da794af691ac4ed55c1fa6a1f4016fe369cd09f5522cdb2e252e051671279e362665"
 
 [update]
 [update.modrinth]
 mod-id = "l3tS9WUS"
-version = "1QFE9fvI"
+version = "TEKKQkyY"
 
 [option]
 optional = true
-default = true
 description = "[QoL] Chat balloons on top of nearby players."
+default = true

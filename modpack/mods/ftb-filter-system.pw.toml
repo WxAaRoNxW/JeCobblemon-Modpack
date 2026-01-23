@@ -1,13 +1,13 @@
 name = "FTB Filter System"
-filename = "ftb-filter-system-fabric-21.1.3.jar"
+filename = "ftb-filter-system-fabric-21.1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "581340c5f37bda03eb1913db1174268ede763a30"
+hash = "1d223a1dd53146bd55f66c164f600011478e5ae2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6899528
+file-id = 7429010
 project-id = 943925

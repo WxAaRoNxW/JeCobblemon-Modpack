@@ -1,13 +1,13 @@
 name = "Farming for Blockheads"
-filename = "farmingforblockheads-fabric-1.21.1-21.1.10.jar"
+filename = "farmingforblockheads-fabric-1.21.1-21.1.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/gAgxk4i2/farmingforblockheads-fabric-1.21.1-21.1.10.jar"
+url = "https://cdn.modrinth.com/data/4WJZr8JU/versions/RcF3SwaR/farmingforblockheads-fabric-1.21.1-21.1.11.jar"
 hash-format = "sha512"
-hash = "0c4f1f42a3f7d007e2341402ae657339078618540864fabbc4c4822b8641e0ab64cf1227e39273e8e91dac468226db8badef5f34d696227255a6700e6c4026bf"
+hash = "d1f2ed5029715c27cf68473fbbf2903750152d5bfd5efe019d34c19009e08c11aee1e2617dafbbf1956d603dcfd4c0d6b72450b55e2f7d69ce1ab2b0bc0a1e6f"
 
 [update]
 [update.modrinth]
 mod-id = "4WJZr8JU"
-version = "gAgxk4i2"
+version = "RcF3SwaR"

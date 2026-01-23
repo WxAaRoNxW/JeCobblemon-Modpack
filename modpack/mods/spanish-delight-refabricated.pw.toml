@@ -1,13 +1,13 @@
 name = "Spanish Delight Refabricated"
-filename = "spanishdelight-1.21.1-1.0.7.jar"
+filename = "spanishdelight-1.21.1-1.0.8a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E2LV3K2B/versions/ERC5pQ1r/spanishdelight-1.21.1-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/E2LV3K2B/versions/XleCs4Bu/spanishdelight-1.21.1-1.0.8a.jar"
 hash-format = "sha512"
-hash = "60ad7de72e927cdc39135d5e244a29049b1245321beeaf7b0fa4ed4ac5dc4397576938a0ff2ab97b58fa2f49ca21c278a81296b6de55f694f989aaf95d3d8ee4"
+hash = "2b3cce5143106c64d64cb256b4511388731c67e7af64c1adea95c69fb143bbdb1040adb34450e11083f8f2b4264bf668e9f7a30b9913a461f53ac88ef78529ff"
 
 [update]
 [update.modrinth]
 mod-id = "E2LV3K2B"
-version = "ERC5pQ1r"
+version = "XleCs4Bu"

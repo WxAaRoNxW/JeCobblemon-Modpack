@@ -1,13 +1,13 @@
 name = "ExtraLib"
-filename = "ExtraLib-2.0.1-1.21.1-Fabric.jar"
+filename = "ExtraLib-2.1.4-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2GNqVOLH/versions/OOF2X09L/ExtraLib-2.0.1-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/2GNqVOLH/versions/c3UY7tUS/ExtraLib-2.1.4-1.21.1-Fabric.jar"
 hash-format = "sha512"
-hash = "5c58aca29956ce2163aa1311c52b3c7a4b7ae8f8246615eb229cd80f8b151e962d101260b94e7e2f1355dedf673eea75750419bddec78c2dca8a340936c3fadf"
+hash = "6d1510ca90595fe3dd66cbf94c2e6ca92d1eafd88011faa324348b6d52e78a1d548040b1a72eada7c61b92b792a8ecfebb4111aa39756eccc1c59d8c370254e1"
 
 [update]
 [update.modrinth]
 mod-id = "2GNqVOLH"
-version = "OOF2X09L"
+version = "c3UY7tUS"

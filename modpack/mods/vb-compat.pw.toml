@@ -1,13 +1,13 @@
 name = "Vanilla Backport Compat"
-filename = "vb-compat-1.4-1.21.1Hotfix.jar"
+filename = "vb-compat-1.6-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jcYHXHwz/versions/D3bMeJh5/vb-compat-1.4-1.21.1Hotfix.jar"
+url = "https://cdn.modrinth.com/data/jcYHXHwz/versions/zML5LdWr/vb-compat-1.6-1.21.1.jar"
 hash-format = "sha512"
-hash = "8baf10f416931cbe6e10f48c0dbcb22d3864cc464150d052d831cdc6604cca558182acd44db8cf59c856b72084e853c7fa3aac1e959ffc591de5a97db56efe04"
+hash = "372f4a038dbb888611a95a4be746a121b5a4baaafc7fe6750ce8d77f1b80644d6fe1d73c1bfdd1dd7e3ec5665e83896e6bffdb68ff1ab7f4d161bfa0616ee81c"
 
 [update]
 [update.modrinth]
 mod-id = "jcYHXHwz"
-version = "D3bMeJh5"
+version = "zML5LdWr"

@@ -3,11 +3,11 @@ filename = "Icon Fresh.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/T7gO1SrK/Icon%20Fresh%201.3.zip"
+url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip"
 hash-format = "sha512"
-hash = "901e11e38cc2b543e7b4fa97b0970050a509fe471baccd17a5fcbc84d2ea6c0a0e555b79875d83f0a4b5ba6bb44655a2ba895f4e9cefd822079a2c661dbf8daf"
+hash = "c21347ffd725f35af449abc26cb1ad35bc61723d8854ff817e74d6d91a3087640997847b35980d97c02b8a64458caeb2795aaf3adf04cfd2994702899fc4398b"
 
 [update]
 [update.modrinth]
 mod-id = "u4iPx1Dr"
-version = "T7gO1SrK"
+version = "dVHdQVak"

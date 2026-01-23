@@ -1,13 +1,13 @@
 name = "Cobblemon: Research Tasks"
-filename = "cobblemonresearchtasks-1.3.jar"
+filename = "cobblemonresearchtasks-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zoP5qy7S/versions/1wxbXbud/cobblemonresearchtasks-1.3.jar"
+url = "https://cdn.modrinth.com/data/zoP5qy7S/versions/Ouq78J5M/cobblemonresearchtasks-1.4.jar"
 hash-format = "sha512"
-hash = "2fe372233630e3024e7d2fb41cc6e566f60914638801346191d31b575fd9f36883c780aa5fb34aaad21fcc64b31786eb680318eebc180455db48a5d597bc453c"
+hash = "8aa6167b168f49136dc3bd1b972bbee0f4557bffc589c713f5738dc65d47f2af89a1d919cfeb9e607e6faf7960c0db4fa77a221f55c7e7b57a77b1310be8280d"
 
 [update]
 [update.modrinth]
 mod-id = "zoP5qy7S"
-version = "1wxbXbud"
+version = "Ouq78J5M"

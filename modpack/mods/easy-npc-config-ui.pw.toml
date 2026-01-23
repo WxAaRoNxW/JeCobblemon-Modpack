@@ -1,13 +1,13 @@
 name = "Easy NPC: Config UI"
-filename = "easy_npc_config_ui-fabric-1.21.1-6.6.2.jar"
+filename = "easy_npc_config_ui-fabric-1.21.1-6.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/SmjA9NhL/easy_npc_config_ui-fabric-1.21.1-6.6.2.jar"
+url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/xwOnwjV3/easy_npc_config_ui-fabric-1.21.1-6.7.1.jar"
 hash-format = "sha512"
-hash = "cf2a0dba41f91d1b8d376034d76d87a8baf2209637ae52c4ceacaf8322362286acbae6d9b7fe233fc30674099c92c799b9cc5ec6c887a756ec48420b9c0d5ef4"
+hash = "f0d5ee77e96d959523bd57a74a5ef71a25a370e9efb796f0944bc2d912f951c8726541514c9bc627763f0e6b7eac3ff521c89efaf29654b929a4517492285123"
 
 [update]
 [update.modrinth]
 mod-id = "uTGjf7vA"
-version = "SmjA9NhL"
+version = "xwOnwjV3"
