@@ -1,5 +1,15 @@
 <details open>
 <summary><b>
+v0.5
+</b></summary>
+
+- Added
+    - Numismatic Coins - All loot that makes sense now contains coins.
+
+</details>
+
+<details>
+<summary><b>
 v0.4
 </b></summary>
 
