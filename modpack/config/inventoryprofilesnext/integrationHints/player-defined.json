@@ -105,5 +105,24 @@
                 "top": -6
             }
         }
+    },
+    "github.jorgaomc.client.screen.LegendaryTrackingScreen": {
+        "ignore": true
+    },
+    "github.jorgaomc.client.screen.KeyItemsScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -22
+            },
+            "SORT": {
+                "top": -22
+            },
+            "SORT_COLUMNS": {
+                "top": -22
+            },
+            "SORT_ROWS": {
+                "top": -22
+            }
+        }
     }
 }

@@ -159,6 +159,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Cobblemon Battle Extras - Disable Pokemon count as it overlaps with CobbleStats. (CobbleStats has no config options)
 	- Via Romana - Enabled "Direct Warp" where 2 signs are the only ones linked.
 	- External Resourcepacks' names are now renamed without version to prevent resourcepacks from disabling when it updates. 
+	- Inventory Profiles Buttons - Removed / Adjusted in Arc Phone.
 
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
