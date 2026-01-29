@@ -1,0 +1,19 @@
+{
+    "modifies": [
+		"mynethersdelight:chests/mnd_bastion_treasure",
+		"nova_structures:pots/pot_wild_ruin",
+		"nova_structures:chests/ruin_loot_master"
+    ],
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:chests/t10"
+                }
+            ]
+        }
+    ]
+}

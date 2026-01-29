@@ -1,0 +1,49 @@
+{
+    "modifies": [
+		"legendarymonuments:chests/regice_chest",
+		"legendarymonuments:chests/regigigas_chest",
+		"legendarymonuments:chests/registeel_chest",
+		"legendarymonuments:chests/turnback_cave_chest",
+		"minecraft:chests/ancient_city",
+		"minecraft:chests/end_city_treasure",
+		"minecraft:chests/illager_mansion/evoker_chest",
+		"minecraft:chests/illager_mansion/kitchen",
+		"minecraft:chests/illager_mansion/map_chest",
+		"minecraft:chests/illager_mansion/pillager_chest",
+		"minecraft:chests/illager_mansion/smithing_room",
+		"minecraft:chests/illager_mansion/witch_chest",
+		"minecraft:chests/illager_mansion/wool",
+		"minecraft:chests/jungle_temple",
+		"minecraft:chests/nether_bridge",
+		"minecraft:chests/stronghold_crossing",
+		"strongholds:vault/reward_ominous",
+		"mns:chests/treasure",
+		"nova_structures:chests/creeping_crypt/crypt_hallway",
+		"nova_structures:chests/creeping_crypt/vault_creeping",
+		"nova_structures:chests/end_castle/lesser_loot",
+		"nova_structures:chests/end_castle/treasure_lighthouse",
+		"nova_structures:chests/end_lighthouse/supply_lighthouse",
+		"nova_structures:chests/illager_hideout_tresure",
+		"nova_structures:chests/nether_keep/fortress_overhaul_loot",
+		"nova_structures:chests/nether_keep/vault_keep_generic",
+		"nova_structures:chests/piglin_outstation/outstation_generic",
+		"nova_structures:chests/shrine/combat_treasure_2",
+		"nova_structures:chests/shrine/shrine_lesser_ominous",
+		"nova_structures:chests/shrine/vault_shrine_ominous",
+		"nova_structures:chests/toxic_lair/toxic_ominous_vault",
+		"nova_structures:chests/trident_trial_monument/ttm_boss_vault_heart",
+		"nova_structures:chests/trident_trial_monument/ttm_boss_vault_trident"
+    ],
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:chests/t6"
+                }
+            ]
+        }
+    ]
+}

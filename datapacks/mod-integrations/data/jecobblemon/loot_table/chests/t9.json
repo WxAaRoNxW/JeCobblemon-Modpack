@@ -1,0 +1,21 @@
+{
+    "type": "loot_table",
+    "pools": [
+        {
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:numismaticoverhaul/4000_8000_t9",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:random_chance",
+                            "chance": 1
+                        }
+                    ]
+                }
+            ],
+            "rolls": 1
+        }
+    ]
+}

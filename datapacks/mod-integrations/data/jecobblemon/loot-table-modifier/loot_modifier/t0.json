@@ -1,0 +1,25 @@
+{
+    "modifies": [
+		"minecraft:chests/desert_pyramid",
+		"nova_structures:pots/pot_badland_miner_outpost",
+		"nova_structures:pots/pot_bunker",
+		"nova_structures:chests/desert_ruins/desert_ruin_house",
+		"nova_structures:pots/pot_jungle_ruin",
+		"nova_structures:pots/pot_toxic",
+		"nova_structures:chests/trident_trial_monument/ttm_common_vault",
+		"nova_structures:pots/pot_witch_villa",
+		"nova_structures:pots/pot_illager_manor"
+    ],
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:chests/t0"
+                }
+            ]
+        }
+    ]
+}

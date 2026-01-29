@@ -1,0 +1,58 @@
+{
+    "modifies": [
+		"betterwitchhuts:chests/hut_0",
+		"ctov:chests/village/village_badlands_house",
+		"ctov:chests/village/village_dark_forest_house",
+		"ctov:chests/village/village_mountain_house",
+		"ctov:chests/village/village_mushroom_house",
+		"ctov:chests/village/village_smith",
+		"ctov:chests/village/village_swamp_house",
+		"enderscape:end_city/vault",
+		"hopo:chests/mineshaft/abandoned_miners_stuff",
+		"hopo:pots/mineshaft/corridor_mineshaft",
+		"hopo:chests/mineshaft/minecart/connector",
+		"mega_showdown:chests/observatory_chest",
+		"mega_showdown:chests/observatory_dome_chest",
+		"minecraft:chests/abandoned_mineshaft",
+		"minecraft:chests/bastion_other",
+		"minecraft:chests/igloo_chest",
+		"minecraft:chests/trial_chambers/corridor",
+		"minecraft:pots/trial_chambers/corridor",
+		"minecraft:chests/trial_chambers/reward_rare",
+		"minecraft:chests/underwater_ruin_big",
+		"minecraft:chests/village/village_butcher",
+		"minecraft:chests/village/village_mason",
+		"minecraft:chests/village/village_shepherd",
+		"minecraft:chests/village/village_tannery",
+		"minecraft:chests/village/village_temple",
+		"nova_structures:chests/badland_miner_outpost",
+		"nova_structures:chests/bunker_altar",
+		"nova_structures:pots/pot_conduit_ruin",
+		"nova_structures:pots/end_castle/pot_end_castle",
+		"nova_structures:chests/firewatch_tower",
+		"nova_structures:chests/illager_hideout_lesser_tresure",
+		"nova_structures:chests/illager_hideout_library",
+		"nova_structures:chests/illager_hideout_trash",
+		"nova_structures:chests/lone_citadel/c_dispenser",
+		"nova_structures:pots/pot_nether_skeleton",
+		"nova_structures:chests/piglin_camp/chest",
+		"nova_structures:pots/pot_piglin",
+		"nova_structures:chests/tavern_quest",
+		"nova_structures:chests/toxic_lair/brewing",
+		"nova_structures:chests/toxic_lair/kitchen",
+		"nova_structures:chests/witch_villa/kitchen",
+		"nova_structures:chests/witch_villa/pumpkin_room"
+    ],
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:chests/t4"
+                }
+            ]
+        }
+    ]
+}

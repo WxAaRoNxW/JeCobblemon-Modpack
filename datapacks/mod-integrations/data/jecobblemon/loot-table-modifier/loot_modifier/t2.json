@@ -1,0 +1,50 @@
+{
+    "modifies": [
+		"ctov:chests/village/village_bakery",
+		"ctov:chests/village/village_farm",
+		"ctov:chests/village/village_forager",
+		"ctov:chests/village/village_library",
+		"enderscape:end_city/chest",
+		"hopo:chests/materials",
+		"hopo:chests/materials",
+		"hopo:chests/small_ruin_cold",
+		"hopo:chests/small_ruin_warm",
+		"hopo:pots/underwater_ruins/small_ruins",
+		"hopo:pots/underwater_ruins/small_ruins",
+		"legendarymonuments:chests/turnback_cave_vault",
+		"strongholds:stronghold_barrrel",
+		"minecraft:chests/trial_chambers/reward_common",
+		"nova_structures:chests/badland_miner_outpost_towers",
+		"nova_structures:chests/creeping_crypt/crypt_grave",
+		"nova_structures:chests/food_supply",
+		"nova_structures:chests/hamlet/hamlet",
+		"nova_structures:chests/lone_citadel/c_banner",
+		"nova_structures:chests/lone_citadel/c_cold_barrel",
+		"nova_structures:chests/lone_citadel/c_forge",
+		"nova_structures:chests/lone_citadel/c_library",
+		"nova_structures:chests/lone_citadel/c_vault",
+		"nova_structures:chests/stray_fort_loot_generic",
+		"nova_structures:pots/pot_tavern",
+		"nova_structures:chests/undead_crypts_grave",
+		"nova_structures:pots/pot_undead_crypt",
+		"nova_structures:chests/village/village_birch_house",
+		"nova_structures:chests/water_supply",
+		"nova_structures:chests/witch_villa/bedroom",
+		"nova_structures:chests/witch_villa/dirty_clothes",
+		"nova_structures:chests/witch_villa/general_storage",
+		"nova_structures:chests/witch_villa/library",
+		"nova_structures:chests/witch_villa/potion_brewing"
+    ],
+    "pools": [
+        {
+            "rolls": 1,
+            "bonus_rolls": 0,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "jecobblemon:chests/t2"
+                }
+            ]
+        }
+    ]
+}
