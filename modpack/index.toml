@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "342b9c203a102ecebb0062f6085b890e8cbc5ad421cc234cd5d94776e8adf66f"
+hash = "9895cb273e337da0ba441282d9232c809978f5bc555c1c867bc1411d4bddce0a"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -949,10 +949,6 @@ file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
 hash = "13698a7e373a11bdb61ef72815daa4e0a22f834e9bf464ec7e466e357ba62ffb"
 
 [[files]]
-file = "global_packs/required_data/Pale Garden Spawn Spooky.zip"
-hash = "b3e3c3b1a5239502140706337c617f6e18063bdc46af1682a2876fe4c29871c1"
-
-[[files]]
 file = "global_packs/required_data/cobbledgacha-bloos-gacha-machine-addon.pw.toml"
 hash = "9f3530a7a015712483a11d40cb0f4288b7905029cbb5bb9f809440396f190a6b"
 metafile = true
@@ -984,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_data/jecobblemon-modintegrations.pw.toml"
-hash = "6394c9a8805a4b7b934f6ed1eb811c6ed842447e29eac7f05859dc135650c385"
+hash = "8154a4f01da9d1b1fad03cbb9fa628be3ef0d34d22db396802f6a5a556930bd9"
 metafile = true
 
 [[files]]

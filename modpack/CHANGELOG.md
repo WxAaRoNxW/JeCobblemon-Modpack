@@ -18,9 +18,11 @@ v1.4.0 Beta - The End and Cobblemon Update
 
 - Updated
 	- Notable updates
+		- JeCobblemon Mod Integrations
+			- Numismatic Coins - Loots now contain it.
+			- Pokemon - Added some pokemon spawns to some modded biomes.
 		- Fabric Loader - v1.18.4
 		- Lootr - Pots are now per-player!
-
 	- <details>
 		<summary>
 		Updated Files
@@ -165,6 +167,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Replaced
 		- Cobblemon Quests - Replaced with Cobblemon Quests Reloaded.
 		- Easy NPC Bundle - Replaced with Easy NPC Core and Config UI.
+	- Pale Garden Spawn Spooky - Replaced with updated JeCobblemon Mod Integration.
 
 - Fixed
 	- Disable Pokemon count from Battle Extras to fix overlapping mods.
