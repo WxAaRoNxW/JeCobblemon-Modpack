@@ -1,0 +1,13 @@
+name = "PolyLib"
+filename = "polylib-2100.0.3-build.159-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lvkzFFj/versions/Ts8XBVaU/polylib-2100.0.3-build.159-fabric.jar"
+hash-format = "sha512"
+hash = "cef69929bca6d9caab0953f2875cbd8d5054b75711991a448b4adeab798a2bd45f97d371b8097e180568d47e6b8d534b60324b2815faec4467d1f29d749702cb"
+
+[update]
+[update.modrinth]
+mod-id = "6lvkzFFj"
+version = "Ts8XBVaU"

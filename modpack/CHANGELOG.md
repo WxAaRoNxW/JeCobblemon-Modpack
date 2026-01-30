@@ -18,6 +18,8 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Loot Table Modifier - Used for custom loot, ie. coins.
 		- MonkeyLib538 - Library.
 	- Resource Pack Override - For forcing players to enable packs.
+	- FTB Backpups 2 - Replaces FastBack.
+		- PolyLib - Library.
 
 - Updated
 	- Notable updates
@@ -194,7 +196,8 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- Easy NPC Bundle - Replaced with Easy NPC Core and Config UI.
 	- Pale Garden Spawn Spooky - Replaced with updated JeCobblemon Mod Integration.
 	- Recipe - Disable Local Void (Planned to use for something).
-
+	- FastBack - Replaced with FTB Backups 2, due to it heavily inflates disk due to git lfs.
+	
 - Fixed
 	- UI
 		- Pokemon count from Battle Extras disabled to fix overlap with CobbleStats.
