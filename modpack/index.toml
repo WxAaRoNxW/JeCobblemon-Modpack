@@ -1467,11 +1467,6 @@ hash = "91fd5470154759d64c3294a951d765153d6c404c1c11171ed0c3c2eff4c4c871"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-parts-refabricated.pw.toml"
-hash = "f58bf84d7628b5bf0ae4c20e09897202b3d6ea06ec75c959558eb1dbd472343f"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-pokemon-badges.pw.toml"
 hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
 metafile = true
@@ -1560,6 +1555,10 @@ metafile = true
 file = "mods/cobblemonextras.pw.toml"
 hash = "7ba736c8ac146c4e0cfaa2a96ff5e4e014b2d3a361b48394cd39a76cf3a515a4"
 metafile = true
+
+[[files]]
+file = "mods/cobblemonpartsrefabricated-1.0.1.jar"
+hash = "0978af4d20c630d2063d0bd3eb1aba6300d44a2cb9a8c164f96e4fa6eb236ac6"
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
