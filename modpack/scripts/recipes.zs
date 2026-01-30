@@ -54,6 +54,8 @@ craftingTable.removeByModid("cobblemon_utility");
 // Return Scroll
 craftingTable.addShapeless("death_scroll", <item:yigd:death_scroll>, [ing_key_to_exhaust, <item:minecraft:ender_pearl>]);
 
+// Waystones
+craftingTable.remove(<item:fwaystones:local_void>);
 
 # Cobblemon Smartphones
 var smartPhoneApricorns = {     //                                  0                                           1                                   2

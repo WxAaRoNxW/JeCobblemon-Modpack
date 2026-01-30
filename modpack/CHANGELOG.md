@@ -168,6 +168,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- Cobblemon Quests - Replaced with Cobblemon Quests Reloaded.
 		- Easy NPC Bundle - Replaced with Easy NPC Core and Config UI.
 	- Pale Garden Spawn Spooky - Replaced with updated JeCobblemon Mod Integration.
+	- Recipe - Disable Local Void (Planned to use for something).
 
 - Fixed
 	- UI
