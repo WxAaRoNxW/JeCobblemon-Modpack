@@ -14,6 +14,8 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Enderscape - The End world gen overhaul and new items.
 	- Easy NPC Core - Replaces Easy NPC Bundle.
 	- Easy NPC Config - Replacs Easy NPC Bundle.
+	- Loot Table Modifier - Used for custom loot, ie. coins.
+		- MonkeyLib538 - Library.
 	- Resource Pack Override - For forcing players to enable packs.
 
 - Updated

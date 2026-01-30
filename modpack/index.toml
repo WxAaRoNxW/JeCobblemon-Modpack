@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c5d9bbf706b9261f3e56dd8cba9f29acec6c63996df5de0b8218d9c2b9487ed6"
+hash = "6f1054a14e8d7bb7a7352eb7d6feb3ea48402401a8a270ddd5320f5fb4fc1ff4"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2396,6 +2396,11 @@ hash = "46e175b662617498d6f250e57f3f66b1b39a40252933b3466e1ff6a7f6209725"
 metafile = true
 
 [[files]]
+file = "mods/loot-table-modifier.pw.toml"
+hash = "62893c96a87b22ee23a58b09a7a70eb5e7ef89b3255b5f23522c8615f0afa49e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "bf69bb8cfedd6464a5ff13767bc0374d9d06bb5e750a50cad3f83c320eecec86"
 metafile = true
@@ -2533,6 +2538,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "fe65387880352ef0b75714bc1b990186ea261693b1e5e9533799746d80c975ef"
+metafile = true
+
+[[files]]
+file = "mods/monkeylib538.pw.toml"
+hash = "5889e6338d74ba1c9e49b1532466d5a55275f3e184ca862f113c3e5647ff0578"
 metafile = true
 
 [[files]]
