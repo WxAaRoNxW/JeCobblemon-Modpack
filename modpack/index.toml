@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "657324895fb81cddd4a6f71430d606ba595e8207523c245e36dc35782ba66509"
+hash = "ce33f6e75754039c4ecb694963eeb317f4613cf0c9613c0443d4d086be90ef0c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4971f097a978c1e1cb8a667a71df77d56acfc30cdbb1a821cee9b8cdc14436c7"
+hash = "48768390d0ed8904ef38ffb095ff612b1f6b28d2a8300b1d3e4c67d02a2caf53"
 metafile = true
 
 [[files]]
@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "8c47bb5ef58dc276dc8c67477515200501d7eaadd4a62c80d706c36d385e81d7"
+hash = "783871597ae3b7b47a142996640982ddedb664efba3c9384a7b2a71e603f388d"
 metafile = true
 
 [[files]]
@@ -3217,7 +3217,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2b5b3507d26679e579d7abf8950f4e8d345f6050f3f923264c3336e9567d3c32"
+hash = "049c8ef911313123973beba0a9331406e642a46997918a568dce3aad26e292b7"
 metafile = true
 
 [[files]]
@@ -3347,7 +3347,7 @@ metafile = true
 
 [[files]]
 file = "mods/vb-compat.pw.toml"
-hash = "6feb4309fbfabc1702ca349f104e47e17b8a6f80704d443f89bd4dc8971f820e"
+hash = "f1d4ab832039042564deb597162b7abf97bf7611c732712ecb528647f90965e4"
 metafile = true
 
 [[files]]
@@ -3598,7 +3598,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e433023fe16a7886d1138306eab432756102ffe1c43ae0ad075eade4d27aea7f"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
 
 [[files]]

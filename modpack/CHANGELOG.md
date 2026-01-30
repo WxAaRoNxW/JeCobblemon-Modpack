@@ -31,6 +31,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 			- Pokemon - Added some pokemon spawns to some modded biomes.
 		- Lootr - Pots are now per-player!
 		- Fabric Loader - v1.18.4
+		- Supplementaries - To fix its crashes.
 	- <details>
 		<summary>
 		Updated Files
@@ -42,6 +43,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>AllTheMons x Mega Showdown</b>: ATM x MSD [3.1.1LM].zip `->` ATM x MSD [3.2.1].zip
 		- <b>Almanac</b>: Almanac-1.21.1-2-fabric-1.5.0.jar `->` Almanac-1.21.1-2-fabric-1.5.2.jar
 		- <b>AmbientSounds</b>: AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar `->` AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar
+		- <b>Amendments</b>: amendments-1.21-2.0.9-fabric.jar `->` amendments-1.21-2.0.15-fabric.jar
 		- <b>Animal Pens</b>: animal_pen-fabric-1.21-1.6.1.jar `->` animal_pen-fabric-1.21-2.2.0.jar
 		- <b>Artifacts</b>: artifacts-fabric-13.1.0.jar `->` artifacts-fabric-13.2.0.jar
 		- <b>Balm</b>: balm-fabric-1.21.1-21.0.55.jar `->` balm-fabric-1.21.1-21.0.56.jar
@@ -74,12 +76,12 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>Cobblemon Unchained</b>: unchained-fabric-1.7.1-1.7.1.jar `->` unchained-fabric-1.7.2-1.7.1.jar
 		- <b>Cobblemon: CobbleStats</b>: cobblestats-fabric-1.7+1.21.1.jar `->` cobblestats-fabric-1.8+1.21.1.jar
 		- <b>Cobblemon: Legendary Monuments</b>: LegendaryMonuments-7.4.jar `->` LegendaryMonuments-7.7.1.jar
-		- <b>Cobblemon: Mega Showdown</b>: mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar `->` mega_showdown-fabric-1.6.3+1.7.2+1.21.1.jar
+		- <b>Cobblemon: Mega Showdown</b>: mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar `->` mega_showdown-fabric-1.6.4+1.7.2+1.21.1.jar
 		- <b>Cobblemon: Research Tasks</b>: cobblemonresearchtasks-1.3.jar `->` cobblemonresearchtasks-1.4.jar
 		- <b>Cobblemon</b>: Cobblemon-fabric-1.7.1+1.21.1.jar `->` Cobblemon-fabric-1.7.2+1.21.1.jar
 		- <b>CobbleMotion v1.2</b>: Cobblemotion.zip `->` CobbleMotion_v1.4.1.zip
 		- <b>Comforts</b>: comforts-fabric-9.0.4+1.21.1.jar `->` comforts-fabric-9.0.5+1.21.1.jar
-		- <b>Complementary Shaders - Reimagined</b>: ComplementaryReimagined_r5.6.1.zip `->` ComplementaryReimagined_r5.7.zip
+		- <b>Complementary Shaders - Reimagined</b>: ComplementaryReimagined_r5.6.1.zip `->` ComplementaryReimagined_r5.7.1.zip
 		- <b>Connectible Chains [Fabric]</b>: connectiblechains-2.5.5+1.21.1.jar `->` connectiblechains-2.5.7+1.21.1.jar
 		- <b>Crafting Tweaks</b>: craftingtweaks-fabric-1.21.1-21.1.6.jar `->` craftingtweaks-fabric-1.21.1-21.1.7.jar
 		- <b>CreativeCore</b>: CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar `->` CreativeCore_FABRIC_v2.13.24_mc1.21.1.jar
@@ -160,6 +162,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>Structure Layout Optimizer</b>: structure_layout_optimizer-fabric-1.0.11.jar `->` structure_layout_optimizer-fabric-1.0.12.jar
 		- <b>Structurify</b>: structurify-fabric-2.0.8b+mc1.21.1.jar `->` structurify-fabric-2.0.17+mc1.21.1.jar
 		- <b>SuperMartijn642's Core Lib</b>: supermartijn642corelib-1.1.18a-fabric-mc1.21.jar `->` supermartijn642corelib-1.1.20-fabric-mc1.21.jar
+		- <b>Supplementaries</b>: supplementaries-1.21-3.4.18-fabric.jar `->` supplementaries-1.21-3.5.19-fabric.jar
 		- <b>Talk Balloons</b>: talk_balloons-fabric-1.4.0+1.21.1.jar `->` talk_balloons-fabric-1.4.1+1.21.1.jar
 		- <b>ToadLib</b>: ToadLib-1.3.7-1.21-1.21.1.jar `->` ToadLib-1.4.2-1.21-1.21.1.jar
 		- <b>Tom's Simple Storage Mod</b>: toms_storage_fabric-1.21-2.2.3.jar `->` toms_storage_fabric-1.21-2.2.4.jar
@@ -207,6 +210,14 @@ v1.4.0 Beta - The End and Cobblemon Update
 			- Removed buttons in Numismatic Overhaul's Shop Screen.
 		- Move Money Bag icon in merchants.
 	- Rendered Generators cause crash: Config Entry not Linked - Seamless Loading Screen has issues with MrCrayFish's Furniture: Refurbished.
+	- Supplementaries - Finally get to update it due to Fabric API not fixing an issue. Means Amendments can now be updated too.
+		- Red Merchant crash.
+		- Faucet crash.
+		- Brewing stand crash.
+		- Other minor fixes.
+
+- Known Issues
+	- Distortion Portal crash - Do not enter the portal, use waystones instead.
 
 </details>
 
