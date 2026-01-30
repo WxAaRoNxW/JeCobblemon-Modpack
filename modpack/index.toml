@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "aa05b0d6bbe1891e8e8c28ca509378dfc542e89e9d0dcc1bb79c0fbb8d66d01f"
+hash = "b4cc800f47a7ed9a5133d7bca69609c170a95440a6da24de377ee500e8a4c87b"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -214,7 +214,7 @@ hash = "418a568b0791fc9dce33bb9a123dfdd95c5fd3b68d31f64691bb9de2d632c2e9"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "11fed5fcbddf737bed05aba0509867dcff793e2f0e64359d7c928156c715fe04"
+hash = "9b2cc43499c5a2e86ee99424e8ea876a33c3ca3e76c7984dabb80d50c4074b1b"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"

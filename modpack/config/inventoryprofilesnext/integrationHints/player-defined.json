@@ -124,5 +124,8 @@
                 "top": -22
             }
         }
+    },
+    "com.glisco.numismaticoverhaul.client.gui.ShopScreen": {
+        "ignore": true
     }
 }
