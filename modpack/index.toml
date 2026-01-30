@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "13efb6b71ecf3c0c46f2d5db66780b2e25a621bd7f5c3183595ec6f186fa6db9"
+hash = "c5d9bbf706b9261f3e56dd8cba9f29acec6c63996df5de0b8218d9c2b9487ed6"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -3412,8 +3412,8 @@ hash = "f6d139597ff0ea3ac5edd5a6dcee3737bbe4ed86f1ebbe69fa8a0f3ede0a2ba1"
 metafile = true
 
 [[files]]
-file = "mods/wraith-waystones-3.3.4+mc1.21.1.jar"
-hash = "f04991546b0cb4d8e5a0a5fe0e103223c82d9ba9d6bc1160ef21276eddbd0710"
+file = "mods/wraith-waystones-3.3.5+mc1.21.1.jar"
+hash = "001169d9bc0a5663c19a575359c2767c020993564d0ad235ab330a4088c60ab8"
 
 [[files]]
 file = "mods/wwoo.pw.toml"

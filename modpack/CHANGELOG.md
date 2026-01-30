@@ -18,14 +18,14 @@ v1.4.0 Beta - The End and Cobblemon Update
 
 - Updated
 	- Notable updates
-		- JeCobblemon Mod Integrations
-			- Numismatic Coins - Loots now contain it.
-			- Pokemon - Added some pokemon spawns to some modded biomes.
-		- Fabric Loader - v1.18.4
-		- Lootr - Pots are now per-player!
 		- Waystones
 			- Now uses Coins.
 			- Natural spawned no longer breakable.
+		- JeCobblemon Mod Integrations
+			- Numismatic Coins - Loots now contain it.
+			- Pokemon - Added some pokemon spawns to some modded biomes.
+		- Lootr - Pots are now per-player!
+		- Fabric Loader - v1.18.4
 	- <details>
 		<summary>
 		Updated Files
