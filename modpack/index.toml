@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ce33f6e75754039c4ecb694963eeb317f4613cf0c9613c0443d4d086be90ef0c"
+hash = "c415bdff5c255ec66fba2d3f694f9a60c8bc5787045a33e9831f3ed55102afac"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2328,11 +2328,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "e226757905a685aa4b5a61f3d060d55a01bbd043aabd18d3e8287dd2d8ebfb7b"
-metafile = true
-
-[[files]]
-file = "mods/last-resort.pw.toml"
-hash = "0fe767e5ea2eaaa73654b233879e6d10cc1b2be3f34a4412d6b0e24bfa1adc93"
 metafile = true
 
 [[files]]
