@@ -2341,6 +2341,11 @@ hash = "e226757905a685aa4b5a61f3d060d55a01bbd043aabd18d3e8287dd2d8ebfb7b"
 metafile = true
 
 [[files]]
+file = "mods/last-resort.pw.toml"
+hash = "0fe767e5ea2eaaa73654b233879e6d10cc1b2be3f34a4412d6b0e24bfa1adc93"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "505f39a662c47efa8b37a5330b5947c3b875e5a16ada11ad56701962894f62a7"
 metafile = true

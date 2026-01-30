@@ -11,6 +11,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- Cobblemarks+ - New marks and some obtainable.
 		- Cobblemon EMI - Detailed info for each cobblemon's wherabouts.
 		- Cobblemon Pokerus - Pokerus Mark that EV boosts Pokemons inflicted.
+		- Last Resort - Mod version compatible with 1.7.
 	- Enderscape - The End world gen overhaul and new items.
 	- Easy NPC Core - Replaces Easy NPC Bundle.
 	- Easy NPC Config - Replacs Easy NPC Bundle.
