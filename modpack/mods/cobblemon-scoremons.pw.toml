@@ -1,13 +1,13 @@
 name = "Cobblemon Scoremons"
-filename = "Scoremons-3.1+Cobblemon-1.7.1.jar"
+filename = "Scoremons-3.1+Cobblemon-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dy0z9ILX/versions/VPlqpVdV/Scoremons-3.1%2BCobblemon-1.7.1.jar"
+url = "https://cdn.modrinth.com/data/dy0z9ILX/versions/sPJkpbB5/Scoremons-3.1%2BCobblemon-1.7.2.jar"
 hash-format = "sha512"
-hash = "ac163998f67d47faf30f45a36dc0f76fc5c1c0ab2d246b13f33d5a0fb1ea1d0aad6e98d584489cec086d1edd0d7b12e3cbe0ad9898c278c59835faece7e0a09a"
+hash = "01fe0d976e5f32fe65b9ccc26e499ba10626e07b48bce28d091632b4111cac3597fb384e85341886ab8e0e3e4f0e54f1f353b0f248d5a497033670bba4d433dd"
 
 [update]
 [update.modrinth]
 mod-id = "dy0z9ILX"
-version = "VPlqpVdV"
+version = "sPJkpbB5"

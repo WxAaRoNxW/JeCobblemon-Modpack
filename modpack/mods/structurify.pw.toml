@@ -1,13 +1,13 @@
 name = "Structurify"
-filename = "structurify-fabric-2.0.14+mc1.21.1.jar"
+filename = "structurify-fabric-2.0.17+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/ebBTR6hU/structurify-fabric-2.0.14%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/vNEI9u7F/structurify-fabric-2.0.17%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "2880a79286d5866f31f8e80374c5d91eac81515d6fc83951ea2b60adf0017fb3cb8801aad0ac70592dbcfc70dda36a456cfe9e2fc26fa229531a5f5cb6691ec4"
+hash = "3741ffa707489f4c8d7bc284c93202f36d0fb5c287949129ce92addf407c762a32ed165f0ba55e12dd7b7c55a264bf484347c40f069a8ce4c81a5a5b01870a8c"
 
 [update]
 [update.modrinth]
 mod-id = "yz7AM2zx"
-version = "ebBTR6hU"
+version = "vNEI9u7F"

@@ -36,11 +36,10 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>[EMF] Entity Model Features</b>: entity_model_features_1.21-fabric-3.0.7.jar `->` entity_model_features_1.21-fabric-3.0.10.jar
 		- <b>[ETF] Entity Texture Features</b>: entity_texture_features_1.21-fabric-7.0.6.jar `->` entity_texture_features_1.21-fabric-7.0.8.jar
 		- <b>AddonsLib</b>: addonslib-fabric-1.21.1-1.11.jar `->` addonslib-fabric-1.21.1-1.12.jar
-		- <b>AllTheMons x Mega Showdown</b>: ATM x MSD.zip `->` ATM x MSD [3.1.2LM].zip
+		- <b>AllTheMons x Mega Showdown</b>: ATM x MSD [3.1.1LM].zip `->` ATM x MSD [3.2.1].zip
 		- <b>Almanac</b>: Almanac-1.21.1-2-fabric-1.5.0.jar `->` Almanac-1.21.1-2-fabric-1.5.2.jar
 		- <b>AmbientSounds</b>: AmbientSounds_FABRIC_v6.3.1_mc1.21.1.jar `->` AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar
-		- <b>Amendments</b>: amendments-1.21-2.0.9-fabric.jar `->` amendments-1.21-2.0.10-fabric.jar
-		- <b>Animal Pens</b>: animal_pen-fabric-1.21-1.6.1.jar `->` animal_pen-fabric-1.21-2.1.0.jar
+		- <b>Animal Pens</b>: animal_pen-fabric-1.21-1.6.1.jar `->` animal_pen-fabric-1.21-2.2.0.jar
 		- <b>Artifacts</b>: artifacts-fabric-13.1.0.jar `->` artifacts-fabric-13.2.0.jar
 		- <b>Balm</b>: balm-fabric-1.21.1-21.0.55.jar `->` balm-fabric-1.21.1-21.0.56.jar
 		- <b>Better Compatibility Checker</b>: BetterCompatibilityChecker-fabric-21.1.0+mc1.21.1.jar `->` better-compatability-checker-fabric-21.1.8.jar
@@ -50,45 +49,61 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>Carry On</b>: carryon-fabric-1.21.1-2.2.2.11.jar `->` carryon-fabric-1.21.1-2.2.4.4.jar
 		- <b>Chat Patches</b>: chatpatches-8.0-alpha.6+1.21.1-fabric.jar `->` chatpatches-8.0-alpha.7+1.21.1-fabric.jar
 		- <b>ChoiceTheorem's Overhauled Village</b>: [fabric]ctov-3.6.0b.jar `->` [Fabric]ctov-3.6.1.jar
+		- <b>Cobbled Armor Trims - Cobblemon</b>: cobbled-armour-trims-2.1.jar `->` cobbled-armour-trims-3.0.jar
+		- <b>Cobblemarks+ (Cobblemon)</b>: cobblemarks+-1.0-release.jar `->` cobblemarks+-1.1-release.jar
 		- <b>Cobblemon additions</b>: cobblemon-additions-4.1.6.jar `->` cobblemon-additions-4.2.1.jar
-		- <b>Cobblemon Battle Extras</b>: cobblemon-battle-extras-1.2.6.jar `->` cobblemon-battle-extras-fabric-1.7.22.jar
+		- <b>Cobblemon Armors</b>: cobblemon-armors-1.6.0+1.7.1.jar `->` cobblemon-armors-1.6.0+1.7.2.jar
+		- <b>Cobblemon Battle Extras</b>: cobblemon-battle-extras-1.2.6.jar `->` cobblemon-battle-extras-fabric-1.7.24.jar
 		- <b>Cobblemon Box Link</b>: cobblemonboxlink-fabric-1.21.1-1.0.5.jar `->` cobblemonboxlink-fabric-1.21.1-1.0.6.jar
 		- <b>Cobblemon cafe</b>: cobble-caf-forms-4.0.2.jar `->` cobble-caf-forms-4.0.3.jar
-		- <b>Cobblemon Counter</b>: counter-fabric-1.7.1-1.8.1.jar `->` counter-fabric-1.7.1-1.9.0.jar
-		- <b>Cobblemon Fight or Flight Reborn</b>: fightorflight-fabric-0.10.2.jar `->` fightorflight-fabric-0.10.5.jar
+		- <b>Cobblemon Counter</b>: counter-fabric-1.7.1-1.8.1.jar `->` counter-fabric-1.7.2-1.9.0.jar
+		- <b>Cobblemon Fight or Flight Reborn</b>: fightorflight-fabric-0.10.2.jar `->` fightorflight-fabric-0.10.6.jar
 		- <b>Cobblemon Integrations</b>: cobblemonintegrations-fabric-1.21.1-1.1.4.jar `->` cobblemonintegrations-fabric-1.21.1-1.1.5.jar
-		- <b>Cobblemon Raid Dens</b>: cobblemonraiddens-fabric-0.5.1+1.21.1.jar `->` cobblemonraiddens-fabric-0.6.4+1.21.1.jar
+		- <b>Cobblemon Pasture Enhanced</b>: Cobblemon Pasture Enhanced v3.zip `->` Cobblemon Pasture Enhanced v4.zip
+		- <b>Cobblemon Pokerus</b>: pokerus-fabric-1.7.1-1.0.0.jar `->` pokerus-fabric-1.7.2-1.1.0.jar
+		- <b>Cobblemon Quests Reloaded</b>: cobblemon_quests-reloaded-[1.21.1]-fabric-1.2.7.jar `->` cobblemon_quests-reloaded-[1.21.1]-fabric-1.3.2.jar
+		- <b>Cobblemon Raid Dens</b>: cobblemonraiddens-fabric-0.5.1+1.21.1.jar `->` cobblemonraiddens-fabric-0.6.5+1.21.1.jar
 		- <b>Cobblemon RIze Tweaks</b>: cobblemonRIzetweaks-1.2.1.jar `->` cobblemonRIzetweaks-1.2.2.jar
-		- <b>Cobblemon Spawn Notification</b>: spawnnotification-fabric-1.7.1-2.2.1.jar `->` spawnnotification-fabric-1.7.1-2.2.2.jar
-		- <b>Cobblemon Tim Core</b>: timcore-fabric-1.7.1-1.27.0.jar `->` timcore-fabric-1.7.1-1.29.1.jar
+		- <b>Cobblemon Scoremons</b>: Scoremons-3.1+Cobblemon-1.7.1.jar `->` Scoremons-3.1+Cobblemon-1.7.2.jar
+		- <b>Cobblemon Spawn Notification</b>: spawnnotification-fabric-1.7.1-2.2.1.jar `->` spawnnotification-fabric-1.7.2-2.3.0.jar
+		- <b>Cobblemon Tim Core</b>: timcore-fabric-1.7.1-1.27.0.jar `->` timcore-fabric-1.7.2-1.31.0.jar
+		- <b>Cobblemon Ultra-Beasts</b>: UltraBeasts-2.2+Cobblemon-1.7.1.jar `->` UltraBeasts-2.2+Cobblemon-1.7.2.jar
+		- <b>Cobblemon Unchained</b>: unchained-fabric-1.7.1-1.7.1.jar `->` unchained-fabric-1.7.2-1.7.1.jar
 		- <b>Cobblemon: CobbleStats</b>: cobblestats-fabric-1.7+1.21.1.jar `->` cobblestats-fabric-1.8+1.21.1.jar
 		- <b>Cobblemon: Legendary Monuments</b>: LegendaryMonuments-7.4.jar `->` LegendaryMonuments-7.7.1.jar
-		- <b>Cobblemon: Mega Showdown</b>: mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar `->` mega_showdown-fabric-1.5.1+1.7.1+1.21.1-hotfix-hotfix.jar
+		- <b>Cobblemon: Mega Showdown</b>: mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar `->` mega_showdown-fabric-1.6.3+1.7.2+1.21.1.jar
 		- <b>Cobblemon: Research Tasks</b>: cobblemonresearchtasks-1.3.jar `->` cobblemonresearchtasks-1.4.jar
+		- <b>Cobblemon</b>: Cobblemon-fabric-1.7.1+1.21.1.jar `->` Cobblemon-fabric-1.7.2+1.21.1.jar
 		- <b>CobbleMotion v1.2</b>: Cobblemotion.zip `->` CobbleMotion_v1.4.1.zip
+		- <b>Comforts</b>: comforts-fabric-9.0.4+1.21.1.jar `->` comforts-fabric-9.0.5+1.21.1.jar
+		- <b>Complementary Shaders - Reimagined</b>: ComplementaryReimagined_r5.6.1.zip `->` ComplementaryReimagined_r5.7.zip
 		- <b>Connectible Chains [Fabric]</b>: connectiblechains-2.5.5+1.21.1.jar `->` connectiblechains-2.5.7+1.21.1.jar
+		- <b>Crafting Tweaks</b>: craftingtweaks-fabric-1.21.1-21.1.6.jar `->` craftingtweaks-fabric-1.21.1-21.1.7.jar
 		- <b>CreativeCore</b>: CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar `->` CreativeCore_FABRIC_v2.13.24_mc1.21.1.jar
 		- <b>Dimension Viewer</b>: dimensionviewer-fabric-1.21-2.1.0.jar `->` dimensionviewer-fabric-1.21-2.2.0.jar
 		- <b>Discord & Chat Images</b>: discord_chat_mod-fabric-quilt-1.21.1-2.6.1.jar `->` discord_chat_mod-fabric-quilt-1.21.1-2.6.2.jar
 		- <b>Dynamic Crosshair</b>: dynamiccrosshair-9.10+1.21.1-fabric.jar `->` dynamiccrosshair-9.11+1.21.1-fabric.jar
-		- <b>Dynamic FPS</b>: dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar `->` dynamic-fps-3.11.3+minecraft-1.21.0-fabric.jar
+		- <b>Dynamic FPS</b>: dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar `->` dynamic-fps-3.11.4+minecraft-1.21.0-fabric.jar
 		- <b>E19 - Cobblemon Minimap Icons</b>: E19 Cobblemon Minimap Icons.zip `->` E19 Cobblemon Minimap Icons.zip
 		- <b>e4mc</b>: e4mc_minecraft-fabric-5.5.1.jar `->` e4mc_minecraft-fabric-5.5.4.jar
-		- <b>Easy NPC</b>: easy_npc_bundle-6.1.2-fabric-1.21.1.jar `->` easy_npc_bundle-fabric-1.21.1-6.6.2.jar
 		- <b>Easy NPC: Config UI</b>: easy_npc_config_ui-fabric-1.21.1-6.6.2.jar `->` easy_npc_config_ui-fabric-1.21.1-6.7.1.jar
 		- <b>Easy NPC: Core</b>: easy_npc-fabric-1.21.1-6.6.2.jar `->` easy_npc-fabric-1.21.1-6.7.1.jar
+		- <b>Easy NPC</b>: easy_npc_bundle-6.1.2-fabric-1.21.1.jar `->` easy_npc_bundle-fabric-1.21.1-6.6.2.jar
 		- <b>EMI Loot</b>: emi_loot-0.7.8+1.21+fabric.jar `->` emi_loot-0.7.9+1.21+fabric.jar
 		- <b>Enderscape</b>: enderscape-fabric-2.0.0+mc1.21.1.jar `->` enderscape-fabric-2.1.0+mc1.21.1.jar
 		- <b>Entity Culling</b>: entityculling-fabric-1.9.4-mc1.21.1.jar `->` entityculling-fabric-1.9.5-mc1.21.1.jar
 		- <b>Exposure</b>: exposure-fabric-1.21.1-1.9.11.jar `->` exposure-fabric-1.21.1-1.9.13.jar
 		- <b>ExtraLib</b>: ExtraLib-2.0.1-1.21.1-Fabric.jar `->` ExtraLib-2.1.4-1.21.1-Fabric.jar
-		- <b>ExtraQuests [FTB Quests]</b>: ExtraQuests-1.5.15-1.21.1-Fabric.jar `->` ExtraQuests-1.6.1-1.21.1-Fabric.jar
+		- <b>ExtraQuests [FTB Quests]</b>: ExtraQuests-1.5.15-1.21.1-Fabric.jar `->` ExtraQuests-1.6.2-1.21.1-Fabric.jar
+		- <b>Fabric API</b>: fabric-api-0.116.7+1.21.1.jar `->` fabric-api-0.116.8+1.21.1.jar
 		- <b>Fabric Language Kotlin</b>: fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar `->` fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar
 		- <b>Farming for Blockheads</b>: farmingforblockheads-fabric-1.21.1-21.1.10.jar `->` farmingforblockheads-fabric-1.21.1-21.1.11.jar
-		- <b>Framework</b>: framework-fabric-1.21.1-0.13.5.jar `->` framework-fabric-1.21.1-0.13.10.jar
+		- <b>FerriteCore</b>: ferritecore-7.0.2-hotfix-fabric.jar `->` ferritecore-7.0.3-fabric.jar
+		- <b>Framework</b>: framework-fabric-1.21.1-0.13.5.jar `->` framework-fabric-1.21.1-0.13.11.jar
 		- <b>Fresh Animations</b>: FreshAnimations.zip `->` FreshAnimations_v1.10.3.zip
 		- <b>FTB Filter System</b>: ftb-filter-system-fabric-21.1.3.jar `->` ftb-filter-system-fabric-21.1.4.jar
 		- <b>FTB Library (Fabric)</b>: ftb-library-fabric-2101.1.27.jar `->` ftb-library-fabric-2101.1.30.jar
+		- <b>FTB Quests (Fabric)</b>: ftb-quests-fabric-2101.1.18.jar `->` ftb-quests-fabric-2101.1.21.jar
 		- <b>FTB Teams (Fabric)</b>: ftb-teams-fabric-2101.1.8.jar `->` ftb-teams-fabric-2101.1.9.jar
 		- <b>FTB XMod Compat</b>: ftb-xmod-compat-fabric-21.1.6.jar `->` ftb-xmod-compat-fabric-21.1.7.jar
 		- <b>Fusion (Connected Textures)</b>: fusion-1.2.11-fabric-mc1.21.jar `->` fusion-1.2.12-fabric-mc1.21.jar
@@ -96,32 +111,35 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>Geckolib</b>: geckolib-fabric-1.21.1-4.8.2.jar `->` geckolib-fabric-1.21.1-4.8.3.jar
 		- <b>iCommon API</b>: iCommon-Fabric-bundle.jar `->` iCommon-Fabric-bundle.jar
 		- <b>Icon Xaero's X FreshAnimations</b>: Icon Fresh.zip `->` Icon Fresh 0.4.zip
-		- <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.6.8+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.9+1.21.1.jar
+		- <b>ImmediatelyFast</b>: ImmediatelyFast-Fabric-1.6.8+1.21.1.jar `->` ImmediatelyFast-Fabric-1.6.10+1.21.1.jar
 		- <b>Improved Village Placement</b>: improved-village-placement-1.1.1.jar `->` improved-village-placement-1.1.1.jar
 		- <b>Inventory Profiles Next</b>: InventoryProfilesNext-fabric-1.21.1-2.2.2.jar `->` InventoryProfilesNext-fabric-1.21.1-2.2.3.jar
 		- <b>InvMove</b>: InvMove-0.9.2+1.21.1-Fabric.jar `->` InvMove-0.9.3+1.21.1-Fabric.jar
-		- <b>Jade 🔍</b>: Jade-1.21.1-Fabric-15.10.2.jar `->` Jade-1.21.1-Fabric-15.10.4.jar
+		- <b>Jade 🔍</b>: Jade-1.21.1-Fabric-15.10.2.jar `->` Jade-1.21.1-Fabric-15.10.5.jar
 		- <b>Just Enough Items</b>: jei-1.21.1-fabric-19.25.1.332.jar `->` jei-1.21.1-fabric-19.27.0.340.jar
 		- <b>Lithostitched</b>: lithostitched-1.5.2-fabric-1.21.1.jar `->` lithostitched-1.5.7-fabric-1.21.1.jar
-		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.96.jar `->` lootr-fabric-1.21.1-1.11.36.111.jar
+		- <b>Lootr</b>: lootr-fabric-1.21-1.10.35.96.jar `->` lootr-fabric-1.21.1-1.11.36.114.jar
 		- <b>Luki's Crazy Chambers</b>: lukis-crazy-chambers-1.0.2.jar `->` lukis-crazy-chambers-1.0.3.jar
 		- <b>Magnum Torch</b>: MagnumTorch-v21.1.0-1.21.1-Fabric.jar `->` MagnumTorch-v21.1.1-1.21.1-Fabric.jar
-		- <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.3h.zip `->` MakeUp-UltraFast-9.4a.zip
+		- <b>MakeUp - Ultra Fast</b>: MakeUp-UltraFast-9.3h.zip `->` MakeUp-UltraFast-9.4b.zip
 		- <b>MES - Moog's End Structures</b>: MoogsEndStructures-1.21-2.0.0.jar `->` MoogsEndStructures-1.21-2.0.1.jar
 		- <b>Modern Networking</b>: modernnetworking-fabric-1.2.5+1.21.1.jar `->` modernnetworking-fabric-1.2.8+1.21.1.jar
-		- <b>Moonlight Lib</b>: moonlight-1.21-2.28.1-fabric.jar `->` moonlight-1.21-2.29.14-fabric.jar
+		- <b>Moonlight Lib</b>: moonlight-1.21-2.28.1-fabric.jar `->` moonlight-1.21-2.29.16-fabric.jar
 		- <b>More Cobblemon Move Animations</b>: more-cobblemon-move-anims-1.3.af.jar `->` extra-move-anims-cobblemon-1.7v1.0.2.jar
 		- <b>MrCrayfish's Furniture Mod: Refurbished</b>: refurbished_furniture-fabric-1.21.1-1.0.20.jar `->` refurbished_furniture-fabric-1.21.1-1.0.22.jar
-		- <b>Multiworld</b>: Multiworld-Fabric-bundle.jar `->` Multiworld-Fabric-bundle.jar
-		- <b>Particle Core</b>: particle_core-0.2.6+1.21.jar `->` particle_core-0.3.1+1.21.jar
+		- <b>MSS - Moog's Soaring Structures</b>: MoogsSoaringStructures-1.21-2.0.0.jar `->` MoogsSoaringStructures-1.21-2.0.2.jar
+		- <b>Multiworld</b>: Multiworld-Fabric-bundle.jar 1.10 `->` Multiworld-Fabric-bundle.jar 1.13.1
+		- <b>MVS - Moog's Voyager Structures</b>: MoogsVoyagerStructures-1.21-5.0.3.jar `->` MoogsVoyagerStructures-1.21-5.0.5.jar
+		- <b>Particle Core</b>: particle_core-0.2.6+1.21.jar `->` particle_core-0.3.2+1.21.jar
 		- <b>Particle Rain</b>: particlerain-4.0.0-beta.3+1.21.1-fabric.jar `->` particlerain-4.0.0-beta.5+1.21.1-fabric.jar
 		- <b>Pineapple Delight</b>: pineapple_delight-1.1.1-1.21.1-fabric.jar `->` pineapple_delight-1.1.2-1.21.1-fabric.jar
 		- <b>Ping Wheel</b>: Ping-Wheel-1.12.0-fabric-1.21.1.jar `->` Ping-Wheel-1.12.1-fabric-1.21.1.jar
 		- <b>playerAnimator</b>: player-animation-lib-fabric-2.0.1+1.21.1.jar `->` player-animation-lib-fabric-2.0.4+1.21.1.jar
 		- <b>Polymer</b>: polymer-bundled-0.9.18+1.21.1.jar `->` polymer-bundled-0.9.19+1.21.1.jar
-		- <b>Polytone</b>: polytone-1.21-3.6.0-fabric.jar `->` polytone-1.21-3.6.2-fabric.jar
+		- <b>Polytone</b>: polytone-1.21-3.6.0-fabric.jar `->` polytone-1.21-3.6.4-fabric.jar
 		- <b>Puzzle</b>: puzzle-fabric-2.2.1+1.21.1.jar `->` puzzle-fabric-2.3.0+1.21.1.jar
 		- <b>Radical Cobblemon Trainers API</b>: rctapi-fabric-1.21.1-0.14.4-beta.jar `->` rctapi-fabric-1.21.1-0.14.6-beta.jar
+		- <b>Radical Cobblemon Trainers</b>: rctmod-fabric-1.21.1-0.17.4-beta.jar `->` rctmod-fabric-1.21.1-0.17.6-beta.jar
 		- <b>Raise Sound Limit Simplified</b>: rsls-1.1.13.jar `->` rsls-1.1.14.jar
 		- <b>Regions Unexplored</b>: regions_unexplored-fabric-1.21.1-0.5.6.1.jar `->` regions_unexplored-fabric-1.21.1-0.5.9.jar
 		- <b>Restore Chat Links</b>: RestoreChatLinks-0.2.5+1.20.4.jar `->` RestoreChatLinks-0.2.4+1.20.4.jar
@@ -137,15 +155,16 @@ v1.4.0 Beta - The End and Cobblemon Update
 		- <b>Sophisticated Storage (Unofficial Fabric port)</b>: sophisticatedstorage-1.21.1-1.3.7.8.135.jar `->` sophisticatedstorage-1.21.1-1.3.7.9.139.jar
 		- <b>Spanish Delight Refabricated</b>: spanishdelight-1.21.1-1.0.7.jar `->` spanishdelight-1.21.1-1.0.8a.jar
 		- <b>Structure Layout Optimizer</b>: structure_layout_optimizer-fabric-1.0.11.jar `->` structure_layout_optimizer-fabric-1.0.12.jar
-		- <b>Structurify</b>: structurify-fabric-2.0.8b+mc1.21.1.jar `->` structurify-fabric-2.0.14+mc1.21.1.jar
-		- <b>SuperMartijn642's Core Lib</b>: supermartijn642corelib-1.1.18a-fabric-mc1.21.jar `->` supermartijn642corelib-1.1.19-fabric-mc1.21.jar
+		- <b>Structurify</b>: structurify-fabric-2.0.8b+mc1.21.1.jar `->` structurify-fabric-2.0.17+mc1.21.1.jar
+		- <b>SuperMartijn642's Core Lib</b>: supermartijn642corelib-1.1.18a-fabric-mc1.21.jar `->` supermartijn642corelib-1.1.20-fabric-mc1.21.jar
 		- <b>Talk Balloons</b>: talk_balloons-fabric-1.4.0+1.21.1.jar `->` talk_balloons-fabric-1.4.1+1.21.1.jar
 		- <b>ToadLib</b>: ToadLib-1.3.7-1.21-1.21.1.jar `->` ToadLib-1.4.2-1.21-1.21.1.jar
 		- <b>Tom's Simple Storage Mod</b>: toms_storage_fabric-1.21-2.2.3.jar `->` toms_storage_fabric-1.21-2.2.4.jar
 		- <b>Towers of the Wild Modded</b>: totw_modded-fabric-1.21-1.0.8.jar `->` totw_modded-fabric-1.21-1.0.9.jar
 		- <b>Trade Cycling</b>: trade-cycling-fabric-1.21.1-1.0.18.jar `->` trade-cycling-fabric-1.21.1-1.0.20.jar
-		- <b>Vanilla Backport Compat</b>: vb-compat-1.4-1.21.1Hotfix.jar `->` vb-compat-1.6-1.21.1.jar
+		- <b>Vanilla Backport Compat</b>: vb-compat-1.4-1.21.1Hotfix.jar `->` vb-compat-1.7-1.21.1.jar
 		- <b>Via Romana: Infrastructure-Driven Fast Travel</b>: via_romana-2.2.1+1.21.1-fabric.jar `->` via_romana-2.2.2+1.21.1-fabric.jar
+		- <b>WATERMeDIA: Youtube Plugin</b>: watermedia_youtube_plugin-2.1.1.jar `->` watermedia_youtube_plugin-2.1.2.jar
 		- <b>Xaero's Minimap</b>: Xaeros_Minimap_25.2.10_Fabric_1.21.jar `->` xaerominimap-fabric-1.21.1-25.3.5.jar
 		- <b>Xaero's World Map</b>: XaerosWorldMap_1.39.12_Fabric_1.21.jar `->` xaeroworldmap-fabric-1.21.1-1.40.6.jar
 		- <b>XaeroPlus</b>: XaeroPlus-2.29.1+fabric-1.21.1-WM1.39.12-MM25.2.10.jar `->` XaeroPlus-2.30.4+fabric-1.21.1-WM1.40.6-MM25.3.5.jar
