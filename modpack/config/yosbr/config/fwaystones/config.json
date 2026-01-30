@@ -1,0 +1,16 @@
+{
+	"worldgen": {
+		"generate_in_villages": true,
+		"unbreakable_generated_waystones": true,
+		"min_per_village": 1,
+		"max_per_village": 1,
+		"village_waystone_weight": 2
+	},
+	"teleportation_cost": {
+		"cost_type": "NUMISMATIC",
+		"cost_item": "numismatic-overhaul:bronze_coin",
+		"base_cost": 100,
+		"cost_per_block_distance": 0.5,
+		"cost_multiplier_between_dimensions": 2.0
+	}
+}

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "28800c9147d0d7c9f1cd6ec65d094d1c477d96cbda82205b79aa8460261120ea"
+hash = "13efb6b71ecf3c0c46f2d5db66780b2e25a621bd7f5c3183595ec6f186fa6db9"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -599,6 +599,10 @@ hash = "d73381327d1280ce4976c9f23a37ecbdd8dcbd45daaa662704d36d0e393ddd28"
 [[files]]
 file = "config/yosbr/config/ftbquests/quests/reward_tables/7E1FAA9529D39844.snbt"
 hash = "7c243370da36b9fa4395a9a9604ccd9ed04d57b2f87180d2a98d92f649625d9e"
+
+[[files]]
+file = "config/yosbr/config/fwaystones/config.json"
+hash = "43f483503039818ac867230ac21b35b4015c79a48f19945c72b97ce645b1ad02"
 
 [[files]]
 file = "config/yosbr/config/global_data_and_resourcepacks.toml"

@@ -23,6 +23,9 @@ v1.4.0 Beta - The End and Cobblemon Update
 			- Pokemon - Added some pokemon spawns to some modded biomes.
 		- Fabric Loader - v1.18.4
 		- Lootr - Pots are now per-player!
+		- Waystones
+			- Now uses Coins.
+			- Natural spawned no longer breakable.
 	- <details>
 		<summary>
 		Updated Files
@@ -158,7 +161,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 
 	- Cobblemon Battle Extras - Disable Pokemon count as it overlaps with CobbleStats. (CobbleStats has no config options)
 	- Via Romana - Enabled "Direct Warp" where 2 signs are the only ones linked.
-	- External Resourcepacks' names are now renamed without version to prevent resourcepacks from disabling when it updates. 
+	- External Resourcepacks' names are now renamed without version to prevent resourcepacks from disabling when it updates.
 
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
@@ -178,6 +181,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 			- Removed buttons in Numismatic Overhaul's Shop Screen.
 		- Move Money Bag icon in merchants.
 	- Rendered Generators cause crash: Config Entry not Linked - Seamless Loading Screen has issues with MrCrayFish's Furniture: Refurbished.
+
 </details>
 
 <details>
