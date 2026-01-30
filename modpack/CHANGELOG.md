@@ -190,6 +190,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 - Removed
 	- CobbleCuisine Delight - Unimplemented Mod/Datapack that was unnoticed, removed due to incompatibility and in expectation for future main mod's compatibility with cooking pot.
 	- Cobblemon Modded Drops - Small additions and unmoderated for Pasture Loot mod.
+	- Cobblemon Box Link - Not necessary since Arc Phone exists.
 	- Seamless Loading Screen - Crash with MrCrayFish's Furniture: Refurbished's generators.
 	- Replaced
 		- Cobblemon Quests - Replaced with Cobblemon Quests Reloaded.

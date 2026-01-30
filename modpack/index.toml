@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "717d9992d4d1b2859b4038a6eaf14fd97f61c16132bfe8dabb486001e3ee4062"
+hash = "657324895fb81cddd4a6f71430d606ba595e8207523c245e36dc35782ba66509"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1402,11 +1402,6 @@ hash = "82c52f07ded0f21df2663b2d1f045e4b89e7c3cf02ab4d2bd90e08989a3aa8ba"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-box-link.pw.toml"
-hash = "32b6ea31b754b523f8c46822279d6672e3577e56b30aa00b2651102797249feb"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-capture-notification.pw.toml"
 hash = "3df9019d441162eb22b98a142d34497d347a5f5c1e20bc3c17901c8cb842dc77"
 metafile = true
@@ -1514,11 +1509,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-size-variations.pw.toml"
 hash = "faa511b494c47bd9ade4ac0132a5123c0779991d70e47b17e2eacaa4f79b6c19"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-smartphone.pw.toml"
-hash = "fa11027f3f1ffe00a9e55a1f4087d3faa6cead371e098c6b060e2be06cfeddff"
 metafile = true
 
 [[files]]
