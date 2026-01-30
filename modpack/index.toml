@@ -710,7 +710,7 @@ hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
 [[files]]
 file = "config/yosbr/config/numismatic-overhaul.json5"
-hash = "5287322aba9968c2783e7a15b6f9b4d587bbd8d896b301f2248ab60d4c9127b6"
+hash = "c0819bd00348bab1cb6fb801a1600d74f9d69af71ed374895f8623660fb45686"
 
 [[files]]
 file = "config/yosbr/config/obscuria/loot_journal-client.toml"
