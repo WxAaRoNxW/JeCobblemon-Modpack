@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b4cc800f47a7ed9a5133d7bca69609c170a95440a6da24de377ee500e8a4c87b"
+hash = "13ac27e123113cf0c365bd02ae3fd7d1963404e76a97d7a95a68289d18fe536d"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -710,7 +710,7 @@ hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
 [[files]]
 file = "config/yosbr/config/numismatic-overhaul.json5"
-hash = "c715f058388984a7929302e963bfe82cb537170d75eb207863aa3bb26d14f8fa"
+hash = "5287322aba9968c2783e7a15b6f9b4d587bbd8d896b301f2248ab60d4c9127b6"
 
 [[files]]
 file = "config/yosbr/config/obscuria/loot_journal-client.toml"

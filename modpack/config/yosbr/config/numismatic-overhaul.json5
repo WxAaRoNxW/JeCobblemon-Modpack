@@ -10,7 +10,7 @@
 		"survivalY": 0,
 		"creativeX": 0,
 		"creativeY": 0,
-		"merchantX": 0,
+		"merchantX": -32,
 		"merchantY": 0
 	},
 	"lootOptions": {
