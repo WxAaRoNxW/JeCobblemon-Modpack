@@ -762,7 +762,7 @@ hash = "ceac533061035b1bb5f030e5cddaa0c0247e58bb755f7b78497ca3757df0583c"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "be621757f9b43470e4f3b590dd92ba79377b01490589302f7d36cd78e520df2a"
+hash = "7cafb2235bee3d3c786cf19cf14b67a52c1a605fe2a1b77ff362a2cc0761a3a8"
 
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
@@ -946,7 +946,7 @@ hash = "7e12ec36c550c3a25da8f84966739f109c565526d2cbe442186f20272005063d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a7d6e4bd6dbe7e7d48cb977529a852ce0254adff6668e728b5334903e36dae32"
+hash = "a284b7f6f46e893d7f01c64e618cb00377b1ffa7b3c595fece8669345bd502f3"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.3.zip.txt"
