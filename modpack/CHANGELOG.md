@@ -2,7 +2,7 @@
 
 <details open>
 <summary><b>
-v1.4.0 Beta - The End and Cobblemon Update
+v2.0.0 Beta - Cobblemon, The End and Coins Update
 </b></summary>
 
 - Added

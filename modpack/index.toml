@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "95de947ad686502764fbc5f7fc90e1a92bcfd7e74cf0148eb80059d861170d9c"
+hash = "aeabcf7dcc2fc619e304c5001f370805adf34c40858050594966ef2398278d02"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -138,7 +138,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b1c26be123d1e379a6aa064b0a2ad658c1bc2197bf49a4756684f492969fb3b3"
+hash = "1e7c3e6297c108dbba06550b32a4e5038d9bc1f051be6dbe9130b8075a0824f0"
 
 [[files]]
 file = "config/fancymenu/slideshows/cm_showcase/images/Animations.png"
