@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "c415bdff5c255ec66fba2d3f694f9a60c8bc5787045a33e9831f3ed55102afac"
+hash = "47eb3179f25f489701c4d1e5af0a730bf1939029317d6d326a04129bf55eb9ac"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -2681,9 +2681,8 @@ hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
 metafile = true
 
 [[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
-metafile = true
+file = "mods/numismatic-overhaul-0.3.5+1.21.jar"
+hash = "d1d950ded68e445baa4ea944b4c33332e3f255f147c780c1630cae66e1d46ec6"
 
 [[files]]
 file = "mods/observable.pw.toml"
