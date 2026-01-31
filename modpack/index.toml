@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "47eb3179f25f489701c4d1e5af0a730bf1939029317d6d326a04129bf55eb9ac"
+hash = "95de947ad686502764fbc5f7fc90e1a92bcfd7e74cf0148eb80059d861170d9c"
 
 [[files]]
 file = "TrashSlotSaveState.json"
@@ -1119,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "043b2b94a775368afe4db8c66f5414dbabf55bb7630b4b8859d33ccb32d1d23a"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "e42b781fb04b2a548338222885c408de0291c5b55ebc07c161caaca53a53df65"
 metafile = true
 
 [[files]]
@@ -3407,11 +3412,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "e7a630e261c40242ea52b16c9b120b8c9d4b0d0339bd6f097f63828e21dd082c"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "f6d139597ff0ea3ac5edd5a6dcee3737bbe4ed86f1ebbe69fa8a0f3ede0a2ba1"
 metafile = true
 
 [[files]]

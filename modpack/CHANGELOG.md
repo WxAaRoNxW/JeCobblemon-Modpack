@@ -19,6 +19,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Resource Pack Override - For forcing players to enable packs.
 	- FTB Backpups 2 - Replaces FastBack.
 		- PolyLib - Library.
+	- Axiom - Replaces World Edit. (optional, default to false)
 
 - Updated
 	- Notable updates
@@ -201,6 +202,7 @@ v1.4.0 Beta - The End and Cobblemon Update
 	- Pale Garden Spawn Spooky - Replaced with updated JeCobblemon Mod Integration.
 	- Recipe - Disable Local Void (Planned to use for something).
 	- FastBack - Replaced with FTB Backups 2, due to it heavily inflates disk due to git lfs.
+	- World Edit - Replaced with Axiom.
 	
 - Fixed
 	- UI
